@@ -199,7 +199,8 @@
    "abstract": [
     "Disfluencies such as fillers and false starts provide a window into the cognitive processes underlying speech planning. One of the reasons for the occurrence of disfluencies is increased processing load due to the size or complexity of an upcoming utterance. Previous research indicates that disfluencies correlate with an above-average size of following utterances. This paper tests this hypothesis by comparing the size of inter-pausal units that follow a disfluency with those that do not, based on a sample of 51 diverse languages from a language documentation corpus. Results suggest that the presence of disfluencies has little to no effect on the size or complexity of upcoming utterances, be they measured in phonological or morphological terms. A discussion of potential alternative explanations is offered.\n"
    ],
-   "doi": "10.21437/DiSS.2023-3"
+   "doi": "10.21437/DiSS.2023-3",
+   "erratum": "Please see <a class=\"w3-text-red\" href=\"https://zenodo.org/record/8415351\">https://zenodo.org/record/8415351</a>"
   },
   "duran23_diss": {
    "authors": [
