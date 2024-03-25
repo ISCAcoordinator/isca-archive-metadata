@@ -1,0 +1,482 @@
+{
+ "series": "LW",
+ "title": "Laughter Workshop 2018",
+ "location": "Paris, France",
+ "startDate": "27/09/2018",
+ "endDate": "28/09/2018",
+ "URL": "http://chronos.isir.upmc.fr/~pelachaud/site/LaughterWorkshop18.html",
+ "chair": "Chairs: Jonathan Ginzburg and Catherine Pelachaud",
+ "intro": "preface.pdf",
+ "nopagenumbers": "",
+ "nodoi": "",
+ "conf": "LW",
+ "name": "lw_2018",
+ "year": "2018",
+ "SIG": "",
+ "title1": "Laughter Workshop 2018",
+ "booklet": "preface.pdf",
+ "date": "27-28 September 2018",
+ "month": 9,
+ "day": 27,
+ "now": 1711383683590890,
+ "papers": {
+  "scott18_lw": {
+   "authors": [
+    [
+     "Sophie",
+     "Scott"
+    ]
+   ],
+   "title": "Voluntary and involuntary mechanisms in laughter production and perception",
+   "original": "invited01",
+   "order": 1,
+   "page_count": 1,
+   "abstract": [
+    "In this talk I will compare and contrast the vocalisation mechanisms that (hypothetically) underlie different kinds of laughter production. I will extend this think about a continuum between spontaneous and more communicative laughter, and address some recent findings on developmental conditions where affected individuals find that these distinctions can be harder to make.\n"
+   ],
+   "p1": "1",
+   "pn": "1"
+  },
+  "mckeown18_lw": {
+   "authors": [
+    [
+     "Gary",
+     "McKeown"
+    ]
+   ],
+   "title": "The underdetermined nature of laughter",
+   "original": "invited02",
+   "order": 13,
+   "page_count": 1,
+   "abstract": [
+    "Laughter is much more than a social signal response to a humorous event. It is a crucial element of social interaction and serves multiple functions. In this talk I will argue that laughter at its core is a social bonding signal. However, it is a special social signal as it achieves many of its functions by being an ambiguous with respect to the content of the communication. It is underdetermined in the language of linguistic pragmatics, and its interpretation depends on the communicative context in which it appears.\n"
+   ],
+   "p1": "25",
+   "pn": "25"
+  },
+  "ogden18_lw": {
+   "authors": [
+    [
+     "Richard",
+     "Ogden"
+    ]
+   ],
+   "title": "The actions of peripheral linguistic objects: Clicks",
+   "original": "01",
+   "order": 2,
+   "page_count": 4,
+   "abstract": [
+    "This paper is a conversation analytic study of the linguistic, phonetic, sequential and multimodal resources participants in conversation have to make sense of clicks in spoken English.\n"
+   ],
+   "p1": "2",
+   "pn": "5"
+  },
+  "canalgarcia18_lw": {
+   "authors": [
+    [
+     "Anna",
+     "Canal Garcia"
+    ],
+    [
+     "Marine",
+     "Collery"
+    ],
+    [
+     "Velisarios",
+     "Miloulis"
+    ],
+    [
+     "Zofia",
+     "Malisz"
+    ]
+   ],
+   "title": "Classification and clustering of clicks, breathing and silences within speech pauses",
+   "original": "02",
+   "order": 3,
+   "page_count": 4,
+   "abstract": [
+    "This work reports on automatic classification of conversational events that occur in pause intervals between speech activity. The available classes are: audible breathing, oral clicks and silences. We implement a supervised algorithm (SVM) on labeled data of one speaker with 92% testing accuracy on the same speaker. Additionally, we explore unsupervised methods such as DBSCAN with t-SNE-based dimensionality reduction on that speaker and a large conversational corpus.\n"
+   ],
+   "p1": "6",
+   "pn": "9"
+  },
+  "trouvain18_lw": {
+   "authors": [
+    [
+     "Jürgen",
+     "Trouvain"
+    ]
+   ],
+   "title": "On Breath Noises – A Short Review",
+   "original": "03",
+   "order": 4,
+   "page_count": 2,
+   "abstract": [
+    "Breath noises as acoustic and audible reflections of inhalation and exhalation are probably the most common non-verbal vocalisations in spoken communication. Breath noises can occur in a multitude of occasions and they can serve as functional markers in various ways. Thus, the focus of this review is two-fold: i) on the acoustic characteristics of breath noises found in a variety of speech data: several forms of read speech, speech before and after physical exercise, lectures, radio live commentaries, parliamentary speech and their simultaneous interpretations, and dialogues; ii) on the possible functions of the various forms of breath noises.\n"
+   ],
+   "p1": "10",
+   "pn": "11"
+  },
+  "arias18_lw": {
+   "authors": [
+    [
+     "Pablo",
+     "Arias"
+    ],
+    [
+     "Pascal",
+     "Belin"
+    ],
+    [
+     "Jean-Julien",
+     "Aucouturier"
+    ]
+   ],
+   "title": "Hearing smiles and smiling back",
+   "original": "04",
+   "order": 10,
+   "page_count": 4,
+   "abstract": [
+    "Smiling may be one of the most important gestures in the human emotional repertoire. Long thought to be a universal expression of positive affect and affiliation, recent findings suggest the smile gesture is a highly adaptive, functionally diverse, and culturally variable gesture. But, although research has shed light on smiles as a visual communicative behavior, it is less known that smiles also have consequences in another modality: audition. As a gesture which changes the shape of the main vocal resonator (the mouth), smiling while speaking acts as an acoustic filter, creating smile-related acoustic structures in the sound. But what are these acoustic structures? And are the cognitive mechanisms involved in processing such auditory cues similar to those involved in processing visual smiles? Here, we briefly report on a series of studies addressing these questions. First, we describe the acoustic fingerprint of auditory smiles as measured by reverse correlation, then present a computational model to parametrically control smile specific acoustic cues in speech, and finally present facial electromyography data suggesting that these acoustic cues are not only recognized by naive participants but can also trigger low-level imitative mechanisms that are usually associated with the processing of visual emotions.\n"
+   ],
+   "p1": "12",
+   "pn": "15"
+  },
+  "mazzocconi18_lw": {
+   "authors": [
+    [
+     "Chiara",
+     "Mazzocconi"
+    ],
+    [
+     "Vladislav",
+     "Maraev"
+    ],
+    [
+     "Jonathan",
+     "Ginzburg"
+    ]
+   ],
+   "title": "Clarifying Laughter",
+   "original": "05",
+   "order": 11,
+   "page_count": 5,
+   "abstract": [
+    "In the current paper we investigate whether laughter can be object of clarification requests and what these clarification requests might be about. We use the range of possible clarification requests as diagnostics for the constitutive elements of the meaning conveyed, thereby testing existing hypotheses concerning the semantics of laughter.\n"
+   ],
+   "p1": "16",
+   "pn": "20"
+  },
+  "fuchs18_lw": {
+   "authors": [
+    [
+     "Susanne",
+     "Fuchs"
+    ],
+    [
+     "Tamara",
+     "Rathcke"
+    ]
+   ],
+   "title": "Laugh is in the air? Physiological analysis of laughter as a correlate of attraction during speed dating",
+   "original": "06",
+   "order": 12,
+   "page_count": 4,
+   "abstract": [
+    "Laughter has rarely been examined in the context of a romantic attraction between conversational partners. This study aims to fill the gap by investigating laughter in the context of speed dating. We present a preliminary analysis of spontaneous laughs produced by male and female speakers who were more or less attracted to each other, and discuss variability across individuals in terms of laughter frequency and overlap.\n"
+   ],
+   "p1": "21",
+   "pn": "24"
+  },
+  "kantharaju18_lw": {
+   "authors": [
+    [
+     "Reshmashree",
+     "Kantharaju"
+    ],
+    [
+     "Fabien",
+     "Ringeval"
+    ],
+    [
+     "Laurent",
+     "Besacier"
+    ]
+   ],
+   "title": "Automatic prediction of affective laughter from audiovisual data",
+   "original": "07",
+   "order": 14,
+   "page_count": 4,
+   "abstract": [
+    "In this contribution, we provide insights on emotional laughter by extensive evaluations carried out on RECOLA corpus of dyadic spontaneous interactions, annotated with dimensional labels of emotion (arousal and valence). We evaluate, by automatic recognition experiments and correlation based analysis, how different categories of laughter, such as unvoiced laughter, voiced laughter, speech laughter, and speech (non-laughter) can be differentiated from audiovisual features, and to which extent they might convey different emotions.\n"
+   ],
+   "p1": "26",
+   "pn": "29"
+  },
+  "rychlowska18_lw": {
+   "authors": [
+    [
+     "Magdalena",
+     "Rychlowska"
+    ],
+    [
+     "Gary",
+     "McKeown"
+    ],
+    [
+     "Ian",
+     "Sneddon"
+    ],
+    [
+     "William",
+     "Curran"
+    ]
+   ],
+   "title": "Not only decibels: Exploring human judgements of laughter intensity",
+   "original": "08",
+   "order": 15,
+   "page_count": 4,
+   "abstract": [
+    "While laughter intensity is an important characteristic immediately perceivable for the listeners, empirical investigations of this construct are still scarce. Here, we explore the relationship between human judgments of laughter intensity and laughter acoustics. Our results show that intensity is predicted by multiple dimensions, including duration, loudness, pitch variables, and center of gravity. Controlling for loudness confirmed the robustness of these effects and revealed significant relationships between intensity and other features, such as harmonicity and voicing. Together, the findings demonstrate that laughter intensity does not overlap with loudness. They also highlight the necessity of further research on this complex dimension.\n"
+   ],
+   "p1": "30",
+   "pn": "33"
+  },
+  "elhaddad18_lw": {
+   "authors": [
+    [
+     "Kevin",
+     "El Haddad"
+    ],
+    [
+     "Hüseyin",
+     "Çakmak"
+    ],
+    [
+     "Thierry",
+     "Dutoit"
+    ]
+   ],
+   "title": "On Laughter Intensity Level: Analysis and Estimation",
+   "original": "09",
+   "order": 16,
+   "page_count": 6,
+   "abstract": [
+    "This work focuses on laughter intensity level, the way it is perceived and suggests ways to estimate it automatically. In the first part of this paper, we present a laughter intensity database which is collected through online perception tests. Participants are asked to rate the overall intensity of laughs. Presented laughs are either audio only or visual only or audiovisual. Statistical analysis show that the perceived intensity is significantly higher when the modality is visual only and suggests that the audio cue might have the biggest influence on laughter intensity perception. We also show that the order by which the modalities are presented to the raters may influence the perception of laughter intensity. In the second part, different estimation/classification techniques were tested including GMM-based mapping and common classification techniques. A set of features were defined, extracted and tested for classification. Results show that the estimation of the global audio laughter intensity is possible with good classification performances.\n"
+   ],
+   "p1": "34",
+   "pn": "39"
+  },
+  "michalsky18_lw": {
+   "authors": [
+    [
+     "Jan",
+     "Michalsky"
+    ],
+    [
+     "Heike",
+     "Schoormann"
+    ]
+   ],
+   "title": "Phonetic entrainment of laughter in dating conversations: On the effects of perceived attractiveness and conversational quality",
+   "original": "10",
+   "order": 17,
+   "page_count": 5,
+   "abstract": [
+    "Laughter serves as a signaling device to facilitate the establishment and maintenance of human relationships. The role of laughter in mating conversations, however, seems to be as crucial as it is still underinvestigated. In this study we seek to examine how a speaker's perception of an interlocutor in terms of visual attractiveness as well as his/her perception of the quality of the conversation affect the phonetics of laughter in dating conversations. In addition to the phonetics of laughter in absolute terms, we study laughter entrainment, i.e. the mutual influence of laughing behavior, since previous studies found both attractiveness and conversational quality to affect speech in terms of prosodic entrainment. As this study constitutes work in progress, preliminary results and working hypothesis are reported.\n"
+   ],
+   "p1": "40",
+   "pn": "44"
+  },
+  "torre18_lw": {
+   "authors": [
+    [
+     "Ilaria",
+     "Torre"
+    ],
+    [
+     "Emma",
+     "Carrigan"
+    ],
+    [
+     "Killian",
+     "McCabe"
+    ],
+    [
+     "Rachel",
+     "McDonnell"
+    ],
+    [
+     "Naomi",
+     "Harte"
+    ]
+   ],
+   "title": "Cooperating with a smiling avatar: when face and voice matter",
+   "original": "11",
+   "order": 5,
+   "page_count": 1,
+   "abstract": [
+    "Being able to express and interpret emotional expressions is paramount to a successful interaction. But what if the interlocutor expressing an emotion is a machine? Since emotional expressions are multi-modal, the question of which of the available channels should be most carefully considered in design arises. Would a mismatch in the emotion expressed in the face and voice influence people's cooperation with an avatar? To answer this question, we developed a simulated survival game where people had to cooperate with a computer-generated avatar in order to survive a crash landing on the moon. Preliminary results from several hundreds visitors show that people tend to trust the avatar in the mismatched condition with the smiling face and neutral voice more.\n"
+   ],
+   "p1": "45",
+   "pn": "45"
+  },
+  "pope18_lw": {
+   "authors": [
+    [
+     "Vanessa",
+     "Pope"
+    ],
+    [
+     "Rebecca",
+     "Stewart"
+    ],
+    [
+     "Elaine",
+     "Chew"
+    ]
+   ],
+   "title": "Audience Laughter Distribution in Live Stand-up Comedy",
+   "original": "12",
+   "order": 6,
+   "page_count": 4,
+   "abstract": [
+    "Professional comedians are experts in the manipulation of group laughter, but how comedians manage group laughter live has yet to be explored. Stand-up comedy's repeated content across performances provides an opportunity to identify how performers design their content and delivery to control audience response, with possible applications to other interactional contexts. Using a novel stratified laughter representation, we describe the distribution of laughter types during 43 minutes of performance for an audience of approximately 150 people, then compare group laughter responses to the same comedy segment in five different performances. Frequent short bouts of laughter are present throughout the long-form performance. We found more big audience laughter at the beginning of a performance and more small group laughter towards the end, suggesting that a comedian may be eliciting particular laughter types. When engaging the audience directly and deviating from the content of other performances, the comedian used self-laughter more frequently. Our findings suggest that a comedian's control of audience response is most visible in the relative timing of laughter. The same section of comedy material retained patterns in the gaps between laughter bouts across performances, showing that comedic timing may be as much about preventing laughter as eliciting it.\n"
+   ],
+   "p1": "46",
+   "pn": "49"
+  },
+  "poggi18_lw": {
+   "authors": [
+    [
+     "Isabella",
+     "Poggi"
+    ],
+    [
+     "Alessandro",
+     "Ansani"
+    ],
+    [
+     "Christian",
+     "Cecconi"
+    ]
+   ],
+   "title": "Sighs in everyday and political communication",
+   "original": "13",
+   "order": 7,
+   "page_count": 4,
+   "abstract": [
+    "The work defines the sigh as a type of breath expressing or communicating specific mental or emotional states. To investigate the meanings of the sigh, after overviewing preliminary analyses of written and oral corpora, the paper focuses on a peculiar use of it as a \"discrediting body comment\" often exploited in political debates to imply the opponent's stupidity or obsessive repetition, by displaying frustration or boredom. In a perception study on some uses of this sigh, participants’ interpretations are not significantly shared, but agreement emerges when considering their perception of sighs in terms of valence and arousal.\n"
+   ],
+   "p1": "50",
+   "pn": "53"
+  },
+  "elhaddad18b_lw": {
+   "authors": [
+    [
+     "Kevin",
+     "El Haddad"
+    ],
+    [
+     "Noé",
+     "Tits"
+    ],
+    [
+     "Thierry",
+     "Dutoit"
+    ]
+   ],
+   "title": "Annotating Nonverbal Conversation Expressions in Interaction Datasets",
+   "original": "14",
+   "order": 8,
+   "page_count": 4,
+   "abstract": [
+    "In this paper, we present our work on building a database of Nonverbal Conversation Expressions (NCE). In this study, these NCE consist of smiles, laughs, head and eyebrow movements. We describe our annotation scheme and explain our choises. We finally give inter-rater agreement results on small part of the dataset.\n"
+   ],
+   "p1": "54",
+   "pn": "57"
+  },
+  "jansen18_lw": {
+   "authors": [
+    [
+     "Michel-Pierre",
+     "Jansen"
+    ],
+    [
+     "Dirk",
+     "Heylen"
+    ],
+    [
+     "Khiet",
+     "Truong"
+    ],
+    [
+     "Gwenn",
+     "Englebienne"
+    ],
+    [
+     "Deniece",
+     "Nazareth"
+    ]
+   ],
+   "title": "The MULAI Corpus: Multimodal Recordings of Spontaneous Laughter in Dyadic Interaction",
+   "original": "15",
+   "order": 9,
+   "page_count": 6,
+   "abstract": [
+    "We present the MULAI Database that aims to provide researchers with more data to study the expressive patterns that humans demonstrate while laughing during human-human interactions. We collected a multimodal database that contains 357 minutes of recorded video-, audio-, and physiological data on dyadic interactions that often was paired with laughter. In addition personality questionnaire data was retrieved from all the participants. The database is unique in that it is recorded in several modalities not often explored and includes both spontaneous- and task induced laughter.\n"
+   ],
+   "p1": "58",
+   "pn": "63"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynote 1",
+   "papers": [
+    "scott18_lw"
+   ]
+  },
+  {
+   "title": "Session 1",
+   "papers": [
+    "ogden18_lw",
+    "canalgarcia18_lw",
+    "trouvain18_lw"
+   ]
+  },
+  {
+   "title": "Session 2",
+   "papers": [
+    "torre18_lw",
+    "pope18_lw",
+    "poggi18_lw",
+    "elhaddad18b_lw",
+    "jansen18_lw"
+   ]
+  },
+  {
+   "title": "Session 3",
+   "papers": [
+    "arias18_lw",
+    "mazzocconi18_lw",
+    "fuchs18_lw"
+   ]
+  },
+  {
+   "title": "Keynote 2",
+   "papers": [
+    "mckeown18_lw"
+   ]
+  },
+  {
+   "title": "Session 4",
+   "papers": [
+    "kantharaju18_lw",
+    "rychlowska18_lw",
+    "elhaddad18_lw",
+    "michalsky18_lw"
+   ]
+  }
+ ]
+}

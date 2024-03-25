@@ -1,0 +1,418 @@
+{
+ "series": "LW",
+ "title": "Interdisciplinary Workshop on Laughter and other Interactional Vocalisations in Speech",
+ "location": "Berlin, Germany",
+ "startDate": "27/2/2009",
+ "endDate": "28/2/2009",
+ "URL": "https://www.coli.uni-saarland.de/conf/laughter-09/",
+ "chair": "Chairs: Jürgen Trouvain and Nick Campbell",
+ "reduction": "0.95",
+ "nodoi": "",
+ "conf": "LW",
+ "name": "lw_2009",
+ "year": "2009",
+ "SIG": "",
+ "title1": "Interdisciplinary Workshop on Laughter and other Interactional Vocalisations in Speech",
+ "booklet": "intro.pdf",
+ "date": "27-28 February 2009",
+ "month": 2,
+ "day": 27,
+ "now": 1711383758735887,
+ "papers": {
+  "allwood09_lw": {
+   "authors": [
+    [
+     "Jens",
+     "Allwood"
+    ]
+   ],
+   "title": "Embodied communicative feedback, coactivation and coconstruction in dialog",
+   "original": "01",
+   "order": 1,
+   "page_count": 1,
+   "abstract": [
+    "This paper characterizes the notion of embodied communicative feedback and relates it to coactivation of shared information (common ground) and coconstruction of new information in dialog. The account is based on the framework of Activity based Communication Analysis (ACA), cf. Allwood (2000).\nThe talk touches on the following topics\n(i) Types of embodied feedback, both means of expression and basic functions\n(ii) The relationship of communicative feedback to levels of awareness and intentionality in communication\n(iii) The relation of feedback to the different basic semiotic sign types\n(iv) The relationship of feedback to communicative acts and their functions\n(v) The relationship of feedback to cooperation, ethics and trust\nFurther, I will explore some empirical features of communicative feedback.\n(i) What are the most frequent types of verbal vocal feedback?\n(ii) How do utterances whose main function is to give feedback relate to other common short utterances in terms of frequency and function?\n(iii) What types of reduplications do we find with vocal feedback words?\n"
+   ],
+   "p1": 1,
+   "pn": 1
+  },
+  "pammi09_lw": {
+   "authors": [
+    [
+     "Sathish",
+     "Pammi"
+    ],
+    [
+     "Marc",
+     "Schröder"
+    ]
+   ],
+   "title": "A corpus-based analysis of back-channel vocalizations",
+   "original": "02",
+   "order": 2,
+   "page_count": 2,
+   "abstract": [
+    "Back­channel vocalizations play an important role in communicating listener intentions while the other person has the turn or other is talking. This extended abstract explains about a method for collecting back­channel vocalizations and our ongoing work on annotation and a simple data and acoustic analysis of these vocalizations. \n"
+   ],
+   "p1": 2,
+   "pn": 3
+  },
+  "batliner09_lw": {
+   "authors": [
+    [
+     "Anton",
+     "Batliner"
+    ],
+    [
+     "Stefan",
+     "Steidl"
+    ],
+    [
+     "Florian",
+     "Eyben"
+    ],
+    [
+     "Björn",
+     "Schuller"
+    ]
+   ],
+   "title": "Laughter in Child-Robot Interaction",
+   "original": "03",
+   "order": 3,
+   "page_count": 2,
+   "abstract": [
+    "In this paper, we present a speech database with children's speech. We first describe the database, part of the emotional labelling conducted, and the distribution of 'non-linguistic'/para-linguistic phenomena, esp. of 'real' laughter vs. speech laughter, i.e. laughter modulated onto speech. Especially, we will characterize interactional attitude and speaker-specific behaviour. In a second, more technologically oriented part, we will address the automatic recognition of these phenomena.\n"
+   ],
+   "p1": 4,
+   "pn": 5
+  },
+  "vettin09_lw": {
+   "authors": [
+    [
+     "Julia",
+     "Vettin"
+    ],
+    [
+     "Silke",
+     "Kipper"
+    ]
+   ],
+   "title": "A laughter is a laughter is a laughter? Long, but not short laughter bouts are noticed in conversation and related to conversational partners' moods",
+   "original": "04",
+   "order": 4,
+   "page_count": 1,
+   "abstract": [
+    "Laughter is a common ingredient of everyday conversations and accompanies verbal exchanges at remarkably high rates. Anecdotal evidence suggested, however, that people engaged in a verbal interaction are often not aware of the accompanying laughter. This might be explained by differences in the acoustic quality of laughter. For example, conversational laughter bouts are considerably shorter and consist of fewer elements than those elicited in response to humorous material or tickling. In a playback study with recordings of dyadic conversations, we tested the perception and the evaluation of conversational laughter.\n"
+   ],
+   "p1": 6,
+   "pn": 6
+  },
+  "heylen09_lw": {
+   "authors": [
+    [
+     "Dirk",
+     "Heylen"
+    ]
+   ],
+   "title": "On the Function of Smiles and Laughter in Conversation - Some figures on their distribution with respect to dialogue acts",
+   "original": "05",
+   "order": 5,
+   "page_count": 2,
+   "abstract": [
+    "Smiles (and laughter) have played an important part in the debate on the status of facial and other nonverbal expressions with respect to the expressive systems humans deploy. In this paper, we report on a small study of the distribution of smiles and laughter in the AMI corpus. We have focussed in particular on the dialogue acts that accompany them. \n"
+   ],
+   "p1": 7,
+   "pn": 8
+  },
+  "fagel09_lw": {
+   "authors": [
+    [
+     "Sascha",
+     "Fagel"
+    ],
+    [
+     "Jürgen",
+     "Trouvain"
+    ],
+    [
+     "Eva",
+     "Lasarcyk"
+    ]
+   ],
+   "title": "Observing Lip and Vertical Larynx Movements During Smiled Speech (and Laughter)",
+   "original": "06",
+   "order": 6,
+   "page_count": 2,
+   "abstract": [
+    "This paper reports on work in progress investigating lip and vertical larynx movements that occur in smiled speech and laughter. A controlled speech corpus in terms of vowels spoken at various degrees of retraction of lip corners is recorded as well as a corpus of induced naturally smiled speech. A combined motion capture and image processing technique is applied to track marked points on the lips and vertical larynx position synchronously while simultaneously recording the audio speech signal. Data will be analyzed to investigate correlations between lip shape and larynx position in smiled speech and to find effects of smiling on audio speech both differentiating between voluntarily spread lips and induced smiles each at various levels of intensity. Some data of spontaneous laughter is included, too.\n"
+   ],
+   "p1": 9,
+   "pn": 10
+  },
+  "petridis09_lw": {
+   "authors": [
+    [
+     "Stavros",
+     "Petridis"
+    ],
+    [
+     "Maja",
+     "Pantic"
+    ]
+   ],
+   "title": "Audiovisual Discrimination Between Laughter and Speech",
+   "original": "07",
+   "order": 7,
+   "page_count": 2,
+   "abstract": [
+    "Previous research on automatic laughter detection has mainly been focused on audio-based detection. In this study we present an audiovisual approach to distinguishing laughter from speech and we show that the integration of audio and visual information leads to improved performance over single-modal approaches. We consider two cases, one that we discriminate between laughter and speech and one that we discriminate between voiced laughter, unvoiced laughter and speech. When tested on 207 audiovisual sequences, depicting spontaneously displayed (as opposed to posed) laughter and speech episodes, in a person independent way the proposed audiovisual approach achieves an F1 rate of over 90% and a classification rate of over 80%.\n"
+   ],
+   "p1": 11,
+   "pn": 12
+  },
+  "scherer09_lw": {
+   "authors": [
+    [
+     "Stefan",
+     "Scherer"
+    ],
+    [
+     "Volker",
+     "Fritzsch"
+    ],
+    [
+     "Friedhelm",
+     "Schwenker"
+    ],
+    [
+     "Nick",
+     "Campbell"
+    ]
+   ],
+   "title": "Demonstrating Laughter Detection in Natural Discourses",
+   "original": "08",
+   "order": 8,
+   "page_count": 2,
+   "abstract": [
+    "This work focuses on the demonstration of previously achieved results in the automatic detection of laughter from natural discourses. In this work however, we would like to show a proof of concept for the online and on the fly recognition of laughter performing close to real-time. The goal of this work is to use a previously trained model of laughter in a modular process engine environment, which is currently under development overcoming known difficulties of pattern recognition and information fusion tasks, to detect laughter from a continuous microphone input.\n"
+   ],
+   "p1": 13,
+   "pn": 14
+  },
+  "urbain09_lw": {
+   "authors": [
+    [
+     "Jérôme",
+     "Urbain"
+    ],
+    [
+     "Stéphane",
+     "Dupont"
+    ],
+    [
+     "Thierry",
+     "Dutoit"
+    ],
+    [
+     "Radoslaw",
+     "Niewiadomski"
+    ],
+    [
+     "Catherine",
+     "Pelachaud"
+    ]
+   ],
+   "title": "Towards a virtual agent using similarity-based laughter production",
+   "original": "09",
+   "order": 9,
+   "page_count": 2,
+   "abstract": [
+    "In this abstract we present a collaborative project on creating a laughing machine. The machine can automatically detect laughter. After clustering it, the machine finds the closest similar laughter that is then synthesized acoustically and visually by a virtual agent. Below we present the various components involved in our project.\n"
+   ],
+   "p1": 15,
+   "pn": 16
+  },
+  "beckerasano09_lw": {
+   "authors": [
+    [
+     "Christian",
+     "Becker-Asano"
+    ],
+    [
+     "Takayuki",
+     "Kanda"
+    ],
+    [
+     "Carlos",
+     "Ishi"
+    ],
+    [
+     "Hiroshi",
+     "Ishiguro"
+    ]
+   ],
+   "title": "Humanoid robots laughing in response to a joke: Results of a video-based online survey",
+   "original": "10",
+   "order": 10,
+   "page_count": 3,
+   "abstract": [
+    "In this paper we present first results of two online surveys designed to investigate, which kind of recorded, human laughter appears to be most naturally to a human observer in combination with body movements of two different humanoid robots.\n"
+   ],
+   "p1": 17,
+   "pn": 19
+  },
+  "cieslik09_lw": {
+   "authors": [
+    [
+     "Sarah",
+     "Cieslik"
+    ],
+    [
+     "Oliver",
+     "Gast"
+    ],
+    [
+     "Bettina",
+     "Köhler"
+    ],
+    [
+     "Jürgen",
+     "Trouvain"
+    ]
+   ],
+   "title": "Inhalation noises, \"ja\" and laughter in a German dialogue corpus – Phonetic forms and their possible communicative functions",
+   "original": "11",
+   "order": 11,
+   "page_count": 2,
+   "abstract": [
+    "Among the most frequent paraverbal (or 'paralinguistic') vocalisations which are typical for spontaneous speech are various types of laughter as well as 'words' like <yeah> and <uh-hu>, different forms of <hm>, fillers like <uh> or <uhm> and other forms of affective interjections. In this study we explore laughter, the 'word' <ja> (engl. <yeah>, literally <yes>) and audible inhalation as the three most prominent categories of vocalisation in a German corpus of spontaneous dialogues (IPDS 2006) (six conversations with two friends each (same sex), no visual contact, mean duration per dialogue: 11 minutes).\n"
+   ],
+   "p1": 20,
+   "pn": 21
+  },
+  "oconnell09_lw": {
+   "authors": [
+    [
+     "Daniel",
+     "O'Connell"
+    ],
+    [
+     "Sabine",
+     "Kowal"
+    ]
+   ],
+   "title": "Who's Afraid of Virginia Woolf, Act I: Some Comparisons of Text and Film",
+   "original": "12",
+   "order": 12,
+   "page_count": 1,
+   "abstract": [
+    "Interjections in Act I of Edward Albee's play (1962) Who's afraid of Virginia Woolf? are compared with interjections in the film performance thereof (Nichols, 1966). On a theoretical level, this comparison incorporates a transformation from literacy to orality in performance. Albee's play has been chosen because of the salience of negative verbal affective expressions therein. Interjections include conventional and nonconventional primary interjections, secondary interjections, and onomatopoeia. The comparisons are intended to reveal how both the author of the text and the actors in the film use interjections to express affect and to carry the narrative dynamic of the play forward. Primary response measures include numerosity of interjections, length of interjections in graphemes in the text, and duration in seconds in the performance. Of particular importance are the following phenomena: the oral articulation of stereotypical graphemic representation of laughter in the text (e.g., ha, ha, ha, ha) and of graphemic prolongation of interjectional syllables (e.g., awwwwwwwwww), and the use of interjections to differentiate the characters in the play.\n"
+   ],
+   "p1": 22,
+   "pn": 22
+  },
+  "ahlsen09_lw": {
+   "authors": [
+    [
+     "Elisabeth",
+     "Ahlsén"
+    ]
+   ],
+   "title": "Laughter when words are missing – a study of interactions involving persons with aphasia",
+   "original": "13",
+   "order": 13,
+   "page_count": 1,
+   "abstract": [
+    "This study describes the use of laughter in a sample of videorecorded interactions involving persons with anomia. Sequences involving word finding problems have been selected and all instances of laughter in these sequences have been analyzed with respect to where laughter occurs, in relation to the preceding and the ongoing utterance, how it is produced by one or both parties, what other means of expression it is combined with and what its main function seems to be in each of the contexts. The results are discussed in relation to how laughter is used in other conversations, of other similar context, such as interacting in a language that one does not know very well, to individual variation and to the outcome of word finding sequences.\n"
+   ],
+   "p1": 23,
+   "pn": 23
+  },
+  "trouvain09_lw": {
+   "authors": [
+    [
+     "Jürgen",
+     "Trouvain"
+    ]
+   ],
+   "title": "Labelling types and segments of laughter and other interactional vocalisations – Agreements and disagreements",
+   "original": "discussion01",
+   "order": 14,
+   "page_count": 2,
+   "abstract": [
+    "The aim of this discussion paper is twofold: on the one hand it is intended to present the rather unstructured situation with respect to the terminology of i) laughter types, ii) laughter segments and iii) further interactional vocalisations. On the other hand these three areas shall be discussed with concrete examples taken from a spontaneous dialogue corpus. An exchange of ideas about the pros and cons of the various names and approaches of segmentation can help to establish a more standardised use of terms to overcome the slightly chaotic situation of labelling elements of interactional vocalisations.\n"
+   ],
+   "p1": 24,
+   "pn": 25
+  },
+  "campbell09_lw": {
+   "authors": [
+    [
+     "Nick",
+     "Campbell"
+    ]
+   ],
+   "title": "Technology for Processing Non-verbal Information in Speech",
+   "original": "discussion02",
+   "order": 15,
+   "page_count": 2,
+   "abstract": [
+    "Current speech technology is founded upon text. People don't speak text, so there is often a mismatch between the expectations of the system and the performance of its users. Talk in social interaction of course involves the exchange of propositional content (which can be expressed through text) but it also involves social networking and the expression of interpersonal relationships, as well as displays of emotion, affect, interest, etc. A computer-based system that processes human speech, whether an information-providing service, a translation device, part of a robot, or entertainment system, must not only be able to process the text of that speech, but must also be able to interpret the underlying intentions, or acts, of the speaker who produced it. It is not enough for a machine just to know what a person is saying; it must also know what that person is doing with each utterance as part of an interactive discourse.\n"
+   ],
+   "p1": 26,
+   "pn": 27
+  }
+ },
+ "sessions": [
+  {
+   "title": "Session 1",
+   "papers": [
+    "allwood09_lw"
+   ]
+  },
+  {
+   "title": "Session 2",
+   "papers": [
+    "pammi09_lw",
+    "batliner09_lw",
+    "vettin09_lw"
+   ]
+  },
+  {
+   "title": "Session 3",
+   "papers": [
+    "heylen09_lw",
+    "fagel09_lw",
+    "petridis09_lw"
+   ]
+  },
+  {
+   "title": "Session 4",
+   "papers": [
+    "scherer09_lw",
+    "urbain09_lw",
+    "beckerasano09_lw"
+   ]
+  },
+  {
+   "title": "Session 5",
+   "papers": [
+    "cieslik09_lw",
+    "oconnell09_lw",
+    "ahlsen09_lw"
+   ]
+  },
+  {
+   "title": "Discussion session 1",
+   "papers": [
+    "trouvain09_lw"
+   ]
+  },
+  {
+   "title": "Discussion session 2",
+   "papers": [
+    "campbell09_lw"
+   ]
+  }
+ ]
+}

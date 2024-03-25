@@ -1,0 +1,503 @@
+{
+ "series": "LW",
+ "title": "Laughter and Other Non-Verbal Vocalisations Workshop 2020",
+ "location": "Bielefeld, Germany (online)",
+ "startDate": "05/10/2020",
+ "endDate": "05/10/2020",
+ "URL": "https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/fachbereich/phonetik/laughter-workshop/",
+ "chair": "Chairs: Bogdan Ludusan, Magdalena Rychlowska, Gary McKeown, and Petra Wagner",
+ "nodoi": "",
+ "nopagenumbers": "",
+ "nonamedate": "",
+ "": "",
+ "conf": "LW",
+ "name": "lw_2020",
+ "year": "2020",
+ "SIG": "",
+ "title1": "Laughter and Other Non-Verbal Vocalisations Workshop 2020",
+ "booklet": "intro.pdf",
+ "date": "5 October 2020",
+ "month": 10,
+ "day": 5,
+ "now": 1711383690578670,
+ "papers": {
+  "truong20_lw": {
+   "authors": [
+    [
+     "Khiet",
+     "Truong"
+    ]
+   ],
+   "title": "Automatic analysis of laughter in social interaction",
+   "original": "invited01",
+   "order": 1,
+   "page_count": 1,
+   "abstract": [
+    "Since it is becoming more and more common to talk to a device, the need for methods to make this interaction more smooth, enjoyable and natural increases. Spoken language is more than just words. The way people talk not only reveals information about their age, sex, or region they are from, it also reveals information about one’s socio-affective, mental, and physical state. If agents can automatically extract this kind of information from the way the user talks, this will help regulate human-agent interaction and opens up opportunities for innovative talking agents. In this talk, I will present an overview of our work on human-human/agent interaction and socially interactive technology, and the role of laughter in our research.\n"
+   ],
+   "p1": "80",
+   "pn": "80"
+  },
+  "bryant20_lw": {
+   "authors": [
+    [
+     "Greg",
+     "Bryant"
+    ]
+   ],
+   "title": "The evolution of laughter and verbal play",
+   "original": "invited02",
+   "order": 2,
+   "page_count": 1,
+   "abstract": [
+    "During conversational interaction, speakers will use a variety of nonverbal vocal strategies to help them achieve pragmatic goals. These vocal signals often accompany verbal phenomena such as indirect speech, which often can be construed as a form of verbal play. One common such signal is laughter, which evolved from play vocalizations in our primate ancestors, and retains part of this communicative function in our everyday interactions. Here I will describe some different lines of research that reveal some of the communicative complexities of laughter, verbal play, and social interaction. Overall this work points to one possible connection between linguistic pragmatics and nonhuman animal communication.\n"
+   ],
+   "p1": "81",
+   "pn": "81"
+  },
+  "mazzocconi20_lw": {
+   "authors": [
+    [
+     "Chiara",
+     "Mazzocconi"
+    ],
+    [
+     "Jonathan",
+     "Ginzburg"
+    ]
+   ],
+   "title": "Laughter growing up",
+   "original": "01",
+   "order": 3,
+   "page_count": 6,
+   "abstract": [
+    "We present a longitudinal corpus observation of laughter use in child-mother interaction from 12 to 36 months of age from a pragmatic perspective. The main aim of our work is to investigate how laughter use in interaction may be informative about pragmatic development. We observe significant differences in child and mother use of laughter and changes over time as the child grows up, specifically in the frequency, in the pragmatic functions of laughter, and in the response to other's laughter.\n"
+   ],
+   "p1": "1",
+   "pn": "6"
+  },
+  "belz20_lw": {
+   "authors": [
+    [
+     "Malte",
+     "Belz"
+    ]
+   ],
+   "title": "Acoustic vowel quality of filler particles in German ",
+   "original": "02",
+   "order": 4,
+   "page_count": 4,
+   "abstract": [
+    "The vowel quality of filler particles (FP) is studied for 24 speakers of German who produced 666 instances of vocalic (äh) and vocalic-nasal forms (ähm) in spontaneous dialogues. The FP vowel quality is compared to reference vowels of a word list as well as to phonologically and graphematically similarly constructed lexical syllables. Filler particles show a complete overlap with the reference vowels [œ] and [5], but overlap only partially with [E] and [@].\n"
+   ],
+   "p1": "7",
+   "pn": "10"
+  },
+  "chlebowski20_lw": {
+   "authors": [
+    [
+     "Aurélie",
+     "Chlébowski"
+    ]
+   ],
+   "title": "A Semasiological Approach to Non-Lexical Conversational Sounds: Issues, Benefits and Impact ",
+   "original": "03",
+   "order": 5,
+   "page_count": 4,
+   "abstract": [
+    "This paper proposes to consider a semasiological approach to non-verbal vocalisations. We claim that an acoustic analysis of the components of these sounds is needed to complement the findings of earlier studies. We propose that part of the information conveyed by these sounds comes from their acoustic components and that these components might be subjected to what resembles grammatical rules. Semantic issues are discussed at the end of the paper.\n"
+   ],
+   "p1": "11",
+   "pn": "14"
+  },
+  "rychlowska20_lw": {
+   "authors": [
+    [
+     "Magdalena",
+     "Rychlowska"
+    ],
+    [
+     "Gary",
+     "McKeown"
+    ],
+    [
+     "Ian",
+     "Sneddon"
+    ],
+    [
+     "William",
+     "Curran"
+    ]
+   ],
+   "title": "Social and acoustic determinants of subjective judgments of laughter intensity ",
+   "original": "04",
+   "order": 6,
+   "page_count": 4,
+   "abstract": [
+    "Existing research links subjective judgments of perceived laughter intensity with features such as duration, amplitude, fundamental frequency, and voicing. We examine these associations in a new database of social laughs produced in situations inducing amusement, embarrassment, and schadenfreude. We also test the extent to which listeners' judgments of laughter intensity vary as a function of the social situation in which laughs were produced.\n"
+   ],
+   "p1": "15",
+   "pn": "18"
+  },
+  "braun20_lw": {
+   "authors": [
+    [
+     "Angelika",
+     "Braun"
+    ]
+   ],
+   "title": "Nonverbal Vocalisations – A Forensic Phonetic Perspective ",
+   "original": "05",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "This contribution approaches nonverbal vocalisations from an angle which is probably quite different from most other perspectives - its usability for forensic speaker comparison purposes. Thus the question is whether and if so, to what extent, nonverbal vocalisations are speaker specific. In this paper, it is argued that it is not so much any one individual trait which is speaker specific but rather a behavioral pattern consisting of various elements. How these vocalisations are covered in forensic phonetic reports is described. Various aspects of the behavioral pattern are dealt with: hesitations/filled pauses, breathing, clicks, question tags, tempo, and laughter.\n"
+   ],
+   "p1": "19",
+   "pn": "23"
+  },
+  "dinapoli20_lw": {
+   "authors": [
+    [
+     "Jessica",
+     "Di Napoli"
+    ]
+   ],
+   "title": "Filled pauses and prolongations in Roman Italian task-oriented dialogue ",
+   "original": "06",
+   "order": 8,
+   "page_count": 4,
+   "abstract": [
+    "This paper presents work in progress on two markers of hesitation in Roman Italian task-oriented dialogue, namely filled pauses and prolongations. We investigate their form, relative frequency, and distributional characteristics in Italian. Initial results suggest that Italian speakers produce prolongations more frequently than filled pauses, and that the prototypical hesitant prolongation involves a word-final vowel.\n"
+   ],
+   "p1": "24",
+   "pn": "27"
+  },
+  "ludusan20_lw": {
+   "authors": [
+    [
+     "Bogdan",
+     "Ludusan"
+    ],
+    [
+     "Maik",
+     "Wesemann"
+    ],
+    [
+     "Petra",
+     "Wagner"
+    ]
+   ],
+   "title": "A Distributional Analysis of Laughter Across Turns and Utterances ",
+   "original": "07",
+   "order": 9,
+   "page_count": 4,
+   "abstract": [
+    "We present here a study on the use of laughter in spontaneous interactions, examining its distribution across two linguistic levels: utterances and turns. A multilingual corpus of dyadic conversations was employed, containing recordings in French, German and Mandarin Chinese. Laughter was coded based on its position inside the analysis unit and its distribution with respect to the event type and the language was analyzed. The results showed that laughter distribution is modulated by the linguistic level, as well as by the laughter event type. Moreover, differences between languages seem to depend on the analysis level.\n"
+   ],
+   "p1": "28",
+   "pn": "31"
+  },
+  "schulte20_lw": {
+   "authors": [
+    [
+     "Marion",
+     "Schulte"
+    ]
+   ],
+   "title": "Functions and social meanings of click sounds in Irish English ",
+   "original": "08",
+   "order": 10,
+   "page_count": 4,
+   "abstract": [
+    "This study investigates the use and function of click sounds in Irish English. These paralinguistic elements are multifunctional and similar to linguistic discourse-pragmatic markers. In addition to their discourse and pragmatic functions, they also index social meanings and are shown to be connected with assertive and authoritative stances.\n"
+   ],
+   "p1": "32",
+   "pn": "35"
+  },
+  "ginzburg20_lw": {
+   "authors": [
+    [
+     "Jonathan",
+     "Ginzburg"
+    ],
+    [
+     "Chiara",
+     "Mazzocconi"
+    ]
+   ],
+   "title": "Laughing about laughter: comparing conversational analysis, emotion psychology, and dialogical semantics ",
+   "original": "09",
+   "order": 11,
+   "page_count": 4,
+   "abstract": [
+    "That laughter invites laughter is a basic tenet of Conversation Analysis analyses of laughter, whereas emotion psychology analyses describe various emotive and social effects laughter exhibits relative to various phonetic parameters. We provide data concerning laughter responses to laughter which we argue show neither approach can explicate and more generally suggest they cannot offer a general account of laughter and related non-verbal social signals. We sketch how distinct kinds of laughter responses to laughter - along with a host of other kinds of responses - can be systematically analyzed within a dialogical semantics, which integrates illocutionary and emotive effects.\n"
+   ],
+   "p1": "36",
+   "pn": "39"
+  },
+  "narain20_lw": {
+   "authors": [
+    [
+     "Jaya",
+     "Narain"
+    ],
+    [
+     "Kristina",
+     "Johnson"
+    ],
+    [
+     "Amanda",
+     "O'Brien"
+    ],
+    [
+     "Peter",
+     "Wofford"
+    ],
+    [
+     "Pattie",
+     "Maes"
+    ],
+    [
+     "Rosalind",
+     "Picard"
+    ]
+   ],
+   "title": "Nonverbal Vocalizations as Speech: Characterizing Natural-Environment Audio from Nonverbal Individuals with Autism ",
+   "original": "10",
+   "order": 12,
+   "page_count": 4,
+   "abstract": [
+    "The study of nonverbal vocalizations, such as sighs, grunts, and monosyllabic sounds, has largely revolved around the social and affective implications of these sounds within typical speech. However, for individuals who do not use any traditional speech, including those with non- or minimally verbal (nv/mv) autism, these vocalizations contain important, individual-specific affective and communicative information. This paper outlines the methodology, analysis, and technology to investigate the production, perception, and meaning of nonverbal vocalizations from nv/mv individuals in natural environments. We are developing novel signal processing and machine learning methods that will help enable augmentative communication technology, and we are producing a nonverbal vocalization dataset for public release. We hope this work will expand the scientific understanding of these exceptional individuals' language development and the field of communication more generally.\n"
+   ],
+   "p1": "40",
+   "pn": "43"
+  },
+  "muhlack20_lw": {
+   "authors": [
+    [
+     "Beeke",
+     "Muhlack"
+    ]
+   ],
+   "title": "L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers ",
+   "original": "11",
+   "order": 13,
+   "page_count": 4,
+   "abstract": [
+    "This study focuses on the vowel quality of non-lexical hesitation particles produced by 24 English and German native speakers in their native language (L1) and their second language (L2) both of which are English and German. The aim is to show that a) English and German hesitation particles employ a different vowel quality and b) L2-learners of the respective language can adapt the native-like vowel quality if they are sufficiently proficient in their L2.\n"
+   ],
+   "p1": "44",
+   "pn": "47"
+  },
+  "elhaddad20_lw": {
+   "authors": [
+    [
+     "Kevin",
+     "El Haddad"
+    ],
+    [
+     "Thierry",
+     "Dutoit"
+    ]
+   ],
+   "title": "Cross-Corpora Study of Smiles and Laughter Mimicry in Dyadic Interactions ",
+   "original": "12",
+   "order": 14,
+   "page_count": 3,
+   "abstract": [
+    "In this paper, we present preliminary results of our ongoing work on cross-corpora analyses of smiles and laughter mimicry. For this, instead of recording new data, we leverage the ones produced and available. We analyze smiles and laughs mimicry in three different datasets and show results similar to our previous work. The data used here can be accessed at: https://doi.org/10.5281/zenodo.3820510.\n"
+   ],
+   "p1": "48",
+   "pn": "50"
+  },
+  "schettino20_lw": {
+   "authors": [
+    [
+     "Loredana",
+     "Schettino"
+    ],
+    [
+     "Maria",
+     "Di Maro"
+    ],
+    [
+     "Francesco",
+     "Cutugno"
+    ]
+   ],
+   "title": "Silent pauses as clarification trigger ",
+   "original": "13",
+   "order": 15,
+   "page_count": 4,
+   "abstract": [
+    "Among possible pragmatic feedback an interlocutor can use to acknowledge the degree of understanding of an utterance, clarification requests (CRs) are to be considered. The functional role of CRs can furthermore be expressed via silent pauses - or failed turn-giving moves - which express an understanding problem and are solved through a clarify speech act. In this work, we therefore hypothesise that some silent pauses, in specific conditions, may also have an interactional role which is interpreted by the speaker as a clarification need.\n"
+   ],
+   "p1": "51",
+   "pn": "54"
+  },
+  "maraev20_lw": {
+   "authors": [
+    [
+     "Vladislav",
+     "Maraev"
+    ],
+    [
+     "Chiara",
+     "Mazzocconi"
+    ],
+    [
+     "Gregory",
+     "Mills"
+    ],
+    [
+     "Christine",
+     "Howes"
+    ]
+   ],
+   "title": "LOL what?: Empirical study of laughter in chat based dialogues ",
+   "original": "14",
+   "order": 16,
+   "page_count": 4,
+   "abstract": [
+    "We propose a method for investigation of laughter in incremental text-based dialogues. We report a proof-of-concept pilot study which inserts spoof contributions into ongoing text based dialogues. These take the form of additional laughs and laughter clarification requests which appear to come from one's dialogue partner. This pilot shows that this is a useful way to investigate laughter in dialogue.\n"
+   ],
+   "p1": "55",
+   "pn": "58"
+  },
+  "allison20_lw": {
+   "authors": [
+    [
+     "Bronagh",
+     "Allison"
+    ],
+    [
+     "Gary",
+     "McKeown"
+    ]
+   ],
+   "title": "A Taxonomy of Non-verbal Responses to Gossip ",
+   "original": "15",
+   "order": 17,
+   "page_count": 4,
+   "abstract": [
+    "Gossip is the exchange of socially relevant information. Sending and receiving gossip is a communicative process that involves evaluation of the information by the sender and receiver, with the receiver signalling their response by facial expressions or acoustic social signals. Responses to gossip may be positive or negative. Positive responses may be visual or acoustic, and negative responses may be indifferent or neutral. Here we will present a preliminary development of a taxonomy of the types of facial and acoustic responses displayed when an individual receives gossip information. This research will be developed to encompass a wider variety of social interaction and conversation events.\n"
+   ],
+   "p1": "59",
+   "pn": "62"
+  },
+  "kamiloglu20_lw": {
+   "authors": [
+    [
+     "Roza",
+     "Kamiloğlu"
+    ],
+    [
+     "Disa",
+     "Sauter"
+    ]
+   ],
+   "title": "Posed and spontaneous nonverbal vocalizations of positive emotions: Acoustic analysis and perceptual judgments ",
+   "original": "16",
+   "order": 18,
+   "page_count": 6,
+   "abstract": [
+    "When experiencing different positive emotional states, like amusement or relief, we may produce nonverbal vocalizations such as laughs and sighs. In the current study, we describe the acoustic structure of posed and spontaneous nonverbal vocalizations of 14 different positive emotions, and test whether listeners (N = 201) map the vocalizations to emotions. The results show that vocalizations of 13 different positive emotions were recognized at better-than-chance levels, but not vocalizations of being moved. Emotions varied in whether vocalizations were better recognized from spontaneous or posed expressions.\n"
+   ],
+   "p1": "63",
+   "pn": "68"
+  },
+  "trouvain20_lw": {
+   "authors": [
+    [
+     "Jürgen",
+     "Trouvain"
+    ],
+    [
+     "Raphael",
+     "Werner"
+    ]
+   ],
+   "title": "Comparing Annotations of Non-verbal Vocalisations in Speech Corpora",
+   "original": "17",
+   "order": 19,
+   "page_count": 4,
+   "abstract": [
+    "In this study eleven corpora of spontaneous and scripted speech (in English and in German) are analysed regarding their annotation inventories of selected highly frequent non-verbal vocalisations (NVVs). It appears that only one corpus considers all NVVs and that laughter is the only NVV annotated in all corpora. The findings lead to a discussion of possible reasons for this situation. In conclusion it is argued that a wider distribution and more consistency is needed with respect to the annotation of NVVs.\n"
+   ],
+   "p1": "69",
+   "pn": "72"
+  },
+  "kantharaju20_lw": {
+   "authors": [
+    [
+     "Reshmashree Bangalore",
+     "Kantharaju"
+    ],
+    [
+     "Catherine",
+     "Pelachaud"
+    ]
+   ],
+   "title": "Analysis of Laughter in Cohesive Groups ",
+   "original": "18",
+   "order": 20,
+   "page_count": 3,
+   "abstract": [
+    "Group cohesion describes the tendency of the group members' shared commitment to group tasks and the interpersonal attraction among them. This paper presents a preliminary analysis of occurrence of laughter with respect to group cohesion using a corpus of multi-party interactions. Results indicate that the occurrence of laughter is higher in cohesive segments and a strong positive correlation exists between the perceived level of cohesion and laughter.\n"
+   ],
+   "p1": "73",
+   "pn": "75"
+  },
+  "kosmala20_lw": {
+   "authors": [
+    [
+     "Loulou",
+     "Kosmala"
+    ]
+   ],
+   "title": "On the distribution of clicks and inbreaths in class presentations and spontaneous conversations: blending vocal and kinetic activities",
+   "original": "19",
+   "order": 21,
+   "page_count": 4,
+   "abstract": [
+    "The present exploratory study compares the distribution of clicks and inbreaths in the productions of French students in two different communication settings (semi-read oral class presentations vs spontaneous dyadic conversations). Grounded in a conversation analytic and discourse-pragmatic approach, mixing qualitative and quantitative methods, this study looks at the functions of clicks and inbreaths as well as accompanying kinetic behaviors (e.g swallowing, facial expressions, hand movement) in discourse. Preliminary results show a higher rate of pre-utterances clicks and inbreaths during oral presentations, which reflects the type of talk produced (structured and clear, which requires planning and preparation). And the qualitative analyses illustrate the ways speakers blend vocal and kinetic activities when producing clicks and inbreaths.\n"
+   ],
+   "p1": "76",
+   "pn": "79"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynotes",
+   "papers": [
+    "truong20_lw",
+    "bryant20_lw"
+   ]
+  },
+  {
+   "title": "Regular papers",
+   "papers": [
+    "mazzocconi20_lw",
+    "belz20_lw",
+    "chlebowski20_lw",
+    "rychlowska20_lw",
+    "braun20_lw",
+    "dinapoli20_lw",
+    "ludusan20_lw",
+    "schulte20_lw",
+    "ginzburg20_lw",
+    "narain20_lw",
+    "muhlack20_lw",
+    "elhaddad20_lw",
+    "schettino20_lw",
+    "maraev20_lw",
+    "allison20_lw",
+    "kamiloglu20_lw",
+    "trouvain20_lw",
+    "kantharaju20_lw",
+    "kosmala20_lw"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "series": "LW",
+ "title": "Interdisciplinary Workshop on The Phonetics of Laughter",
+ "location": "Saarbrücken, Germany",
+ "startDate": "4/8/2007",
+ "endDate": "5/8/2007",
+ "URL": "https://www.coli.uni-saarland.de/conf/laughter-07/index.html",
+ "chair": "Chairs: Jürgen Trouvain and Nick Campbell",
+ "intro": "preface.pdf",
+ "nodoi": "",
+ "nonamedate": "",
+ "nopagenumbers": "",
+ "conf": "LW",
+ "name": "lw_2007",
+ "year": "2007",
+ "SIG": "",
+ "title1": "Interdisciplinary Workshop on The Phonetics of Laughter",
+ "booklet": "preface.pdf",
+ "date": "4-5 August 2007",
+ "month": 8,
+ "day": 4,
+ "now": 1711383629502857,
+ "papers": {
+  "owren07_lw": {
+   "authors": [
+    [
+     "Michael",
+     "Owren"
+    ]
+   ],
+   "title": "Understanding Acoustics and Function in Spontaneous Human Laughter",
+   "original": "invited01",
+   "order": 1,
+   "page_count": 1,
+   "abstract": [
+    "Laughter is often considered a stereotyped and distinctively human signal of positive emotion. Yet, acoustic analyses reveal a great deal of variability in laugh acoustics, and that changes in laughter sounds need not signal comparable changes in emotional state. There is simply not enough evidence to know whether laugh acoustics have specific, well-defined signaling value. However, there is evidence that laughter is deeply rooted in human biology. Great apes, for example, produce recognizably laugh-like vocalizations, and characteristic laughter sounds are produced by humans who are profoundly deaf. Based on acoustic form and likely phylogenetic history, laughter is argued to have evolved primarily as a vehicle of emotional conditioning. In this view, human laughter emerged because it helps foster and maintain positive, mutually beneficial relationships among individuals with genuine liking for one another. It is predicted to as easily have the opposite role among those who do not.\n"
+   ],
+   "p1": "1",
+   "pn": "1"
+  },
+  "kipper07_lw": {
+   "authors": [
+    [
+     "Silke",
+     "Kipper"
+    ],
+    [
+     "Dietmar",
+     "Todt"
+    ]
+   ],
+   "title": "Series of Similar Vocal Elements as a Crucial Acoustic Structure in Human Laughter",
+   "original": "01",
+   "order": 2,
+   "page_count": 5,
+   "abstract": [
+    "Among the many variable sounds in human laughter, vocalizations often contain series of vocal elements of similar acoustic properties. This study aims to elucidate whether such element series contain trajectories of changes in acoustic parameters that might be used to encode information, e.g. on the state of the signaller. We recorded bouts of laughter of adult humans (N = 17) and used a multi-parametric sound analysis to describe the acoustic parameters of vocal elements and their variation. We could show that these elements are distinguishable between individuals, but not necessary between female and male voices. We suggest that the series of similar elements with gradients in acoustic changes within laughter bouts might account for the stereotype and therefore predictable impression of laughter vocalizations.\n"
+   ],
+   "p1": "3",
+   "pn": "7"
+  },
+  "szameitat07_lw": {
+   "authors": [
+    [
+     "Diana",
+     "Szameitat"
+    ],
+    [
+     "Chris",
+     "Darwin"
+    ],
+    [
+     "André",
+     "Szameitat"
+    ],
+    [
+     "Dirk",
+     "Wildgruber"
+    ],
+    [
+     "Annette",
+     "Sterr"
+    ],
+    [
+     "Susanne",
+     "Dietrich"
+    ],
+    [
+     "Kai",
+     "Alter"
+    ]
+   ],
+   "title": "Formant Characteristics of Human Laughter",
+   "original": "02",
+   "order": 3,
+   "page_count": 5,
+   "abstract": [
+    "Although laughter is an important aspect of non-verbal vocalization, its acoustic properties are still not fully understood. Here we provide new data on the spectral properties of laughter. We measured fundamental frequency and formant frequencies of the vowels produced in laughter syllables. In accordance with theoretical predictions and prior observations laughter was mainly based on central vowels. Furthermore, laughter syllables showed higher formant frequencies than normal speech vowels; in particular F1 values could be as high as 1300 Hz for male speakers and 1500 Hz for female speakers. These exceptionally high F1 values might be based on the extreme positions adopted by the vocal tract during laughter in combination with physiological constraints accompanying production of a \"pressed\" voice.\n"
+   ],
+   "p1": "9",
+   "pn": "13"
+  },
+  "esling07_lw": {
+   "authors": [
+    [
+     "John",
+     "Esling"
+    ]
+   ],
+   "title": "States of the Larynx in Laughter",
+   "original": "03",
+   "order": 4,
+   "page_count": 6,
+   "abstract": [
+    "Although laughter can occur in various sequential (horizontal) patterns that have been well described, the voice quality components that can occur in laughter also need to be described in order to constitute a vertical array of possible phonetic contrasts. These components have been referred to as 'states of the larynx' and interact with pitch and with the 'segmental' components of laughter in predictable ways. Changes in laryngeal state can influence the phonetic shape of the voiceless/voiced parameter. Alternations between sources of periodic vibration also play a role in the description of laughter, where these laryngeal components might not otherwise play a role in the phonetics of the given language. Canonical profiles of the principal states of the larynx during various episodes of laughter are demonstrated.\n"
+   ],
+   "p1": "15",
+   "pn": "20"
+  },
+  "kohler07_lw": {
+   "authors": [
+    [
+     "Klaus",
+     "Kohler"
+    ]
+   ],
+   "title": "'Speech-smile', 'Speech-laugh', 'Laughter' and Their Sequencing in Dialogic Interaction",
+   "original": "04",
+   "order": 5,
+   "page_count": 6,
+   "abstract": [
+    "Laughing is examined auditorily and acoustico-graphically, on the basis of exemplary speech data from spontaneous German dialogues, as pulmonic air stream modulation for communicative functions, paying attention to fine phonetic detail.\n"
+   ],
+   "p1": "21",
+   "pn": "26"
+  },
+  "emond07_lw": {
+   "authors": [
+    [
+     "Caroline",
+     "Émond"
+    ],
+    [
+     "Jürgen",
+     "Trouvain"
+    ],
+    [
+     "Lucie",
+     "Ménard"
+    ]
+   ],
+   "title": "Perception of Smiled French Speech by Native vs. Non-native Listeners: A Pilot Study",
+   "original": "06",
+   "order": 6,
+   "page_count": 4,
+   "abstract": [
+    "Smiling is a visible expression and it has been shown that it is audible too. The aim of this paper is to investigate the perception of the prosody of smile in 2 different languages. In order to elicitate smiled speech, 6 speakers of Québec French were required to read sentences displayed with or without caricatures. The sentences produced were used as stimuli for a perception test administered to 10 listeners of Québec French and 10 listeners of German who had no knowledge of French. Results suggest that some prosodic cues are universals and others are culture specific.\n"
+   ],
+   "p1": "27",
+   "pn": "30"
+  },
+  "debenedictis07_lw": {
+   "authors": [
+    [
+     "Marianna",
+     "De Benedictis"
+    ]
+   ],
+   "title": "Psychological and Cross-Cultural Effects on Laughter Sound Production",
+   "original": "07",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "The research within this paper is intended to offer a longitudinal examination of the laugh signal, in order to gain a deeper understanding of how this complex phenomena happens and under which circumstances it can change. So that the main purpose was to identify all the possible sound patterns and elements of a laugh signal, i.e. also those features which are commonly ignored because they are not included among the most well-known ahahah sound pattern. Moreover, taking a case study approach, the research tried to question the possible differences existing between \"spontaneous\" and \"intentional\", as well as an Italian and a German laugh sound.\n"
+   ],
+   "p1": "31",
+   "pn": "35"
+  },
+  "devillers07_lw": {
+   "authors": [
+    [
+     "Laurence",
+     "Devillers"
+    ],
+    [
+     "Laurence",
+     "Vidrascu"
+    ]
+   ],
+   "title": "Positive and Negative Emotional States Behind the Laughs in Spontaneous Spoken Dialogs",
+   "original": "08",
+   "order": 8,
+   "page_count": 4,
+   "abstract": [
+    "This paper deals with a study of laughs in spontaneous speech. We explore the positive and negative valence of laughter in the global aim of the detection of emotional behaviour in speech. It is particularly useful to illustrate the auditory perception of the acoustic features of laughter where its facial expression (smile type) is not visible. A perceptive test has shown that subjects are able to make the distinction between a positive and a negative laugh in our spontaneous corpus. A first conclusion of the acoustic analysis is that unvoiced laughs are more perceived as negative and voiced segments as positive, which is not surprising.\n"
+   ],
+   "p1": "37",
+   "pn": "40"
+  },
+  "pompinomarschall07_lw": {
+   "authors": [
+    [
+     "Bernd",
+     "Pompino-Marschall"
+    ],
+    [
+     "Sabine",
+     "Kowal"
+    ],
+    [
+     "Daniel",
+     "O'Connell"
+    ]
+   ],
+   "title": "Some Phonetic Notes on Emotion: Laughter, Interjections, and Weeping",
+   "original": "09",
+   "order": 9,
+   "page_count": 2,
+   "abstract": [
+    "As consultant for the movie My Fair Lady, Peter Ladefoged must have found it a daunting task to resuscitate the phonetics of the early 20th century. The task in the present situation is just the opposite. We now have an extensive armory of equipment and methods; but the \"primitive\", marginal, and elusive element in the project is the subject matter itself: the phonetics of emotional expressions such as laughter, interjections, and weeping. All three of these areas have been marginalized and neglected in research in the scientific disciplines dealing with the communicative use of human language.\n"
+   ],
+   "p1": "41",
+   "pn": "42"
+  },
+  "lasarcyk07_lw": {
+   "authors": [
+    [
+     "Eva",
+     "Lasarcyk"
+    ],
+    [
+     "Jürgen",
+     "Trouvain"
+    ]
+   ],
+   "title": "Imitating Conversational Laughter With an Articulatory Speech Synthesizer",
+   "original": "10",
+   "order": 10,
+   "page_count": 6,
+   "abstract": [
+    "In this study we present initial efforts to model laughter with an articulatory speech synthesizer. We aimed at imitating a real laugh taken from a spontaneous speech database and created several synthetic versions of it using articulatory synthesis and diphone synthesis. In modeling laughter with articulatory synthesis, we also approximated features like breathing noises that do not normally occur in speech. Evaluation with respect to the perceived degree of naturalness indicated that the laugh stimuli would pass as \"laughs\" in an appropriate conversational context. In isolation, though, significant differences could be measured with regard to the degree of variation (durational patterning, fundamental frequency, intensity) within each laugh.\n"
+   ],
+   "p1": "43",
+   "pn": "48"
+  },
+  "truong07_lw": {
+   "authors": [
+    [
+     "Khiet",
+     "Truong"
+    ],
+    [
+     "David",
+     "van Leeuwen"
+    ]
+   ],
+   "title": "Evaluating automatic laughter segmentation in meetings using acoustic and acoustic-phonetic features",
+   "original": "11",
+   "order": 11,
+   "page_count": 5,
+   "abstract": [
+    "In this study, we investigated automatic laughter segmentation in meetings. We first performed laughter-speech discrimination experiments with traditional spectral features and subsequently used acoustic-phonetic features. In segmentation, we used Gaussian Mixture Models that were trained with spectral features. For the evaluation of the laughter segmentation we used time-weighted Detection Error Tradeoff curves. The results show that the acoustic-phonetic features perform relatively well given their sparseness. For segmentation, we believe that incorporating phonetic knowledge could lead to improvement. We will discuss possibilities for improvement of our automatic laughter detector.\n"
+   ],
+   "p1": "49",
+   "pn": "53"
+  },
+  "laskowski07_lw": {
+   "authors": [
+    [
+     "Kornel",
+     "Laskowski"
+    ],
+    [
+     "Susanne",
+     "Burger"
+    ]
+   ],
+   "title": "On the Correlation Between Contextual and Perceptual Aspects of Laughter",
+   "original": "12",
+   "order": 12,
+   "page_count": 6,
+   "abstract": [
+    "We have analyzed over 13000 bouts of laughter, in over 65 hours of unscripted, naturally occurring multiparty meetings, to identify discriminative contexts of voiced and unvoiced laughter. Our results show that, in meetings, laughter is quite frequent, accounting for almost 10% of all vocal activity effort by time. Approximately a third of all laughter is unvoiced, but meeting participants vary extensively in how often they employ voicing during laughter. In spite of this variability, laughter appears to exhibit robust temporal characteristics. Voiced laughs are on average longer than unvoiced laughs, and appear to correlate with temporally adjacent voiced laughter from other participants, as well as with speech from the laugher. Unvoiced laughter appears to occur independently of vocal activity from other participants.\n"
+   ],
+   "p1": "55",
+   "pn": "60"
+  },
+  "campbell07_lw": {
+   "authors": [
+    [
+     "Nick",
+     "Campbell"
+    ]
+   ],
+   "title": "Who we Laugh With Affects How we Laugh",
+   "original": "13",
+   "order": 13,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes work that shows how the acoustic features of laughter in Japanese speech vary according to conversational partner, reflecting the social status of laughter, and confirming that even such a simple sound is affected by non-linguistic factors such as social or intercultural relationships. Neural networks were successfully trained to identify the nature of the interlocutor from principal components of the acoustic and prosodic features of the laughing speech.\n"
+   ],
+   "p1": "61",
+   "pn": "65"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynotes",
+   "papers": [
+    "owren07_lw"
+   ]
+  },
+  {
+   "title": "Regular papers",
+   "papers": [
+    "kipper07_lw",
+    "szameitat07_lw",
+    "esling07_lw",
+    "kohler07_lw",
+    "emond07_lw",
+    "debenedictis07_lw",
+    "devillers07_lw",
+    "pompinomarschall07_lw",
+    "lasarcyk07_lw",
+    "truong07_lw",
+    "laskowski07_lw",
+    "campbell07_lw"
+   ]
+  }
+ ]
+}
