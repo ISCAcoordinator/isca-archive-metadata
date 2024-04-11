@@ -1,891 +1,891 @@
 {
- "title": "7th International Workshop on Speech Processing in Everyday Environments (CHiME 2023)",
- "series": "CHiME",
- "location": "Dublin, Ireland",
- "startDate": "25/8/2023",
- "endDate": "25/8/2023",
- "URL": "https://www.chimechallenge.org/workshops/chime2023/",
- "chair": "Chairs: Jon Barker, Emmanuel Vincent, Shinji Watanabe, Michael Mandel, Marc Delcroix and Leibny Paola Garcia Perera",
- "conf": "CHiME",
- "name": "chime_2023",
- "year": "2023",
- "SIG": "",
- "title1": "7th International Workshop on Speech Processing in Everyday Environments",
- "title2": "(CHiME 2023)",
- "booklet": "intro.pdf",
- "date": "25 August 2023",
- "month": 8,
- "day": 25,
- "now": 1701424857896446,
- "papers": {
-  "cornell23_chime": {
-   "authors": [
-    [
-     "Samuele",
-     "Cornell"
-    ],
-    [
-     "Matthew S.",
-     "Wiesner"
-    ],
-    [
-     "Shinji",
-     "Watanabe"
-    ],
-    [
-     "Desh",
-     "Raj"
-    ],
-    [
-     "Xuankai",
-     "Chang"
-    ],
-    [
-     "Paola",
-     "Garcia"
-    ],
-    [
-     "Yoshiki",
-     "Masuyam"
-    ],
-    [
-     "Zhong-Qiu",
-     "Wang"
-    ],
-    [
-     "Stefano",
-     "Squartini"
-    ],
-    [
-     "Sanjeev",
-     "Khudanpur"
-    ]
-   ],
-   "title": "The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios",
-   "original": "CHiME_2023_paper_cornell",
-   "order": 2,
-   "page_count": 6,
-   "abstract": [
-    "The CHiME challenges have played a significant role in the development and evaluation of robust automatic speech recognition (ASR) systems. We introduce the CHiME-7 distant ASR (DASR) task, within the 7th CHiME challenge. This task comprises joint ASR and diarization in far-field settings with multiple, and possibly heterogeneous, recording devices. Different from previous challenges, we evaluate systems on 3 diverse scenarios: CHiME-6, DiPCo, and Mixer 6. The goal is for participants to devise a single system that can generalize across different array geometries and use cases with no a-priori information. Another departure from earlier CHiME iterations is that participants are allowed to use open-source pre-trained models and datasets. In this paper, we describe the challenge design, motivation, and fundamental research questions in detail. We also present the baseline system, which is fully array-topology agnostic and features multi-channel diarization, channel selection, guided source separation and a robust ASR model that leverages self-supervised speech representations (SSLR)."
-   ],
-   "p1": 1,
-   "pn": 6,
-   "doi": "10.21437/CHiME.2023-1",
-   "url": "chime_2023/cornell23_chime.html"
+  "title": "7th International Workshop on Speech Processing in Everyday Environments (CHiME 2023)",
+  "series": "CHiME",
+  "location": "Dublin, Ireland",
+  "startDate": "25/8/2023",
+  "endDate": "25/8/2023",
+  "URL": "https://www.chimechallenge.org/workshops/chime2023/",
+  "chair": "Chairs: Jon Barker, Emmanuel Vincent, Shinji Watanabe, Michael Mandel, Marc Delcroix and Leibny Paola Garcia Perera",
+  "conf": "CHiME",
+  "name": "chime_2023",
+  "year": "2023",
+  "SIG": "",
+  "title1": "7th International Workshop on Speech Processing in Everyday Environments",
+  "title2": "(CHiME 2023)",
+  "booklet": "intro.pdf",
+  "date": "25 August 2023",
+  "month": 8,
+  "day": 25,
+  "now": 1701424857896446,
+  "papers": {
+    "cornell23_chime": {
+      "authors": [
+        [
+          "Samuele",
+          "Cornell"
+        ],
+        [
+          "Matthew S.",
+          "Wiesner"
+        ],
+        [
+          "Shinji",
+          "Watanabe"
+        ],
+        [
+          "Desh",
+          "Raj"
+        ],
+        [
+          "Xuankai",
+          "Chang"
+        ],
+        [
+          "Paola",
+          "Garcia"
+        ],
+        [
+          "Yoshiki",
+          "Masuyam"
+        ],
+        [
+          "Zhong-Qiu",
+          "Wang"
+        ],
+        [
+          "Stefano",
+          "Squartini"
+        ],
+        [
+          "Sanjeev",
+          "Khudanpur"
+        ]
+      ],
+      "title": "The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios",
+      "original": "CHiME_2023_paper_cornell",
+      "order": 2,
+      "page_count": 6,
+      "abstract": [
+        "The CHiME challenges have played a significant role in the development and evaluation of robust automatic speech recognition (ASR) systems. We introduce the CHiME-7 distant ASR (DASR) task, within the 7th CHiME challenge. This task comprises joint ASR and diarization in far-field settings with multiple, and possibly heterogeneous, recording devices. Different from previous challenges, we evaluate systems on 3 diverse scenarios: CHiME-6, DiPCo, and Mixer 6. The goal is for participants to devise a single system that can generalize across different array geometries and use cases with no a-priori information. Another departure from earlier CHiME iterations is that participants are allowed to use open-source pre-trained models and datasets. In this paper, we describe the challenge design, motivation, and fundamental research questions in detail. We also present the baseline system, which is fully array-topology agnostic and features multi-channel diarization, channel selection, guided source separation and a robust ASR model that leverages self-supervised speech representations (SSLR)."
+      ],
+      "p1": 1,
+      "pn": 6,
+      "doi": "10.21437/CHiME.2023-1",
+      "url": "chime_2023/cornell23_chime.html"
+    },
+    "leglaive23_chime": {
+      "authors": [
+        [
+          "Simon",
+          "Leglaive"
+        ],
+        [
+          "L\u00e9onie",
+          "Borne"
+        ],
+        [
+          "Efthymios",
+          "Tzinis"
+        ],
+        [
+          "Mostafa",
+          "Sadeghi"
+        ],
+        [
+          "Matthieu",
+          "Fraticelli"
+        ],
+        [
+          "Scott",
+          "Wisdom"
+        ],
+        [
+          "Manuel",
+          "Pariente"
+        ],
+        [
+          "Daniel",
+          "Pressnitzer"
+        ],
+        [
+          "John",
+          "Hershey"
+        ]
+      ],
+      "title": "The CHiME-7 UDASE task: Unsupervised domain adaptation for conversational speech enhancement",
+      "original": "CHiME_2023_paper_leglaive",
+      "order": 3,
+      "page_count": 6,
+      "abstract": [
+        "Supervised speech enhancement models are trained using artificially generated mixtures of clean speech and noise signals, which may not match real-world recording conditions at test time. This mismatch can lead to poor performance if the test domain significantly differs from the synthetic training domain. This paper introduces the unsupervised domain adaptation for conversational speech enhancement (UDASE) task of the 7th CHiME challenge. This task aims to leverage real-world noisy speech recordings from the target domain for unsupervised domain adaptation of speech enhancement models. The target domain corresponds to the multi-speaker reverberant conversational speech recordings of the CHiME-5 dataset, for which the ground-truth clean speech reference is unavailable. Given a CHiME-5 recording, the task is to estimate the clean, potentially multi-speaker, reverberant speech, removing the additive background noise. We discuss the motivation for the CHiME-7 UDASE task and describe the data, the task, and the baseline system."
+      ],
+      "p1": 7,
+      "pn": 12,
+      "doi": "10.21437/CHiME.2023-2",
+      "url": "chime_2023/leglaive23_chime.html"
+    },
+    "wan23_chime": {
+      "authors": [
+        [
+          "Ruoyu",
+          "Wan"
+        ],
+        [
+          "Maokui",
+          "He"
+        ],
+        [
+          "Jun",
+          "Du"
+        ],
+        [
+          "Hengshun",
+          "Zhou"
+        ],
+        [
+          "Shutong",
+          "Niu"
+        ],
+        [
+          "Hang",
+          "Chen"
+        ],
+        [
+          "Yanyan",
+          "Yue"
+        ],
+        [
+          "Gaobin",
+          "Yang"
+        ],
+        [
+          "Shilong",
+          "Wu"
+        ],
+        [
+          "Lei",
+          "Sun"
+        ],
+        [
+          "Yanhui",
+          "Tu"
+        ],
+        [
+          "Haitao",
+          "Tang"
+        ],
+        [
+          "Shuangqing",
+          "Qian"
+        ],
+        [
+          "Tian",
+          "Gao"
+        ],
+        [
+          "Mengzhi",
+          "Wang"
+        ],
+        [
+          "Genshun",
+          "Wan"
+        ],
+        [
+          "Jia",
+          "Pan"
+        ],
+        [
+          "Jianqing",
+          "Gao"
+        ],
+        [
+          "Chin-Hui",
+          "Lee"
+        ]
+      ],
+      "title": "The USTC-NERCSLIP Systems for CHiME-7 Challenge",
+      "original": "CHiME_2023_paper_wang",
+      "order": 4,
+      "page_count": 6,
+      "abstract": [
+        "This technical report details our submission system to the CHiME-7 DASR Challenge, which focuses on speaker diarization and speech recognition under complex multi-speaker scenarios. Additionally, it also evaluates the efficiency of systems in handling diverse array devices. To address these issues, we implemented an end-to-end speaker diarization system and introduced a rectification strategy based on multi-channel spatial information. This approach significantly diminished the word error rates (WER). In terms of recognition, we utilized publicly available pre-trained models as the foundational models to train our end-to-end speech recognition models. Our system attained a Macro-averaged diarization-attributed WER (DA-WER) of 21.01% on the CHiME-7 evaluation set, which signifies a relative improvement of 62.04% over the official baseline system."
+      ],
+      "p1": 13,
+      "pn": 18,
+      "doi": "10.21437/CHiME.2023-3",
+      "url": "chime_2023/wan23_chime.html"
+    },
+    "zhang23_chime": {
+      "authors": [
+        [
+          "Zihan",
+          "Zhang"
+        ],
+        [
+          "Runduo",
+          "Han"
+        ],
+        [
+          "Ziqian",
+          "Wang"
+        ],
+        [
+          "Xianjun",
+          "Xia"
+        ],
+        [
+          "Yijian",
+          "Xiao"
+        ],
+        [
+          "Lei",
+          "Xie"
+        ]
+      ],
+      "title": "The NWPU-ByteAudio System for CHiME-7 Task 2 UDASE Challenge",
+      "original": "CHiME_2023_paper_zhang",
+      "order": 5,
+      "page_count": 4,
+      "abstract": [
+        "This paper describes the NWPU-ByteAudio system for CHiME-7 Task 2 - unsupervised domain adaptation for conversational speech enhancement (UDASE). To better make use of the in-domain mixture data, we improve the self-supervised learning (SSL) approach RemixIT with MetricGAN discriminator, resulting in an updated version called RemixIT-G. Under the RemixIT-G framework, we take Uformer+ as the speech enhancement model, which is an improved version of Uformer updated with the MetricGAN discriminator as well. We also apply an unsupervised noise adaptation model to generate noisy speech in the target domain. A perceptual contrast stretching (PCS) method is used to further improve the auditory perception quality of the enhanced speech. Our approach has achieved an SI-SDR of 12.95 and an OVRL-MOS of 3.07 in the CHiME-7 task 2 evaluation set and ranked the 1st place in the challenge."
+      ],
+      "p1": 19,
+      "pn": 22,
+      "doi": "10.21437/CHiME.2023-4",
+      "url": "chime_2023/zhang23_chime.html"
+    },
+    "ye23_chime": {
+      "authors": [
+        [
+          "Lingxuan",
+          "Ye"
+        ],
+        [
+          "Haitian",
+          "Lu"
+        ],
+        [
+          "Gaofeng",
+          "Cheng"
+        ],
+        [
+          "Yifan",
+          "Chen"
+        ],
+        [
+          "Zengqiang",
+          "Shang"
+        ],
+        [
+          "Xuyuan",
+          "Li"
+        ]
+      ],
+      "title": "The IACAS-Thinkit System for CHiME-7 Challenge",
+      "original": "CHiME_2023_paper_ye",
+      "order": 6,
+      "page_count": 4,
+      "abstract": [
+        "This paper reports the IACAS-Thinkit\u2019s system for the 7th CHiME challenge\u2019s task 1: distant automatic speech transcription and segmentation with multiple recording devices. Our system includes training data augmentation, target speaker voice activity detection (TS-VAD) based speaker diarization (SD), time-domain speakerbeam based single channel target speaker extraction (TSE), guided source separation (GSS) based multi-channel speech separation and WavLM based speech recognition. Evaluated on the CHiME-7 evaluation set, our system for the main track achieves 25.0% macro-average Diarization-attributed Word Error Rate (DA-WER), with an absolute reduction of 30.27% over the baseline system; our system for the far-field acoustic robustness sub-track achieves 20.5% macro-average DA-WER, with an absolute reduction of 13.75% over the baseline system."
+      ],
+      "p1": 23,
+      "pn": 26,
+      "doi": "10.21437/CHiME.2023-5",
+      "url": "chime_2023/ye23_chime.html"
+    },
+    "neumann23_chime": {
+      "authors": [
+        [
+          "Thilo von",
+          "Neumann"
+        ],
+        [
+          "Christoph B.",
+          "Boeddeker"
+        ],
+        [
+          "Marc",
+          "Delcroix"
+        ],
+        [
+          "Reinhold",
+          "Haeb-Umbach"
+        ]
+      ],
+      "title": "MeetEval: A Toolkit for Computation of Word Error Rates for Meeting Transcription Systems",
+      "original": "CHiME_2023_paper_neumann",
+      "order": 7,
+      "page_count": 6,
+      "abstract": [
+        "MeetEval is an open-source toolkit to evaluate all kinds of meeting transcription systems. It provides a unified interface for the computation of commonly used Word Error Rates (WERs), specifically cpWER, ORC WER and MIMO WER along other WER definitions. We extend the cpWER computation by a temporal constraint to ensure that only words are identified as correct when the temporal alignment is plausible. This leads to a better quality of the matching of the hypothesis string to the reference string that more closely resembles the actual transcription quality, and a system is penalized if it provides poor time annotations. Since word-level timing information is of- ten not available, we present a way to approximate exact word-level timings from segment-level timings (e.g., a sentence) and show that the approximation leads to a similar WER as a matching with exact word-level annotations. At the same time, the time constraint leads to a speedup of the matching algorithm, which outweighs the additional overhead caused by processing the time stamps."
+      ],
+      "p1": 27,
+      "pn": 32,
+      "doi": "10.21437/CHiME.2023-6",
+      "url": "chime_2023/neumann23_chime.html"
+    },
+    "close23_chime": {
+      "authors": [
+        [
+          "George L.",
+          "Close"
+        ],
+        [
+          "William",
+          "Ravenscroft"
+        ],
+        [
+          "Thomas",
+          "Hain"
+        ],
+        [
+          "Stefan",
+          "Goetze"
+        ]
+      ],
+      "title": "The University of Sheffield CHiME-7 UDASE Challenge Speech Enhancement System",
+      "original": "CHiME_2023_paper_close",
+      "order": 9,
+      "page_count": 6,
+      "abstract": [
+        "The CHiME-7 unsupervised domain adaptation speech enhancement (UDASE) challenge targets domain adaptation to unlabelled speech data. This paper describes the University of Sheffield team\u2019s system submitted to the challenge. A generative adversarial network (GAN) methodology based on a conformer-based metric GAN (CMGAN) is employed as opposed to the unsupervised RemixIT strategy used in the CHiME-7 baseline system. The discriminator of the GAN is trained to predict the output score of a Deep Noise Suppression Mean Opinion Score (DNSMOS) metric. Additional data augmentation strategies are employed which provide the discriminator with historical training data outputs as well as more diverse training examples from an additional pseudo-generator. The proposed approach, denoted as CMGAN+/+, achieves significant improvement in DNSMOS evaluation metrics with the best proposed system achieving 3.51 OVR-MOS, a 24% improvement over the baseline.\n"
+      ],
+      "p1": 33,
+      "pn": 38,
+      "doi": "10.21437/CHiME.2023-7",
+      "url": "chime_2023/close23_chime.html"
+    },
+    "jang23_chime": {
+      "authors": [
+        [
+          "Jaehoo",
+          "Jang"
+        ],
+        [
+          "Myoung-Wan",
+          "Koo"
+        ]
+      ],
+      "title": "The SGU Systems for the CHiME-7 UDASE Challenge",
+      "original": "CHiME_2023_paper_jang",
+      "order": 10,
+      "page_count": 6,
+      "abstract": [
+        "In this work, we present a description of SGU domain-adapted speech enhancement system implementation that enhances the baseline of the CHiME-7 challenge. We introduce two significant modifications. Firstly, we replace the Sudo rm-rf [1] architecture with the Mossformer [2], which incorporates convolution-augmented joint local and global self-attention mechanisms. It performs fully-computed self-attention on local chunks and utilizes linearized low-cost self-attention over the entire sequence. As a second modification, we incorporate a speech purification technique at the baseline when conducting self-supervised learning for the student model. This technique predicts the frame-level SNR of the pseudo-target speech and utilizes them as weights for the discrepancy function between the pseudo-target speech and the student model\u2019s estimated speech. Consequently, We achieved an SI-SDR score of 12.42 on the LibriCHiME-5 dataset for both modifications. Additionally, implementing the Mossformer architecture on the CHiME-5 dataset leads to a 2.90 OVRL-MOS and 3.39 SIG-MOS. Also, the application of the purification method results in a 3.71 BAK-MOS. Finally, we demonstrate the superior performance of our approach compared to the baseline."
+      ],
+      "p1": 39,
+      "pn": 44,
+      "doi": "10.21437/CHiME.2023-8",
+      "url": "chime_2023/jang23_chime.html"
+    },
+    "kamo23_chime": {
+      "authors": [
+        [
+          "Naoyuki",
+          "Kamo"
+        ],
+        [
+          "Naohiro",
+          "Tawara"
+        ],
+        [
+          "Kohei",
+          "Matsuura"
+        ],
+        [
+          "Takanori",
+          "Ashihara"
+        ],
+        [
+          "Takafumi",
+          "Moriya"
+        ],
+        [
+          "Atsunori",
+          "Ogawa"
+        ],
+        [
+          "Hiroshi",
+          "Sato"
+        ],
+        [
+          "Tsubasa",
+          "Ochiai"
+        ],
+        [
+          "Atsushi",
+          "Ando"
+        ],
+        [
+          "Rintaro",
+          "Ikeshita"
+        ],
+        [
+          "Takatomo",
+          "Kano"
+        ],
+        [
+          "Marc",
+          "Delcroix"
+        ],
+        [
+          "Tomohiro",
+          "Nakatani"
+        ],
+        [
+          "Taichi",
+          "Asami"
+        ],
+        [
+          "Shoko",
+          "Araki"
+        ]
+      ],
+      "title": "NTT Multi-Speaker ASR System for the DASR Task of CHiME-7 Challenge",
+      "original": "CHiME_2023_paper_kamo",
+      "order": 11,
+      "page_count": 6,
+      "abstract": [
+        "We introduce our submission to the Distant automatic speech recognition (DSAR) task of the CHiME 7 challenge. Our system uses end-to-end diarization with vector clustering (EEND-VC), guided source separation (GSS), and attention-based encoder-decoder and transducer-based ASR systems. Our submission exploits pre-trained self-supervised learning (SSL) models to build strong diarization and ASR modules. We also explore data augmentation using contrastive data selection based on representations from SSL models. Besides, we use self-supervised adaptation (SSA) to adapt these modules to the recording conditions of each session. Our DASR system achieves a 36 % diarization error rate (DER) reduction and 47 % word error rate reduction (WER) over the baseline on the main track of the evaluation set and ranked third in the challenge. "
+      ],
+      "p1": 45,
+      "pn": 50,
+      "doi": "10.21437/CHiME.2023-9",
+      "url": "chime_2023/kamo23_chime.html"
+    },
+    "boeddeker23_chime": {
+      "authors": [
+        [
+          "Christoph B.",
+          "Boeddeker"
+        ],
+        [
+          "Tobias",
+          "Cord-Landwehr"
+        ],
+        [
+          "Thilo von",
+          "Neumann"
+        ],
+        [
+          "Reinhold",
+          "Haeb-Umbach"
+        ]
+      ],
+      "title": "Multi-stage diarization refinement for the CHiME-7 DASR scenario",
+      "original": "CHiME_2023_paper_boeddeker",
+      "order": 12,
+      "page_count": 6,
+      "abstract": [
+        "This submission for the CHiME-7 DASR challenge consists of a TS-VAD system for diarization followed by a GSS system for source extraction. Then, a segment-level refinement is applied to the enhanced audio segments, before using the baseline ASR system for transcribing the audio. As initialization for the TS-VAD, the baseline diarization system was used to identify single-speaker regions that are used to extract enrollment embeddings for each speaker in a meeting. The TS-VAD system is applied on each microphone channel independently, and the soft estimates at the TS-VAD output are averaged across the microphones, before converting them to hard estimates, i.e., the diarization estimates Additionally, we analyzed the estimates and found many speaker swaps and less ideal segments. To address them, we propose a simple post-processing step by comparing speaker embeddings from the baseline diarization, i.e., the enrollment embeddings, with speaker embeddings derived from the enhanced data. Through the usage of TS-VAD, we improve upon the baseline word error rate on the CHiME-6 dataset by 3.6 percentage points, whereas the postprocessing results in an additional consistent word error rate improvement of 2 % to 4 % absolute."
+      ],
+      "p1": 51,
+      "pn": 56,
+      "doi": "10.21437/CHiME.2023-10",
+      "url": "chime_2023/boeddeker23_chime.html"
+    },
+    "park23_chime": {
+      "authors": [
+        [
+          "Tae Jin",
+          "Park"
+        ],
+        [
+          "He",
+          "Huang"
+        ],
+        [
+          "Ante",
+          "Juki\u0107"
+        ],
+        [
+          "Kunal",
+          "Dhawan"
+        ],
+        [
+          "Krishna C.",
+          "Puvvada"
+        ],
+        [
+          "Nithin Rao",
+          "Koluguri"
+        ],
+        [
+          "Nikolay",
+          "Karpov"
+        ],
+        [
+          "Aleksandr",
+          "Laptev"
+        ],
+        [
+          "Jagadeesh",
+          "Balam"
+        ],
+        [
+          "Boris",
+          "Ginsburg"
+        ]
+      ],
+      "title": "The CHiME-7 Challenge: System Description and Performance of NeMo Team\u2019s DASR System",
+      "original": "CHiME_2023_paper_park1",
+      "order": 13,
+      "page_count": 6,
+      "abstract": [
+        "We present the NVIDIA NeMo team\u2019s multi-channel speech recognition system for the 7th CHiME Challenge Distant Automatic Speech Recognition (DASR) Task, focusing on the development of a multi-channel, multi-speaker speech recognition system tailored to transcribe speech from distributed microphones and microphone arrays. The system predominantly comprises of the following integral modules: the Speaker Diarization Module, Multi-channel Audio Front-End Processing Module, and the ASR Module. These components collectively establish a cascading system, meticulously processing multi-channel and multi-speaker audio input. Moreover, this paper highlights the comprehensive optimization process that significantly enhanced our system\u2019s performance. Our team\u2019s submission is largely based on NeMo toolkits and will be publicly available."
+      ],
+      "p1": 57,
+      "pn": 62,
+      "doi": "10.21437/CHiME.2023-11",
+      "url": "chime_2023/park23_chime.html"
+    },
+    "mu23_chime": {
+      "authors": [
+        [
+          "Bingshen",
+          "Mu"
+        ],
+        [
+          "Pengcheng",
+          "Guo"
+        ],
+        [
+          "He",
+          "Wang"
+        ],
+        [
+          "Yangze",
+          "Li"
+        ],
+        [
+          "Yang",
+          "Li"
+        ],
+        [
+          "Pan",
+          "Zhou"
+        ],
+        [
+          "Wei",
+          "Chen"
+        ],
+        [
+          "Lei",
+          "Xie"
+        ]
+      ],
+      "title": "The NPU System for DASR Task of CHiME-7 Challenge",
+      "original": "CHiME_2023_paper_mu",
+      "order": 14,
+      "page_count": 4,
+      "abstract": [
+        "This study describes the NPU system for the Distant Automatic Speech Recognition (DASR) task of the CHiME-7 Challenge. Specifically, two attention-based channel selection modules are introduced to automatically select the most advantageous channel subset from multiple signal channels. Furthermore, we incorporate additional spatial features during the cross-channel attention, which guides the model to capture the desired signals while suppressing the interference sources. It is noteworthy that these enhancements solely pertain to the ASR model, with no modifications made to the speaker diarization (SD). Our approach achieves a Macro diarization attributed word error rate (DA-WER) of 22.28% on CHiME-7 dev sets with oracle diarization and 41.04% on CHiME-7 dev sets with baseline SD results."
+      ],
+      "p1": 63,
+      "pn": 66,
+      "doi": "10.21437/CHiME.2023-12",
+      "url": "chime_2023/mu23_chime.html"
+    },
+    "karafiat23_chime": {
+      "authors": [
+        [
+          "Martin",
+          "Karafiat"
+        ],
+        [
+          "Karel",
+          "Vesel\u00fd"
+        ],
+        [
+          "Igor",
+          "Szoke"
+        ],
+        [
+          "Ladislav",
+          "Mosner"
+        ],
+        [
+          "Karel",
+          "Benes"
+        ],
+        [
+          "Marcin",
+          "Witkowski"
+        ],
+        [
+          "Ricardo German",
+          "Barchi"
+        ],
+        [
+          "Leonardo D.",
+          "Pepino"
+        ]
+      ],
+      "title": "BUT CHiME-7 system description",
+      "original": "CHiME_2023_paper_karafiat",
+      "order": 15,
+      "page_count": 6,
+      "abstract": [
+        "This paper describes the joint effort of Brno University of Technology (BUT), AGH University of Krakow and University of Buenos Aires on the development of Automatic Speech Recognition systems for the CHiME-7 Challenge. We train and evaluate various end-to-end models with several toolkits. We heavily relied on Guided Source Separation (GSS) to convert multi-channel audio to single channel. The ASR is leveraging speech representations from models pre-trained by self-supervised learning, and we do a fusion of several ASR systems. In addition, we modified external data from the LibriSpeech corpus to become a close domain and added it to the training. Our efforts were focused on the far-field acoustic robustness sub-track of Task 1 - Distant Automatic Speech Recognition (DASR), our systems use oracle segmentation."
+      ],
+      "p1": 67,
+      "pn": 72,
+      "doi": "10.21437/CHiME.2023-13",
+      "url": "chime_2023/karafiat23_chime.html"
+    },
+    "deng23_chime": {
+      "authors": [
+        [
+          "Keqi",
+          "Deng"
+        ],
+        [
+          "Xianrui",
+          "Zheng"
+        ],
+        [
+          "Phil",
+          "Woodland"
+        ]
+      ],
+      "title": "The University of Cambridge System for the CHiME-7 DASR Task",
+      "original": "CHiME_2023_paper_deng",
+      "order": 16,
+      "page_count": 4,
+      "abstract": [
+        "This paper summarises the Cambridge team\u2019s work in the DASR Task of the CHiME-7 Challenge for speaker diarisation and automatic speech recognition (ASR). For speaker diarisation, the combination of Pyannote and ECAPA-TDNN was explored. For ASR, a two-pass ASR system was built. The first-pass model was based on a CTC model fine-tuned from a pre-trained WavLM model, based on which test-time unsupervised adaptation was implemented before decoded with a 4-gram language model (LM). For the second-pass system, with WavLM-based encoders, forward and backward hybrid CTC/attention models, as well as a label-synchronous neural transducer model, were trained for re-scoring. As a result of these efforts, for the sub-track, the Cambridge system achieved 21.7% and 22.7% DA-WER on the overall Dev and Eval sets respectively, with 24.6% and 32.0% relative error-rate reductions over the challenge baselines. For the main track, an ECAPA-based system was used for diarisation. Using our diarisation, together with our proposed ASR, the submitted main-track system gave a DA-WER of 38.7% on the Eval set which is with a 30% relative reduction in error rate compared to the challenge baseline."
+      ],
+      "p1": 73,
+      "pn": 76,
+      "doi": "10.21437/CHiME.2023-14",
+      "url": "chime_2023/deng23_chime.html"
+    },
+    "russell23_chime": {
+      "authors": [
+        [
+          "Sam O\u2019Connor",
+          "Russell"
+        ],
+        [
+          "Ayushi",
+          "Pandey"
+        ],
+        [
+          "Naomi",
+          "Harte"
+        ]
+      ],
+      "title": "Do We Hyperarticulate on Zoom?",
+      "original": "CHiME_2023_paper_russell",
+      "order": 17,
+      "page_count": 5,
+      "abstract": [
+        "Hyperarticulation is a form of speech which helps overcome multimodal impediments to communication. However, it can degrade the performance of automatic speech recognition (ASR). Videoconferencing is in widespread use and is often supported by ASR for captioning and diarisation. Hence, there is a need to understand the nature of speech production in video-conferencing. We ask whether \u2019Zoom speech\u2019 - characterised by increased pauses and formality - is hyperarticulation. We conduct a comparative study of in-person and Zoom conversational interactions. We find some but not all features of classic hyperarticulation in Zoom interactions. Consistent with hyperarticulation we find more pauses, longer vowels, and an increased F0. Changes to the articulation rate, F0 range and vowel space are not consistent with hyperarticulated speech. To the best of our knowledge, our work is the first to assess video-conferencing speech for the presence of hyperarticulation. We discuss whether videoconferencing merely disrupts interaction, or induces an atypical form of multimodal hyperarticulation."
+      ],
+      "p1": 77,
+      "pn": 81,
+      "doi": "10.21437/CHiME.2023-15",
+      "url": "chime_2023/russell23_chime.html"
+    },
+    "park23b_chime": {
+      "authors": [
+        [
+          "Tae Jin",
+          "Park"
+        ],
+        [
+          "He",
+          "Huang"
+        ],
+        [
+          "Coleman",
+          "Hooper"
+        ],
+        [
+          "Nithin Rao",
+          "Koluguri"
+        ],
+        [
+          "Kunal",
+          "Dhawan"
+        ],
+        [
+          "Ante",
+          "Juki\u0107"
+        ],
+        [
+          "Jagadeesh",
+          "Balam"
+        ],
+        [
+          "Boris",
+          "Ginsburg"
+        ]
+      ],
+      "title": "Property-Aware Multi-Speaker Data Simulation: A Probabilistic Modelling Technique for Synthetic Data Generation",
+      "original": "CHiME_2023_paper_park2",
+      "order": 18,
+      "page_count": 5,
+      "abstract": [
+        "We introduce a sophisticated multi-speaker speech data simulator, specifically engineered to generate multi-speaker speech recordings. A notable feature of this simulator is its capacity to modulate the distribution of silence and overlap via the adjustment of statistical parameters. This capability offers a tailored training environment for developing neural models suited for speaker diarization and voice activity detection. The acquisition of substantial datasets for speaker diarization often presents a significant challenge, particularly in multi-speaker scenarios. Furthermore, the precise time stamp annotation of speech data is a critical factor for training both speaker diarization and voice activity detection. Our proposed multi-speaker simulator tackles these problems by generating large-scale audio mixtures that maintain statistical properties closely aligned with the input parameters. We demonstrate that the proposed multi-speaker simulator generates audio mixtures with statistical properties that closely align with the input parameters derived from real-world statistics. Additionally, we present the effectiveness of speaker diarization and voice activity detection models, which have been trained exclusively on the generated simulated datasets."
+      ],
+      "p1": 82,
+      "pn": 86,
+      "doi": "10.21437/CHiME.2023-16",
+      "url": "chime_2023/park23b_chime.html"
+    },
+    "prisyach23_chime": {
+      "authors": [
+        [
+          "Tatiana",
+          "Prisyach"
+        ],
+        [
+          "Yuri",
+          "Khokhlov"
+        ],
+        [
+          "Maxim",
+          "Korenevsky"
+        ],
+        [
+          "Anton",
+          "Mitrofanov"
+        ],
+        [
+          "Tatiana",
+          "Timofeeva"
+        ],
+        [
+          "Ilia",
+          "Odegov"
+        ],
+        [
+          "Rauf",
+          "Nasretdinov"
+        ],
+        [
+          "Iurii",
+          "Lezhenin"
+        ],
+        [
+          "Dmitriy",
+          "Miroshnichenko"
+        ],
+        [
+          "Arsenii",
+          "Karelin"
+        ],
+        [
+          "Mariya",
+          "Mitrofanova"
+        ],
+        [
+          "Roman",
+          "Svechnikov"
+        ],
+        [
+          "Sergey",
+          "Novoselov"
+        ],
+        [
+          "Aleksei",
+          "Romanenko"
+        ]
+      ],
+      "title": "STCON System for the CHiME-7 Challenge",
+      "original": "CHiME_2023_paper_prisyach",
+      "order": 19,
+      "page_count": 6,
+      "abstract": [
+        "This paper describes the STCON system for the CHiME-7 challenge Task 1 (DASR) aimed at distant automatic speech transcription and segmentation with multiple recording devices. The system is generally similar to the Speech Technology Center (STC) system for the CHiME-6 challenge but uses more sophisticated and advanced models for diarization and ASR. Care-fully designed pipeline provides significant improvements com-pared to the baseline system."
+      ],
+      "p1": 87,
+      "pn": 92,
+      "doi": "10.21437/CHiME.2023-17",
+      "url": "chime_2023/prisyach23_chime.html"
+    },
+    "harte23_chime": {
+      "authors": [
+        [
+          "Naomi",
+          "Harte"
+        ]
+      ],
+      "title": "Understanding Speech in Everyday Environments \u2013 Is Multimodality the Answer?",
+      "original": "CHiME_2023_paper_harte",
+      "order": 8,
+      "page_count": 0,
+      "abstract": [
+        "This talk will consider the multimodal nature of speech and speech technology. Human speech communication is extremely rich. We use many elements to communicate, from words to gestures and eye gaze, and seamlessly interpret these many cues in our conversations. In noisy situations, humans appear to dynamically change their use of different modalities in response to their environment. Is exploiting multimodality hence the solution to developing speech processing algorithms that are robust in everyday environments? In this talk, I\u2019ll look at how visual and linguistic information can be integrated into deep learning frameworks for audio-visual speech recognition and turn taking prediction. I\u2019ll also look at how availability of suitable datasets, with adequate labelling, can help or hinder development in this domain.\n"
+      ],
+      "p1": "",
+      "pn": ""
+    },
+    "hsu23_chime": {
+      "authors": [
+        [
+          "Wei-Ning",
+          "Hsu"
+        ]
+      ],
+      "title": "Multimodal and Large-Scale Generative Models for Enhancement",
+      "original": "CHiME_2023_paper_hsu",
+      "order": 1,
+      "page_count": 0,
+      "abstract": [
+        "What is the goal of speech enhancement, and what is the definition of a perfectly enhanced speech sample? Conventional speech enhancement usually concerns additive noise and treats the source speech as the single oracle which an enhancement model should reconstruct exactly. Performance is often measured by signal-level metrics like SDR and PESQ. The paradigm has two main issues. First, why should we consider the source speech as oracle? Those references might also contain some noise and might not be recorded with the best-quality microphone. Should a model be penalized when generating enhanced speech that \u201csounds better\u201d than the reference speech? Second, even when the reference speech is of superior quality, there could still be multiple samples that sound identical to the reference to humans yet being very different from the reference in the waveform space (e.g., time shift, phase shift). Should a model be penalized if it generates one of those samples that sounds just as good as the reference?\n",
+        "In this talk, I will present two recent studies on generative modeling with applications to the \u201cgeneralized speech enhancement\u201d problem. The goal of generalized speech enhancement is to ensure the desired factors, such as content and voice, are preserved/enhanced, instead of reconstructing the source speech exactly. The first study is ReVISE, which leverages AV-HuBERT and HiFi-GAN to build a universal model for lip-to-speech synthesis, audio-visual speech inpainting, enhancement, and separation. By using a pre-trained model, ReVISE can operate in very challenging (ego-centric, low resolution, low SNR) and low-resource (2hr) regimes effectively. The second study is Voicebox, a DALL-E and LLM like speech generative model that can perform in-context learning and generalize to monolingual/cross-lingual style transfer, speech editing, and unconditional diverse speech sampling. In particular, we demonstrate one of its applications to transient noise removal through in-context infilling."
+      ],
+      "p1": "",
+      "pn": ""
+    }
   },
-  "leglaive23_chime": {
-   "authors": [
-    [
-     "Simon",
-     "Leglaive"
-    ],
-    [
-     "Léonie",
-     "Borne"
-    ],
-    [
-     "Efthymios",
-     "Tzinis"
-    ],
-    [
-     "Mostafa",
-     "Sadeghi"
-    ],
-    [
-     "Matthieu",
-     "Fraticelli"
-    ],
-    [
-     "Scott",
-     "Wisdom"
-    ],
-    [
-     "Manuel",
-     "Pariente"
-    ],
-    [
-     "Daniel",
-     "Pressnitzer"
-    ],
-    [
-     "John",
-     "Hershey"
-    ]
-   ],
-   "title": "The CHiME-7 UDASE task: Unsupervised domain adaptation for conversational speech enhancement",
-   "original": "CHiME_2023_paper_leglaive",
-   "order": 3,
-   "page_count": 6,
-   "abstract": [
-    "Supervised speech enhancement models are trained using artificially generated mixtures of clean speech and noise signals, which may not match real-world recording conditions at test time. This mismatch can lead to poor performance if the test domain significantly differs from the synthetic training domain. This paper introduces the unsupervised domain adaptation for conversational speech enhancement (UDASE) task of the 7th CHiME challenge. This task aims to leverage real-world noisy speech recordings from the target domain for unsupervised domain adaptation of speech enhancement models. The target domain corresponds to the multi-speaker reverberant conversational speech recordings of the CHiME-5 dataset, for which the ground-truth clean speech reference is unavailable. Given a CHiME-5 recording, the task is to estimate the clean, potentially multi-speaker, reverberant speech, removing the additive background noise. We discuss the motivation for the CHiME-7 UDASE task and describe the data, the task, and the baseline system."
-   ],
-   "p1": 7,
-   "pn": 12,
-   "doi": "10.21437/CHiME.2023-2",
-   "url": "chime_2023/leglaive23_chime.html"
-  },
-  "wan23_chime": {
-   "authors": [
-    [
-     "Ruoyu",
-     "Wan"
-    ],
-    [
-     "Maokui",
-     "He"
-    ],
-    [
-     "Jun",
-     "Du"
-    ],
-    [
-     "Hengshun",
-     "Zhou"
-    ],
-    [
-     "Shutong",
-     "Niu"
-    ],
-    [
-     "Hang",
-     "Chen"
-    ],
-    [
-     "Yanyan",
-     "Yue"
-    ],
-    [
-     "Gaobin",
-     "Yang"
-    ],
-    [
-     "Shilong",
-     "Wu"
-    ],
-    [
-     "Lei",
-     "Sun"
-    ],
-    [
-     "Yanhui",
-     "Tu"
-    ],
-    [
-     "Haitao",
-     "Tang"
-    ],
-    [
-     "Shuangqing",
-     "Qian"
-    ],
-    [
-     "Tian",
-     "Gao"
-    ],
-    [
-     "Mengzhi",
-     "Wang"
-    ],
-    [
-     "Genshun",
-     "Wan"
-    ],
-    [
-     "Jia",
-     "Pan"
-    ],
-    [
-     "Jianqing",
-     "Gao"
-    ],
-    [
-     "Chin-Hui",
-     "Lee"
-    ]
-   ],
-   "title": "The USTC-NERCSLIP Systems for CHiME-7 Challenge",
-   "original": "CHiME_2023_paper_wang",
-   "order": 4,
-   "page_count": 6,
-   "abstract": [
-    "This technical report details our submission system to the CHiME-7 DASR Challenge, which focuses on speaker diarization and speech recognition under complex multi-speaker scenarios. Additionally, it also evaluates the efficiency of systems in handling diverse array devices. To address these issues, we implemented an end-to-end speaker diarization system and introduced a rectification strategy based on multi-channel spatial information. This approach significantly diminished the word error rates (WER). In terms of recognition, we utilized publicly available pre-trained models as the foundational models to train our end-to-end speech recognition models. Our system attained a Macro-averaged diarization-attributed WER (DA-WER) of 21.01% on the CHiME-7 evaluation set, which signifies a relative improvement of 62.04% over the official baseline system."
-   ],
-   "p1": 13,
-   "pn": 18,
-   "doi": "10.21437/CHiME.2023-3",
-   "url": "chime_2023/wan23_chime.html"
-  },
-  "zhang23_chime": {
-   "authors": [
-    [
-     "Zihan",
-     "Zhang"
-    ],
-    [
-     "Runduo",
-     "Han"
-    ],
-    [
-     "Ziqian",
-     "Wang"
-    ],
-    [
-     "Xianjun",
-     "Xia"
-    ],
-    [
-     "Yijian",
-     "Xiao"
-    ],
-    [
-     "Lei",
-     "Xie"
-    ]
-   ],
-   "title": "The NWPU-ByteAudio System for CHiME-7 Task 2 UDASE Challenge",
-   "original": "CHiME_2023_paper_zhang",
-   "order": 5,
-   "page_count": 4,
-   "abstract": [
-    "This paper describes the NWPU-ByteAudio system for CHiME-7 Task 2 - unsupervised domain adaptation for conversational speech enhancement (UDASE). To better make use of the in-domain mixture data, we improve the self-supervised learning (SSL) approach RemixIT with MetricGAN discriminator, resulting in an updated version called RemixIT-G. Under the RemixIT-G framework, we take Uformer+ as the speech enhancement model, which is an improved version of Uformer updated with the MetricGAN discriminator as well. We also apply an unsupervised noise adaptation model to generate noisy speech in the target domain. A perceptual contrast stretching (PCS) method is used to further improve the auditory perception quality of the enhanced speech. Our approach has achieved an SI-SDR of 12.95 and an OVRL-MOS of 3.07 in the CHiME-7 task 2 evaluation set and ranked the 1st place in the challenge."
-   ],
-   "p1": 19,
-   "pn": 22,
-   "doi": "10.21437/CHiME.2023-4",
-   "url": "chime_2023/zhang23_chime.html"
-  },
-  "ye23_chime": {
-   "authors": [
-    [
-     "Lingxuan",
-     "Ye"
-    ],
-    [
-     "Haitian",
-     "Lu"
-    ],
-    [
-     "Gaofeng",
-     "Cheng"
-    ],
-    [
-     "Yifan",
-     "Chen"
-    ],
-    [
-     "Zengqiang",
-     "Shang"
-    ],
-    [
-     "Xuyuan",
-     "Li"
-    ]
-   ],
-   "title": "The IACAS-Thinkit System for CHiME-7 Challenge",
-   "original": "CHiME_2023_paper_ye",
-   "order": 6,
-   "page_count": 4,
-   "abstract": [
-    "This paper reports the IACAS-Thinkit’s system for the 7th CHiME challenge’s task 1: distant automatic speech transcription and segmentation with multiple recording devices. Our system includes training data augmentation, target speaker voice activity detection (TS-VAD) based speaker diarization (SD), time-domain speakerbeam based single channel target speaker extraction (TSE), guided source separation (GSS) based multi-channel speech separation and WavLM based speech recognition. Evaluated on the CHiME-7 evaluation set, our system for the main track achieves 25.0% macro-average Diarization-attributed Word Error Rate (DA-WER), with an absolute reduction of 30.27% over the baseline system; our system for the far-field acoustic robustness sub-track achieves 20.5% macro-average DA-WER, with an absolute reduction of 13.75% over the baseline system."
-   ],
-   "p1": 23,
-   "pn": 26,
-   "doi": "10.21437/CHiME.2023-5",
-   "url": "chime_2023/ye23_chime.html"
-  },
-  "neumann23_chime": {
-   "authors": [
-    [
-     "Thilo von",
-     "Neumann"
-    ],
-    [
-     "Christoph B.",
-     "Boeddeker"
-    ],
-    [
-     "Marc",
-     "Delcroix"
-    ],
-    [
-     "Reinhold",
-     "Haeb-Umbach"
-    ]
-   ],
-   "title": "MeetEval: A Toolkit for Computation of Word Error Rates for Meeting Transcription Systems",
-   "original": "CHiME_2023_paper_neumann",
-   "order": 7,
-   "page_count": 6,
-   "abstract": [
-    "MeetEval is an open-source toolkit to evaluate all kinds of meeting transcription systems. It provides a unified interface for the computation of commonly used Word Error Rates (WERs), specifically cpWER, ORC WER and MIMO WER along other WER definitions. We extend the cpWER computation by a temporal constraint to ensure that only words are identified as correct when the temporal alignment is plausible. This leads to a better quality of the matching of the hypothesis string to the reference string that more closely resembles the actual transcription quality, and a system is penalized if it provides poor time annotations. Since word-level timing information is of- ten not available, we present a way to approximate exact word-level timings from segment-level timings (e.g., a sentence) and show that the approximation leads to a similar WER as a matching with exact word-level annotations. At the same time, the time constraint leads to a speedup of the matching algorithm, which outweighs the additional overhead caused by processing the time stamps."
-   ],
-   "p1": 27,
-   "pn": 32,
-   "doi": "10.21437/CHiME.2023-6",
-   "url": "chime_2023/neumann23_chime.html"
-  },
-  "close23_chime": {
-   "authors": [
-    [
-     "George L.",
-     "Close"
-    ],
-    [
-     "William",
-     "Ravenscroft"
-    ],
-    [
-     "Thomas",
-     "Hain"
-    ],
-    [
-     "Stefan",
-     "Goetze"
-    ]
-   ],
-   "title": "The University of Sheffield CHiME-7 UDASE Challenge Speech Enhancement System",
-   "original": "CHiME_2023_paper_close",
-   "order": 9,
-   "page_count": 6,
-   "abstract": [
-    "The CHiME-7 unsupervised domain adaptation speech enhancement (UDASE) challenge targets domain adaptation to unlabelled speech data. This paper describes the University of Sheffield team’s system submitted to the challenge. A generative adversarial network (GAN) methodology based on a conformer-based metric GAN (CMGAN) is employed as opposed to the unsupervised RemixIT strategy used in the CHiME-7 baseline system. The discriminator of the GAN is trained to predict the output score of a Deep Noise Suppression Mean Opinion Score (DNSMOS) metric. Additional data augmentation strategies are employed which provide the discriminator with historical training data outputs as well as more diverse training examples from an additional pseudo-generator. The proposed approach, denoted as CMGAN+/+, achieves significant improvement in DNSMOS evaluation metrics with the best proposed system achieving 3.51 OVR-MOS, a 24% improvement over the baseline.\n"
-   ],
-   "p1": 33,
-   "pn": 38,
-   "doi": "10.21437/CHiME.2023-7",
-   "url": "chime_2023/close23_chime.html"
-  },
-  "jang23_chime": {
-   "authors": [
-    [
-     "Jaehoo",
-     "Jang"
-    ],
-    [
-     "Myoung-Wan",
-     "Koo"
-    ]
-   ],
-   "title": "The SGU Systems for the CHiME-7 UDASE Challenge",
-   "original": "CHiME_2023_paper_jang",
-   "order": 10,
-   "page_count": 6,
-   "abstract": [
-    "In this work, we present a description of SGU domain-adapted speech enhancement system implementation that enhances the baseline of the CHiME-7 challenge. We introduce two significant modifications. Firstly, we replace the Sudo rm-rf [1] architecture with the Mossformer [2], which incorporates convolution-augmented joint local and global self-attention mechanisms. It performs fully-computed self-attention on local chunks and utilizes linearized low-cost self-attention over the entire sequence. As a second modification, we incorporate a speech purification technique at the baseline when conducting self-supervised learning for the student model. This technique predicts the frame-level SNR of the pseudo-target speech and utilizes them as weights for the discrepancy function between the pseudo-target speech and the student model’s estimated speech. Consequently, We achieved an SI-SDR score of 12.42 on the LibriCHiME-5 dataset for both modifications. Additionally, implementing the Mossformer architecture on the CHiME-5 dataset leads to a 2.90 OVRL-MOS and 3.39 SIG-MOS. Also, the application of the purification method results in a 3.71 BAK-MOS. Finally, we demonstrate the superior performance of our approach compared to the baseline."
-   ],
-   "p1": 39,
-   "pn": 44,
-   "doi": "10.21437/CHiME.2023-8",
-   "url": "chime_2023/jang23_chime.html"
-  },
-  "kamo23_chime": {
-   "authors": [
-    [
-     "Naoyuki",
-     "Kamo"
-    ],
-    [
-     "Naohiro",
-     "Tawara"
-    ],
-    [
-     "Kohei",
-     "Matsuura"
-    ],
-    [
-     "Takanori",
-     "Ashihara"
-    ],
-    [
-     "Takafumi",
-     "Moriya"
-    ],
-    [
-     "Atsunori",
-     "Ogawa"
-    ],
-    [
-     "Hiroshi",
-     "Sato"
-    ],
-    [
-     "Tsubasa",
-     "Ochiai"
-    ],
-    [
-     "Atsushi",
-     "Ando"
-    ],
-    [
-     "Rintaro",
-     "Ikeshita"
-    ],
-    [
-     "Takatomo",
-     "Kano"
-    ],
-    [
-     "Marc",
-     "Delcroix"
-    ],
-    [
-     "Tomohiro",
-     "Nakatani"
-    ],
-    [
-     "Taichi",
-     "Asami"
-    ],
-    [
-     "Shoko",
-     "Araki"
-    ]
-   ],
-   "title": "NTT Multi-Speaker ASR System for the DASR Task of CHiME-7 Challenge",
-   "original": "CHiME_2023_paper_kamo",
-   "order": 11,
-   "page_count": 6,
-   "abstract": [
-    "We introduce our submission to the Distant automatic speech recognition (DSAR) task of the CHiME 7 challenge. Our system uses end-to-end diarization with vector clustering (EEND-VC), guided source separation (GSS), and attention-based encoder-decoder and transducer-based ASR systems. Our submission exploits pre-trained self-supervised learning (SSL) models to build strong diarization and ASR modules. We also explore data augmentation using contrastive data selection based on representations from SSL models. Besides, we use self-supervised adaptation (SSA) to adapt these modules to the recording conditions of each session. Our DASR system achieves a 36 % diarization error rate (DER) reduction and 47 % word error rate reduction (WER) over the baseline on the main track of the evaluation set and ranked third in the challenge. "
-   ],
-   "p1": 45,
-   "pn": 50,
-   "doi": "10.21437/CHiME.2023-9",
-   "url": "chime_2023/kamo23_chime.html"
-  },
-  "boeddeker23_chime": {
-   "authors": [
-    [
-     "Christoph B.",
-     "Boeddeker"
-    ],
-    [
-     "Tobias",
-     "Cord-Landwehr"
-    ],
-    [
-     "Thilo von",
-     "Neumann"
-    ],
-    [
-     "Reinhold",
-     "Haeb-Umbach"
-    ]
-   ],
-   "title": "Multi-stage diarization refinement for the CHiME-7 DASR scenario",
-   "original": "CHiME_2023_paper_boeddeker",
-   "order": 12,
-   "page_count": 6,
-   "abstract": [
-    "This submission for the CHiME-7 DASR challenge consists of a TS-VAD system for diarization followed by a GSS system for source extraction. Then, a segment-level refinement is applied to the enhanced audio segments, before using the baseline ASR system for transcribing the audio. As initialization for the TS-VAD, the baseline diarization system was used to identify single-speaker regions that are used to extract enrollment embeddings for each speaker in a meeting. The TS-VAD system is applied on each microphone channel independently, and the soft estimates at the TS-VAD output are averaged across the microphones, before converting them to hard estimates, i.e., the diarization estimates Additionally, we analyzed the estimates and found many speaker swaps and less ideal segments. To address them, we propose a simple post-processing step by comparing speaker embeddings from the baseline diarization, i.e., the enrollment embeddings, with speaker embeddings derived from the enhanced data. Through the usage of TS-VAD, we improve upon the baseline word error rate on the CHiME-6 dataset by 3.6 percentage points, whereas the postprocessing results in an additional consistent word error rate improvement of 2 % to 4 % absolute."
-   ],
-   "p1": 51,
-   "pn": 56,
-   "doi": "10.21437/CHiME.2023-10",
-   "url": "chime_2023/boeddeker23_chime.html"
-  },
-  "park23_chime": {
-   "authors": [
-    [
-     "Tae Jin",
-     "Park"
-    ],
-    [
-     "He",
-     "Huang"
-    ],
-    [
-     "Ante",
-     "Jukić"
-    ],
-    [
-     "Kunal",
-     "Dhawan"
-    ],
-    [
-     "Krishna C.",
-     "Puvvada"
-    ],
-    [
-     "Nithin Rao",
-     "Koluguri"
-    ],
-    [
-     "Nikolay",
-     "Karpov"
-    ],
-    [
-     "Aleksandr",
-     "Laptev"
-    ],
-    [
-     "Jagadeesh",
-     "Balam"
-    ],
-    [
-     "Boris",
-     "Ginsburg"
-    ]
-   ],
-   "title": "The CHiME-7 Challenge: System Description and Performance of NeMo Team’s DASR System",
-   "original": "CHiME_2023_paper_park1",
-   "order": 13,
-   "page_count": 6,
-   "abstract": [
-    "We present the NVIDIA NeMo team’s multi-channel speech recognition system for the 7th CHiME Challenge Distant Automatic Speech Recognition (DASR) Task, focusing on the development of a multi-channel, multi-speaker speech recognition system tailored to transcribe speech from distributed microphones and microphone arrays. The system predominantly comprises of the following integral modules: the Speaker Diarization Module, Multi-channel Audio Front-End Processing Module, and the ASR Module. These components collectively establish a cascading system, meticulously processing multi-channel and multi-speaker audio input. Moreover, this paper highlights the comprehensive optimization process that significantly enhanced our system’s performance. Our team’s submission is largely based on NeMo toolkits and will be publicly available."
-   ],
-   "p1": 57,
-   "pn": 62,
-   "doi": "10.21437/CHiME.2023-11",
-   "url": "chime_2023/park23_chime.html"
-  },
-  "mu23_chime": {
-   "authors": [
-    [
-     "Bingshen",
-     "Mu"
-    ],
-    [
-     "Pengcheng",
-     "Guo"
-    ],
-    [
-     "He",
-     "Wang"
-    ],
-    [
-     "Yangze",
-     "Li"
-    ],
-    [
-     "Yang",
-     "Li"
-    ],
-    [
-     "Pan",
-     "Zhou"
-    ],
-    [
-     "Wei",
-     "Chen"
-    ],
-    [
-     "Lei",
-     "Xie"
-    ]
-   ],
-   "title": "The NPU System for DASR Task of CHiME-7 Challenge",
-   "original": "CHiME_2023_paper_mu",
-   "order": 14,
-   "page_count": 4,
-   "abstract": [
-    "This study describes the NPU system for the Distant Automatic Speech Recognition (DASR) task of the CHiME-7 Challenge. Specifically, two attention-based channel selection modules are introduced to automatically select the most advantageous channel subset from multiple signal channels. Furthermore, we incorporate additional spatial features during the cross-channel attention, which guides the model to capture the desired signals while suppressing the interference sources. It is noteworthy that these enhancements solely pertain to the ASR model, with no modifications made to the speaker diarization (SD). Our approach achieves a Macro diarization attributed word error rate (DA-WER) of 22.28% on CHiME-7 dev sets with oracle diarization and 41.04% on CHiME-7 dev sets with baseline SD results."
-   ],
-   "p1": 63,
-   "pn": 66,
-   "doi": "10.21437/CHiME.2023-12",
-   "url": "chime_2023/mu23_chime.html"
-  },
-  "karafiat23_chime": {
-   "authors": [
-    [
-     "Martin",
-     "Karafiat"
-    ],
-    [
-     "Karel",
-     "Veselý"
-    ],
-    [
-     "Igor",
-     "Szoke"
-    ],
-    [
-     "Ladislav",
-     "Mosner"
-    ],
-    [
-     "Karel",
-     "Benes"
-    ],
-    [
-     "Marcin",
-     "Witkowski"
-    ],
-    [
-     "Ricardo German",
-     "Barchi"
-    ],
-    [
-     "Leonardo D.",
-     "Pepino"
-    ]
-   ],
-   "title": "BUT CHiME-7 system description",
-   "original": "CHiME_2023_paper_karafiat",
-   "order": 15,
-   "page_count": 6,
-   "abstract": [
-    "This paper describes the joint effort of Brno University of Technology (BUT), AGH University of Krakow and University of Buenos Aires on the development of Automatic Speech Recognition systems for the CHiME-7 Challenge. We train and evaluate various end-to-end models with several toolkits. We heavily relied on Guided Source Separation (GSS) to convert multi-channel audio to single channel. The ASR is leveraging speech representations from models pre-trained by self-supervised learning, and we do a fusion of several ASR systems. In addition, we modified external data from the LibriSpeech corpus to become a close domain and added it to the training. Our efforts were focused on the far-field acoustic robustness sub-track of Task 1 - Distant Automatic Speech Recognition (DASR), our systems use oracle segmentation."
-   ],
-   "p1": 67,
-   "pn": 72,
-   "doi": "10.21437/CHiME.2023-13",
-   "url": "chime_2023/karafiat23_chime.html"
-  },
-  "deng23_chime": {
-   "authors": [
-    [
-     "Keqi",
-     "Deng"
-    ],
-    [
-     "Xianrui",
-     "Zheng"
-    ],
-    [
-     "Phil",
-     "Woodland"
-    ]
-   ],
-   "title": "The University of Cambridge System for the CHiME-7 DASR Task",
-   "original": "CHiME_2023_paper_deng",
-   "order": 16,
-   "page_count": 4,
-   "abstract": [
-    "This paper summarises the Cambridge team’s work in the DASR Task of the CHiME-7 Challenge for speaker diarisation and automatic speech recognition (ASR). For speaker diarisation, the combination of Pyannote and ECAPA-TDNN was explored. For ASR, a two-pass ASR system was built. The first-pass model was based on a CTC model fine-tuned from a pre-trained WavLM model, based on which test-time unsupervised adaptation was implemented before decoded with a 4-gram language model (LM). For the second-pass system, with WavLM-based encoders, forward and backward hybrid CTC/attention models, as well as a label-synchronous neural transducer model, were trained for re-scoring. As a result of these efforts, for the sub-track, the Cambridge system achieved 21.7% and 22.7% DA-WER on the overall Dev and Eval sets respectively, with 24.6% and 32.0% relative error-rate reductions over the challenge baselines. For the main track, an ECAPA-based system was used for diarisation. Using our diarisation, together with our proposed ASR, the submitted main-track system gave a DA-WER of 38.7% on the Eval set which is with a 30% relative reduction in error rate compared to the challenge baseline."
-   ],
-   "p1": 73,
-   "pn": 76,
-   "doi": "10.21437/CHiME.2023-14",
-   "url": "chime_2023/deng23_chime.html"
-  },
-  "russell23_chime": {
-   "authors": [
-    [
-     "Sam O’Connor",
-     "Russell"
-    ],
-    [
-     "Ayushi",
-     "Pandey"
-    ],
-    [
-     "Naomi",
-     "Harte"
-    ]
-   ],
-   "title": "Do We Hyperarticulate on Zoom?",
-   "original": "CHiME_2023_paper_russell",
-   "order": 17,
-   "page_count": 5,
-   "abstract": [
-    "Hyperarticulation is a form of speech which helps overcome multimodal impediments to communication. However, it can degrade the performance of automatic speech recognition (ASR). Videoconferencing is in widespread use and is often supported by ASR for captioning and diarisation. Hence, there is a need to understand the nature of speech production in video-conferencing. We ask whether ’Zoom speech’ - characterised by increased pauses and formality - is hyperarticulation. We conduct a comparative study of in-person and Zoom conversational interactions. We find some but not all features of classic hyperarticulation in Zoom interactions. Consistent with hyperarticulation we find more pauses, longer vowels, and an increased F0. Changes to the articulation rate, F0 range and vowel space are not consistent with hyperarticulated speech. To the best of our knowledge, our work is the first to assess video-conferencing speech for the presence of hyperarticulation. We discuss whether videoconferencing merely disrupts interaction, or induces an atypical form of multimodal hyperarticulation."
-   ],
-   "p1": 77,
-   "pn": 81,
-   "doi": "10.21437/CHiME.2023-15",
-   "url": "chime_2023/russell23_chime.html"
-  },
-  "park23b_chime": {
-   "authors": [
-    [
-     "Tae Jin",
-     "Park"
-    ],
-    [
-     "He",
-     "Huang"
-    ],
-    [
-     "Coleman",
-     "Hooper"
-    ],
-    [
-     "Nithin Rao",
-     "Koluguri"
-    ],
-    [
-     "Kunal",
-     "Dhawan"
-    ],
-    [
-     "Ante",
-     "Jukić"
-    ],
-    [
-     "Jagadeesh",
-     "Balam"
-    ],
-    [
-     "Boris",
-     "Ginsburg"
-    ]
-   ],
-   "title": "Property-Aware Multi-Speaker Data Simulation: A Probabilistic Modelling Technique for Synthetic Data Generation",
-   "original": "CHiME_2023_paper_park2",
-   "order": 18,
-   "page_count": 5,
-   "abstract": [
-    "We introduce a sophisticated multi-speaker speech data simulator, specifically engineered to generate multi-speaker speech recordings. A notable feature of this simulator is its capacity to modulate the distribution of silence and overlap via the adjustment of statistical parameters. This capability offers a tailored training environment for developing neural models suited for speaker diarization and voice activity detection. The acquisition of substantial datasets for speaker diarization often presents a significant challenge, particularly in multi-speaker scenarios. Furthermore, the precise time stamp annotation of speech data is a critical factor for training both speaker diarization and voice activity detection. Our proposed multi-speaker simulator tackles these problems by generating large-scale audio mixtures that maintain statistical properties closely aligned with the input parameters. We demonstrate that the proposed multi-speaker simulator generates audio mixtures with statistical properties that closely align with the input parameters derived from real-world statistics. Additionally, we present the effectiveness of speaker diarization and voice activity detection models, which have been trained exclusively on the generated simulated datasets."
-   ],
-   "p1": 82,
-   "pn": 86,
-   "doi": "10.21437/CHiME.2023-16",
-   "url": "chime_2023/park23b_chime.html"
-  },
-  "prisyach23_chime": {
-   "authors": [
-    [
-     "Tatiana",
-     "Prisyach"
-    ],
-    [
-     "Yuri",
-     "Khokhlov"
-    ],
-    [
-     "Maxim",
-     "Korenevsky"
-    ],
-    [
-     "Anton",
-     "Mitrofanov"
-    ],
-    [
-     "Tatiana",
-     "Timofeeva"
-    ],
-    [
-     "Ilia",
-     "Odegov"
-    ],
-    [
-     "Rauf",
-     "Nasretdinov"
-    ],
-    [
-     "Iurii",
-     "Lezhenin"
-    ],
-    [
-     "Dmitriy",
-     "Miroshnichenko"
-    ],
-    [
-     "Arsenii",
-     "Karelin"
-    ],
-    [
-     "Mariya",
-     "Mitrofanova"
-    ],
-    [
-     "Roman",
-     "Svechnikov"
-    ],
-    [
-     "Sergey",
-     "Novoselov"
-    ],
-    [
-     "Aleksei",
-     "Romanenko"
-    ]
-   ],
-   "title": "STCON System for the CHiME-7 Challenge",
-   "original": "CHiME_2023_paper_prisyach",
-   "order": 19,
-   "page_count": 6,
-   "abstract": [
-    "This paper describes the STCON system for the CHiME-7 challenge Task 1 (DASR) aimed at distant automatic speech transcription and segmentation with multiple recording devices. The system is generally similar to the Speech Technology Center (STC) system for the CHiME-6 challenge but uses more sophisticated and advanced models for diarization and ASR. Care-fully designed pipeline provides significant improvements com-pared to the baseline system."
-   ],
-   "p1": 87,
-   "pn": 92,
-   "doi": "10.21437/CHiME.2023-17",
-   "url": "chime_2023/prisyach23_chime.html"
-  },
-  "harte23_chime": {
-   "authors": [
-    [
-     "Naomi",
-     "Harte"
-    ]
-   ],
-   "title": "Understanding Speech in Everyday Environments – Is Multimodality the Answer?",
-   "original": "CHiME_2023_paper_harte",
-   "order": 8,
-   "page_count": 0,
-   "abstract": [
-    "This talk will consider the multimodal nature of speech and speech technology. Human speech communication is extremely rich. We use many elements to communicate, from words to gestures and eye gaze, and seamlessly interpret these many cues in our conversations. In noisy situations, humans appear to dynamically change their use of different modalities in response to their environment. Is exploiting multimodality hence the solution to developing speech processing algorithms that are robust in everyday environments? In this talk, I’ll look at how visual and linguistic information can be integrated into deep learning frameworks for audio-visual speech recognition and turn taking prediction. I’ll also look at how availability of suitable datasets, with adequate labelling, can help or hinder development in this domain.\n"
-   ],
-   "p1": "",
-   "pn": ""
-  },
-  "hsu23_chime": {
-   "authors": [
-    [
-     "Wei-Ning",
-     "Hsu"
-    ]
-   ],
-   "title": "Multimodal and Large-Scale Generative Models for Enhancement",
-   "original": "CHiME_2023_paper_hsu",
-   "order": 1,
-   "page_count": 0,
-   "abstract": [
-    "What is the goal of speech enhancement, and what is the definition of a perfectly enhanced speech sample? Conventional speech enhancement usually concerns additive noise and treats the source speech as the single oracle which an enhancement model should reconstruct exactly. Performance is often measured by signal-level metrics like SDR and PESQ. The paradigm has two main issues. First, why should we consider the source speech as oracle? Those references might also contain some noise and might not be recorded with the best-quality microphone. Should a model be penalized when generating enhanced speech that “sounds better” than the reference speech? Second, even when the reference speech is of superior quality, there could still be multiple samples that sound identical to the reference to humans yet being very different from the reference in the waveform space (e.g., time shift, phase shift). Should a model be penalized if it generates one of those samples that sounds just as good as the reference?\n",
-    "In this talk, I will present two recent studies on generative modeling with applications to the “generalized speech enhancement” problem. The goal of generalized speech enhancement is to ensure the desired factors, such as content and voice, are preserved/enhanced, instead of reconstructing the source speech exactly. The first study is ReVISE, which leverages AV-HuBERT and HiFi-GAN to build a universal model for lip-to-speech synthesis, audio-visual speech inpainting, enhancement, and separation. By using a pre-trained model, ReVISE can operate in very challenging (ego-centric, low resolution, low SNR) and low-resource (2hr) regimes effectively. The second study is Voicebox, a DALL-E and LLM like speech generative model that can perform in-context learning and generalize to monolingual/cross-lingual style transfer, speech editing, and unconditional diverse speech sampling. In particular, we demonstrate one of its applications to transient noise removal through in-context infilling."
-   ],
-   "p1": "",
-   "pn": ""
-  }
- },
- "sessions": [
-  {
-   "title": "Keynote 1: Wei-Ning Hsu",
-   "papers": [
-    "hsu23_chime"
-   ]
-  },
-  {
-   "title": "Task Overviews",
-   "papers": [
-    "cornell23_chime",
-    "leglaive23_chime"
-   ]
-  },
-  {
-   "title": "Oral Session",
-   "papers": [
-    "wan23_chime",
-    "zhang23_chime",
-    "ye23_chime",
-    "neumann23_chime"
-   ]
-  },
-  {
-   "title": "Keynote 2: Naomi Harte",
-   "papers": [
-    "harte23_chime"
-   ]
-  },
-  {
-   "title": "Poster Session",
-   "papers": [
-    "close23_chime",
-    "jang23_chime",
-    "kamo23_chime",
-    "boeddeker23_chime",
-    "park23_chime",
-    "mu23_chime",
-    "karafiat23_chime",
-    "deng23_chime",
-    "russell23_chime",
-    "park23b_chime",
-    "prisyach23_chime"
-   ]
-  }
- ],
- "doi": "10.21437/CHiME.2023"
+  "sessions": [
+    {
+      "title": "Keynote 1: Wei-Ning Hsu",
+      "papers": [
+        "hsu23_chime"
+      ]
+    },
+    {
+      "title": "Task Overviews",
+      "papers": [
+        "cornell23_chime",
+        "leglaive23_chime"
+      ]
+    },
+    {
+      "title": "Oral Session",
+      "papers": [
+        "wan23_chime",
+        "zhang23_chime",
+        "ye23_chime",
+        "neumann23_chime"
+      ]
+    },
+    {
+      "title": "Keynote 2: Naomi Harte",
+      "papers": [
+        "harte23_chime"
+      ]
+    },
+    {
+      "title": "Poster Session",
+      "papers": [
+        "close23_chime",
+        "jang23_chime",
+        "kamo23_chime",
+        "boeddeker23_chime",
+        "park23_chime",
+        "mu23_chime",
+        "karafiat23_chime",
+        "deng23_chime",
+        "russell23_chime",
+        "park23b_chime",
+        "prisyach23_chime"
+      ]
+    }
+  ],
+  "doi": "10.21437/CHiME.2023"
 }
