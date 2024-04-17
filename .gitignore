@@ -1,0 +1,5 @@
+# Ignore either symlinks or directories which can be large
+archive
+archive/
+original_pdfs
+original_pdfs/
