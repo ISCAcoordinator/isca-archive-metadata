@@ -1,10 +1,623 @@
 {
-  "SIG": "SynSIG",
-  "external": "http://www.festvox.org/blizzard/blizzard2009.html",
-  "conf": "Blizzard",
-  "year": "2009",
-  "name": "blizzard_2009",
-  "series": "Blizzard",
-  "title": "Evaluation of text-to-speech systems",
-  "title1": "Evaluation of text-to-speech systems"
+ "series": "Blizzard",
+ "title": "The Blizzard Challenge 2009",
+ "location": "Edinburgh, Scotland",
+ "startDate": "04/09/2009",
+ "endDate": "04/09/2009",
+ "conf": "Blizzard",
+ "name": "blizzard_2009",
+ "year": "2009",
+ "SIG": "SynSIG",
+ "title1": "The Blizzard Challenge 2009",
+ "booklet": "intro.pdf",
+ "date": "4 September 2009",
+ "month": 9,
+ "day": 4,
+ "now": 1714138209586712,
+ "papers": {
+  "king09_blizzard": {
+   "authors": [
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2009",
+   "original": "01",
+   "order": 1,
+   "page_count": 24,
+   "abstract": [
+    "The Blizzard Challenge 2009 was the fifth annual Blizzard Challenge. As in 2008, UK English and Mandarin Chinese were the chosen languages for the 2009 Challenge. The English corpus was the same one used in 2008. The Mandarin corpus was provided by iFLYTEK. As usual, participants with limited resources or limited experience in these languages had the option of using unaligned labels that were provided for both corpora and for the test sentences. An accent-specific pronunciation dictionary was also available for the English speaker. This year, the tasks were organised in the form of ‘hubs’ and ‘spokes’ where each hub task involved building a general-purpose voice and each spoke task involved building a voice for a specific application.\n",
+    "A set of test sentences was released to participants, who were given a limited time in which to synthesise them and submit the synthetic speech. An online listening test was conducted to evaluate naturalness, intelligibility, degree of similarity to the original speaker and, for one of the spoke tasks, \"appropriateness\".\n"
+   ],
+   "p1": 1,
+   "pn": 24,
+   "doi": "10.21437/Blizzard.2009-1",
+   "url": "blizzard_2009/king09_blizzard.html"
+  },
+  "sainz09_blizzard": {
+   "authors": [
+    [
+     "Iñaki",
+     "Sainz"
+    ],
+    [
+     "Daniel",
+     "Erro"
+    ],
+    [
+     "Eva",
+     "Navas"
+    ],
+    [
+     "Inma",
+     "Hernáez"
+    ],
+    [
+     "Ibon",
+     "Saratxaga"
+    ],
+    [
+     "Iker",
+     "Luengo"
+    ],
+    [
+     "Igor",
+     "Odriozola"
+    ]
+   ],
+   "title": "The AHOLAB Blizzard Challenge 2009 Entry",
+   "original": "02",
+   "order": 2,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the process of building unit selection voices for our participation in the Blizzard Challenge 2009. Out of the three voices required (EH1: 15 hours UK English, EH2: 1 hour UK English subset and MH: 6000-utterance Mandarin Chinese) only the English ones were built. As far as the Hub Tasks is concerned, only the ES1 task was completed using voice conversion techniques. The Evaluation show that some improvements have been made over last year results, especially for EH2 voice.\n"
+   ],
+   "p1": 25,
+   "pn": 30,
+   "doi": "10.21437/Blizzard.2009-2",
+   "url": "blizzard_2009/sainz09_blizzard.html"
+  },
+  "tao09_blizzard": {
+   "authors": [
+    [
+     "Jianhua",
+     "Tao"
+    ],
+    [
+     "Ya",
+     "Li"
+    ],
+    [
+     "Shifeng",
+     "Pan"
+    ],
+    [
+     "Meng",
+     "Zhang"
+    ],
+    [
+     "Hongjun",
+     "Sun"
+    ],
+    [
+     "Zhengqi",
+     "Wen"
+    ]
+   ],
+   "title": "The WISTON Text-to-Speech System for Blizzard Challenge 2009",
+   "original": "03",
+   "order": 3,
+   "page_count": 4,
+   "abstract": [
+    "This paper describes the WISTON system, a large corpus based TTS system that was submitted to Blizzard Challenge 2009. The text analysis part of this system contains text preprocessing, word segmentation, POS tagging, phonetic transcription and prosody structure prediction, most of which are based on Maximum Entropy (ME) models. In unit selection part, CART models are used to predict the prosodic parameters (duration, F0, energy), then we use concatenation costs and target costs for path searching to find the most suitable units to concatenate. The acoustic processing part is used for smoothing. The final system was used to attend Blizzard Challenge 2009 for both English test and Mandarin test.\n"
+   ],
+   "p1": 31,
+   "pn": 34,
+   "doi": "10.21437/Blizzard.2009-3",
+   "url": "blizzard_2009/tao09_blizzard.html"
+  },
+  "aylett09_blizzard": {
+   "authors": [
+    [
+     "Matthew P.",
+     "Aylett"
+    ],
+    [
+     "Christoper J.",
+     "Pidcock"
+    ]
+   ],
+   "title": "The CereProc Blizzard Entry 2009: Some dumb algorithms that don't work",
+   "original": "04",
+   "order": 4,
+   "page_count": 4,
+   "abstract": [
+    "Within unit selection systems there is a constant tension between data sparsity and quality. This limits the control possible in a unit selection system. The RP data used in Blizzard this year and last year is expressive and spoken in a spirited manner. Last years entry focused on maintaining expressiveness, this year we focused on two simple algorithms to restrain and control this prosodic variation. 1) Variable width valley floor pruning on duration and pitch (Applied to the full database entry EH1), 2) Bulking of data with average HTS data (Applied to small database entry EH2). Results for both techniques were disappointing. The full database system achieved an MOS of around 2 (compared to 4 for a similar system attempting to emphasise variation in 2008), while the small database entry achieved an MOS of also 2 (compared to 3 for a similar system, but with a difference voice, entered in 2007).\n"
+   ],
+   "p1": 35,
+   "pn": 38,
+   "doi": "10.21437/Blizzard.2009-4",
+   "url": "blizzard_2009/aylett09_blizzard.html"
+  },
+  "andersson09_blizzard": {
+   "authors": [
+    [
+     "J. Sebastian",
+     "Andersson"
+    ],
+    [
+     "Joao P.",
+     "Cabral"
+    ],
+    [
+     "Leonardo",
+     "Badino"
+    ],
+    [
+     "Junichi",
+     "Yamagishi"
+    ],
+    [
+     "Robert A.J.",
+     "Clark"
+    ]
+   ],
+   "title": "Glottal Source and Prosodic Prominence Modelling in HMM-based Speech Synthesis for the Blizzard Challenge 2009",
+   "original": "06",
+   "order": 5,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the CSTR entry for the Blizzard Challenge 2009. The work focused on modifying two parts of the Nitech 2005 HTS speech synthesis system to improve naturalness and contextual appropriateness. The first part incorporated an implementation of the Linjencrants-Fant (LF) glottal source model. The second part focused on improving synthesis of prosodic prominence including emphasis through context dependent phonemes. Emphasis was assigned to the synthesised test sentences based on a handful of theory based rules. The two parts (LF-model and prosodic prominence) were not combined and hence evaluated separately. The results on naturalness for the LF-model showed that it is not yet perceived as natural as the Benchmark HTS system for neutral speech. The results for the prosodic prominence modelling showed that it was perceived as contextually appropriate as the Benchmark HTS system, despite a low naturalness score. The Blizzard challenge evaluation has provided valuable information on the status of our work and continued work will begin with analysing why our modifications resulted in reduced naturalness compared to the Benchmark HTS system.\n"
+   ],
+   "p1": 39,
+   "pn": 44,
+   "doi": "10.21437/Blizzard.2009-5",
+   "url": "blizzard_2009/andersson09_blizzard.html"
+  },
+  "schroder09_blizzard": {
+   "authors": [
+    [
+     "Marc",
+     "Schröder"
+    ],
+    [
+     "Sathish",
+     "Pammi"
+    ],
+    [
+     "Oytun",
+     "Türk"
+    ]
+   ],
+   "title": "Multilingual MARY TTS participation in the Blizzard Challenge 2009",
+   "original": "07",
+   "order": 6,
+   "page_count": 4,
+   "abstract": [
+    "The paper describes the Blizzard Challenge 2009 participation of MARY TTS, an open-source TTS system using a unit selection voice. We briefly outline the new language support framework we provide so that people can add support for their languages to MARY TTS, and describe how that framework was used for building a Mandarin Chinese system and voice. The system performs well for English and reasonably for Chinese.\n"
+   ],
+   "p1": 45,
+   "pn": 48,
+   "doi": "10.21437/Blizzard.2009-6",
+   "url": "blizzard_2009/schroder09_blizzard.html"
+  },
+  "yamagishi09_blizzard": {
+   "authors": [
+    [
+     "Junichi",
+     "Yamagishi"
+    ],
+    [
+     "Mike",
+     "Lincoln"
+    ],
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "John",
+     "Dines"
+    ],
+    [
+     "Matthew",
+     "Gibson"
+    ],
+    [
+     "Jilei",
+     "Tian"
+    ],
+    [
+     "Yong",
+     "Guan"
+    ]
+   ],
+   "title": "Analysis of Unsupervised and Noise-Robust Speaker-Adaptive HMM-Based Speech Synthesis Systems toward a Unified ASR and TTS Framework",
+   "original": "08",
+   "order": 7,
+   "page_count": 8,
+   "abstract": [
+    "For the 2009 Blizzard Challenge we have built an unsupervised version of the HTS-2008 speaker-adaptive HMM-based speech synthesis system for English, and a noise robust version of the systems for Mandarin. They are designed from a multidisciplinary application point of view in that we attempt to integrate the components of the TTS system with other technologies such as ASR. All the average voice models are trained exclusively from recognized, publicly available, ASR databases. Multipass LVCSR and confidence scores calculated from confusion network are used for the unsupervised systems, and noisy data recorded in cars or public spaces is used for the noise robust system. We believe the developed systems form solid benchmarks and provide good connections to ASR fields. This paper describes the development of the systems and reports the results and analysis of their evaluation.\n"
+   ],
+   "p1": 49,
+   "pn": 56,
+   "doi": "10.21437/Blizzard.2009-7",
+   "url": "blizzard_2009/yamagishi09_blizzard.html"
+  },
+  "dong09_blizzard": {
+   "authors": [
+    [
+     "Minghui",
+     "Dong"
+    ],
+    [
+     "Ling",
+     "Cen"
+    ],
+    [
+     "Paul",
+     "Chan"
+    ],
+    [
+     "Dongyan",
+     "Huang"
+    ],
+    [
+     "Donglai",
+     "Zhu"
+    ],
+    [
+     "Bin",
+     "Ma"
+    ],
+    [
+     "Haizhou",
+     "Li"
+    ]
+   ],
+   "title": "I2R Text-to-Speech System for Blizzard Challenge 2009",
+   "original": "09",
+   "order": 8,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes I2R's submission to the Blizzard Challenge 2009. This is our second time participating in this challenge. In this paper, we will describe our main approach to building the required voices. We will introduce the procedure of database processing, the definitions of the acoustic, prosodic and linguistic parameters, the components of cost functions, etc. Since our Mandarin system has performed well in the evaluation, we will explain more about the Mandarin system. We will also explain how the unit selection method works on very small Mandarin speech databases.\n"
+   ],
+   "p1": 57,
+   "pn": 61,
+   "doi": "10.21437/Blizzard.2009-8",
+   "url": "blizzard_2009/dong09_blizzard.html"
+  },
+  "kaszczuk09_blizzard": {
+   "authors": [
+    [
+     "Michal",
+     "Kaszczuk"
+    ],
+    [
+     "Lukasz",
+     "Osowski"
+    ]
+   ],
+   "title": "The IVO Software Blizzard Challenge 2009 Entry: Improving IVONA Text-To-Speech",
+   "original": "10",
+   "order": 9,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes a special version of IVONA Text-To-Speech for a GB English voice designed and developed by IVO Software for The Blizzard Challenge 2009. The architecture of this system is based on an improved IVONA Text-To-Speech originally developed for previous challenges - Blizzard Challenge 2006 and Blizzard Challenge 2007.\n",
+    "This year we decided to build two GB English systems (using the full database and the arctic subset) and complete four challenge tasks EH1, EH2, ES2 and ES3. The system used for completing tasks E21 and ES3 as well as for task EH1 was built on the full 'roger' database.\n",
+    "Hence we show a basic overview of the IVONA Text-To-Speech architecture. Then we focus on methodology and problems which we experienced during development of our GB English voice from the 'roger' database provided by CSTR. We also present a short analysis of the Blizzard Challenge 2009 results and future plans for development of IVONA Text-To-Speech.\n"
+   ],
+   "p1": 62,
+   "pn": 66,
+   "doi": "10.21437/Blizzard.2009-9",
+   "url": "blizzard_2009/kaszczuk09_blizzard.html"
+  },
+  "rozak09_blizzard": {
+   "authors": [
+    [
+     "Mike",
+     "Rozak"
+    ]
+   ],
+   "title": "CircumReality text-to-speech, a talking speech recognizer",
+   "original": "11",
+   "order": 10,
+   "page_count": 4,
+   "abstract": [
+    "The CircumReality text-to-speech engine's mean opinion (MOS) and similarity-to-original scores have improved significantly over the last three Blizzard Challenges. MOS has increased from 1.3 in 2007 to 2.8 in 2009. This paper describes the algorithmic improvements made to the CircumReality engine between the 2008 and 2009 Blizzard Challenges. The most significant improvements stemmed from a shift in the underlying philosophy of the engine: integrating automatic speech recognition (ASR) into the speech synthesis engine and creating a \"talking speech recognizer\".\n"
+   ],
+   "p1": 67,
+   "pn": 70,
+   "doi": "10.21437/Blizzard.2009-10",
+   "url": "blizzard_2009/rozak09_blizzard.html"
+  },
+  "maia09_blizzard": {
+   "authors": [
+    [
+     "Ranniery",
+     "Maia"
+    ],
+    [
+     "Tomoki",
+     "Toda"
+    ],
+    [
+     "Shinsuke",
+     "Sakai"
+    ],
+    [
+     "Yoshinori",
+     "Shiga"
+    ],
+    [
+     "Jinfu",
+     "Ni"
+    ],
+    [
+     "Hisashi",
+     "Kawai"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ],
+    [
+     "Minoru",
+     "Tsuzaki"
+    ],
+    [
+     "Satoshi",
+     "Nakamura"
+    ]
+   ],
+   "title": "The NICT Entry for the Blizzard Challenge 2009: an Enhanced HMM-based Speech Synthesis System with Trajectory Training considering Global Variance and State-Dependent Mixed Excitation",
+   "original": "12",
+   "order": 11,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the NICT speech synthesis system submitted to the Blizzard Challenge 2009: a hidden Markov model (HMM)-based synthesizer constructed by training trajectory HMMs considering global variance. To improve naturalness of the synthesized speech a mixed excitation approach based on closed-loop residual modeling through the training of state-dependent filters is employed. According to the official results the system in question performs well in terms of naturalness and intelligibility although synthesized speech does not sound very similar to the original speaker.\n"
+   ],
+   "p1": 71,
+   "pn": 76,
+   "doi": "10.21437/Blizzard.2009-11",
+   "url": "blizzard_2009/maia09_blizzard.html"
+  },
+  "oura09_blizzard": {
+   "authors": [
+    [
+     "Keiichiro",
+     "Oura"
+    ],
+    [
+     "Yi-Jian",
+     "Wu"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ]
+   ],
+   "title": "Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2009",
+   "original": "13",
+   "order": 12,
+   "page_count": 6,
+   "abstract": [
+    "We describe a hidden Markov model (HMM)-based speech synthesis system developed at the Nagoya Institute of Technology (NIT) for Blizzard Challenge 2009. We incorporated several state-of-the-art technologies into this system, including the Speech Transformation and Representation using Adaptive Interpolation of weiGHTed spectrum (STRAIGHT) vocoder, minimum generation error (MGE) training, phone duration modeling, parameter generation algorithm considering global variance, and linear spectrum pair (LSP)-based formant enhancement. The runtime of system synthesizes speech around 0.3xRT (real time ratio), and its footprint is less than 25 MB. The results of listening tests showed that the overall speech quality and intelligibility of our systems are better than most other systems, especially when we have better labeling for a speech corpus.\n"
+   ],
+   "p1": 77,
+   "pn": 82,
+   "doi": "10.21437/Blizzard.2009-12",
+   "url": "blizzard_2009/oura09_blizzard.html"
+  },
+  "liao09_blizzard": {
+   "authors": [
+    [
+     "Yuan-Fu",
+     "Liao"
+    ],
+    [
+     "Ming-Long",
+     "Wu"
+    ]
+   ],
+   "title": "The NTUT Blizzard Challenge 2009 Entry",
+   "original": "14",
+   "order": 13,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the process of building HMM-based speech synthesis system (HTS) voices for our participation in the Blizzard Challenge 2009. Out of the two languages required (English and Mandarin Chinese) we only built three Mandarin Chinese voices for main hub (MH) and two spoke (MS1 and MS2) tasks. According to the evaluation results, our MH voice got 3 points for both mean opinion scores (MOS) and similarity tests. Beside, 12.2% and 17% pinyin error rates (without (PER) and with tone (PTER), respectively) and 23% character error rate (CER) were achieved for intelligibility test. Moreover, our MS2 voice achieved 4 and 3 points for MOS and similarity test, respectively. In conclusion, we now have reasonable text-to-speech (TTS) baselines (at least for Mandarin Chinese) for developing our own advanced prosody model in the future.\n"
+   ],
+   "p1": 83,
+   "pn": 88,
+   "doi": "10.21437/Blizzard.2009-13",
+   "url": "blizzard_2009/liao09_blizzard.html"
+  },
+  "zhang09_blizzard": {
+   "authors": [
+    [
+     "Zhiping",
+     "Zhang"
+    ],
+    [
+     "Xingchi",
+     "Xian"
+    ],
+    [
+     "Lidong",
+     "Luo"
+    ],
+    [
+     "Xihong",
+     "Wu"
+    ]
+   ],
+   "title": "PKU Mandarin Speech Synthesis System for Blizzard 2009",
+   "original": "15",
+   "order": 14,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the development of PKU mandarin speech synthesis system for Blizzard Challenge 2009, which is built in the framework of corpus-based unit concatenation synthesis. The system employs a trainable VTR model named HTM to label the VTR trajectories in corpus and predict the target VTR features. In addition, a CART based prosody model is built to predict the prosody parameters of the target units. In corpus building, the speech waveform in the corpus is converted to parametric representation by STRAIGHT algorithm. And in voice building, the speech waveform is constructed from the connected STRAIGHT parameters of selected units.\n"
+   ],
+   "p1": 89,
+   "pn": 94,
+   "doi": "10.21437/Blizzard.2009-14",
+   "url": "blizzard_2009/zhang09_blizzard.html"
+  },
+  "li09_blizzard": {
+   "authors": [
+    [
+     "Jian",
+     "Li"
+    ],
+    [
+     "Jian",
+     "Luan"
+    ],
+    [
+     "Lifu",
+     "Yi"
+    ],
+    [
+     "Xiaoyan",
+     "Lou"
+    ],
+    [
+     "Xi",
+     "Wang"
+    ],
+    [
+     "Liqiang",
+     "He"
+    ],
+    [
+     "Jie",
+     "Hao"
+    ]
+   ],
+   "title": "The Toshiba Mandarin TTS System for the Blizzard Challenge 2009",
+   "original": "16",
+   "order": 15,
+   "page_count": 6,
+   "abstract": [
+    "This paper introduces the Toshiba Mandarin Text-to-Speech (TTS) system submitted to the Mandarin benchmark of the Blizzard Challenge 2009. The basic framework keeps unchanged with the system in 2008 and we modify the system in several aspects: automatically find bad units in the database when preparing the speech corpus, add a G2P procedure after the text analysis to increase accuracy of the predicted pinyin for heteronyms, introduce prosody layer information into the prosody modeling and modify the fusion methods to fuse units in frequency domain. The subjective evaluation results show that these modifications improve the performance.\n"
+   ],
+   "p1": 95,
+   "pn": 100,
+   "doi": "10.21437/Blizzard.2009-15",
+   "url": "blizzard_2009/li09_blizzard.html"
+  },
+  "lu09_blizzard": {
+   "authors": [
+    [
+     "Heng",
+     "Lu"
+    ],
+    [
+     "Zhen-Hua",
+     "Ling"
+    ],
+    [
+     "Ming",
+     "Lei"
+    ],
+    [
+     "Cheng-Cheng",
+     "Wang"
+    ],
+    [
+     "Huan-Huan",
+     "Zhao"
+    ],
+    [
+     "Ling-Hui",
+     "Chen"
+    ],
+    [
+     "Yu",
+     "Hu"
+    ],
+    [
+     "Li-Rong",
+     "Dai"
+    ],
+    [
+     "Ren-Hua",
+     "Wang"
+    ]
+   ],
+   "title": "The USTC System for Blizzard Challenge 2009",
+   "original": "17",
+   "order": 16,
+   "page_count": 6,
+   "abstract": [
+    "This paper introduces the USTC’s speech synthesis system for Blizzard Challenge 2009. USTC attended all English tasks including the hub tasks and the spoke tasks. According to the various conditions for different tasks, different versions of HMM based unit-selection systems are constructed based on the USTC Blizzard Challenge 2008 system. Many new techniques are employed in our speech synthesis system construction. Results of internal experiments comparing these techniques are shown, and analyzed. The evaluation results of Blizzard Challenge 2009 prove that our system has good quality in all the naturalness, similarity and intelligibility of the synthetic speech.\n"
+   ],
+   "p1": 101,
+   "pn": 106,
+   "doi": "10.21437/Blizzard.2009-16",
+   "url": "blizzard_2009/lu09_blizzard.html"
+  },
+  "latacz09_blizzard": {
+   "authors": [
+    [
+     "Lukas",
+     "Latacz"
+    ],
+    [
+     "Wesley",
+     "Mattheyses"
+    ],
+    [
+     "Werner",
+     "Verhelst"
+    ]
+   ],
+   "title": "The VUB Blizzard Challenge 2009 Entry",
+   "original": "18",
+   "order": 17,
+   "page_count": 6,
+   "abstract": [
+    "In this paper we describe the voices we submitted to the 2009 Blizzard Challenge, a yearly challenge to evaluate auditory speech synthesis on common data. Since it is the second time we participate in this challenge, in this paper we focus on the changes we made to our unit selection-based system. The weighted sum of symbolic target costs has been replaced by a single statistical target cost; the weighted sum of acoustic join cost has been replaced by a single statistical join cost. Both these costs are based on context-clustering decision tree modeling, and trained on the speech database. Furthermore, the voice building process has been enhanced by improving the segmentation quality and by automatically removing potentially \"bad\" units.\n"
+   ],
+   "p1": 107,
+   "pn": 112,
+   "doi": "10.21437/Blizzard.2009-17",
+   "url": "blizzard_2009/latacz09_blizzard.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Summary",
+   "papers": [
+    "king09_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations",
+   "papers": [
+    "sainz09_blizzard",
+    "tao09_blizzard",
+    "aylett09_blizzard",
+    "andersson09_blizzard",
+    "schroder09_blizzard",
+    "yamagishi09_blizzard",
+    "dong09_blizzard",
+    "kaszczuk09_blizzard",
+    "rozak09_blizzard",
+    "maia09_blizzard",
+    "oura09_blizzard",
+    "liao09_blizzard",
+    "zhang09_blizzard",
+    "li09_blizzard",
+    "lu09_blizzard",
+    "latacz09_blizzard"
+   ]
+  }
+ ],
+ "doi": "10.21437/Blizzard.2009"
 }

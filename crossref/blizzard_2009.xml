@@ -1,0 +1,596 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>blizzard_2009</doi_batch_id>
+		<timestamp>1714138243908806</timestamp>
+		<depositor>
+			<depositor_name>Sébastien Le Maguer</depositor_name>
+			<email_address>sebastien.lemaguer@helsinki.fi</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The Blizzard Challenge 2009</conference_name>
+				<conference_acronym>blizzard_2009</conference_acronym>
+				<conference_date>4 September 2009</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The Blizzard Challenge 2009</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2009</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Blizzard.2009</doi>
+					<timestamp>1714138243908806</timestamp>
+					<resource>https://www.isca-archive.org/blizzard_2009/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>24</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-1</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/king09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Iñaki</given_name>
+<surname>Sainz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Daniel</given_name>
+<surname>Erro</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Eva</given_name>
+<surname>Navas</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Inma</given_name>
+<surname>Hernáez</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ibon</given_name>
+<surname>Saratxaga</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Iker</given_name>
+<surname>Luengo</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Igor</given_name>
+<surname>Odriozola</surname>
+</person_name>
+					</contributors>
+					<titles><title>The AHOLAB Blizzard Challenge 2009 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>25</first_page>
+						<last_page>30</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-2</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/sainz09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jianhua</given_name>
+<surname>Tao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ya</given_name>
+<surname>Li</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shifeng</given_name>
+<surname>Pan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Meng</given_name>
+<surname>Zhang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hongjun</given_name>
+<surname>Sun</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhengqi</given_name>
+<surname>Wen</surname>
+</person_name>
+					</contributors>
+					<titles><title>The WISTON Text-to-Speech System for Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>31</first_page>
+						<last_page>34</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-3</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/tao09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Matthew P.</given_name>
+<surname>Aylett</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Christoper J.</given_name>
+<surname>Pidcock</surname>
+</person_name>
+					</contributors>
+					<titles><title>The CereProc Blizzard Entry 2009: Some dumb algorithms that don't work</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>35</first_page>
+						<last_page>38</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-4</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/aylett09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>J. Sebastian</given_name>
+<surname>Andersson</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Joao P.</given_name>
+<surname>Cabral</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Leonardo</given_name>
+<surname>Badino</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Junichi</given_name>
+<surname>Yamagishi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Robert A.J.</given_name>
+<surname>Clark</surname>
+</person_name>
+					</contributors>
+					<titles><title>Glottal Source and Prosodic Prominence Modelling in HMM-based Speech Synthesis for the Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>39</first_page>
+						<last_page>44</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-5</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/andersson09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Marc</given_name>
+<surname>Schröder</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sathish</given_name>
+<surname>Pammi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Oytun</given_name>
+<surname>Türk</surname>
+</person_name>
+					</contributors>
+					<titles><title>Multilingual MARY TTS participation in the Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>45</first_page>
+						<last_page>48</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-6</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/schroder09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Junichi</given_name>
+<surname>Yamagishi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mike</given_name>
+<surname>Lincoln</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Dines</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Matthew</given_name>
+<surname>Gibson</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jilei</given_name>
+<surname>Tian</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yong</given_name>
+<surname>Guan</surname>
+</person_name>
+					</contributors>
+					<titles><title>Analysis of Unsupervised and Noise-Robust Speaker-Adaptive HMM-Based Speech Synthesis Systems toward a Unified ASR and TTS Framework</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>49</first_page>
+						<last_page>56</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-7</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/yamagishi09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Minghui</given_name>
+<surname>Dong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling</given_name>
+<surname>Cen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paul</given_name>
+<surname>Chan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Dongyan</given_name>
+<surname>Huang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Donglai</given_name>
+<surname>Zhu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Bin</given_name>
+<surname>Ma</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Haizhou</given_name>
+<surname>Li</surname>
+</person_name>
+					</contributors>
+					<titles><title>I2R Text-to-Speech System for Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>57</first_page>
+						<last_page>61</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-8</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/dong09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Michal</given_name>
+<surname>Kaszczuk</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lukasz</given_name>
+<surname>Osowski</surname>
+</person_name>
+					</contributors>
+					<titles><title>The IVO Software Blizzard Challenge 2009 Entry: Improving IVONA Text-To-Speech</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>62</first_page>
+						<last_page>66</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-9</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/kaszczuk09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Mike</given_name>
+<surname>Rozak</surname>
+</person_name>
+					</contributors>
+					<titles><title>CircumReality text-to-speech, a talking speech recognizer</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>67</first_page>
+						<last_page>70</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-10</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/rozak09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ranniery</given_name>
+<surname>Maia</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tomoki</given_name>
+<surname>Toda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shinsuke</given_name>
+<surname>Sakai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yoshinori</given_name>
+<surname>Shiga</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jinfu</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hisashi</given_name>
+<surname>Kawai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Minoru</given_name>
+<surname>Tsuzaki</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Satoshi</given_name>
+<surname>Nakamura</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NICT Entry for the Blizzard Challenge 2009: an Enhanced HMM-based Speech Synthesis System with Trajectory Training considering Global Variance and State-Dependent Mixed Excitation</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>71</first_page>
+						<last_page>76</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-11</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/maia09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Keiichiro</given_name>
+<surname>Oura</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yi-Jian</given_name>
+<surname>Wu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name>
+					</contributors>
+					<titles><title>Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>77</first_page>
+						<last_page>82</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-12</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/oura09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yuan-Fu</given_name>
+<surname>Liao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ming-Long</given_name>
+<surname>Wu</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NTUT Blizzard Challenge 2009 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>83</first_page>
+						<last_page>88</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-13</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/liao09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Zhiping</given_name>
+<surname>Zhang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xingchi</given_name>
+<surname>Xian</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lidong</given_name>
+<surname>Luo</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xihong</given_name>
+<surname>Wu</surname>
+</person_name>
+					</contributors>
+					<titles><title>PKU Mandarin Speech Synthesis System for Blizzard 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>89</first_page>
+						<last_page>94</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-14</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/zhang09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jian</given_name>
+<surname>Li</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jian</given_name>
+<surname>Luan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lifu</given_name>
+<surname>Yi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xiaoyan</given_name>
+<surname>Lou</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xi</given_name>
+<surname>Wang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Liqiang</given_name>
+<surname>He</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jie</given_name>
+<surname>Hao</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Toshiba Mandarin TTS System for the Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>95</first_page>
+						<last_page>100</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-15</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/li09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Heng</given_name>
+<surname>Lu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhen-Hua</given_name>
+<surname>Ling</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ming</given_name>
+<surname>Lei</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Cheng-Cheng</given_name>
+<surname>Wang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Huan-Huan</given_name>
+<surname>Zhao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling-Hui</given_name>
+<surname>Chen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Hu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Li-Rong</given_name>
+<surname>Dai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ren-Hua</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The USTC System for Blizzard Challenge 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>101</first_page>
+						<last_page>106</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-16</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/lu09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Lukas</given_name>
+<surname>Latacz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Wesley</given_name>
+<surname>Mattheyses</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Werner</given_name>
+<surname>Verhelst</surname>
+</person_name>
+					</contributors>
+					<titles><title>The VUB Blizzard Challenge 2009 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>4</day>
+						<year>2009</year>
+					</publication_date>
+					<pages>
+						<first_page>107</first_page>
+						<last_page>112</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2009-17</doi>
+						<resource>https://www.isca-archive.org/blizzard_2009/latacz09_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

@@ -1,10 +1,765 @@
 {
-  "SIG": "SynSIG",
-  "external": "http://www.festvox.org/blizzard/blizzard2008.html",
-  "conf": "Blizzard",
-  "year": "2008",
-  "name": "blizzard_2008",
-  "series": "Blizzard",
-  "title": "Evaluation of text-to-speech systems",
-  "title1": "Evaluation of text-to-speech systems"
+ "series": "Blizzard",
+ "title": "The Blizzard Challenge 2008",
+ "location": "Queensland, Australia",
+ "startDate": "21/09/2008",
+ "endDate": "21/09/2008",
+ "conf": "Blizzard",
+ "name": "blizzard_2008",
+ "year": "2008",
+ "SIG": "SynSIG",
+ "title1": "The Blizzard Challenge 2008",
+ "booklet": "intro.pdf",
+ "date": "21 September 2008",
+ "month": 9,
+ "day": 21,
+ "now": 1714137407691441,
+ "papers": {
+  "karaiskos08_blizzard": {
+   "authors": [
+    [
+     "Vasilis",
+     "Karaiskos"
+    ],
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Robert A. J.",
+     "Clark"
+    ],
+    [
+     "Catherine",
+     "Mayo"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2008",
+   "original": "01",
+   "order": 1,
+   "page_count": 18,
+   "abstract": [
+    "The Blizzard Challenge 2008 was the fourth annual Blizzard Challenge. This year, participants were asked to build two voices from a UK English corpus and one voice from a Mandarin Chinese corpus. This is the first time that a language other than English has been included and also the first time that a large UK English corpus has been available. In addition, the English corpus contained somewhat more expressive speech than that found in corpora used in previous Blizzard Challenges.\n",
+    "To assist participants with limited resources or limited experience in UK-accented English or Mandarin, unaligned labels were provided for both corpora and for the test sentences. Participants could use the provided labels or create their own. An accent-specific pronunciation dictionary was also available for the English speaker.\n",
+    "A set of test sentences was released to participants, who were given a limited time in which to synthesise them and submit the synthetic speech. An online listening test was conducted, to evaluate naturalness, intelligibility\n"
+   ],
+   "p1": 1,
+   "pn": 18,
+   "doi": "10.21437/Blizzard.2008-1",
+   "url": "blizzard_2008/karaiskos08_blizzard.html"
+  },
+  "sainz08_blizzard": {
+   "authors": [
+    [
+     "Inaki",
+     "Sainz"
+    ],
+    [
+     "Eva",
+     "Navas"
+    ],
+    [
+     "Inma",
+     "Hernaez"
+    ]
+   ],
+   "title": "The AHOLAB Blizzard Challenge 2008 Entry",
+   "original": "02",
+   "order": 2,
+   "page_count": 4,
+   "abstract": [
+    "This paper describes the process of building unit selection voices for our participation in the Blizzard Challenge 2008. Out of the three voices required (15 hours UK English, 1 hour UK English subset and 6.5 hours Mandarin Chinese) we only built the English ones.\n"
+   ],
+   "p1": 19,
+   "pn": 22,
+   "doi": "10.21437/Blizzard.2008-2",
+   "url": "blizzard_2008/sainz08_blizzard.html"
+  },
+  "maia08_blizzard": {
+   "authors": [
+    [
+     "Ranniery",
+     "Maia"
+    ],
+    [
+     "Jinfu",
+     "Ni"
+    ],
+    [
+     "Shinsuke",
+     "Sakai"
+    ],
+    [
+     "Tomoki",
+     "Toda"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ],
+    [
+     "Tohru",
+     "Shimizu"
+    ],
+    [
+     "Satoshi",
+     "Nakamura"
+    ]
+   ],
+   "title": "The NICT/ATR speech synthesis system for the Blizzard Challenge 2008",
+   "original": "03",
+   "order": 3,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the development of the NICT/ATR speech synthesizer for the Blizzard Challenge 2008 and discuss the official results. The submitted system is based on the hidden Markov model speech synthesis technology and utilizes an improved excitation approach based on residual modeling, in order to remove artifacts related to the parametric way in which speech is synthesized. Although development time was limited, the results show that the system in question achieves good performance in terms of naturalness and intelligibility.\n"
+   ],
+   "p1": 23,
+   "pn": 28,
+   "doi": "10.21437/Blizzard.2008-3",
+   "url": "blizzard_2008/maia08_blizzard.html"
+  },
+  "black08_blizzard": {
+   "authors": [
+    [
+     "Alan W",
+     "Black"
+    ],
+    [
+     "Christina L.",
+     "Bennett"
+    ],
+    [
+     "John",
+     "Kominek"
+    ],
+    [
+     "Brian",
+     "Langner"
+    ],
+    [
+     "Kishore",
+     "Prahallad"
+    ],
+    [
+     "Arthur",
+     "Toth"
+    ]
+   ],
+   "title": "CMU Blizzard 2008: Optimally using a large database for unit selection synthesis",
+   "original": "04",
+   "order": 4,
+   "page_count": 3,
+   "abstract": [
+    "This paper describes CMU’s entry for the Blizzard Challenge 2008. Our eventual system consisted of a fairly conventional layered cluster based unit selection system using the most predictable subset of the whole UK speech databases. This paper describes the methods we used to find the most reliable subset and the techniques used to optimize the selection. An additional technique that was used was to automatically detect \"hard\" text and modify the phrasing algorithm accordingly. Although this technique was targeted at SUS utterances it was in place for all utterances. CMU’s entry is letter M in the results.\n"
+   ],
+   "p1": 29,
+   "pn": 31,
+   "doi": "10.21437/Blizzard.2008-4",
+   "url": "blizzard_2008/black08_blizzard.html"
+  },
+  "andersson08_blizzard": {
+   "authors": [
+    [
+     "J. Sebastian",
+     "Andersson"
+    ],
+    [
+     "Leonardo",
+     "Badino"
+    ],
+    [
+     "Oliver",
+     "Watts"
+    ],
+    [
+     "Matthew P.",
+     "Aylett"
+    ]
+   ],
+   "title": "The CSTR/Cereproc Blizzard Entry 2008: The Inconvenient Data",
+   "original": "05",
+   "order": 5,
+   "page_count": 6,
+   "abstract": [
+    "In a commercial system data used for unit selection systems is collected with a heavy emphasis on homogeneous neutral data that has sufficient coverage for the units that will be used in the system. In this years Blizzard entry CSTR and CereProc present a joint entry where the emphasis has been to explore techniques to deal with data which is not homogeneous (the English entry) and did not have appropriate coverage for a diphone based system (the Mandarin entry where tone/phone combinations were treated as distinct phone categories). In addition, two further problems were addressed, 1) Making use of non-homogeneous data for creating a voice that can realise both expressive and neutral speaking styles (the English entry) 2) Building a unit selection system with no native understanding of the language but depending instead on external native evaluation (the Mandarin Entry).\n"
+   ],
+   "p1": 32,
+   "pn": 37,
+   "doi": "10.21437/Blizzard.2008-5",
+   "url": "blizzard_2008/andersson08_blizzard.html"
+  },
+  "schroeder08_blizzard": {
+   "authors": [
+    [
+     "Marc",
+     "Schroeder"
+    ],
+    [
+     "Marcela",
+     "Charfuelan"
+    ],
+    [
+     "Sathish",
+     "Pammi"
+    ],
+    [
+     "Oytun",
+     "Turk"
+    ]
+   ],
+   "title": "The MARY TTS entry in the Blizzard Challenge 2008",
+   "original": "06",
+   "order": 6,
+   "page_count": 6,
+   "abstract": [
+    "The present paper reports on the DFKI entry to the Blizzard challenge 2008. The main difference of our system compared to last year is a new join model inspired by last year’s iFlytek paper; the effect seems small, but measurable in the sense that it leads to the selection of longer chunks of consecutive units. In interpreting the results of the listening test, we correlate the ratings to various measures of the system. This allows us to explain at least some part of the variance in MOS ratings.\n"
+   ],
+   "p1": 38,
+   "pn": 43,
+   "doi": "10.21437/Blizzard.2008-6",
+   "url": "blizzard_2008/schroeder08_blizzard.html"
+  },
+  "yamagishi08_blizzard": {
+   "authors": [
+    [
+     "Junichi",
+     "Yamagishi"
+    ],
+    [
+     "Heiga",
+     "Zen"
+    ],
+    [
+     "Yi-Jian",
+     "Wu"
+    ],
+    [
+     "Tomoki",
+     "Toda"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ]
+   ],
+   "title": "The HTS-2008 System: Yet Another Evaluation of the Speaker-Adaptive HMM-based Speech Synthesis System in The 2008 Blizzard Challenge",
+   "original": "07",
+   "order": 7,
+   "page_count": 6,
+   "abstract": [
+    "For the 2008 Blizzard Challenge, we used the same speaker-adaptive approach to HMM-based speech synthesis that was used in the HTS entry to the 2007 challenge, but an improved system was built in which the multi-accented English average voice model was trained on 41 hours of speech data with high-order mel-cepstral analysis using an efficient forward-backward algorithm for the HSMM. The listener evaluation scores for the synthetic speech generated from this system was much better than in 2007: the system had the equal best naturalness on the small English data set and the equal best intelligibility on both small and large data sets for English, and had the equal best naturalness on the Mandarin data. In fact, the English system was found to be as intelligible as human speech.\n"
+   ],
+   "p1": 44,
+   "pn": 49,
+   "doi": "10.21437/Blizzard.2008-7",
+   "url": "blizzard_2008/yamagishi08_blizzard.html"
+  },
+  "dong08_blizzard": {
+   "authors": [
+    [
+     "Minghui",
+     "Dong"
+    ],
+    [
+     "Donglai",
+     "Zhu"
+    ],
+    [
+     "Bin",
+     "Ma"
+    ],
+    [
+     "Haizhou",
+     "Li"
+    ]
+   ],
+   "title": "I2R's Submission to Blizzard Challenge 2008",
+   "original": "08",
+   "order": 8,
+   "page_count": 5,
+   "abstract": [
+    "This paper reports the I2R’s submission to the Blizzard Challenge 2008. This is our first participation in Blizzard Challenge. In this paper, we describe the approach that we used to build the three required voices. We introduced the acoustic parameters that include MFCC coefficients as spectral parameters in addition to the prosodic parameters for unit selection based speech synthesis. We used regression tree approach to predict the acoustic parameters. The evaluation results show that our approach works well for English speech synthesis. The approach has also shown good performance in keeping the speaker characteristics of the speech database in Mandarin speech synthesis.\n"
+   ],
+   "p1": 50,
+   "pn": 54,
+   "doi": "10.21437/Blizzard.2008-8",
+   "url": "blizzard_2008/dong08_blizzard.html"
+  },
+  "fernandez08_blizzard": {
+   "authors": [
+    [
+     "Raul",
+     "Fernandez"
+    ],
+    [
+     "Zvi",
+     "Kons"
+    ],
+    [
+     "Slava",
+     "Shechtman"
+    ],
+    [
+     "Zhi Wei",
+     "Shuang"
+    ],
+    [
+     "Ron",
+     "Hoory"
+    ],
+    [
+     "Bhuvana",
+     "Ramabhadran"
+    ],
+    [
+     "Yong",
+     "Qin"
+    ]
+   ],
+   "title": "The IBM Submission to the 2008 Text-to-Speech Blizzard Challenge",
+   "original": "09",
+   "order": 9,
+   "page_count": 6,
+   "abstract": [
+    "The 2008 Blizzard speech synthesis challenge provided participants with an opportunity to evaluate their systems in UK English and Mandarin. This paper describes the work behind three IBM systems submitted to the challenge for these two languages. The systems presented are concatenative unit-selection text-to-speech synthesis systems consisting of a core algorithmic base, as well as some algorithmic variants introduced not just to address the language-specific component of the synthesis engines (i.e., text-processing front-end) but also to better serve the different properties of different language types (i.e., tonal nature of Mandarin). The resulting systems were evaluated with several tasks designed to address issues like overall naturalness, intelligibility and the preservation of speaker identity. All the IBM systems submitted achieved very good performance in the two languages across the different tasks reported in this paper.\n"
+   ],
+   "p1": 55,
+   "pn": 60,
+   "doi": "10.21437/Blizzard.2008-9",
+   "url": "blizzard_2008/fernandez08_blizzard.html"
+  },
+  "raghavendra08_blizzard": {
+   "authors": [
+    [
+     "E.Veera",
+     "Raghavendra"
+    ],
+    [
+     "Srinivas",
+     "Desai"
+    ],
+    [
+     "B.",
+     "Yegnanarayana"
+    ],
+    [
+     "Alan W",
+     "Black"
+    ],
+    [
+     "Kishore",
+     "Prahallad"
+    ]
+   ],
+   "title": "Blizzard 2008: Experiments on Unit Size for Unit Selection Speech Synthesis",
+   "original": "10",
+   "order": 10,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the techniques and approaches developed at IIIT Hyderabad for building synthetic voices in Blizzard 2008 speech synthesis challenge. We have submitted three different voices: English full voice, English ARCTIC voice and Mandarin voice. Our system is identified as D. In building the three voices, our approach has been to experiment and exploit syllable-like large units for concatenative synthesis. Inspite of large database supplied in Blizzard 2008, we find that a back-off strategy is essential in using syllable-like units. In this paper, we propose a novel technique of approximate matching of the syllables as back-off technique for building voices.\n"
+   ],
+   "p1": 61,
+   "pn": 66,
+   "doi": "10.21437/Blizzard.2008-10",
+   "url": "blizzard_2008/raghavendra08_blizzard.html"
+  },
+  "oliveira08_blizzard": {
+   "authors": [
+    [
+     "Luis C.",
+     "Oliveira"
+    ],
+    [
+     "Sergio",
+     "Paulo"
+    ],
+    [
+     "Luis",
+     "Figueira"
+    ],
+    [
+     "Carlos",
+     "Mendes"
+    ]
+   ],
+   "title": "The INESC-ID Blizzard Entry: Unsupervised Voice Building and Synthesis",
+   "original": "11",
+   "order": 11,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the INESC-ID participation in the Blizzard Challenge 2008, which consisted in building the two English voices. We have been developing a new European Portuguese TTS system, called DIXI, for the last two years. This year, the system was already stable enough to be used in the challenge,after a partial adaptation to support synthesis in English.\n",
+    "The major motivation for our participation in this year’s edition of the challenge was to evaluate to what extent our unsupervised and less resource-demanding voice building methods, very successfully applied in limited domain applications, can be used in open domain synthesis.\n"
+   ],
+   "p1": 67,
+   "pn": 72,
+   "doi": "10.21437/Blizzard.2008-11",
+   "url": "blizzard_2008/oliveira08_blizzard.html"
+  },
+  "tao08_blizzard": {
+   "authors": [
+    [
+     "Jianhua",
+     "Tao"
+    ],
+    [
+     "Jian",
+     "Yu"
+    ],
+    [
+     "Lixing",
+     "Huang"
+    ],
+    [
+     "Fangzhou",
+     "Liu"
+    ],
+    [
+     "Huibin",
+     "Jia"
+    ],
+    [
+     "Meng",
+     "Zhang"
+    ]
+   ],
+   "title": "The WISTON Text to Speech System for Blizzard 2008",
+   "original": "12",
+   "order": 12,
+   "page_count": 4,
+   "abstract": [
+    "The WISTON system is a large corpus based TTS system with the unit selection method. The text analysis part of this system contains text pre-processing, word segmentation, POS tagging, phonetic transcription and prosody structure prediction. The prosody information (duration, F0, energy) is predicted by the CART model with the input context information. In the unit selection model, we use the mutual prosody constraint as the part of concatenation costs for the path searching while the predicted F0s, durations and energies are used to get the target costs. The spectrum smoothing method is also used for the aspeech generation. The final system was used to attend Blizzard evaluation for both English test and Mandarin test. Good scores were got based on this system.\n"
+   ],
+   "p1": 73,
+   "pn": 76,
+   "doi": "10.21437/Blizzard.2008-12",
+   "url": "blizzard_2008/tao08_blizzard.html"
+  },
+  "rozak08_blizzard": {
+   "authors": [
+    [
+     "Mike",
+     "Rozak"
+    ]
+   ],
+   "title": "CircumReality functionality delta: Blizzard Challenge 2007 to 2008",
+   "original": "13",
+   "order": 13,
+   "page_count": 6,
+   "abstract": [
+    "Although performing poorly in the Blizzard Challenge 2008, the CircumReality text-to-speech engine improved significantly from the Blizzard 2007 test. The engine’s acoustic model, prosody model, and acoustic synthesis were improved between tests. This paper discusses the CircumReality engine’s test results and reasons why it did poorly. The paper provides a list of improvements that resulted in higher test scores in 2008, as well as implementation details one change: objectively-calculated target costs.\n"
+   ],
+   "p1": 77,
+   "pn": 82,
+   "doi": "10.21437/Blizzard.2008-13",
+   "url": "blizzard_2008/rozak08_blizzard.html"
+  },
+  "ding08_blizzard": {
+   "authors": [
+    [
+     "Feng",
+     "Ding"
+    ],
+    [
+     "Jari",
+     "Alhonen"
+    ]
+   ],
+   "title": "NTTS participation in the Blizzard Challenge 2008",
+   "original": "14",
+   "order": 14,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes NTTS participation in the Blizzard Challenge 2008. The Blizzard Challenge 2008 extended the evaluation languages to Mandarin. In this year, the basic NTTS system was updated with a new Mandarin phrase prediction module. According to the listening evaluation results, all three aspects of English voice, similarity, MOS and word error rate, have been improved slightly. However, the performance of Mandarin voice was not as good as we expected. Some result analyses on Mandarin voice are presented in this paper.\n"
+   ],
+   "p1": 83,
+   "pn": 88,
+   "doi": "10.21437/Blizzard.2008-14",
+   "url": "blizzard_2008/ding08_blizzard.html"
+  },
+  "gamboarosales08_blizzard": {
+   "authors": [
+    [
+     "Hamurabi",
+     "Gamboa Rosales"
+    ],
+    [
+     "Oliver",
+     "Jokisch"
+    ],
+    [
+     "Ruediger",
+     "Hoffmann"
+    ]
+   ],
+   "title": "The DRESS Blizzard Challenge 2008 Entry",
+   "original": "15",
+   "order": 15,
+   "page_count": 5,
+   "abstract": [
+    "This paper presents the version of the DRESS System that participated in the Blizzard Challenge 2008. Here we show a basic overview of the DRESS system, methodology and a description of its unit selection. We present a novel concept to increase the efficiency of the exhaustive speech unit search within the database by an unit selection model that is based on mapping analysis of the concatenation costs and Bayes optimal classification (BOC).\n"
+   ],
+   "p1": 89,
+   "pn": 93,
+   "doi": "10.21437/Blizzard.2008-15",
+   "url": "blizzard_2008/gamboarosales08_blizzard.html"
+  },
+  "li08_blizzard": {
+   "authors": [
+    [
+     "Jian",
+     "Li"
+    ],
+    [
+     "Dawei",
+     "Xu"
+    ],
+    [
+     "Lifu",
+     "Yi"
+    ],
+    [
+     "Xiaoyan",
+     "Lou"
+    ],
+    [
+     "Jian",
+     "Luan"
+    ],
+    [
+     "Xi",
+     "Wang"
+    ],
+    [
+     "Liqiang",
+     "He"
+    ],
+    [
+     "Jie",
+     "Hao"
+    ]
+   ],
+   "title": "The Toshiba Mandarin TTS System for the Blizzard Challenge 2008",
+   "original": "16",
+   "order": 16,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the Toshiba Mandarin Text-to-Speech (TTS) system that was submitted to the Blizzard Challenge 2008. The front-end of the system uses machine-learning approaches such as generalized linear models (GLM) and Quantification Method Type 1 (QMT1) to predict pause, duration and F0 contour. According to the predicted prosody information, the back-end of the system uses Toshiba's own \"plural unit selection and fusion\" method to create fused speech units which contain pitch-cycle waveforms. The pitch-cycle waveforms are then aligned along the predicted pitch marks and are overlapped with each other to generate the final speech waveforms. This paper also addresses the methods used to prepare the speech corpus and tune the performance of the back-end. The evaluation results showed that our Mandarin TTS was in the leading position among the 12 participating TTS systems.\n"
+   ],
+   "p1": 94,
+   "pn": 99,
+   "doi": "10.21437/Blizzard.2008-16",
+   "url": "blizzard_2008/li08_blizzard.html"
+  },
+  "bonafonte08_blizzard": {
+   "authors": [
+    [
+     "Antonio",
+     "Bonafonte"
+    ],
+    [
+     "Asuncion",
+     "Moreno"
+    ],
+    [
+     "Jordi",
+     "Adell"
+    ],
+    [
+     "Pablo D.",
+     "Aguero"
+    ],
+    [
+     "Eleftherios",
+     "Banos"
+    ],
+    [
+     "Daniel",
+     "Erro"
+    ],
+    [
+     "Ignasi",
+     "Esquerra"
+    ],
+    [
+     "Javier",
+     "Perez"
+    ],
+    [
+     "Tatyana",
+     "Polyakova"
+    ]
+   ],
+   "title": "The UPC TTS System Description for the 2008 Blizzard Challenge",
+   "original": "17",
+   "order": 17,
+   "page_count": 6,
+   "abstract": [
+    "This paper presents the UPC TTS system named Ogmios. It was used to generate the voices in UK English and Mandarin Chinese for Blizzard Challenge 2008. Ogmios is a system based on unit-selection using acoustic and phonetic features both in target and concatenation costs. Most of the modules of Ogmios rely on data driven techniques. This evaluation confirms that this framework allows fast development of synthetic voices in new languages that were not previously covered by the TTS: Mandarin Chinese.\n",
+    "The work in the TTS was devoted to prepare Ogmios to synthesize Mandarin Chinese, taking into account some particularities of the language regarding its writing and intonation. In the case of UK English we put the focus on rhythm, pauses and phonetic transcription.\n",
+    "The evaluators scored the UK English voices in an average of 3. High WER indicates intelligibility problems. Mandarin Chinese voice was scored with a lower score, near 2. Several measures indicate intelligibility and quality problems in this synthetic voice.\n"
+   ],
+   "p1": 100,
+   "pn": 105,
+   "doi": "10.21437/Blizzard.2008-17",
+   "url": "blizzard_2008/bonafonte08_blizzard.html"
+  },
+  "ling08_blizzard": {
+   "authors": [
+    [
+     "Zhen-Hua",
+     "Ling"
+    ],
+    [
+     "Heng",
+     "Lu"
+    ],
+    [
+     "Guo-Ping",
+     "Hu"
+    ],
+    [
+     "Li-Rong",
+     "Dai"
+    ],
+    [
+     "Ren-Hua",
+     "Wang"
+    ]
+   ],
+   "title": "The USTC System for Blizzard Challenge 2008",
+   "original": "18",
+   "order": 18,
+   "page_count": 6,
+   "abstract": [
+    "This paper introduces the speech synthesis system developed by USTC for Blizzard Challenge 2008. Two synthetic voices from the released UK English database are built using the HMM-based unit selection synthesis method, which is a hybrid of statistical parametric synthesis and unit-selection techniques. In this method, the optimal sequence of phone-sized candidate units is selected from the database following the statistical criterions derived from a set of trained HMMs for different acoustic features. Then the waveforms of selected units are concatenated to generate the synthesized speech. The evaluation results of Blizzard Challenge 2008 show that our system has good performance on similarity, naturalness and intelligibility for both English voices.\n"
+   ],
+   "p1": 106,
+   "pn": 111,
+   "doi": "10.21437/Blizzard.2008-18",
+   "url": "blizzard_2008/ling08_blizzard.html"
+  },
+  "scholtz08_blizzard": {
+   "authors": [
+    [
+     "Pieter",
+     "Scholtz"
+    ],
+    [
+     "Albert",
+     "Visagie"
+    ],
+    [
+     "Johan",
+     "du Preez"
+    ]
+   ],
+   "title": "Statistical Speech Synthesis for the Blizzard Challenge 2008",
+   "original": "19",
+   "order": 19,
+   "page_count": 4,
+   "abstract": [
+    "In this paper we present the details of our first entry for the Blizzard Challenge 2008 speech synthesis evaluation. Our system is a new HMM-based text-to-speech voice building system for the HTS runtime synthesis engine. We entered two UK English voices, one built from the full database provided, A, the other from the Arctic subset, B and one Mandarin voice built from the provided database. The evaluation results show that our system provides very good intelligibility, moderate naturalness and low similarity to the original speaker.\n"
+   ],
+   "p1": 112,
+   "pn": 115,
+   "doi": "10.21437/Blizzard.2008-19",
+   "url": "blizzard_2008/scholtz08_blizzard.html"
+  },
+  "latacz08_blizzard": {
+   "authors": [
+    [
+     "Lukas",
+     "Latacz"
+    ],
+    [
+     "Yuk On",
+     "Kong"
+    ],
+    [
+     "Wesley",
+     "Mattheyses"
+    ],
+    [
+     "Werner",
+     "Verhelst"
+    ]
+   ],
+   "title": "An Overview of the VUB Entry for the 2008 Blizzard Challenge",
+   "original": "20",
+   "order": 20,
+   "page_count": 6,
+   "abstract": [
+    "In this paper, we describe the configuration of our synthesizer, as used for the Blizzard Challenge the first time. Two new UK English voices were built for the DSSP synthesizer, our in-house unit selection synthesizer, which uses non-uniform units and a symbolic description of target prosody. Listening tests indicate reasonable quality although there is still room for improvement.\n"
+   ],
+   "p1": 116,
+   "pn": 121,
+   "doi": "10.21437/Blizzard.2008-20",
+   "url": "blizzard_2008/latacz08_blizzard.html"
+  },
+  "falk08_blizzard": {
+   "authors": [
+    [
+     "Tiago H.",
+     "Falk"
+    ],
+    [
+     "Sebastian",
+     "Moeller"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ],
+    [
+     "Simon",
+     "King"
+    ]
+   ],
+   "title": "Improving Instrumental Quality Prediction Performance for the Blizzard Challenge",
+   "original": "21",
+   "order": 21,
+   "page_count": 6,
+   "abstract": [
+    "In this paper, the performance of the standard instrumental quality prediction algorithm ITU-T P.563 is reported based on the 2007 and 2008 Blizzard Challenge speech data. The algorithm, which is optimized for natural speech, is shown to obtain poor correlation with subjective quality ratings. In an attempt to improve instrumental quality prediction performance for the Blizzard Challenge, modifications to the algorithm are proposed. In particular, a novel regression tree mapping is proposed based on five key features extracted by the P.563 algorithm. Experimental results on the 2008 Challenge dataset show that the performance attained with the improved algorithm substantially outperforms the original standard algorithm implementation.\n"
+   ],
+   "p1": 122,
+   "pn": 127,
+   "doi": "10.21437/Blizzard.2008-21",
+   "url": "blizzard_2008/falk08_blizzard.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Summary",
+   "papers": [
+    "karaiskos08_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations",
+   "papers": [
+    "sainz08_blizzard",
+    "maia08_blizzard",
+    "black08_blizzard",
+    "andersson08_blizzard",
+    "schroeder08_blizzard",
+    "yamagishi08_blizzard",
+    "dong08_blizzard",
+    "fernandez08_blizzard",
+    "raghavendra08_blizzard",
+    "oliveira08_blizzard",
+    "tao08_blizzard",
+    "rozak08_blizzard",
+    "ding08_blizzard",
+    "gamboarosales08_blizzard",
+    "li08_blizzard",
+    "bonafonte08_blizzard",
+    "ling08_blizzard",
+    "scholtz08_blizzard",
+    "latacz08_blizzard",
+    "falk08_blizzard"
+   ]
+  }
+ ],
+ "doi": "10.21437/Blizzard.2008"
 }
