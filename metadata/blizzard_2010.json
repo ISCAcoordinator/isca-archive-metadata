@@ -1,10 +1,637 @@
 {
-  "SIG": "SynSIG",
-  "external": "http://www.festvox.org/blizzard/blizzard2010.html",
-  "conf": "Blizzard",
-  "year": "2010",
-  "name": "blizzard_2010",
-  "series": "Blizzard",
-  "title": "Evaluation of text-to-speech systems",
-  "title1": "Evaluation of text-to-speech systems"
+ "series": "Blizzard",
+ "title": "The Blizzard Challenge 2010",
+ "location": "Kansai Science City, Japan",
+ "startDate": "25/09/2010",
+ "endDate": "25/09/2010",
+ "conf": "Blizzard",
+ "name": "blizzard_2010",
+ "year": "2010",
+ "SIG": "SynSIG",
+ "title1": "The Blizzard Challenge 2010",
+ "booklet": "intro.pdf",
+ "date": "25 September 2010",
+ "month": 9,
+ "day": 25,
+ "now": 1714197374052026,
+ "papers": {
+  "king10_blizzard": {
+   "authors": [
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2010",
+   "original": "01",
+   "order": 1,
+   "page_count": 32,
+   "abstract": [
+    "The Blizzard Challenge 2010 was the sixth annual Blizzard Challenge. As in 2008 and 2009, UK English and Mandarin Chinese were the chosen languages for the 2010 Challenge, which was again organised by the University of Edinburgh with assistance from the other members of the Blizzard Challenge committee – Prof. Keiichi Tokuda and Prof. Alan Black. Two English corpora were used: the 'rjs’ corpus provided by Phonetic Arts, and the 'roger’ corpus from the University of Edinburgh. The Mandarin corpus was provided by the National Laboratory of Pattern Recognition, Institute of Automation of Chinese Academy of Sciences. As usual, all participants (including those with limited resources or limited experience in these languages) had the option of using labels that were provided for both corpora and for the test sentences. The tasks were organised in the form of 'hubs’ and 'spokes’ where each hub task involved building a general-purpose voice and each spoke task involved building a voice for a specific situation or under specified conditions.\n",
+    "A set of test sentences was released to participants, who were given a limited time in which to synthesise them and submit the synthetic speech. An online listening test was conducted to evaluate naturalness, intelligibility and degree of similarity to the original speaker.\n"
+   ],
+   "p1": 1,
+   "pn": 32,
+   "doi": "10.21437/Blizzard.2010-1",
+   "url": "blizzard_2010/king10_blizzard.html"
+  },
+  "tao10_blizzard": {
+   "authors": [
+    [
+     "Jianhua",
+     "Tao"
+    ],
+    [
+     "Shifeng",
+     "Pan"
+    ],
+    [
+     "Ya",
+     "Li"
+    ],
+    [
+     "Zhengqi",
+     "Wen"
+    ],
+    [
+     "Yang",
+     "Wang"
+    ]
+   ],
+   "title": "The WISTON Text to Speech System for Blizzard Challenge 2010",
+   "original": "02",
+   "order": 2,
+   "page_count": 5,
+   "abstract": [
+    "The paper introduces the speech synthesis system developed by Institute of Automation, Chinese Academy of Sciences (CASIA) for Blizzard Challenge 2010. The large corpus based speech synthesis system, WISTON, was built to synthesize Mandarin speech. In this year, a new prosodic structure prediction model was used, which is more precise and compact than before. Furthermore, two kinds of syllable segmentation methods, i.e. rough segmentation and precise segmentation, were performed on Mandarin speech corpus. The rough segmentation labels were used in prosody models training and unit selection stage. During concatenation stage, these two kinds of segmentation labels are both used to determine the start position and end position of waveform fragment of each unit. Experiment results show that this approach is effective. The evaluation results show that except the similarity is very high, mean opinion score (MOS) and word error rate (WER) of WISOTN system are of average level.\n"
+   ],
+   "p1": 33,
+   "pn": 37,
+   "doi": "10.21437/Blizzard.2010-2",
+   "url": "blizzard_2010/tao10_blizzard.html"
+  },
+  "yamagishi10_blizzard": {
+   "authors": [
+    [
+     "Junichi",
+     "Yamagishi"
+    ],
+    [
+     "Oliver",
+     "Watts"
+    ]
+   ],
+   "title": "The CSTR/EMIME HTS System for Blizzard Challenge",
+   "original": "04",
+   "order": 10,
+   "page_count": 6,
+   "abstract": [
+    "In the 2010 Blizzard Challenge, we focused on improving steps relating to feature extraction and labeling in the procedures for training HMM-based speech synthesis systems. New auditory scales were used for spectral features and F0 representation. We have also adopted finer frequency bands motivated by an auditory-scale for aperiodicity measures, which determine the level of noise in each band for mixed excitation. Further for tighter coupling of the HMM training and automatic labeling processes, we have studied methods for stepwise bootstrap training. The listeners’ evaluation scores were much better than those of HTS-benchmark systems. More importantly, we can see some improvements even in speaker similarity, which was known to be the acknowledged weakness of this method. In fact, speaker similarity is not a weak point of this method on the tasks using smaller databases. In terms of naturalness, the new systems outperformed or competed with unit selection systems regardless of the size of speech databases used and moreover competed with hybrid systems on smaller databases.\n"
+   ],
+   "p1": 80,
+   "pn": 85,
+   "doi": "10.21437/Blizzard.2010-10",
+   "url": "blizzard_2010/yamagishi10_blizzard.html"
+  },
+  "hinterleitner10_blizzard": {
+   "authors": [
+    [
+     "Florian",
+     "Hinterleitner"
+    ],
+    [
+     "Sebastian",
+     "Möller"
+    ],
+    [
+     "Tiago H.",
+     "Falk"
+    ],
+    [
+     "Tim",
+     "Polzehl"
+    ]
+   ],
+   "title": "Comparison of Approaches for Instrumentally Predicting the Quality of Text-to-Speech Systems: Data from Blizzard Challenges 2008 and 2009",
+   "original": "05",
+   "order": 9,
+   "page_count": 7,
+   "abstract": [
+    "In this paper, we compare and combine different approaches for instrumentally predicting the perceived quality of Text-to-Speech systems. First, a Log-Likelihood is determined by comparing features extracted from synthesized speech signals with features trained on natural speech. Second, parameters are extracted which capture quality-relevant degradations of the synthesized speech signal. Both approaches are combined and evaluated on auditory evaluated synthetic speech databases from the Blizzard Challenges 2008 and 2009. The results show that auditory quality judgments can be predicted with a sufficiently high accuracy and reliability. Especially the possibility to rank different synthesizer systems by their quality comes within reach.\n"
+   ],
+   "p1": 73,
+   "pn": 79,
+   "doi": "10.21437/Blizzard.2010-9",
+   "url": "blizzard_2010/hinterleitner10_blizzard.html"
+  },
+  "suni10_blizzard": {
+   "authors": [
+    [
+     "Antti",
+     "Suni"
+    ],
+    [
+     "Tuomo",
+     "Raitio"
+    ],
+    [
+     "Martti",
+     "Vainio"
+    ],
+    [
+     "Paavo",
+     "Alku"
+    ]
+   ],
+   "title": "The GlottHMM Speech Synthesis Entry for Blizzard Challenge 2010",
+   "original": "06",
+   "order": 11,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the GlottHMM speech synthesis entry for Blizzard Challenge 2010. GlottHMM is a hidden Markov model (HMM) based speech synthesis system that utilizes glottal inverse filtering for separating the vocal tract from the glottal source. The source and the filter characteristics are modeled separately in the framework of HMM. In the synthesis stage, natural glottal flow pulses are used to generate the excitation signal, and the excitation signal is further modified according to the desired voice source characteristics generated by the HMM. In order to prevent the over-smoothing of the vocal tract filter parameters, a new formant enhancement method is used to make the vocal tract resonances sharper. Finally, speech is synthesized by filtering the glottal excitation by the vocal tract filter.\n"
+   ],
+   "p1": 86,
+   "pn": 91,
+   "doi": "10.21437/Blizzard.2010-11",
+   "url": "blizzard_2010/suni10_blizzard.html"
+  },
+  "dong10_blizzard": {
+   "authors": [
+    [
+     "Minghui",
+     "Dong"
+    ],
+    [
+     "Paul",
+     "Chan"
+    ],
+    [
+     "Ling",
+     "Cen"
+    ],
+    [
+     "Bin",
+     "Ma"
+    ],
+    [
+     "Haizhou",
+     "Li"
+    ]
+   ],
+   "title": "I2R Text-to-Speech System for Blizzard Challenge 2010",
+   "original": "07",
+   "order": 3,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes I2R's submission to the Blizzard Challenge 2010 speech synthesis evaluation. This is our third participation in the challenge. In this paper, we will describe our main approaches to building the required voices. We will introduce the procedure of database processing, the definitions of the acoustic, prosodic and linguistic parameters, the components of cost functions, etc. Finally, we will look at the listening test results. The evaluation results show that our Mandarin system performed well in the evaluation.\n"
+   ],
+   "p1": 38,
+   "pn": 43,
+   "doi": "10.21437/Blizzard.2010-3",
+   "url": "blizzard_2010/dong10_blizzard.html"
+  },
+  "raptis10_blizzard": {
+   "authors": [
+    [
+     "Spyros",
+     "Raptis"
+    ],
+    [
+     "Aimilios",
+     "Chalamandaris"
+    ],
+    [
+     "Pirros",
+     "Tsiakoulis"
+    ],
+    [
+     "Sotiris",
+     "Karabetsos"
+    ]
+   ],
+   "title": "The ILSP Text-to-Speech System for the Blizzard Challenge 2010",
+   "original": "08",
+   "order": 12,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes the system employed by ILSP's Speech Synthesis Group for the Blizzard Challenge 2010 competition. It described the process of the building the required unit selection voices, and presents and discusses the obtained evaluation results.\n"
+   ],
+   "p1": 92,
+   "pn": 96,
+   "doi": "10.21437/Blizzard.2010-12",
+   "url": "blizzard_2010/raptis10_blizzard.html"
+  },
+  "nitisaroj10_blizzard": {
+   "authors": [
+    [
+     "Rattima",
+     "Nitisaroj"
+    ],
+    [
+     "Reiner",
+     "Wilhelms-Tricarico"
+    ],
+    [
+     "Brian",
+     "Mottershead"
+    ],
+    [
+     "John",
+     "Reichenbach"
+    ],
+    [
+     "Gary",
+     "Marple"
+    ]
+   ],
+   "title": "The Lessac Technologies System for Blizzard Challenge 2010",
+   "original": "09",
+   "order": 13,
+   "page_count": 5,
+   "abstract": [
+    "For Blizzard Challenge 2010, Lessac Technologies built its first British English voice from the provided full database. To enhance methods for target cost calculation and unit selection, instead of traditional phonetic symbols, we used a more fine-grained set of Lessemes to label units and applied the Hierarchical Mixture of Experts model to map linguistic features to acoustic parameters. The evaluation results show that we performed relatively well on similarity to the original speaker, and comparable to most systems with respect to naturalness. The high word error rate suggests that we need to improve on signal processing for concatenation.\n"
+   ],
+   "p1": 97,
+   "pn": 101,
+   "doi": "10.21437/Blizzard.2010-13",
+   "url": "blizzard_2010/nitisaroj10_blizzard.html"
+  },
+  "louw10_blizzard": {
+   "authors": [
+    [
+     "Johannes A.",
+     "Louw"
+    ],
+    [
+     "Daniel R.",
+     "van Niekerk"
+    ],
+    [
+     "Georg I.",
+     "Schlünz"
+    ]
+   ],
+   "title": "Introducing the Speect speech synthesis platform",
+   "original": "10",
+   "order": 4,
+   "page_count": 6,
+   "abstract": [
+    "We introduce a new open source speech synthesis engine and related set of tools: Speect is designed to be a portable and flexible synthesis engine, equally relevant as a research platform and runtime synthesis system in multilingual environments. In this paper we document our approach to the rapid development of British English voices for the 2010 Blizzard Challenge using this platform and resources.\n"
+   ],
+   "p1": 44,
+   "pn": 49,
+   "doi": "10.21437/Blizzard.2010-4",
+   "url": "blizzard_2010/louw10_blizzard.html"
+  },
+  "bunnell10_blizzard": {
+   "authors": [
+    [
+     "Timothy",
+     "Bunnell"
+    ],
+    [
+     "Jason",
+     "Lilley"
+    ],
+    [
+     "Chris",
+     "Pennington"
+    ],
+    [
+     "Bill",
+     "Moyers"
+    ],
+    [
+     "James",
+     "Polikoff"
+    ]
+   ],
+   "title": "The ModelTalker System",
+   "original": "11",
+   "order": 5,
+   "page_count": 6,
+   "abstract": [
+    "The ModelTalker TTS system has recently been largely rewritten to change its design to make full use of information derived from talker-specific HMMs that are trained in optimizing phonetic transcription and alignment. Because this system is substantially different than the system last used in a Blizzard challenge in 2005, we decided to participate once again. This allows us to both compare performance with the previous version on similar tasks, and with the latest cutting edge TTS technology. The current version of ModelTalker appears to be comparable with the previous version in segmental intelligibility and substantially improved in the naturalness of its synthetic output.\n"
+   ],
+   "p1": 50,
+   "pn": 55,
+   "doi": "10.21437/Blizzard.2010-5",
+   "url": "blizzard_2010/bunnell10_blizzard.html"
+  },
+  "qian10_blizzard": {
+   "authors": [
+    [
+     "Yao",
+     "Qian"
+    ],
+    [
+     "Zhi-Jie",
+     "Yan"
+    ],
+    [
+     "Yi-Jian",
+     "Wu"
+    ],
+    [
+     "Frank K.",
+     "Soong"
+    ],
+    [
+     "Guoliang",
+     "Zhang"
+    ],
+    [
+     "Lijuan",
+     "Wang"
+    ]
+   ],
+   "title": "An HMM Trajectory Tiling (HTT) Approach to High Quality TTS - Microsoft Entry to Blizzard Challenge 2010",
+   "original": "12",
+   "order": 14,
+   "page_count": 5,
+   "abstract": [
+    "We propose an HMM Trajectory Tiling (HTT) approach to high quality TTS, which is our entry to Blizzard Challenge 2010. In HTT, first refined HMM is trained with the Minimum Generation Error (MGE) criterion; then trajectory generated by the refined HMM is to guide the search for finding the closest waveform segment \"tiles\" in synthesis. Normalized distances between HMM trajectory and those of the waveform unit candidates are used for selecting final candidates in a unit sausage (lattice). Normalized cross-correlation, a good concatenation measure for its high relevance to spectral similarity, phase continuity and concatenation time instants, is used for finding the best unit sequence in the sausage. The sequence serves as the best segment tiles to closely follow the HMM trajectory guide. Tested in four tasks, {EH1, EH2, MH1 and MH2}, of Blizzard Challenge 2010, the new HTT approach delivers high quality, natural sounding TTS speech without sacrificing high intelligibility. Subjectively, they are confirmed by naturalness and intelligibility listening test scores.\n"
+   ],
+   "p1": 102,
+   "pn": 106,
+   "doi": "10.21437/Blizzard.2010-14",
+   "url": "blizzard_2010/qian10_blizzard.html"
+  },
+  "shiga10_blizzard": {
+   "authors": [
+    [
+     "Yoshinori",
+     "Shiga"
+    ],
+    [
+     "Tomoki",
+     "Toda"
+    ],
+    [
+     "Shinsuke",
+     "Sakai"
+    ],
+    [
+     "Jinfu",
+     "Ni"
+    ],
+    [
+     "Hisashi",
+     "Kawai"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ],
+    [
+     "Minoru",
+     "Tsuzaki"
+    ],
+    [
+     "Satoshi",
+     "Nakamura"
+    ]
+   ],
+   "title": "NICT Blizzard Challenge 2010 Entry",
+   "original": "13",
+   "order": 15,
+   "page_count": 6,
+   "abstract": [
+    "This paper details a speech synthesis system developed at NICT for the Blizzard Challenge 2010. The system depends on an HMM-based speech synthesis technique that possesses two distinctive features: HMM training under global-variance constraint on the parameter trajectory and trainable mixed excitation for source-filter vocoding. For this year’s entry, we added some modifications to the system we developed for last year's Challenge. The major improvement is on the scheme for the training of the unvoiced filter that is a component of our mixed excitation model. Despite the fact that our excitation modelling has room for further improvement, the official results show that the system achieves reasonable performance for all assessment categories.\n"
+   ],
+   "p1": 107,
+   "pn": 112,
+   "doi": "10.21437/Blizzard.2010-15",
+   "url": "blizzard_2010/shiga10_blizzard.html"
+  },
+  "oura10_blizzard": {
+   "authors": [
+    [
+     "Keiichiro",
+     "Oura"
+    ],
+    [
+     "Kei",
+     "Hashimoto"
+    ],
+    [
+     "Sayaka",
+     "Shiota"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ]
+   ],
+   "title": "Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2010",
+   "original": "14",
+   "order": 6,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes a hidden Markov model (HMM)-based speech synthesis system developed for the Blizzard Challenge 2010. This system employs STRAIGHT vocoding, minimum generation error (MGE) training, minimum generation error linear regression (MGELR) based model adaptation, the Bayesian speech synthesis framework, and the parameter generation algorithm considering global variance. The real-time factor of the speech synthesis system is about 0.3, and its footprint is less than 25 MB. Subjective evaluation results show that the overall speech quality and intelligibility of the systems are better than most other system, especially when a well-labeled speech database can be used.\n"
+   ],
+   "p1": 56,
+   "pn": 61,
+   "doi": "10.21437/Blizzard.2010-6",
+   "url": "blizzard_2010/oura10_blizzard.html"
+  },
+  "zhang10_blizzard": {
+   "authors": [
+    [
+     "Bufan",
+     "Zhang"
+    ],
+    [
+     "Jari",
+     "Alhonen"
+    ],
+    [
+     "Yong",
+     "Guan"
+    ],
+    [
+     "Jilei",
+     "Tian"
+    ]
+   ],
+   "title": "Multilingual TTS System of Nokia Entry for Blizzard 2010",
+   "original": "15",
+   "order": 16,
+   "page_count": 2,
+   "abstract": [
+    "In Nokia's blizzard 2010 entry, we built the system with Nokia multilingual text to speech front end system and two high performance HTS backends. This MLTTS front end system describes the design and implementation designed for universal language coverage and a single code execution for them all based on the assumption that there are more features uniting world languages than differentiating them.\n"
+   ],
+   "p1": 113,
+   "pn": 114
+  },
+  "meen10_blizzard": {
+   "authors": [
+    [
+     "Dyre",
+     "Meen"
+    ],
+    [
+     "Torbjørn",
+     "Svendsen"
+    ]
+   ],
+   "title": "The NTNU Concatenative Speech Synthesizer",
+   "original": "16",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes NTNU’s entry for the Blizzard Challenge 2010. Our system is a conceptually simple variation of an HMM-based unit selection system, which uses diphones as the basic unit and employs a combined selection of units and their join points. The evaluation results of the Blizzard Challenge 2010 show that the system performs well when compared with the other systems.\n"
+   ],
+   "p1": 62,
+   "pn": 66,
+   "doi": "10.21437/Blizzard.2010-7",
+   "url": "blizzard_2010/meen10_blizzard.html"
+  },
+  "liao10_blizzard": {
+   "authors": [
+    [
+     "Yuan-Fu",
+     "Liao"
+    ],
+    [
+     "Ming-Long",
+     "Wu"
+    ],
+    [
+     "Shao-He",
+     "Lyu"
+    ]
+   ],
+   "title": "The NTUT Blizzard Challenge 2010 Entry",
+   "original": "17",
+   "order": 8,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes our HMM-based speech synthesis system (HTS) submitted to Blizzard Challenge 2010. Three Mandarin Chinese voices were built for two hub (MH1and MH2) and one spoke (MS1) tasks this year (the voice for MS2 is the same as MH1's one). According to the evaluation results, our system got in average 2 points for both mean opinion scores (MOS) and similarity tests for MH1, MH2 and MS1. Beside, for MH1, about 22% and 24% pinyin error rates (without (PER) and with tone (PTER), respectively) and 28% character error rate (CER) were achieved for intelligibility test. However, for speech in noise task, MH2, the performance of our system is not satisfied, especially in low signal-to-noise (SNR) case. In conclusion, these results indicate there is still a lot of room for improvement, especially for dealing with different speaking style (comparing with last year's data) and noise interference.\n"
+   ],
+   "p1": 67,
+   "pn": 72,
+   "doi": "10.21437/Blizzard.2010-8",
+   "url": "blizzard_2010/liao10_blizzard.html"
+  },
+  "jiang10_blizzard": {
+   "authors": [
+    [
+     "Yuan",
+     "Jiang"
+    ],
+    [
+     "Zhen-Hua",
+     "Ling"
+    ],
+    [
+     "Ming",
+     "Lei"
+    ],
+    [
+     "Cheng-Cheng",
+     "Wang"
+    ],
+    [
+     "Lu",
+     "Heng"
+    ],
+    [
+     "Yu",
+     "Hu"
+    ],
+    [
+     "Li-Rong",
+     "Dai"
+    ],
+    [
+     "Ren-Hua",
+     "Wang"
+    ]
+   ],
+   "title": "The USTC System for Blizzard Challenge 2010",
+   "original": "18",
+   "order": 17,
+   "page_count": 6,
+   "abstract": [
+    "This paper introduces the speech synthesis system developed by USTC for Blizzard Challenge 2010. USTC attended all English tasks including the hub tasks and the spoke tasks. According to the various conditions for different tasks, different versions of synthesis systems are constructed. Many new techniques are employed in our speech synthesis system construction. Results of internal experiments comparing these techniques are shown, and analyzed. The evaluation results of Blizzard Challenge 2010 prove that our system has good quality in the naturalness, similarity. But in the intelligibility of the synthetic speech, the results are not good enough.\n"
+   ],
+   "p1": 115,
+   "pn": 120,
+   "doi": "10.21437/Blizzard.2010-16",
+   "url": "blizzard_2010/jiang10_blizzard.html"
+  },
+  "latacz10_blizzard": {
+   "authors": [
+    [
+     "Lukas",
+     "Latacz"
+    ],
+    [
+     "Wesley",
+     "Mattheyses"
+    ],
+    [
+     "Werner",
+     "Verhelst"
+    ]
+   ],
+   "title": "The VUB Blizzard Challenge 2010 Entry: Towards Automatic Voice Building",
+   "original": "19",
+   "order": 18,
+   "page_count": 6,
+   "abstract": [
+    "In this paper we describe the voices we submitted to the 2010 Blizzard Challenge, a yearly challenge to evaluate auditory speech synthesis on common data. One of the goals of a data-driven synthesizer, such as ours, is to generalize the speech database in such a way that it allows a realistic rendition of unseen input text. The two main changes to our system, compared to previous submissions, are the inclusion of an HMM-based acoustic prosody model, and the automatic training of context-dependent target cost weights. These weights are estimated for each individual target during synthesis, and depend on the linguistic features of these targets which encompass their broader linguistic context. Another new aspect of our synthesizer is the ability to synthesize Mandarin Chinese speech. Its evaluation helps us assess the quality of our synthesizer for languages unfamiliar to the voice developers. Evaluation results and possible improvements to our synthesizer are also discussed.\n"
+   ],
+   "p1": 121,
+   "pn": 126,
+   "doi": "10.21437/Blizzard.2010-17",
+   "url": "blizzard_2010/latacz10_blizzard.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Summary of results",
+   "papers": [
+    "king10_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations 1",
+   "papers": [
+    "tao10_blizzard",
+    "dong10_blizzard",
+    "louw10_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentation & Instrumental Measures",
+   "papers": [
+    "bunnell10_blizzard",
+    "oura10_blizzard",
+    "meen10_blizzard",
+    "liao10_blizzard",
+    "hinterleitner10_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations 2",
+   "papers": [
+    "yamagishi10_blizzard",
+    "suni10_blizzard",
+    "raptis10_blizzard",
+    "nitisaroj10_blizzard",
+    "qian10_blizzard",
+    "shiga10_blizzard",
+    "zhang10_blizzard",
+    "jiang10_blizzard",
+    "latacz10_blizzard"
+   ]
+  }
+ ],
+ "doi": "10.21437/Blizzard.2010"
 }

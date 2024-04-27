@@ -1,10 +1,383 @@
 {
-  "SIG": "SynSIG",
-  "external": "http://www.festvox.org/blizzard/blizzard2012.html",
-  "conf": "Blizzard",
-  "year": "2012",
-  "name": "blizzard_2012",
-  "series": "Blizzard",
-  "title": "Evaluation of text-to-speech systems",
-  "title1": "Evaluation of text-to-speech systems"
+ "series": "Blizzard",
+ "title": "The Blizzard Challenge 2012",
+ "location": "Portland, US",
+ "startDate": "14/09/2012",
+ "endDate": "14/09/2012",
+ "conf": "Blizzard",
+ "name": "blizzard_2012",
+ "year": "2012",
+ "SIG": "SynSIG",
+ "title1": "The Blizzard Challenge 2012",
+ "booklet": "intro.pdf",
+ "date": "14 September 2012",
+ "month": 9,
+ "day": 14,
+ "now": 1714197882318205,
+ "papers": {
+  "king12_blizzard": {
+   "authors": [
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2012",
+   "original": "01",
+   "order": 1,
+   "page_count": 11,
+   "abstract": [
+    "The Blizzard Challenge 2012 was the eighth annual Blizzard Challenge which was once again organised by the University of Edinburgh with assistance from the other members of the Blizzard Challenge committee – Prof. Keiichi Tokuda and Prof. Alan Black. One single-speaker English corpus was used, created from audiobook recordings on the Librivox website. Besides the main task of creating synthetic voices from these data, participants were invited to propose novel forms of evaluation.\n"
+   ],
+   "p1": 1,
+   "pn": 11,
+   "doi": "10.21437/Blizzard.2012-1",
+   "url": "blizzard_2012/king12_blizzard.html"
+  },
+  "charfuelan12_blizzard": {
+   "authors": [
+    [
+     "Marcela",
+     "Charfuelan"
+    ]
+   ],
+   "title": "MARYTTS HMM-based voices for the Blizzard Challenge 2012",
+   "original": "02",
+   "order": 2,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the first participation of MARY TTS HMM-based voices in a Blizzard challenge. An architecture for synthesis of expressive speech based on the MARY TTS system and sentiment analysis of text is proposed. The creation of several HMM-based voices in different styles using audiobook data is described. Preliminary results on perception of different voice styles and the appropriateness of a given style for a given sentence are presented. The latest developments in the open source MARY TTS 5.0 are briefly described.\n"
+   ],
+   "p1": 12,
+   "pn": 17,
+   "doi": "10.21437/Blizzard.2012-2",
+   "url": "blizzard_2012/charfuelan12_blizzard.html"
+  },
+  "suni12_blizzard": {
+   "authors": [
+    [
+     "Antti",
+     "Suni"
+    ],
+    [
+     "Tuomo",
+     "Raitio"
+    ],
+    [
+     "Martti",
+     "Vainio"
+    ],
+    [
+     "Paavo",
+     "Alku"
+    ]
+   ],
+   "title": "The GlottHMM Entry for Blizzard Challenge 2012: Hybrid Approach",
+   "original": "03",
+   "order": 8,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the GlottHMM speech synthesis system for Blizzard Challenge 2012. The aim of the GlottHMM system is to combine high-quality vocoding and detailed prosody modeling in order to produce expressive, high quality, synthetic speech. GlottHMM is based on statistical parametric speech synthesis, but it uses a glottal flow pulse library for generating the excitation signal. Thus, it can be regarded as a hybrid system using the pulses as concatenative units that are selected according to the statistically generated voice source feature trajectories. This year’s speech material was challenging especially, but despite that we were able to achieve a clean, intelligible voice with decent above average prosody characteristics.\n"
+   ],
+   "p1": 43,
+   "pn": 48,
+   "doi": "10.21437/Blizzard.2012-8",
+   "url": "blizzard_2012/suni12_blizzard.html"
+  },
+  "dong12_blizzard": {
+   "authors": [
+    [
+     "Minghui",
+     "Dong"
+    ],
+    [
+     "S W",
+     "Lee"
+    ],
+    [
+     "Paul",
+     "Chan"
+    ],
+    [
+     "Ling",
+     "Cen"
+    ]
+   ],
+   "title": "I2R Text-to-Speech System for Blizzard Challenge 2012",
+   "original": "04",
+   "order": 9,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes I2R’s submission to the Blizzard Challenge 2012 speech synthesis evaluation. In this paper, we will describe our main approach to building the speech synthesis system. First, we discuss the database processing method. Then we explain the prosody model and speech synthesis method. Finally we will present the results of the listening test and do some analysis.\n"
+   ],
+   "p1": 49,
+   "pn": 53,
+   "doi": "10.21437/Blizzard.2012-9",
+   "url": "blizzard_2012/dong12_blizzard.html"
+  },
+  "raptis12_blizzard": {
+   "authors": [
+    [
+     "Spyros",
+     "Raptis"
+    ],
+    [
+     "Aimilios",
+     "Chalamandaris"
+    ],
+    [
+     "Pirros",
+     "Tsiakoulis"
+    ],
+    [
+     "Sotiris",
+     "Karabetsos"
+    ]
+   ],
+   "title": "The ILSP Text-to-Speech System for the Blizzard Challenge 2012",
+   "original": "05",
+   "order": 3,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes ILSP and INNOETICS Speech Synthesis System entry for the Blizzard Challenge 2012. A description of the underlying system and techniques used are provided, as well as information about the voice building process and discussion on the obtained evaluation results. Additional focus will be given to new processes or techniques we used this year in comparison to our previous participations, and we will also discuss the results of the new section of the Blizzard Challenge which aims to investigate the abilities of the participating TTS systems to cope with audio books and expressive speech synthesis.\n"
+   ],
+   "p1": 18,
+   "pn": 23,
+   "doi": "10.21437/Blizzard.2012-3",
+   "url": "blizzard_2012/raptis12_blizzard.html"
+  },
+  "wilhelmstricarico12_blizzard": {
+   "authors": [
+    [
+     "Reiner",
+     "Wilhelms-Tricarico"
+    ],
+    [
+     "Brian",
+     "Mottershead"
+    ],
+    [
+     "John",
+     "Reichenbach"
+    ],
+    [
+     "Gary",
+     "Marple"
+    ]
+   ],
+   "title": "The Lessac Technologies Hybrid Concatenated System for Blizzard Challenge 2012",
+   "original": "06",
+   "order": 6,
+   "page_count": 6,
+   "abstract": [
+    "Lessac Technologies has developed a technology for concatenated speech synthesis based on a novel approach for describing speech in which expressivity, voice quality, and speaking style are fundamental. The main aspect of our system is that instead of traditional phonetic symbols, we use a much more fine-grained and richer set of entities called Lessemes to describe speech and to label units, which allow a richer and more precise characterization of speech sounds. The front-end portion of our synthesizer translates plain input text into a sequence of these units by syntactic parsing and applying a set of rules developed from expertise. We use a Bayesian method to obtain a particular trainable mapping from linguistic and prosodic features encoded in the Lessemes to a trajectory in the acoustic parameter space. Unit selection consists of selecting the best candidate units from a data base to match them to the target trajectory, while minimizing discontinuities between them.\n"
+   ],
+   "p1": 33,
+   "pn": 38,
+   "doi": "10.21437/Blizzard.2012-6",
+   "url": "blizzard_2012/wilhelmstricarico12_blizzard.html"
+  },
+  "baumgartner12_blizzard": {
+   "authors": [
+    [
+     "Mike",
+     "Baumgartner"
+    ],
+    [
+     "Reiner",
+     "Wilhelms-Tricarico"
+    ],
+    [
+     "John",
+     "Reichenbach"
+    ]
+   ],
+   "title": "The Lessac Technologies Time Domain Diphone Parametric Synthesis System for Microcontrollers for Blizzard Challenge 2012",
+   "original": "07",
+   "order": 7,
+   "page_count": 4,
+   "abstract": [
+    "Advances in the capabilities of microcomputer systems have opened the door to new approaches to real time speech synthesis. In the past, diphone synthesis was a popular synthesis method. More recently, unit selection speech synthesis has afforded higher quality synthesis, mainly by eliminating the need for significant signal processing, and thus preventing the signal processing artifacts that are the consequences of speech segment modifications. Instead, unit selection synthesis consists substantially of real segments of unaltered speech. It was hoped that with  enough voice databases, that could provide enough recorded sections of speech, there would be sufficient coverage for any utterance required for speech synthesis. Even as unit selection speech synthesis system databases have become considerably larger, the realization of constructing natural speech entirely from segments of unaltered speech units has still fallen short of expectations. The Blizzard Challenge has provided a measure to quantify how much of a difference in quality has transpired in the new unit selection approaches compared to the old diphone synthesis methods. This diphone synthesis system also is an example of working towards a goal of high quality synthesis that still works on very limited hardware resources.\n"
+   ],
+   "p1": 39,
+   "pn": 42,
+   "doi": "10.21437/Blizzard.2012-7",
+   "url": "blizzard_2012/baumgartner12_blizzard.html"
+  },
+  "takaki12_blizzard": {
+   "authors": [
+    [
+     "Shinji",
+     "Takaki"
+    ],
+    [
+     "Kei",
+     "Sawada"
+    ],
+    [
+     "Kei",
+     "Hashimoto"
+    ],
+    [
+     "Keiichiro",
+     "Oura"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ]
+   ],
+   "title": "Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2012",
+   "original": "08",
+   "order": 5,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes a hidden Markov model (HMM) based speech synthesis system developed for the Blizzard Challenge 2012. In the Blizzard Challenge 2012, we focused on a design of contexts for using audio books as training data and modeling of silence between sentences for synthesizing paragraphs. It is well known that contextual factors affect speech. We use extended contexts for using audio books to construct appropriate model parameter tying structures. In addition, duration models of silence between sentences are created to synthesize more natural speech because connections between sentences are important for synthesizing paragraphs. Subjective evaluation results show that the system synthesized the high intelligible speech.\n"
+   ],
+   "p1": 27,
+   "pn": 32,
+   "doi": "10.21437/Blizzard.2012-5",
+   "url": "blizzard_2012/takaki12_blizzard.html"
+  },
+  "liao12_blizzard": {
+   "authors": [
+    [
+     "Yuan-Fu",
+     "Liao"
+    ],
+    [
+     "Chia-Chi",
+     "Lin"
+    ],
+    [
+     "Jiun-Yan",
+     "Pan"
+    ]
+   ],
+   "title": "The NTUT Blizzard Challenge 2012 Entry",
+   "original": "09",
+   "order": 4,
+   "page_count": 3,
+   "abstract": [
+    "This paper describes our HMM-based speech synthesis system (HTS) [1] submitted to Blizzard Challenge 2012 [2]. This is our first English TTS and also our first audiobook application. In this system, not only linguistic but also semantic features beyond sentence level are extracted including the (1) semantic topics and (2) punctuation marks (PMs) of current and surrounding sentences and (3) number and forward and backward positions of sentences in a paragraph. Especially, Latent Dirichlet Allocation (LDA) [3]-based approach was adopted to analyze the topic of an input sentence and applied to both (1) decision tree-based clustering and (2) adjust the durations of inter-sentence breaks.\n"
+   ],
+   "p1": 24,
+   "pn": 26,
+   "doi": "10.21437/Blizzard.2012-4",
+   "url": "blizzard_2012/liao12_blizzard.html"
+  },
+  "ling12_blizzard": {
+   "authors": [
+    [
+     "Zhen-Hua",
+     "Ling"
+    ],
+    [
+     "Xian-Jun",
+     "Xia"
+    ],
+    [
+     "Yang",
+     "Song"
+    ],
+    [
+     "Chen-Yu",
+     "Yang"
+    ],
+    [
+     "Ling-Hui",
+     "Chen"
+    ],
+    [
+     "Li-Rong",
+     "Dai"
+    ]
+   ],
+   "title": "The USTC System for Blizzard Challenge 2012",
+   "original": "10",
+   "order": 10,
+   "page_count": 5,
+   "abstract": [
+    "This paper introduces the speech synthesis system developed by USTC for Blizzard Challenge 2012. An audiobook speech corpus is adopted as the training data for system construction this year. Similar to our previous systems, the hidden Markov model (HMM) based unit selection and waveform concatenation approach is followed to develop our speech synthesis system using this corpus. Considering the inconsistent recording conditions and the narrator’s expressiveness within the corpus, we add some channel and expressiveness related labels to each sentence besides the conventional segmental and prosodic labels for system construction. The evaluation results of Blizzard Challenge 2012 show that our system performs well in all evaluation tests, which proves the effectiveness of the HMM-based unit selection approach in coping with a non-standard speech synthesis corpus.\n"
+   ],
+   "p1": 54,
+   "pn": 58,
+   "doi": "10.21437/Blizzard.2012-10",
+   "url": "blizzard_2012/ling12_blizzard.html"
+  },
+  "norrenbrock12_blizzard": {
+   "authors": [
+    [
+     "Christoph R.",
+     "Norrenbrock"
+    ],
+    [
+     "Florian",
+     "Hinterleitner"
+    ],
+    [
+     "Ulrich",
+     "Heute"
+    ],
+    [
+     "Sebastian",
+     "Möller"
+    ]
+   ],
+   "title": "Towards Perceptual Quality Modeling of Synthesized Audiobooks – Blizzard Challenge 2012",
+   "original": "11",
+   "order": 11,
+   "page_count": 6,
+   "abstract": [
+    "This paper reports on recent advances in the field of instrumental quality evaluation of text-to-speech (TTS) synthesis. In particular, a wide range of acoustic quality markers are analyzed concerning their quality-describing power using the audiobook data from the Blizzard Challenge 2012. Several approaches for perceptual modeling are investigated and compared with each other. The results reveal substantial correlations as high as 0.87 between subjective ratings of overall impression and their estimates.\n"
+   ],
+   "p1": 59,
+   "pn": 64,
+   "doi": "10.21437/Blizzard.2012-11",
+   "url": "blizzard_2012/norrenbrock12_blizzard.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Summary of results",
+   "papers": [
+    "king12_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations 1",
+   "papers": [
+    "charfuelan12_blizzard",
+    "raptis12_blizzard",
+    "liao12_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations 2",
+   "papers": [
+    "takaki12_blizzard",
+    "wilhelmstricarico12_blizzard",
+    "baumgartner12_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations 3",
+   "papers": [
+    "suni12_blizzard",
+    "dong12_blizzard",
+    "ling12_blizzard"
+   ]
+  },
+  {
+   "title": "Evaluation",
+   "papers": [
+    "norrenbrock12_blizzard"
+   ]
+  }
+ ],
+ "doi": "10.21437/Blizzard.2012"
 }

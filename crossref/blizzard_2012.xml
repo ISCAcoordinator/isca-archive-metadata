@@ -1,0 +1,365 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>blizzard_2012</doi_batch_id>
+		<timestamp>1714197882318205</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The Blizzard Challenge 2012</conference_name>
+				<conference_acronym>blizzard_2012</conference_acronym>
+				<conference_date>14 September 2012</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The Blizzard Challenge 2012</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2012</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Blizzard.2012</doi>
+					<timestamp>1714197882318205</timestamp>
+					<resource>https://www.isca-archive.org/blizzard_2012/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>11</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-1</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/king12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Marcela</given_name>
+<surname>Charfuelan</surname>
+</person_name>
+					</contributors>
+					<titles><title>MARYTTS HMM-based voices for the Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>12</first_page>
+						<last_page>17</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-2</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/charfuelan12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Antti</given_name>
+<surname>Suni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tuomo</given_name>
+<surname>Raitio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Martti</given_name>
+<surname>Vainio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paavo</given_name>
+<surname>Alku</surname>
+</person_name>
+					</contributors>
+					<titles><title>The GlottHMM Entry for Blizzard Challenge 2012: Hybrid Approach</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>43</first_page>
+						<last_page>48</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-8</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/suni12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Minghui</given_name>
+<surname>Dong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>S W</given_name>
+<surname>Lee</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paul</given_name>
+<surname>Chan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling</given_name>
+<surname>Cen</surname>
+</person_name>
+					</contributors>
+					<titles><title>I2R Text-to-Speech System for Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>49</first_page>
+						<last_page>53</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-9</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/dong12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Spyros</given_name>
+<surname>Raptis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Aimilios</given_name>
+<surname>Chalamandaris</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pirros</given_name>
+<surname>Tsiakoulis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sotiris</given_name>
+<surname>Karabetsos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The ILSP Text-to-Speech System for the Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>18</first_page>
+						<last_page>23</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-3</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/raptis12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Reiner</given_name>
+<surname>Wilhelms-Tricarico</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Brian</given_name>
+<surname>Mottershead</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Reichenbach</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Gary</given_name>
+<surname>Marple</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Lessac Technologies Hybrid Concatenated System for Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>33</first_page>
+						<last_page>38</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-6</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/wilhelmstricarico12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Mike</given_name>
+<surname>Baumgartner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Reiner</given_name>
+<surname>Wilhelms-Tricarico</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Reichenbach</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Lessac Technologies Time Domain Diphone Parametric Synthesis System for Microcontrollers for Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>39</first_page>
+						<last_page>42</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-7</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/baumgartner12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Shinji</given_name>
+<surname>Takaki</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kei</given_name>
+<surname>Sawada</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kei</given_name>
+<surname>Hashimoto</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichiro</given_name>
+<surname>Oura</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name>
+					</contributors>
+					<titles><title>Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>27</first_page>
+						<last_page>32</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-5</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/takaki12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yuan-Fu</given_name>
+<surname>Liao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Chia-Chi</given_name>
+<surname>Lin</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jiun-Yan</given_name>
+<surname>Pan</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NTUT Blizzard Challenge 2012 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>24</first_page>
+						<last_page>26</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-4</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/liao12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Zhen-Hua</given_name>
+<surname>Ling</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xian-Jun</given_name>
+<surname>Xia</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yang</given_name>
+<surname>Song</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Chen-Yu</given_name>
+<surname>Yang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling-Hui</given_name>
+<surname>Chen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Li-Rong</given_name>
+<surname>Dai</surname>
+</person_name>
+					</contributors>
+					<titles><title>The USTC System for Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>54</first_page>
+						<last_page>58</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-10</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/ling12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Christoph R.</given_name>
+<surname>Norrenbrock</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Florian</given_name>
+<surname>Hinterleitner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ulrich</given_name>
+<surname>Heute</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sebastian</given_name>
+<surname>Möller</surname>
+</person_name>
+					</contributors>
+					<titles><title>Towards Perceptual Quality Modeling of Synthesized Audiobooks – Blizzard Challenge 2012</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>14</day>
+						<year>2012</year>
+					</publication_date>
+					<pages>
+						<first_page>59</first_page>
+						<last_page>64</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2012-11</doi>
+						<resource>https://www.isca-archive.org/blizzard_2012/norrenbrock12_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>
