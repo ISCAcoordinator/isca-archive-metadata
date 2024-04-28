@@ -1,10 +1,10 @@
 <doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
 	<head>
 		<doi_batch_id>blizzard_2012</doi_batch_id>
-		<timestamp>1714197882318205</timestamp>
+		<timestamp>1714294784085900</timestamp>
 		<depositor>
-			<depositor_name>Martin Cooke</depositor_name>
-			<email_address>m.cooke@ikerbasque.org</email_address>
+			<depositor_name>Sébastien Le Maguer</depositor_name>
+			<email_address>sebastien.lemaguer@helsinki.fi</email_address>
 		</depositor>
 		<registrant>International Speech Communication Association</registrant>
 	</head>
@@ -27,7 +27,7 @@
 				<noisbn reason='simple_series'/>
 				<doi_data>
 					<doi>10.21437/Blizzard.2012</doi>
-					<timestamp>1714197882318205</timestamp>
+					<timestamp>1714294784085900</timestamp>
 					<resource>https://www.isca-archive.org/blizzard_2012/</resource>
 				</doi_data>
 			</proceedings_metadata>

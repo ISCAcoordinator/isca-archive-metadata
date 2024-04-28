@@ -1,10 +1,568 @@
 {
-  "SIG": "SynSIG",
-  "external": "http://www.festvox.org/blizzard/blizzard2013.html",
-  "conf": "Blizzard",
-  "year": "2013",
-  "name": "blizzard_2013",
-  "series": "Blizzard",
-  "title": "Evaluation of text-to-speech systems",
-  "title1": "Evaluation of text-to-speech systems"
+ "series": "Blizzard",
+ "title": "The Blizzard Challenge 2013",
+ "location": "Barcelona, Spain",
+ "startDate": "03/09/2013",
+ "endDate": "03/09/2013",
+ "conf": "Blizzard",
+ "name": "blizzard_2013",
+ "year": "2013",
+ "SIG": "SynSIG",
+ "title1": "The Blizzard Challenge 2013",
+ "booklet": "intro.pdf",
+ "date": "3 September 2013",
+ "month": 9,
+ "day": 3,
+ "now": 1714294611496661,
+ "papers": {
+  "king13_blizzard": {
+   "authors": [
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2013",
+   "original": "01",
+   "order": 1,
+   "page_count": 12,
+   "abstract": [
+    "The Blizzard Challenge 2013 was the ninth annual Blizzard Challenge which was once again organised by the University of Edinburgh with advice from the other members of the Blizzard Challenge committee – Prof. Keiichi Tokuda and Prof. Alan Black joined this year by Dr. Kishore Prahallad who organised the Indian languages tasks. This summary paper only covers the English tasks; a separate paper is available which summarises those Indian language tasks. For the English tasks, a large single-speaker English corpus was used, comprising around 300 hours of audio from professionally-produced audiobooks.\n"
+   ],
+   "p1": 1,
+   "pn": 12,
+   "doi": "10.21437/Blizzard.2013-1",
+   "url": "blizzard_2013/king13_blizzard.html"
+  },
+  "prahallad13_blizzard": {
+   "authors": [
+    [
+     "Kishore",
+     "Prahallad"
+    ],
+    [
+     "Anandaswarup",
+     "Vadapalli"
+    ],
+    [
+     "Naresh",
+     "Elluru"
+    ],
+    [
+     "Gautam",
+     "Mantena"
+    ],
+    [
+     "Bhargav",
+     "Pulugundla"
+    ],
+    [
+     "Peri",
+     "Bhaskararao"
+    ],
+    [
+     "Hema A.",
+     "Murthy"
+    ],
+    [
+     "Simon",
+     "King"
+    ],
+    [
+     "Vasilis",
+     "Karaiskos"
+    ],
+    [
+     "Alan W",
+     "Black"
+    ]
+   ],
+   "title": "The Blizzard Challenge 2013 -- Indian Language Task",
+   "original": "02",
+   "order": 2,
+   "page_count": 11,
+   "abstract": [
+    "The Blizzard challenge 2013 was the ninth annual Blizzard challenge which was organized by University of Edinburgh handling the English language tasks and IIIT Hyderabad handling the Indian language tasks. This paper decsribes the Indian language tasks in the Blizzard challenge 2013. The Indian language tasks consisted of data from four Indian languages: Hindi, Bengali, Kannada and Tamil taken from the IIIT-H Indic database. Eight participants from across the world used the speech data provided as well as the corresponding text data in UTF-8, to build synthetic voices, which were then evaluated by means of listening tests.\n"
+   ],
+   "p1": 13,
+   "pn": 23,
+   "doi": "10.21437/Blizzard.2013-2",
+   "url": "blizzard_2013/prahallad13_blizzard.html"
+  },
+  "charfuelan13_blizzard": {
+   "authors": [
+    [
+     "Marcela",
+     "Charfuelan"
+    ],
+    [
+     "Sathish",
+     "Pammi"
+    ],
+    [
+     "Ingmar",
+     "Steiner"
+    ]
+   ],
+   "title": "MARY TTS unit selection and HMM-based voices for the Blizzard Challenge 2013",
+   "original": "03",
+   "order": 3,
+   "page_count": 5,
+   "abstract": [
+    "This paper describes the implementation of a unit selection English voice and a HMM-based Hindi voice for our participation in the Blizzard Challenge 2013. The two voices have been created using the MARY TTS voice building framework. We describe how audiobook data is used to create the English voice and how a quality control measure (statistical model cost) is used to control the selection of unit candidates, in addition to target and join costs. The implementation of the Hindi voice and the new Hindi language components in the MARY TTS framework are also described. We have obtained close to average results for both systems, especially in the emotion category for the English voice, Naturalness for the Hindi voice and Word Error Rate (WER) for both systems.\n"
+   ],
+   "p1": 24,
+   "pn": 28,
+   "doi": "10.21437/Blizzard.2013-3",
+   "url": "blizzard_2013/charfuelan13_blizzard.html"
+  },
+  "lee13_blizzard": {
+   "authors": [
+    [
+     "S. W.",
+     "Lee"
+    ],
+    [
+     "Minghui",
+     "Dong"
+    ],
+    [
+     "Shen Ting",
+     "Ang"
+    ],
+    [
+     "Min Min",
+     "Chew"
+    ]
+   ],
+   "title": "I2R Text-to-Speech System for Blizzard Challenge 2013",
+   "original": "04",
+   "order": 4,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes I2R's submission to the Blizzard Challenge 2013 speech synthesis evaluation. There are two sections this year: an English audio book section, and an Indic language speech synthesis section. Unit-selection was used for the English task; while HMM-based TTS was used for the Indian tasks. The Indian languages each have some distinct properties which need to be accounted for in the synthesis process. The Indian TTS system achieved a high level of intelligibility in the listening tests conducted.\n"
+   ],
+   "p1": 29,
+   "pn": 34,
+   "doi": "10.21437/Blizzard.2013-4",
+   "url": "blizzard_2013/lee13_blizzard.html"
+  },
+  "chalamandaris13_blizzard": {
+   "authors": [
+    [
+     "Aimilios",
+     "Chalamandaris"
+    ],
+    [
+     "Pirros",
+     "Tsiakoulis"
+    ],
+    [
+     "Sotiris",
+     "Karabetsos"
+    ],
+    [
+     "Spyros",
+     "Raptis"
+    ]
+   ],
+   "title": "The ILSP / INNOETICS Text-to-Speech System for the Blizzard Challenge 2013",
+   "original": "05",
+   "order": 5,
+   "page_count": 8,
+   "abstract": [
+    "This paper describes ILSP and INNOETICS Speech Synthesis System entry for the Blizzard Challenge 2013. A description of the underlying system and techniques used is provided, well as information about the voice building process and discussion on the obtained evaluation results. Extra focus will be given on the new techniques we used this year in comparison to our previous participations, and we will also attempt a comparative analysis of this year’s results with the results of the Blizzard Challenge 2012, aiming to investigate the abilities and the progress performed as far as expressive speech synthesis is concerned.\n"
+   ],
+   "p1": 35,
+   "pn": 42,
+   "doi": "10.21437/Blizzard.2013-5",
+   "url": "blizzard_2013/chalamandaris13_blizzard.html"
+  },
+  "dinh13_blizzard": {
+   "authors": [
+    [
+     "Anh-Tuan",
+     "Dinh"
+    ],
+    [
+     "Thanh-Son",
+     "Phan"
+    ],
+    [
+     "Dang-Hung",
+     "Phan"
+    ],
+    [
+     "Tung-Lam",
+     "Phi"
+    ],
+    [
+     "Tat-Thang",
+     "Vu"
+    ],
+    [
+     "Chi-Mai",
+     "Luong"
+    ]
+   ],
+   "title": "The iSolar Blizzard Challenge 2013 Entry",
+   "original": "06",
+   "order": 6,
+   "page_count": 4,
+   "abstract": [
+    "The paper describes the iSolar TTS system architecture and how the Blizzard database was integrated into our system. The core of iSolar was based on HTS engine and Flite. An analysis of the mean opinion scores for test sentences shows where our system can be improved.\n"
+   ],
+   "p1": 43,
+   "pn": 46,
+   "doi": "10.21437/Blizzard.2013-6",
+   "url": "blizzard_2013/dinh13_blizzard.html"
+  },
+  "wilhelmstricarico13_blizzard": {
+   "authors": [
+    [
+     "Reiner",
+     "Wilhelms-Tricarico"
+    ],
+    [
+     "John",
+     "Reichenbach"
+    ],
+    [
+     "Gary",
+     "Marple"
+    ]
+   ],
+   "title": "The Lessac Technologies Hybrid Concatenated System for Blizzard Challenge 2013",
+   "original": "07",
+   "order": 7,
+   "page_count": 7,
+   "abstract": [
+    "Lessac Technologies has developed a technology for concatenated speech synthesis based on a novel approach for describing speech in which expressivity, voice quality, and speaking style are fundamental. The main aspect of our system is that instead of traditional phonetic symbols, we use a much more fine-grained and richer set of entities called Lessemes to describe speech and to label units, which allow a richer and more precise characterization of speech sounds. The front-end portion of our synthesizer translates plain input text into a sequence of these units by syntactic parsing and applying a set of rules developed from expertise. We use a Bayesian method to obtain a particular trainable mapping from linguistic and prosodic features encoded in the Lessemes to a trajectory in the acoustic parameter space. Unit selection consists of selecting the best candidate units from a data base to match them to the target trajectory, while minimizing discontinuities between them. For the voice used in this Challenge we implemented a preliminary model for remapping intonation features called levels based on acoustic features.\n"
+   ],
+   "p1": 47,
+   "pn": 53,
+   "doi": "10.21437/Blizzard.2013-7",
+   "url": "blizzard_2013/wilhelmstricarico13_blizzard.html"
+  },
+  "louw13_blizzard": {
+   "authors": [
+    [
+     "Johannes A.",
+     "Louw"
+    ],
+    [
+     "Georg I.",
+     "Schlünz"
+    ],
+    [
+     "Willem",
+     "van der Walt"
+    ],
+    [
+     "Febe",
+     "de Wet"
+    ],
+    [
+     "Laurette",
+     "Pretorius"
+    ]
+   ],
+   "title": "The Speect text-to-speech system entry for the Blizzard Challenge 2013",
+   "original": "08",
+   "order": 8,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the Speect text-to-speech system entry for the Blizzard Challenge 2013. The techniques applied for the tasks of the challenge are described as well as the implementation details for the alignment of the audio books and the text-to-speech system modules. The results of the evaluations are given and discussed.\n"
+   ],
+   "p1": 54,
+   "pn": 59,
+   "doi": "10.21437/Blizzard.2013-8",
+   "url": "blizzard_2013/louw13_blizzard.html"
+  },
+  "shivakumar13_blizzard": {
+   "authors": [
+    [
+     "H R",
+     "Shiva Kumar"
+    ],
+    [
+     "Ashwini Jaya",
+     "Kumar"
+    ],
+    [
+     "B S R",
+     "Rajaram"
+    ],
+    [
+     "A G",
+     "Ramakrishnan"
+    ]
+   ],
+   "title": "MILE TTS for Tamil and Kannada for blizzard challenge 2013",
+   "original": "09",
+   "order": 9,
+   "page_count": 4,
+   "abstract": [
+    "We participated in the Blizzard Challenge 2013 for Tamil and Kannada, using our unit selection based concatenative speech synthesis system. Sentence level viterbi search is used to select the reliable speech units among a set of candidate units. The same Text-to-Speech synthesis framework is used to synthesize speech in both the Indian languages. The given Wikipedia and semantically unpredictable test sentences are synthesized using IIIT-H Indic corpus and the listening test results reported by the blizzard evaluation team is discussed. The letter code for MILE TTS is “R”.\n"
+   ],
+   "p1": 60,
+   "pn": 63,
+   "doi": "10.21437/Blizzard.2013-9",
+   "url": "blizzard_2013/shivakumar13_blizzard.html"
+  },
+  "takaki13_blizzard": {
+   "authors": [
+    [
+     "Shinji",
+     "Takaki"
+    ],
+    [
+     "Kei",
+     "Sawada"
+    ],
+    [
+     "Kei",
+     "Hashimoto"
+    ],
+    [
+     "Keiichiro",
+     "Oura"
+    ],
+    [
+     "Keiichi",
+     "Tokuda"
+    ]
+   ],
+   "title": "Overview of NITECH HMM-based speech synthesis system for Blizzard Challenge 2013",
+   "original": "10",
+   "order": 10,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes a hidden Markov model (HMM) based speech synthesis system developed for the Blizzard Challenge 2013. In the Blizzard Challenge 2013, audiobooks are provided as training data. In this paper, we focus on a construction of databases for training acoustic models from audiobooks. An automatic alignment technique based on speech recognition is used for obtaining pairs of audio and transcriptions. We also focus on training high natural and neutral acoustic models from audiobooks. Audiobooks consist of speech with various qualities, styles, emotions, etc. It is necessary to appropriately handle such data for training high quality acoustic models. We pruned unneutral and mistakable speech data from the aligned data with multiple techniques and trained acoustic models normalized differences of speaking styles, recording conditions, and file formats among chapters with adaptive training for each chapter. Subjective evaluation results show that the developed system synthesized the high natural and intelligible speech.\n"
+   ],
+   "p1": 64,
+   "pn": 69,
+   "doi": "10.21437/Blizzard.2013-10",
+   "url": "blizzard_2013/takaki13_blizzard.html"
+  },
+  "liao13_blizzard": {
+   "authors": [
+    [
+     "Yuan-Fu",
+     "Liao"
+    ],
+    [
+     "Jiun-Yan",
+     "Pan"
+    ]
+   ],
+   "title": "The NTUT Blizzard Challenge 2013 Entry",
+   "original": "11",
+   "order": 11,
+   "page_count": 4,
+   "abstract": [
+    "This paper describes our HMM-based speech synthesis system (HTS) [1] submitted to Blizzard Challenge 2013 [2]. The focus of this entry is to build a TTS without using any provided information and speedup the training procedures by parallel processing. In this system, the input text is tagged by Stanford parser [3] and transformed into phone sequences by Flite’s letter to sound module [4]. Then all utterances are force-aligned using a phone recognizer trained using TIMIT [5] corpus. To consider the relationship between neighboring sentences, the linguistic features beyond sentence level are extracted including the (1) number and forward and backward positions of sentences in a paragraph and (2) punctuation marks (PMs) of current and surrounding sentences. Moreover, deterministic annealing expectation and maximization (DAEM) [6] and minimum generation error (MGE) [7] criterions are used to initialize and fine-tune the HTS models, respectively.\n"
+   ],
+   "p1": 70,
+   "pn": 73,
+   "doi": "10.21437/Blizzard.2013-11",
+   "url": "blizzard_2013/liao13_blizzard.html"
+  },
+  "boros13_blizzard": {
+   "authors": [
+    [
+     "Tiberiu",
+     "Boros"
+    ],
+    [
+     "Radu",
+     "Ion"
+    ],
+    [
+     "Stefan Daniel",
+     "Dumitrescu"
+    ]
+   ],
+   "title": "The RACAI Text-to-Speech Synthesis System",
+   "original": "12",
+   "order": 12,
+   "page_count": 6,
+   "abstract": [
+    "This paper describes the RACAI Text-to-Speech (TTS) entry for the Blizzard Challenge 2013. The development of RACAI TTS started during the Metanet4U project and system is currently part of the METASHARE platform. This paper describes the work carried out for preparing the RACAI entry during the Blizzard Challenge 2013 and provides a detailed description of our system and future development directions.\n"
+   ],
+   "p1": 74,
+   "pn": 79,
+   "doi": "10.21437/Blizzard.2013-12",
+   "url": "blizzard_2013/boros13_blizzard.html"
+  },
+  "watts13_blizzard": {
+   "authors": [
+    [
+     "Oliver",
+     "Watts"
+    ],
+    [
+     "Adriana",
+     "Stan"
+    ],
+    [
+     "Yoshitaka",
+     "Mamiya"
+    ],
+    [
+     "Antti",
+     "Suni"
+    ],
+    [
+     "Jose Martin",
+     "Burgos"
+    ],
+    [
+     "Juan Manuel",
+     "Montero"
+    ]
+   ],
+   "title": "The Simple4All entry to the Blizzard Challenge 2013",
+   "original": "13",
+   "order": 13,
+   "page_count": 5,
+   "abstract": [
+    "We describe the synthetic voices entered into the 2013 Blizzard Challenge by the SIMPLE4ALL consortium. The 2013 Blizzard Challenge presents an opportunity to test and benchmark some of the tools we have been developing to address two problems of interest: 1) how best to learn from plentiful ‘found’ data, and 2) how to produce systems in arbitrary new languages with minimal annotated data and language-specific expertise on the part of the system builders. We here explain how our tools were used to address these problems on the different tasks of the challenge, and provide some discussion of the evaluation results.\n"
+   ],
+   "p1": 80,
+   "pn": 84,
+   "doi": "10.21437/Blizzard.2013-13",
+   "url": "blizzard_2013/watts13_blizzard.html"
+  },
+  "yu13_blizzard": {
+   "authors": [
+    [
+     "Yansuo",
+     "Yu"
+    ],
+    [
+     "Fengyun",
+     "Zhu"
+    ],
+    [
+     "Xiangang",
+     "Li"
+    ],
+    [
+     "Yi",
+     "Liu"
+    ],
+    [
+     "Jun",
+     "Zou"
+    ],
+    [
+     "Yuning",
+     "Yang"
+    ],
+    [
+     "Guilin",
+     "Yang"
+    ],
+    [
+     "Ziye",
+     "Fan"
+    ],
+    [
+     "Xihong",
+     "Wu"
+    ]
+   ],
+   "title": "Overview of SHRC-Ginkgo speech synthesis system for Blizzard Challenge 2013",
+   "original": "14",
+   "order": 14,
+   "page_count": 5,
+   "abstract": [
+    "This paper introduces the SHRC-Ginkgo speech synthesis system for Blizzard Challenge 2013. A unit selection based approach is adopted to develop our speech synthesis system using audiobook speech corpus. Aiming at roughly labeled corpora with several hundred hours of speech, our system adopts lightly-supervised acoustic model training of speech recognition to select clean speech data with accurate text. Moreover, rich syntactic contexts instead of prosodic structure are utilized to refine traditional acoustic models. Through automatic syntactic parsing, this way can also help to label the corpora of several tens or even hundreds of hours automatically, thus avoiding manually prosodic annotation with time-consuming and expensive effort. In order to solve the problems of memory space expansion and running time burden for acoustic model training of large-scale corpora, a fast training method, which can ensure the accuracy of acoustic model, is realized. Subjective evaluation results show that our system performs well in almost all evaluation tests, especially in the case of large-scale corpora.\n"
+   ],
+   "p1": 85,
+   "pn": 89,
+   "doi": "10.21437/Blizzard.2013-14",
+   "url": "blizzard_2013/yu13_blizzard.html"
+  },
+  "chen13_blizzard": {
+   "authors": [
+    [
+     "Ling-Hui",
+     "Chen"
+    ],
+    [
+     "Zhen-Hua",
+     "Ling"
+    ],
+    [
+     "Yuan",
+     "Jiang"
+    ],
+    [
+     "Yang",
+     "Song"
+    ],
+    [
+     "Xian-Jun",
+     "Xia"
+    ],
+    [
+     "Yi-Qing",
+     "Zu"
+    ],
+    [
+     "Run-Qiang",
+     "Yan"
+    ],
+    [
+     "Li-Rong",
+     "Dai"
+    ]
+   ],
+   "title": "The USTC System for Blizzard Challenge 2013",
+   "original": "15",
+   "order": 15,
+   "page_count": 6,
+   "abstract": [
+    "This paper introduces the speech synthesis system developed by USTC for Blizzard Challenge 2013. There are two evaluation tasks in this year: the English audiobook tasks and the pilot tasks on 4 Indian languages. According to the various amount of training data, different speech synthesis systems are constructed. The hidden Markov model (HMM) based unit selection and waveform concatenation system is built for the English audiobook tasks, and the HMM based statistical parametric speech synthesis system is built for the Indian language tasks. A synthesis quality prediction based method is applied to automatically optimize the weights of costs for unit selection in EH2 task. For Indian languages which we don’t have front-end text processing system, letter-to-sound models are built. The evaluation results shows the effectiveness of our submitted system.\n"
+   ],
+   "p1": 90,
+   "pn": 95,
+   "doi": "10.21437/Blizzard.2013-15",
+   "url": "blizzard_2013/chen13_blizzard.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Summary of results",
+   "papers": [
+    "king13_blizzard",
+    "prahallad13_blizzard"
+   ]
+  },
+  {
+   "title": "System Presentations",
+   "papers": [
+    "charfuelan13_blizzard",
+    "lee13_blizzard",
+    "chalamandaris13_blizzard",
+    "dinh13_blizzard",
+    "wilhelmstricarico13_blizzard",
+    "louw13_blizzard",
+    "shivakumar13_blizzard",
+    "takaki13_blizzard",
+    "liao13_blizzard",
+    "boros13_blizzard",
+    "watts13_blizzard",
+    "yu13_blizzard",
+    "chen13_blizzard"
+   ]
+  }
+ ],
+ "doi": "10.21437/Blizzard.2013"
 }
