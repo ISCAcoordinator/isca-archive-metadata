@@ -1,0 +1,729 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>blizzard_2008</doi_batch_id>
+		<timestamp>1714137905994441</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The Blizzard Challenge 2008</conference_name>
+				<conference_acronym>blizzard_2008</conference_acronym>
+				<conference_date>21 September 2008</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The Blizzard Challenge 2008</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2008</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Blizzard.2008</doi>
+					<timestamp>1714137905994441</timestamp>
+					<resource>https://www.isca-archive.org/blizzard_2008/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Robert A. J.</given_name>
+<surname>Clark</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Catherine</given_name>
+<surname>Mayo</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>18</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-1</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/karaiskos08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Inaki</given_name>
+<surname>Sainz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Eva</given_name>
+<surname>Navas</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Inma</given_name>
+<surname>Hernaez</surname>
+</person_name>
+					</contributors>
+					<titles><title>The AHOLAB Blizzard Challenge 2008 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>19</first_page>
+						<last_page>22</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-2</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/sainz08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ranniery</given_name>
+<surname>Maia</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jinfu</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shinsuke</given_name>
+<surname>Sakai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tomoki</given_name>
+<surname>Toda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tohru</given_name>
+<surname>Shimizu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Satoshi</given_name>
+<surname>Nakamura</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NICT/ATR speech synthesis system for the Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>23</first_page>
+						<last_page>28</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-3</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/maia08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Alan W</given_name>
+<surname>Black</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Christina L.</given_name>
+<surname>Bennett</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Kominek</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Brian</given_name>
+<surname>Langner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kishore</given_name>
+<surname>Prahallad</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Arthur</given_name>
+<surname>Toth</surname>
+</person_name>
+					</contributors>
+					<titles><title>CMU Blizzard 2008: Optimally using a large database for unit selection synthesis</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>29</first_page>
+						<last_page>31</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-4</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/black08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>J. Sebastian</given_name>
+<surname>Andersson</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Leonardo</given_name>
+<surname>Badino</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Oliver</given_name>
+<surname>Watts</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Matthew P.</given_name>
+<surname>Aylett</surname>
+</person_name>
+					</contributors>
+					<titles><title>The CSTR/Cereproc Blizzard Entry 2008: The Inconvenient Data</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>32</first_page>
+						<last_page>37</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-5</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/andersson08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Marc</given_name>
+<surname>Schroeder</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Marcela</given_name>
+<surname>Charfuelan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sathish</given_name>
+<surname>Pammi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Oytun</given_name>
+<surname>Turk</surname>
+</person_name>
+					</contributors>
+					<titles><title>The MARY TTS entry in the Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>38</first_page>
+						<last_page>43</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-6</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/schroeder08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Junichi</given_name>
+<surname>Yamagishi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Heiga</given_name>
+<surname>Zen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yi-Jian</given_name>
+<surname>Wu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tomoki</given_name>
+<surname>Toda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name>
+					</contributors>
+					<titles><title>The HTS-2008 System: Yet Another Evaluation of the Speaker-Adaptive HMM-based Speech Synthesis System in The 2008 Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>44</first_page>
+						<last_page>49</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-7</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/yamagishi08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Minghui</given_name>
+<surname>Dong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Donglai</given_name>
+<surname>Zhu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Bin</given_name>
+<surname>Ma</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Haizhou</given_name>
+<surname>Li</surname>
+</person_name>
+					</contributors>
+					<titles><title>I2R's Submission to Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>50</first_page>
+						<last_page>54</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-8</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/dong08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Raul</given_name>
+<surname>Fernandez</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zvi</given_name>
+<surname>Kons</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Slava</given_name>
+<surname>Shechtman</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhi Wei</given_name>
+<surname>Shuang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ron</given_name>
+<surname>Hoory</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Bhuvana</given_name>
+<surname>Ramabhadran</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yong</given_name>
+<surname>Qin</surname>
+</person_name>
+					</contributors>
+					<titles><title>The IBM Submission to the 2008 Text-to-Speech Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>55</first_page>
+						<last_page>60</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-9</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/fernandez08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>E.Veera</given_name>
+<surname>Raghavendra</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Srinivas</given_name>
+<surname>Desai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>B.</given_name>
+<surname>Yegnanarayana</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Alan W</given_name>
+<surname>Black</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kishore</given_name>
+<surname>Prahallad</surname>
+</person_name>
+					</contributors>
+					<titles><title>Blizzard 2008: Experiments on Unit Size for Unit Selection Speech Synthesis</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>61</first_page>
+						<last_page>66</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-10</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/raghavendra08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Luis C.</given_name>
+<surname>Oliveira</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sergio</given_name>
+<surname>Paulo</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Luis</given_name>
+<surname>Figueira</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Carlos</given_name>
+<surname>Mendes</surname>
+</person_name>
+					</contributors>
+					<titles><title>The INESC-ID Blizzard Entry: Unsupervised Voice Building and Synthesis</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>67</first_page>
+						<last_page>72</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-11</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/oliveira08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jianhua</given_name>
+<surname>Tao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jian</given_name>
+<surname>Yu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lixing</given_name>
+<surname>Huang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Fangzhou</given_name>
+<surname>Liu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Huibin</given_name>
+<surname>Jia</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Meng</given_name>
+<surname>Zhang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The WISTON Text to Speech System for Blizzard 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>73</first_page>
+						<last_page>76</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-12</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/tao08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Mike</given_name>
+<surname>Rozak</surname>
+</person_name>
+					</contributors>
+					<titles><title>CircumReality functionality delta: Blizzard Challenge 2007 to 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>77</first_page>
+						<last_page>82</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-13</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/rozak08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Feng</given_name>
+<surname>Ding</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jari</given_name>
+<surname>Alhonen</surname>
+</person_name>
+					</contributors>
+					<titles><title>NTTS participation in the Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>83</first_page>
+						<last_page>88</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-14</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/ding08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Hamurabi</given_name>
+<surname>Gamboa Rosales</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Oliver</given_name>
+<surname>Jokisch</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ruediger</given_name>
+<surname>Hoffmann</surname>
+</person_name>
+					</contributors>
+					<titles><title>The DRESS Blizzard Challenge 2008 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>89</first_page>
+						<last_page>93</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-15</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/gamboarosales08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jian</given_name>
+<surname>Li</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Dawei</given_name>
+<surname>Xu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lifu</given_name>
+<surname>Yi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xiaoyan</given_name>
+<surname>Lou</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jian</given_name>
+<surname>Luan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xi</given_name>
+<surname>Wang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Liqiang</given_name>
+<surname>He</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jie</given_name>
+<surname>Hao</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Toshiba Mandarin TTS System for the Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>94</first_page>
+						<last_page>99</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-16</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/li08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Antonio</given_name>
+<surname>Bonafonte</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Asuncion</given_name>
+<surname>Moreno</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jordi</given_name>
+<surname>Adell</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pablo D.</given_name>
+<surname>Aguero</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Eleftherios</given_name>
+<surname>Banos</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Daniel</given_name>
+<surname>Erro</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ignasi</given_name>
+<surname>Esquerra</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Javier</given_name>
+<surname>Perez</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tatyana</given_name>
+<surname>Polyakova</surname>
+</person_name>
+					</contributors>
+					<titles><title>The UPC TTS System Description for the 2008 Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>100</first_page>
+						<last_page>105</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-17</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/bonafonte08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Zhen-Hua</given_name>
+<surname>Ling</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Heng</given_name>
+<surname>Lu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Guo-Ping</given_name>
+<surname>Hu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Li-Rong</given_name>
+<surname>Dai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ren-Hua</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The USTC System for Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>106</first_page>
+						<last_page>111</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-18</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/ling08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Pieter</given_name>
+<surname>Scholtz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Albert</given_name>
+<surname>Visagie</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Johan</given_name>
+<surname>du Preez</surname>
+</person_name>
+					</contributors>
+					<titles><title>Statistical Speech Synthesis for the Blizzard Challenge 2008</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>112</first_page>
+						<last_page>115</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-19</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/scholtz08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Lukas</given_name>
+<surname>Latacz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yuk On</given_name>
+<surname>Kong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Wesley</given_name>
+<surname>Mattheyses</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Werner</given_name>
+<surname>Verhelst</surname>
+</person_name>
+					</contributors>
+					<titles><title>An Overview of the VUB Entry for the 2008 Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>116</first_page>
+						<last_page>121</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-20</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/latacz08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Tiago H.</given_name>
+<surname>Falk</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sebastian</given_name>
+<surname>Moeller</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name>
+					</contributors>
+					<titles><title>Improving Instrumental Quality Prediction Performance for the Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>21</day>
+						<year>2008</year>
+					</publication_date>
+					<pages>
+						<first_page>122</first_page>
+						<last_page>127</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2008-21</doi>
+						<resource>https://www.isca-archive.org/blizzard_2008/falk08_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

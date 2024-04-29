@@ -1,427 +1,427 @@
 {
- "series": "LW",
- "title": "4th Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
- "location": "Enschede, The Netherlands",
- "startDate": "14/04/2015",
- "endDate": "15/04/2015",
- "URL": "https://laughterworkshop2015.wordpress.com/",
- "chair": "Chairs: Khiet Truong, Dirk Heylen, Jürgen Trouvain, and Nick Campbell",
- "intro": "preface.pdf",
- "reduction": ".94",
- "nopagenumbers": "",
- "nodoi": "",
- "nonamedate": "",
- "conf": "LW",
- "name": "lw_2015",
- "year": "2015",
- "SIG": "",
- "title1": "4th Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
- "booklet": "preface.pdf",
- "date": "14-15 April 2015",
- "month": 4,
- "day": 14,
- "now": 1711383675973624,
- "papers": {
-  "nijholt15_lw": {
-   "authors": [
-    [
-     "Anton",
-     "Nijholt"
-    ]
-   ],
-   "title": "You had to be there to know why it was funny",
-   "original": "invited01",
-   "order": 1,
-   "page_count": 1,
-   "abstract": [
-    "Humor is important in our daily life, whether our activities are at home, at work, or in public spaces, for example during sports or other recreational and entertainment activities. Until now, computational humor, the research area that investigates rules and algorithms to understand and to generate humor, has hardly looked at other than verbal humor, in particular jokes. However, nowadays, humor has to be understood when it appears in digital audiovisual media, in interactive virtual environments (game environments), and in digital enhanced real-life environments. We explore whether future smart environments can be given a sense of humor. In order to do so we introduce some aspects of humor theory and how it can be employed in other than language dominated events. What can we learn from the employment of humor in comedy, movies and other 'artificial' worlds such as videogames and how can we use this knowledge in 'semi-artificial' worlds such as smart environments?\n"
-   ],
-   "p1": "3",
-   "pn": "3"
+  "series": "LW",
+  "title": "4th Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
+  "location": "Enschede, The Netherlands",
+  "startDate": "14/04/2015",
+  "endDate": "15/04/2015",
+  "URL": "https://laughterworkshop2015.wordpress.com/",
+  "chair": "Chairs: Khiet Truong, Dirk Heylen, J\u00fcrgen Trouvain, and Nick Campbell",
+  "intro": "preface.pdf",
+  "reduction": ".94",
+  "nopagenumbers": "",
+  "nodoi": "",
+  "nonamedate": "",
+  "conf": "LW",
+  "name": "lw_2015",
+  "year": "2015",
+  "SIG": "",
+  "title1": "4th Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
+  "booklet": "preface.pdf",
+  "date": "14-15 April 2015",
+  "month": 4,
+  "day": 14,
+  "now": 1711383675973624,
+  "papers": {
+    "nijholt15_lw": {
+      "authors": [
+        [
+          "Anton",
+          "Nijholt"
+        ]
+      ],
+      "title": "You had to be there to know why it was funny",
+      "original": "invited01",
+      "order": 1,
+      "page_count": 1,
+      "abstract": [
+        "Humor is important in our daily life, whether our activities are at home, at work, or in public spaces, for example during sports or other recreational and entertainment activities. Until now, computational humor, the research area that investigates rules and algorithms to understand and to generate humor, has hardly looked at other than verbal humor, in particular jokes. However, nowadays, humor has to be understood when it appears in digital audiovisual media, in interactive virtual environments (game environments), and in digital enhanced real-life environments. We explore whether future smart environments can be given a sense of humor. In order to do so we introduce some aspects of humor theory and how it can be employed in other than language dominated events. What can we learn from the employment of humor in comedy, movies and other 'artificial' worlds such as videogames and how can we use this knowledge in 'semi-artificial' worlds such as smart environments?\n"
+      ],
+      "p1": "3",
+      "pn": "3"
+    },
+    "sauter15_lw": {
+      "authors": [
+        [
+          "Disa",
+          "Sauter"
+        ]
+      ],
+      "title": "Nonverbal vocalisations are basic human expressions of emotion",
+      "original": "invited02",
+      "order": 8,
+      "page_count": 1,
+      "abstract": [
+        "Although great advances have been made over the last decades in the scientific understanding of emotional communication, research has been strongly biased towards the investigation of visual signals, especially facial expressions. In this talk, I present a set of studies examining vocal expressions of emotions, specifically, nonverbal vocalisations, such as screams and laughs. My findings show that these signals reliably communicate a range of emotional states via distinct constellations of acoustic cues. Furthermore, I will demonstrate that some of these vocalisations constitute universal signals of emotions, and that the mappings between some emotions and vocalisations are innate. In light of these data, I will propose that some emotional vocalizations constitute basic human expressions of emotion, including of several distinct positive emotional states.\n"
+      ],
+      "p1": "7",
+      "pn": "7"
+    },
+    "pelachaud15_lw": {
+      "authors": [
+        [
+          "Catherine",
+          "Pelachaud"
+        ]
+      ],
+      "title": "LoL, Laughing with Greta",
+      "original": "invited03",
+      "order": 11,
+      "page_count": 1,
+      "abstract": [
+        "In this talk, I will first present our animation model of laughing for a 3D virtual agent. This model relies on data-driven approach; it simulates different types of movement: rhythmic and saccadic movement pattern; and it captures the dependencies between the movements across modalities. The laughing agent is used in LoL, a demo where a user interacts with a virtual agent able to copy and to adapt its laughing and expressive behaviors on-the-fly. In this demo, our aim is to study how copying strategies of the agent affects the user-agent interaction, his/her perception of the agent and his/her experience of the interaction.\n"
+      ],
+      "p1": "5",
+      "pn": "5"
+    },
+    "trouvain15_lw": {
+      "authors": [
+        [
+          "J\u00fcrgen",
+          "Trouvain"
+        ]
+      ],
+      "title": "Research on laughter in vocal communication and its progress in the last decade",
+      "original": "invited04",
+      "order": 14,
+      "page_count": 1,
+      "abstract": [
+        "The beginning of this workshop series goes back 10 years from now. Since then the research on  laughter as a vocal signal has been made a substantial progress and is reflected by numerous studies by colleagues from different labs presented at various workshops, conferences and journals. This personal re-view attempts to enlighten the scientific achievements of the last decade on a topic largely ignored before that period. The talk will also include some ideas on research questions which still seems to be underexplored.\n"
+      ],
+      "p1": "9",
+      "pn": "9"
+    },
+    "mckeown15_lw": {
+      "authors": [
+        [
+          "Gary",
+          "McKeown"
+        ],
+        [
+          "Will",
+          "Curran"
+        ]
+      ],
+      "title": "The relationship between laughter intensity and perceived humour",
+      "original": "01",
+      "order": 2,
+      "page_count": 3,
+      "abstract": [
+        "There is a long history of recognizing a continuum in social signals of positive affect, with the continuum ranging from mild amusement signals to strong laughter. However there has been little systematic effort to assess what this continuum might mean. We present data that shows that incorporating intensity measures of laughter into laughter research is an important component and that there is a strong relationship between laughter intensity and humour. This may be intuitively obvious but the strength of the relationship suggests that intensity measures should be included in all laughter research.\n"
+      ],
+      "p1": "27",
+      "pn": "29"
+    },
+    "elhaddad15_lw": {
+      "authors": [
+        [
+          "Kevin",
+          "El Haddad"
+        ],
+        [
+          "H\u00fcseyin",
+          "\u00c7akmak"
+        ],
+        [
+          "St\u00e9phane",
+          "Dupont"
+        ],
+        [
+          "Thierry",
+          "Dutoit"
+        ]
+      ],
+      "title": "Towards a speech synthesis system with controllable amusement levels",
+      "original": "02",
+      "order": 3,
+      "page_count": 3,
+      "abstract": [
+        "This work exposes some observations on \"shaking vowels\". These vowels containing a tremolo-like sound are present in amused speech. Some of the temporal and spectral patterns are exposed and observations are given concerning them. This work is a preliminary step towards being able to use these \"shaking vowels\" along with speech-smiles, speech-laughs and laughter to control the degree of amusement in synthesized speech.\n"
+      ],
+      "p1": "15",
+      "pn": "17"
+    },
+    "tahon15_lw": {
+      "authors": [
+        [
+          "Marie",
+          "Tahon"
+        ],
+        [
+          "Laurence",
+          "Devillers"
+        ]
+      ],
+      "title": "Laughter detection for on-line human-robot interaction",
+      "original": "03",
+      "order": 4,
+      "page_count": 3,
+      "abstract": [
+        "This paper presents a study of laugh classification using a cross-corpus protocol. It aims at the automatic detection of laughs in a real-time human-machine interaction. Positive and negative laughs are tested with different classification tasks and different acoustic feature sets. F.measure results show an improvement on positive laughs classification from 59.5% to 64.5% and negative laughs recognition from 10.3% to 28.5%. In the context of the Chist-Era JOKER project, positive and negative laugh detection drives the policies of the robot Nao. A measure of engagement will be provided using also the number of positive laughs detected during the interaction.\n"
+      ],
+      "p1": "35",
+      "pn": "37"
+    },
+    "ciroux15_lw": {
+      "authors": [
+        [
+          "Sandy",
+          "Ciroux"
+        ]
+      ],
+      "title": "With or without words: a pragmatic study of the innovative quotative expressions in English",
+      "original": "04",
+      "order": 5,
+      "page_count": 2,
+      "abstract": [
+        "This is a study of the pragmatic features of the innovative quotatives in English. The literature has already deeply analysed the use of these innovative quotatives in the field of sociolinguistics on the one hand, and their development (grammaticalization) in the field of historical linguistics on the other. However, they have not been studied in terms of their pragmatic features yet. One may indeed wonder what the difference between traditional quotatives and innovative quotatives could be. In my research, I found that these innovative quotatives have a tendency to be used to introduce multimodal quotations, i.e. quotations made up with words, body movements and sounds. I hope to be able to demonstrate that these quotatives are used especially to introduce gestures and sounds to permit the utterer to express their own feelings and give their opinion about the quoted element that would be someone's attitude.\n"
+      ],
+      "p1": "43",
+      "pn": "44"
+    },
+    "khudyakova15_lw": {
+      "authors": [
+        [
+          "Mariya",
+          "Khudyakova"
+        ],
+        [
+          "Mira",
+          "Bergelson"
+        ]
+      ],
+      "title": "Interpretation of \"embarrassment\" laughter in narratives by people with aphasia and non-language-impaired speakers",
+      "original": "05",
+      "order": 6,
+      "page_count": 2,
+      "abstract": [
+        "We present an attempt to describe the semantics of \"embarrassment\" laughter in aphasic and non-language-impaired discourse based on the samples from the Russian CliPS corpus based on its place in discourse.\n"
+      ],
+      "p1": "45",
+      "pn": "46"
+    },
+    "schmidt15_lw": {
+      "authors": [
+        [
+          "Juliane",
+          "Schmidt"
+        ],
+        [
+          "Diane",
+          "Herzog"
+        ],
+        [
+          "Odette",
+          "Scharenborg"
+        ],
+        [
+          "Esther",
+          "Janse"
+        ]
+      ],
+      "title": "Perception of affect in speech by older hearing aid users",
+      "original": "06",
+      "order": 7,
+      "page_count": 2,
+      "abstract": [
+        "Normal-hearing listeners make use of visual, verbal and prosodic information when interpreting a speaker's emotional state. As everyday communication settings frequently deprive the listener of visual information (e.g., when not being able to face the speaker), listening to 'how' a speaker says something, by picking up on acoustic cues such as pitch, intensity and tempo, may be critical for perceiving affect. This study investigates how hearing loss affects the perception of the emotion dimensions arousal (aroused/calm) and valence (positive/negative attitude) in older adults using hearing aids. Specifically it is investigated whether wearing a hearing aid improves the correlation between affect ratings and affect-related acoustic parameters. Such a result would indicate that the hearing aid makes users become more sensitive to subtle differences in these parameters.\n"
+      ],
+      "p1": "47",
+      "pn": "48"
+    },
+    "mui15_lw": {
+      "authors": [
+        [
+          "Phoebe",
+          "Mui"
+        ],
+        [
+          "Martijn",
+          "Goudbeek"
+        ],
+        [
+          "Marc",
+          "Swerts"
+        ]
+      ],
+      "title": "When do children smile? Predicting genuine smiles and non-genuine smiles among winning and losing children",
+      "original": "07",
+      "order": 9,
+      "page_count": 3,
+      "abstract": [
+        "In a production experiment, we elicited and coded facial expressions of Dutch and Chinese children who won and lost in a game. Results showed that social context predicted occurrence of genuine smiles: Children who played in pairs (versus alone) and children who won (versus lost) were more likely to show genuine smiles. Moreover, occurrence of non-genuine smiles was predicted by an interaction between social context and game outcome. Children who lost in pairs were mostly likely to produce non-genuine smiles; winning or losing could not predict non-genuine smiles among children playing alone. Cultural background of children (Dutch or Chinese) could predict neither the occurrence of genuine smiles nor that of non-genuine smiles.\n"
+      ],
+      "p1": "31",
+      "pn": "33"
+    },
+    "kousidis15_lw": {
+      "authors": [
+        [
+          "Spyros",
+          "Kousidis"
+        ],
+        [
+          "Julian",
+          "Hough"
+        ],
+        [
+          "David",
+          "Schlangen"
+        ]
+      ],
+      "title": "Exploring the body and head kinematics of laughter, filled pauses and breaths",
+      "original": "08",
+      "order": 10,
+      "page_count": 3,
+      "abstract": [
+        "We present ongoing work in the DUEL project, which focuses on the study of disfluencies, exclamations, and laughter in dialogue. Here we focus on the multimodal aspects of disfluent vocalizations, namely laughter and laughed speech, filled pauses, and breathing noises. We exemplify these phenomena in the rich multimodal Dream Apartment Corpus, a natural dialogue corpus, which, in addition to comprehensive disfluency and laughter annotation, comprises tracking data for the body and head. We discuss possible directions for developing models that can perceive as well as generate such multimodal behaviour.\n"
+      ],
+      "p1": "23",
+      "pn": "25"
+    },
+    "cakmak15_lw": {
+      "authors": [
+        [
+          "H\u00fcseyin",
+          "\u00c7akmak"
+        ],
+        [
+          "Kevin",
+          "El Haddad"
+        ],
+        [
+          "Thierry",
+          "Dutoit"
+        ]
+      ],
+      "title": " Audio-visual laughter synthesis system",
+      "original": "09",
+      "order": 12,
+      "page_count": 3,
+      "abstract": [
+        "In this paper we propose an overview of a project aiming at building an audio-visual laughter synthesis system. The same approach is followed for acoustic and visual synthesis. First a database has been built to have synchronous audio and 3D visual landmarks tracking data. Then this data has been used to build HMM models of acoustic laughter and visual laughter separately. Visual laughter modeling was further separated into a facial modeling and head motion modeling. An automatic laughter segmentation process has been used to annotate visual laughter. Finally, simple rules were defined to synchronize all the different modalities to be able to produce new durations.\n"
+      ],
+      "p1": "11",
+      "pn": "13"
+    },
+    "tian15_lw": {
+      "authors": [
+        [
+          "Leimin",
+          "Tian"
+        ],
+        [
+          "Catherine",
+          "Lai"
+        ],
+        [
+          "Johanna",
+          "Moore"
+        ]
+      ],
+      "title": "Recognizing emotions in dialogue with disfluences and non-verbal vocalisations",
+      "original": "10",
+      "order": 13,
+      "page_count": 3,
+      "abstract": [
+        "We investigate the usefulness of DISfluencies and Non-verbal Vocalisations (DIS-NV) for recognizing human emotions in dialogues. The proposed features measure filled pauses, fillers, stutters, laughter, and breath in utterances. The predictiveness of DIS-NV features is compared with lexical features and state-of-the-art low-level acoustic features. Our experimental results show that using DIS-NV features alone is not as predictive as using lexical or acoustic features. However, adding them to lexical or acoustic feature set yields improvement compared to using lexical or acoustic features alone. This indicates that disfluencies and non-verbal vocalisations provide useful information overlooked by the other two types of features for emotion recognition.\n"
+      ],
+      "p1": "39",
+      "pn": "41"
+    },
+    "elhaddad15b_lw": {
+      "authors": [
+        [
+          "Kevin",
+          "El Haddad"
+        ],
+        [
+          "Alexis",
+          "Moinet"
+        ],
+        [
+          "H\u00fcseyin",
+          "\u00c7akmak"
+        ],
+        [
+          "St\u00e9phane",
+          "Dupont"
+        ],
+        [
+          "Thierry",
+          "Dutoit"
+        ]
+      ],
+      "title": "Using MAGE for real time speech-laugh synthesis",
+      "original": "11",
+      "order": 15,
+      "page_count": 3,
+      "abstract": [
+        "In this paper, we present an ongoing work which aims at synthesizing speech-laugh sentences in real-time. To do so, the Hidden Markov Model (HMM)-based speech-laugh synthesis system will be used along with the MAGE software library. First results are available online on tcts.fpms.ac.be/~laughter/laughterWorkshop15.\n"
+      ],
+      "p1": "19",
+      "pn": "21"
+    }
   },
-  "sauter15_lw": {
-   "authors": [
-    [
-     "Disa",
-     "Sauter"
-    ]
-   ],
-   "title": "Nonverbal vocalisations are basic human expressions of emotion",
-   "original": "invited02",
-   "order": 8,
-   "page_count": 1,
-   "abstract": [
-    "Although great advances have been made over the last decades in the scientific understanding of emotional communication, research has been strongly biased towards the investigation of visual signals, especially facial expressions. In this talk, I present a set of studies examining vocal expressions of emotions, specifically, nonverbal vocalisations, such as screams and laughs. My findings show that these signals reliably communicate a range of emotional states via distinct constellations of acoustic cues. Furthermore, I will demonstrate that some of these vocalisations constitute universal signals of emotions, and that the mappings between some emotions and vocalisations are innate. In light of these data, I will propose that some emotional vocalizations constitute basic human expressions of emotion, including of several distinct positive emotional states.\n"
-   ],
-   "p1": "7",
-   "pn": "7"
-  },
-  "pelachaud15_lw": {
-   "authors": [
-    [
-     "Catherine",
-     "Pelachaud"
-    ]
-   ],
-   "title": "LoL, Laughing with Greta",
-   "original": "invited03",
-   "order": 11,
-   "page_count": 1,
-   "abstract": [
-    "In this talk, I will first present our animation model of laughing for a 3D virtual agent. This model relies on data-driven approach; it simulates different types of movement: rhythmic and saccadic movement pattern; and it captures the dependencies between the movements across modalities. The laughing agent is used in LoL, a demo where a user interacts with a virtual agent able to copy and to adapt its laughing and expressive behaviors on-the-fly. In this demo, our aim is to study how copying strategies of the agent affects the user-agent interaction, his/her perception of the agent and his/her experience of the interaction.\n"
-   ],
-   "p1": "5",
-   "pn": "5"
-  },
-  "trouvain15_lw": {
-   "authors": [
-    [
-     "Jürgen",
-     "Trouvain"
-    ]
-   ],
-   "title": "Research on laughter in vocal communication and its progress in the last decade",
-   "original": "invited04",
-   "order": 14,
-   "page_count": 1,
-   "abstract": [
-    "The beginning of this workshop series goes back 10 years from now. Since then the research on  laughter as a vocal signal has been made a substantial progress and is reflected by numerous studies by colleagues from different labs presented at various workshops, conferences and journals. This personal re-view attempts to enlighten the scientific achievements of the last decade on a topic largely ignored before that period. The talk will also include some ideas on research questions which still seems to be underexplored.\n"
-   ],
-   "p1": "9",
-   "pn": "9"
-  },
-  "mckeown15_lw": {
-   "authors": [
-    [
-     "Gary",
-     "McKeown"
-    ],
-    [
-     "Will",
-     "Curran"
-    ]
-   ],
-   "title": "The relationship between laughter intensity and perceived humour",
-   "original": "01",
-   "order": 2,
-   "page_count": 3,
-   "abstract": [
-    "There is a long history of recognizing a continuum in social signals of positive affect, with the continuum ranging from mild amusement signals to strong laughter. However there has been little systematic effort to assess what this continuum might mean. We present data that shows that incorporating intensity measures of laughter into laughter research is an important component and that there is a strong relationship between laughter intensity and humour. This may be intuitively obvious but the strength of the relationship suggests that intensity measures should be included in all laughter research.\n"
-   ],
-   "p1": "27",
-   "pn": "29"
-  },
-  "elhaddad15_lw": {
-   "authors": [
-    [
-     "Kevin",
-     "El Haddad"
-    ],
-    [
-     "Hüseyin",
-     "Çakmak"
-    ],
-    [
-     "Stéphane",
-     "Dupont"
-    ],
-    [
-     "Thierry",
-     "Dutoit"
-    ]
-   ],
-   "title": "Towards a speech synthesis system with controllable amusement levels",
-   "original": "02",
-   "order": 3,
-   "page_count": 3,
-   "abstract": [
-    "This work exposes some observations on \"shaking vowels\". These vowels containing a tremolo-like sound are present in amused speech. Some of the temporal and spectral patterns are exposed and observations are given concerning them. This work is a preliminary step towards being able to use these \"shaking vowels\" along with speech-smiles, speech-laughs and laughter to control the degree of amusement in synthesized speech.\n"
-   ],
-   "p1": "15",
-   "pn": "17"
-  },
-  "tahon15_lw": {
-   "authors": [
-    [
-     "Marie",
-     "Tahon"
-    ],
-    [
-     "Laurence",
-     "Devillers"
-    ]
-   ],
-   "title": "Laughter detection for on-line human-robot interaction",
-   "original": "03",
-   "order": 4,
-   "page_count": 3,
-   "abstract": [
-    "This paper presents a study of laugh classification using a cross-corpus protocol. It aims at the automatic detection of laughs in a real-time human-machine interaction. Positive and negative laughs are tested with different classification tasks and different acoustic feature sets. F.measure results show an improvement on positive laughs classification from 59.5% to 64.5% and negative laughs recognition from 10.3% to 28.5%. In the context of the Chist-Era JOKER project, positive and negative laugh detection drives the policies of the robot Nao. A measure of engagement will be provided using also the number of positive laughs detected during the interaction.\n"
-   ],
-   "p1": "35",
-   "pn": "37"
-  },
-  "ciroux15_lw": {
-   "authors": [
-    [
-     "Sandy",
-     "Ciroux"
-    ]
-   ],
-   "title": "With or without words: a pragmatic study of the innovative quotative expressions in English",
-   "original": "04",
-   "order": 5,
-   "page_count": 2,
-   "abstract": [
-    "This is a study of the pragmatic features of the innovative quotatives in English. The literature has already deeply analysed the use of these innovative quotatives in the field of sociolinguistics on the one hand, and their development (grammaticalization) in the field of historical linguistics on the other. However, they have not been studied in terms of their pragmatic features yet. One may indeed wonder what the difference between traditional quotatives and innovative quotatives could be. In my research, I found that these innovative quotatives have a tendency to be used to introduce multimodal quotations, i.e. quotations made up with words, body movements and sounds. I hope to be able to demonstrate that these quotatives are used especially to introduce gestures and sounds to permit the utterer to express their own feelings and give their opinion about the quoted element that would be someone's attitude.\n"
-   ],
-   "p1": "43",
-   "pn": "44"
-  },
-  "khudyakova15_lw": {
-   "authors": [
-    [
-     "Mariya",
-     "Khudyakova"
-    ],
-    [
-     "Mira",
-     "Bergelson"
-    ]
-   ],
-   "title": "Interpretation of \"embarrassment\" laughter in narratives by people with aphasia and non-language-impaired speakers",
-   "original": "05",
-   "order": 6,
-   "page_count": 2,
-   "abstract": [
-    "We present an attempt to describe the semantics of \"embarrassment\" laughter in aphasic and non-language-impaired discourse based on the samples from the Russian CliPS corpus based on its place in discourse.\n"
-   ],
-   "p1": "45",
-   "pn": "46"
-  },
-  "schmidt15_lw": {
-   "authors": [
-    [
-     "Juliane",
-     "Schmidt"
-    ],
-    [
-     "Diane",
-     "Herzog"
-    ],
-    [
-     "Odette",
-     "Scharenborg"
-    ],
-    [
-     "Esther",
-     "Janse"
-    ]
-   ],
-   "title": "Perception of affect in speech by older hearing aid users",
-   "original": "06",
-   "order": 7,
-   "page_count": 2,
-   "abstract": [
-    "Normal-hearing listeners make use of visual, verbal and prosodic information when interpreting a speaker's emotional state. As everyday communication settings frequently deprive the listener of visual information (e.g., when not being able to face the speaker), listening to 'how' a speaker says something, by picking up on acoustic cues such as pitch, intensity and tempo, may be critical for perceiving affect. This study investigates how hearing loss affects the perception of the emotion dimensions arousal (aroused/calm) and valence (positive/negative attitude) in older adults using hearing aids. Specifically it is investigated whether wearing a hearing aid improves the correlation between affect ratings and affect-related acoustic parameters. Such a result would indicate that the hearing aid makes users become more sensitive to subtle differences in these parameters.\n"
-   ],
-   "p1": "47",
-   "pn": "48"
-  },
-  "mui15_lw": {
-   "authors": [
-    [
-     "Phoebe",
-     "Mui"
-    ],
-    [
-     "Martijn",
-     "Goudbeek"
-    ],
-    [
-     "Marc",
-     "Swerts"
-    ]
-   ],
-   "title": "When do children smile? Predicting genuine smiles and non-genuine smiles among winning and losing children",
-   "original": "07",
-   "order": 9,
-   "page_count": 3,
-   "abstract": [
-    "In a production experiment, we elicited and coded facial expressions of Dutch and Chinese children who won and lost in a game. Results showed that social context predicted occurrence of genuine smiles: Children who played in pairs (versus alone) and children who won (versus lost) were more likely to show genuine smiles. Moreover, occurrence of non-genuine smiles was predicted by an interaction between social context and game outcome. Children who lost in pairs were mostly likely to produce non-genuine smiles; winning or losing could not predict non-genuine smiles among children playing alone. Cultural background of children (Dutch or Chinese) could predict neither the occurrence of genuine smiles nor that of non-genuine smiles.\n"
-   ],
-   "p1": "31",
-   "pn": "33"
-  },
-  "kousidis15_lw": {
-   "authors": [
-    [
-     "Spyros",
-     "Kousidis"
-    ],
-    [
-     "Julian",
-     "Hough"
-    ],
-    [
-     "David",
-     "Schlangen"
-    ]
-   ],
-   "title": "Exploring the body and head kinematics of laughter, filled pauses and breaths",
-   "original": "08",
-   "order": 10,
-   "page_count": 3,
-   "abstract": [
-    "We present ongoing work in the DUEL project, which focuses on the study of disfluencies, exclamations, and laughter in dialogue. Here we focus on the multimodal aspects of disfluent vocalizations, namely laughter and laughed speech, filled pauses, and breathing noises. We exemplify these phenomena in the rich multimodal Dream Apartment Corpus, a natural dialogue corpus, which, in addition to comprehensive disfluency and laughter annotation, comprises tracking data for the body and head. We discuss possible directions for developing models that can perceive as well as generate such multimodal behaviour.\n"
-   ],
-   "p1": "23",
-   "pn": "25"
-  },
-  "cakmak15_lw": {
-   "authors": [
-    [
-     "Hüseyin",
-     "Çakmak"
-    ],
-    [
-     "Kevin",
-     "El Haddad"
-    ],
-    [
-     "Thierry",
-     "Dutoit"
-    ]
-   ],
-   "title": " Audio-visual laughter synthesis system",
-   "original": "09",
-   "order": 12,
-   "page_count": 3,
-   "abstract": [
-    "In this paper we propose an overview of a project aiming at building an audio-visual laughter synthesis system. The same approach is followed for acoustic and visual synthesis. First a database has been built to have synchronous audio and 3D visual landmarks tracking data. Then this data has been used to build HMM models of acoustic laughter and visual laughter separately. Visual laughter modeling was further separated into a facial modeling and head motion modeling. An automatic laughter segmentation process has been used to annotate visual laughter. Finally, simple rules were defined to synchronize all the different modalities to be able to produce new durations.\n"
-   ],
-   "p1": "11",
-   "pn": "13"
-  },
-  "tian15_lw": {
-   "authors": [
-    [
-     "Leimin",
-     "Tian"
-    ],
-    [
-     "Catherine",
-     "Lai"
-    ],
-    [
-     "Johanna",
-     "Moore"
-    ]
-   ],
-   "title": "Recognizing emotions in dialogue with disfluences and non-verbal vocalisations",
-   "original": "10",
-   "order": 13,
-   "page_count": 3,
-   "abstract": [
-    "We investigate the usefulness of DISfluencies and Non-verbal Vocalisations (DIS-NV) for recognizing human emotions in dialogues. The proposed features measure filled pauses, fillers, stutters, laughter, and breath in utterances. The predictiveness of DIS-NV features is compared with lexical features and state-of-the-art low-level acoustic features. Our experimental results show that using DIS-NV features alone is not as predictive as using lexical or acoustic features. However, adding them to lexical or acoustic feature set yields improvement compared to using lexical or acoustic features alone. This indicates that disfluencies and non-verbal vocalisations provide useful information overlooked by the other two types of features for emotion recognition.\n"
-   ],
-   "p1": "39",
-   "pn": "41"
-  },
-  "elhaddad15b_lw": {
-   "authors": [
-    [
-     "Kevin",
-     "El Haddad"
-    ],
-    [
-     "Alexis",
-     "Moinet"
-    ],
-    [
-     "Hüseyin",
-     "Çakmak"
-    ],
-    [
-     "Stéphane",
-     "Dupont"
-    ],
-    [
-     "Thierry",
-     "Dutoit"
-    ]
-   ],
-   "title": "Using MAGE for real time speech-laugh synthesis",
-   "original": "11",
-   "order": 15,
-   "page_count": 3,
-   "abstract": [
-    "In this paper, we present an ongoing work which aims at synthesizing speech-laugh sentences in real-time. To do so, the Hidden Markov Model (HMM)-based speech-laugh synthesis system will be used along with the MAGE software library. First results are available online on tcts.fpms.ac.be/~laughter/laughterWorkshop15.\n"
-   ],
-   "p1": "19",
-   "pn": "21"
-  }
- },
- "sessions": [
-  {
-   "title": "Keynote 1",
-   "papers": [
-    "nijholt15_lw"
-   ]
-  },
-  {
-   "title": "Session 1",
-   "papers": [
-    "mckeown15_lw",
-    "elhaddad15_lw",
-    "tahon15_lw"
-   ]
-  },
-  {
-   "title": "Session 2",
-   "papers": [
-    "ciroux15_lw",
-    "khudyakova15_lw",
-    "schmidt15_lw"
-   ]
-  },
-  {
-   "title": "Keynote 2",
-   "papers": [
-    "sauter15_lw"
-   ]
-  },
-  {
-   "title": "Session 3",
-   "papers": [
-    "mui15_lw",
-    "kousidis15_lw"
-   ]
-  },
-  {
-   "title": "Keynote 3",
-   "papers": [
-    "pelachaud15_lw"
-   ]
-  },
-  {
-   "title": "Session 4",
-   "papers": [
-    "cakmak15_lw",
-    "tian15_lw"
-   ]
-  },
-  {
-   "title": "Keynote 4",
-   "papers": [
-    "trouvain15_lw"
-   ]
-  },
-  {
-   "title": "Session 5",
-   "papers": [
-    "elhaddad15b_lw"
-   ]
-  }
- ]
+  "sessions": [
+    {
+      "title": "Keynote 1",
+      "papers": [
+        "nijholt15_lw"
+      ]
+    },
+    {
+      "title": "Session 1",
+      "papers": [
+        "mckeown15_lw",
+        "elhaddad15_lw",
+        "tahon15_lw"
+      ]
+    },
+    {
+      "title": "Session 2",
+      "papers": [
+        "ciroux15_lw",
+        "khudyakova15_lw",
+        "schmidt15_lw"
+      ]
+    },
+    {
+      "title": "Keynote 2",
+      "papers": [
+        "sauter15_lw"
+      ]
+    },
+    {
+      "title": "Session 3",
+      "papers": [
+        "mui15_lw",
+        "kousidis15_lw"
+      ]
+    },
+    {
+      "title": "Keynote 3",
+      "papers": [
+        "pelachaud15_lw"
+      ]
+    },
+    {
+      "title": "Session 4",
+      "papers": [
+        "cakmak15_lw",
+        "tian15_lw"
+      ]
+    },
+    {
+      "title": "Keynote 4",
+      "papers": [
+        "trouvain15_lw"
+      ]
+    },
+    {
+      "title": "Session 5",
+      "papers": [
+        "elhaddad15b_lw"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,392 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>blizzard_2011</doi_batch_id>
+		<timestamp>1714198863057944</timestamp>
+		<depositor>
+			<depositor_name>Sébastien Le Maguer</depositor_name>
+			<email_address>sebastien.lemaguer@helsinki.fi</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The Blizzard Challenge 2011</conference_name>
+				<conference_acronym>blizzard_2011</conference_acronym>
+				<conference_date>2 September 2011</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The Blizzard Challenge 2011</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2011</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Blizzard.2011</doi>
+					<timestamp>1714198863057944</timestamp>
+					<resource>https://www.isca-archive.org/blizzard_2011/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>10</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-1</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/king11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Antti</given_name>
+<surname>Suni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tuomo</given_name>
+<surname>Raitio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Martti</given_name>
+<surname>Vainio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paavo</given_name>
+<surname>Alku</surname>
+</person_name>
+					</contributors>
+					<titles><title>The GlottHMM Speech Synthesis Entry for Blizzard Challenge 2011: Utilizing Source Unit Selection in HMM-Based Speech Synthesis for Improved Excitation Generation</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>36</first_page>
+						<last_page>41</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-7</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/suni11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Minghui</given_name>
+<surname>Dong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>S W</given_name>
+<surname>Lee</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paul</given_name>
+<surname>Chan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling</given_name>
+<surname>Cen</surname>
+</person_name>
+					</contributors>
+					<titles><title>I2R Text-to-Speech System for Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>42</first_page>
+						<last_page>46</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-8</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/dong11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Spyros</given_name>
+<surname>Raptis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Aimilios</given_name>
+<surname>Chalamandaris</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pirros</given_name>
+<surname>Tsiakoulis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sotiris</given_name>
+<surname>Karabetsos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The ILSP Text-to-Speech System for the Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>16</first_page>
+						<last_page>19</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-3</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/raptis11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rattima</given_name>
+<surname>Nitisaroj</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Reiner</given_name>
+<surname>Wilhelms-Tricarico</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Brian</given_name>
+<surname>Mottershead</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Rattima</given_name>
+<surname>Nitisaroj</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Michael</given_name>
+<surname>Baumgartner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Reichenbach</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Gary</given_name>
+<surname>Marple</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Lessac Technologies System for Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>11</first_page>
+						<last_page>15</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-2</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/nitisaroj11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Kei</given_name>
+<surname>Hashimoto</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shinji</given_name>
+<surname>Takaki</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichiro</given_name>
+<surname>Oura</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name>
+					</contributors>
+					<titles><title>Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>20</first_page>
+						<last_page>25</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-4</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/hashimoto11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ling-Hui</given_name>
+<surname>Chen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Chen-Yu</given_name>
+<surname>Yang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhen-Hua</given_name>
+<surname>Ling</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yuan</given_name>
+<surname>Jiang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Li-Rong</given_name>
+<surname>Dai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Hu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ren-Hua</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The USTC System for Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>53</first_page>
+						<last_page>58</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-10</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/chen11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Peter</given_name>
+<surname>Cahill</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Udochukwu</given_name>
+<surname>Ogbureke</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>João</given_name>
+<surname>Cabral</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Eva</given_name>
+<surname>Szekely</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mohamed</given_name>
+<surname>Abou-Zleikha</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zeeshan</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Julie</given_name>
+<surname>Carson-Berndsen</surname>
+</person_name>
+					</contributors>
+					<titles><title>UCD Blizzard Challenge 2011 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>47</first_page>
+						<last_page>52</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-9</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/cahill11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Marius</given_name>
+<surname>Cotescu</surname>
+</person_name>
+					</contributors>
+					<titles><title>PUB Entry in the Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>31</first_page>
+						<last_page>35</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-6</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/cotescu11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Iñaki</given_name>
+<surname>Sainz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Daniel</given_name>
+<surname>Erro</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Eva</given_name>
+<surname>Navas</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jordi</given_name>
+<surname>Adell</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Antonio</given_name>
+<surname>Bonafonte</surname>
+</person_name>
+					</contributors>
+					<titles><title>BUCEADOR hybrid TTS for Blizzard Challenge 2011</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>26</first_page>
+						<last_page>30</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-5</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/sainz11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Florian</given_name>
+<surname>Hinterleitner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Georgina</given_name>
+<surname>Neitzel</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sebastian</given_name>
+<surname>Möller</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Christoph</given_name>
+<surname>Norrenbrock</surname>
+</person_name>
+					</contributors>
+					<titles><title>An Evaluation Protocol for the Subjective Assessment of Text-to-Speech in Audiobook Reading Tasks</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>2</day>
+						<year>2011</year>
+					</publication_date>
+					<pages>
+						<first_page>59</first_page>
+						<last_page>65</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2011-11</doi>
+						<resource>https://www.isca-archive.org/blizzard_2011/hinterleitner11_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

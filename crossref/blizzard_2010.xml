@@ -1,0 +1,578 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>blizzard_2010</doi_batch_id>
+		<timestamp>1714199611167501</timestamp>
+		<depositor>
+			<depositor_name>Sébastien Le Maguer</depositor_name>
+			<email_address>sebastien.lemaguer@helsinki.fi</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The Blizzard Challenge 2010</conference_name>
+				<conference_acronym>blizzard_2010</conference_acronym>
+				<conference_date>25 September 2010</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The Blizzard Challenge 2010</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2010</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Blizzard.2010</doi>
+					<timestamp>1714199611167501</timestamp>
+					<resource>https://www.isca-archive.org/blizzard_2010/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Simon</given_name>
+<surname>King</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vasilis</given_name>
+<surname>Karaiskos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>32</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-1</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/king10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jianhua</given_name>
+<surname>Tao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shifeng</given_name>
+<surname>Pan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ya</given_name>
+<surname>Li</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhengqi</given_name>
+<surname>Wen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yang</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The WISTON Text to Speech System for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>33</first_page>
+						<last_page>37</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-2</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/tao10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Junichi</given_name>
+<surname>Yamagishi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Oliver</given_name>
+<surname>Watts</surname>
+</person_name>
+					</contributors>
+					<titles><title>The CSTR/EMIME HTS System for Blizzard Challenge</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>80</first_page>
+						<last_page>85</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-10</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/yamagishi10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Florian</given_name>
+<surname>Hinterleitner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sebastian</given_name>
+<surname>Möller</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tiago H.</given_name>
+<surname>Falk</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tim</given_name>
+<surname>Polzehl</surname>
+</person_name>
+					</contributors>
+					<titles><title>Comparison of Approaches for Instrumentally Predicting the Quality of Text-to-Speech Systems: Data from Blizzard Challenges 2008 and 2009</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>73</first_page>
+						<last_page>79</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-9</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/hinterleitner10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Antti</given_name>
+<surname>Suni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tuomo</given_name>
+<surname>Raitio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Martti</given_name>
+<surname>Vainio</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paavo</given_name>
+<surname>Alku</surname>
+</person_name>
+					</contributors>
+					<titles><title>The GlottHMM Speech Synthesis Entry for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>86</first_page>
+						<last_page>91</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-11</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/suni10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Minghui</given_name>
+<surname>Dong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paul</given_name>
+<surname>Chan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ling</given_name>
+<surname>Cen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Bin</given_name>
+<surname>Ma</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Haizhou</given_name>
+<surname>Li</surname>
+</person_name>
+					</contributors>
+					<titles><title>I2R Text-to-Speech System for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>38</first_page>
+						<last_page>43</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-3</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/dong10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Spyros</given_name>
+<surname>Raptis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Aimilios</given_name>
+<surname>Chalamandaris</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pirros</given_name>
+<surname>Tsiakoulis</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sotiris</given_name>
+<surname>Karabetsos</surname>
+</person_name>
+					</contributors>
+					<titles><title>The ILSP Text-to-Speech System for the Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>92</first_page>
+						<last_page>96</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-12</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/raptis10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rattima</given_name>
+<surname>Nitisaroj</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Reiner</given_name>
+<surname>Wilhelms-Tricarico</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Brian</given_name>
+<surname>Mottershead</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>John</given_name>
+<surname>Reichenbach</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Gary</given_name>
+<surname>Marple</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Lessac Technologies System for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>97</first_page>
+						<last_page>101</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-13</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/nitisaroj10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Johannes A.</given_name>
+<surname>Louw</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Daniel R.</given_name>
+<surname>van Niekerk</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Georg I.</given_name>
+<surname>Schlünz</surname>
+</person_name>
+					</contributors>
+					<titles><title>Introducing the Speect speech synthesis platform</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>44</first_page>
+						<last_page>49</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-4</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/louw10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Timothy</given_name>
+<surname>Bunnell</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jason</given_name>
+<surname>Lilley</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Chris</given_name>
+<surname>Pennington</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Bill</given_name>
+<surname>Moyers</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>James</given_name>
+<surname>Polikoff</surname>
+</person_name>
+					</contributors>
+					<titles><title>The ModelTalker System</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>50</first_page>
+						<last_page>55</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-5</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/bunnell10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yao</given_name>
+<surname>Qian</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhi-Jie</given_name>
+<surname>Yan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yi-Jian</given_name>
+<surname>Wu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Frank K.</given_name>
+<surname>Soong</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Guoliang</given_name>
+<surname>Zhang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lijuan</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>An HMM Trajectory Tiling (HTT) Approach to High Quality TTS - Microsoft Entry to Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>102</first_page>
+						<last_page>106</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-14</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/qian10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yoshinori</given_name>
+<surname>Shiga</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tomoki</given_name>
+<surname>Toda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shinsuke</given_name>
+<surname>Sakai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jinfu</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hisashi</given_name>
+<surname>Kawai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Minoru</given_name>
+<surname>Tsuzaki</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Satoshi</given_name>
+<surname>Nakamura</surname>
+</person_name>
+					</contributors>
+					<titles><title>NICT Blizzard Challenge 2010 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>107</first_page>
+						<last_page>112</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-15</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/shiga10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Keiichiro</given_name>
+<surname>Oura</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kei</given_name>
+<surname>Hashimoto</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sayaka</given_name>
+<surname>Shiota</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Keiichi</given_name>
+<surname>Tokuda</surname>
+</person_name>
+					</contributors>
+					<titles><title>Overview of NIT HMM-based speech synthesis system for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>56</first_page>
+						<last_page>61</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-6</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/oura10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Dyre</given_name>
+<surname>Meen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Torbjørn</given_name>
+<surname>Svendsen</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NTNU Concatenative Speech Synthesizer</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>62</first_page>
+						<last_page>66</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-7</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/meen10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yuan-Fu</given_name>
+<surname>Liao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ming-Long</given_name>
+<surname>Wu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shao-He</given_name>
+<surname>Lyu</surname>
+</person_name>
+					</contributors>
+					<titles><title>The NTUT Blizzard Challenge 2010 Entry</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>67</first_page>
+						<last_page>72</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-8</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/liao10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yuan</given_name>
+<surname>Jiang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zhen-Hua</given_name>
+<surname>Ling</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ming</given_name>
+<surname>Lei</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Cheng-Cheng</given_name>
+<surname>Wang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Lu</given_name>
+<surname>Heng</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Hu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Li-Rong</given_name>
+<surname>Dai</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ren-Hua</given_name>
+<surname>Wang</surname>
+</person_name>
+					</contributors>
+					<titles><title>The USTC System for Blizzard Challenge 2010</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>115</first_page>
+						<last_page>120</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-16</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/jiang10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Lukas</given_name>
+<surname>Latacz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Wesley</given_name>
+<surname>Mattheyses</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Werner</given_name>
+<surname>Verhelst</surname>
+</person_name>
+					</contributors>
+					<titles><title>The VUB Blizzard Challenge 2010 Entry: Towards Automatic Voice Building</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>25</day>
+						<year>2010</year>
+					</publication_date>
+					<pages>
+						<first_page>121</first_page>
+						<last_page>126</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Blizzard.2010-17</doi>
+						<resource>https://www.isca-archive.org/blizzard_2010/latacz10_blizzard.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

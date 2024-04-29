@@ -1,490 +1,490 @@
 {
- "series": "LW",
- "title": "Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
- "location": "Dublin, Ireland",
- "startDate": "26/10/2012",
- "endDate": "27/10/2012",
- "URL": "https://www.coli.uni-saarland.de/conf/laughter-12/index.html",
- "chair": "Chairs: Nick Campbell, Jürgen Trouvain, and Khiet Truong",
- "intro": "preface.pdf",
- "reduction": "0.97",
- "nodoi": "",
- "conf": "LW",
- "name": "lw_2012",
- "year": "2012",
- "SIG": "",
- "title1": "Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
- "booklet": "preface.pdf",
- "date": "26-27 October 2012",
- "month": 10,
- "day": 26,
- "now": 1711383668173078,
- "papers": {
-  "mehu12_lw": {
-   "authors": [
-    [
-     "Marc",
-     "Mehu"
-    ]
-   ],
-   "title": "The natural history of human laughter: evolution and social function",
-   "original": "invited01",
-   "order": 1,
-   "page_count": 1,
-   "abstract": [
-    "Laughter is a peculiar human behaviour and has attracted the attention of researchers for decades. The occurrence of laughter worldwide suggests a long evolutionary history, with deep roots in the facial and vocal displays of primate ancestors. An ethological analysis of context and consequences suggests that laughter has most probably evolved as a social signal, which function is to create affiliative bonds among members of a species. Laughter, however, is also used in aggressive contexts, for example when undesired individuals are ostracized from a group. In both cases, the formation and maintenance of cooperative groups appears to be the essential feature through which laughter provides survival and reproductive benefits to individuals displaying it. I will review psychological and ethological evidence in favour of the hypothesis that laughter functions as a coalition formation signal. I will also stress the importance of gathering observational data on human laughter, as this line of evidence is necessary to complement experimental research on the production and perception of laughter. Finally I will discuss the implication of this research on the need, in social signal processing research, to study the social effects of emotional signals in addition to the symbolic meaning created by the community of perceivers.\n"
-   ],
-   "p1": "1",
-   "pn": "1"
+  "series": "LW",
+  "title": "Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
+  "location": "Dublin, Ireland",
+  "startDate": "26/10/2012",
+  "endDate": "27/10/2012",
+  "URL": "https://www.coli.uni-saarland.de/conf/laughter-12/index.html",
+  "chair": "Chairs: Nick Campbell, J\u00fcrgen Trouvain, and Khiet Truong",
+  "intro": "preface.pdf",
+  "reduction": "0.97",
+  "nodoi": "",
+  "conf": "LW",
+  "name": "lw_2012",
+  "year": "2012",
+  "SIG": "",
+  "title1": "Interdisciplinary Workshop on Laughter and other Non-Verbal Vocalisations in Speech",
+  "booklet": "preface.pdf",
+  "date": "26-27 October 2012",
+  "month": 10,
+  "day": 26,
+  "now": 1711383668173078,
+  "papers": {
+    "mehu12_lw": {
+      "authors": [
+        [
+          "Marc",
+          "Mehu"
+        ]
+      ],
+      "title": "The natural history of human laughter: evolution and social function",
+      "original": "invited01",
+      "order": 1,
+      "page_count": 1,
+      "abstract": [
+        "Laughter is a peculiar human behaviour and has attracted the attention of researchers for decades. The occurrence of laughter worldwide suggests a long evolutionary history, with deep roots in the facial and vocal displays of primate ancestors. An ethological analysis of context and consequences suggests that laughter has most probably evolved as a social signal, which function is to create affiliative bonds among members of a species. Laughter, however, is also used in aggressive contexts, for example when undesired individuals are ostracized from a group. In both cases, the formation and maintenance of cooperative groups appears to be the essential feature through which laughter provides survival and reproductive benefits to individuals displaying it. I will review psychological and ethological evidence in favour of the hypothesis that laughter functions as a coalition formation signal. I will also stress the importance of gathering observational data on human laughter, as this line of evidence is necessary to complement experimental research on the production and perception of laughter. Finally I will discuss the implication of this research on the need, in social signal processing research, to study the social effects of emotional signals in addition to the symbolic meaning created by the community of perceivers.\n"
+      ],
+      "p1": "1",
+      "pn": "1"
+    },
+    "edlund12_lw": {
+      "authors": [
+        [
+          "Jens",
+          "Edlund"
+        ]
+      ],
+      "title": "Temporal and spatial patterns in face-to-face conversation",
+      "original": "invited02",
+      "order": 13,
+      "page_count": 1,
+      "abstract": [
+        "From a conversational point of view, laughter differs from speech in that whereas speech is predominantly one-speaker-at-a-time (although overlaps are certainly not uncommon), laughter is often produced simultaneously \u2013 it is indeed said to be contagious. With this as a starting point, I'll present an overview of how various phenomena in spoken face-to-face conversation are temporally and spatially related, and attempt to draw some parallels to laughter.\n"
+      ],
+      "p1": "24",
+      "pn": "24"
+    },
+    "dodane12_lw": {
+      "authors": [
+        [
+          "Christelle",
+          "Dodane"
+        ],
+        [
+          "J\u00e9r\u00e9mi",
+          "Sauvage"
+        ],
+        [
+          "Fabrice",
+          "Hirsch"
+        ],
+        [
+          "Melissa",
+          "Barkat-Defradas"
+        ]
+      ],
+      "title": "Is children's laughter related to their language development?",
+      "original": "01",
+      "order": 2,
+      "page_count": 2,
+      "abstract": [
+        "This paper aims at studying the acoustic development of child\u2019s laughter and its relation to language acquisition. Our question can be formulated as follows: in laughter what is the part of physiology and what comes from linguistic development? We hypothesized that some acoustic characteristics of laughter are linked, on the one hand, with some physiological characteristics and, on the other hand, with speech properties.\n"
+      ],
+      "p1": "2",
+      "pn": "3"
+    },
+    "storey12_lw": {
+      "authors": [
+        [
+          "Lesley",
+          "Storey"
+        ]
+      ],
+      "title": "Focus on laughter: a qualitative exploration of the social dimensions of laughter",
+      "original": "02",
+      "order": 3,
+      "page_count": 2,
+      "abstract": [
+        "This paper reports qualitative research carried out as part of the EU ILHILAIRE project looking at the way in which people talk about laughter and the social functions which it performs. The research provides a contribution to the ILHILAIRE project by looking at the social aspect of laughter from a qualitative perspective.\n"
+      ],
+      "p1": "4",
+      "pn": "5"
+    },
+    "lavelle12_lw": {
+      "authors": [
+        [
+          "Mary",
+          "Lavelle"
+        ],
+        [
+          "Rose",
+          "McCabe"
+        ]
+      ],
+      "title": "What's so funny? An analysis of conversational laughter in schizophrenia",
+      "original": "03",
+      "order": 4,
+      "page_count": 2,
+      "abstract": [
+        "Laughter can be as a marker of discomfort or awkwardness in social interaction. In multiparty interaction, shared laughter may also indicate coalition between the laughing parties. This study investigated laughter in patients' triadic interactions with unfamiliar others, specifically focusing on laughter between patients' interacting partners as makers of interactional discomfort and coalition formation.\n"
+      ],
+      "p1": "6",
+      "pn": "7"
+    },
+    "hofmann12_lw": {
+      "authors": [
+        [
+          "Jennifer",
+          "Hofmann"
+        ],
+        [
+          "Willibald",
+          "Ruch"
+        ],
+        [
+          "Tracey",
+          "Platt"
+        ]
+      ],
+      "title": "The en- and decoding of schadenfreude laughter. Sheer joy expressed by a Duchenne laugh or emotional blend with distinct morphological expression?",
+      "original": "04",
+      "order": 5,
+      "page_count": 2,
+      "abstract": [
+        "This study investigates the facial features of schadenfreude laughter in historic illustrations by applying the Facial Action Coding System and assesses the decoding by na\u00efve subjects. Results show that while the encoding of schadenfreude laughter is heterogeneous, schadenfreude is decoded when the facial expression unites markers of joy (Duchenne Display, consisting of the orbicularis oculi pars orbitalis muscle and the zygomatic major muscle), as well as markers of negative emotions (e.g., brow lowering), or in one case, where the initially categorized schadenfreude illustration contained markers distorting the expression of joy (e.g., frowning and the lowering of lip corners). These findings support the hypothesis that schadenfreude may be expressed by a morphologically distinct blend of a positive and a negative emotion, or is expressed by joyful laughter (with the expression being modulated due to social desirability).\n"
+      ],
+      "p1": "8",
+      "pn": "9"
+    },
+    "niewiadomski12_lw": {
+      "authors": [
+        [
+          "Rados\u0142aw",
+          "Niewiadomski"
+        ],
+        [
+          "Sathish",
+          "Pammi"
+        ],
+        [
+          "Abhishek",
+          "Sharma"
+        ],
+        [
+          "Jennifer",
+          "Hofmann"
+        ],
+        [
+          "Tracey",
+          "Platt"
+        ],
+        [
+          "Richard Thomas",
+          "Cruz"
+        ],
+        [
+          "Bingqing",
+          "Qu"
+        ]
+      ],
+      "title": "Visual laughter synthesis: Initial approaches",
+      "original": "05",
+      "order": 6,
+      "page_count": 2,
+      "abstract": [
+        "Visual laughter synthesis is a challenging task that was only rarely explored and empirical investigations are scarce. For the purpose of building a virtual agent able to laugh naturally we exploit different animation techniques such as a procedural animation or based on motion capture and we apply them to visual laughter synthesis. At the moment we focus on three approaches: procedural animation based on manual annotation of facial behavior; motion capture driven animation and animation generated from automatic facial movements detection.\n"
+      ],
+      "p1": "10",
+      "pn": "11"
+    },
+    "urbain12_lw": {
+      "authors": [
+        [
+          "J\u00e9r\u00f4me",
+          "Urbain"
+        ],
+        [
+          "H\u00fcseyin",
+          "Cakmak"
+        ],
+        [
+          "Thierry",
+          "Dutoit"
+        ]
+      ],
+      "title": "Development of HMM-based acoustic laughter synthesis",
+      "original": "06",
+      "order": 7,
+      "page_count": 2,
+      "abstract": [
+        "Laughter is a key signal in human communication, conveying information about our emotional state but also providing social feedback to the conversational partners. With the development of more and more natural human-computer interactions (with the help of embodied conversational agents, etc.), the need emerged to enable computers to understand and express emotions. In particular, to enhance human-computer interactions, talking machines should be able to laugh. To improve laughter synthesis naturalness, we propose to use Hidden Markov Models (HMMs), which have proven efficient for speech synthesis.\n"
+      ],
+      "p1": "12",
+      "pn": "13"
+    },
+    "cu12_lw": {
+      "authors": [
+        [
+          "Jocelynn",
+          "Cu"
+        ],
+        [
+          "Merlin",
+          "Suarez"
+        ],
+        [
+          "Madelene",
+          "Sta. Maria"
+        ]
+      ],
+      "title": "Towards building a context-based laughter model",
+      "original": "07",
+      "order": 8,
+      "page_count": 2,
+      "abstract": [
+        "Laughter is a significant social cue that contributes to a meaningful interaction. It is a known regulatory mechanism in the expression of emotion. As such, we would like to answer the questions what are the different types of emotions expressed through laughter, and how can these laughter be distinguished from each other?\n"
+      ],
+      "p1": "14",
+      "pn": "15"
+    },
+    "pammi12_lw": {
+      "authors": [
+        [
+          "Sathish",
+          "Pammi"
+        ],
+        [
+          "Houssemeddine",
+          "Khemiri"
+        ],
+        [
+          "G\u00e9rard",
+          "Chollet"
+        ]
+      ],
+      "title": "Laughter detection using ALISP-based N-Gram models",
+      "original": "08",
+      "order": 9,
+      "page_count": 2,
+      "abstract": [
+        "Laughter is a very complex behavior that communicates a wide range of messages with different meanings. It is highly dependent on social and interpersonal attributes. Most of the previous works on automatic laughter detection from audio uses frame-level acoustic features as parameters to train their machine learning techniques, such as Gaussian Mixture Models (GMMs), Support Vector Machines (SVMs) etc. However, segmental approaches that capture higher-level events have not been adequately focussed due to the nonlinguistic nature of laughter. This paper is an attempt to detect laughter regions with the help of automatically acquired acoustic segments using Automatic Language Independent Speech Processing (ALISP) models.\n"
+      ],
+      "p1": "16",
+      "pn": "17"
+    },
+    "urbain12b_lw": {
+      "authors": [
+        [
+          "J\u00e9r\u00f4me",
+          "Urbain"
+        ],
+        [
+          "Thierry",
+          "Dutoit"
+        ]
+      ],
+      "title": "Measuring instantaneous laughter intensity from acoustic features",
+      "original": "09",
+      "order": 10,
+      "page_count": 2,
+      "abstract": [
+        "Being able to process and express emotional signals when interacting with humans is an important feature for machines acting in roles like companions or tutors. Laughter is a very important signal that regulates human conversations. It is however hard for machines, which usually have no real comprehension of the phenomenon that triggered laughter, to understand the meaning of human laughs and, in consequence, to react accordingly. In this paper, we explore one dimension to characterize laughs: their intensity. Without better understanding the conversation, a machine that can infer the intensity of users' laughs will be better equipped to select an appropriate answer (which can be laughing at an intensity related to the detected laugh).\n"
+      ],
+      "p1": "18",
+      "pn": "19"
+    },
+    "vanleeuwen12_lw": {
+      "authors": [
+        [
+          "Anne",
+          "van Leeuwen"
+        ],
+        [
+          "Hugo",
+          "Quen\u00e9"
+        ],
+        [
+          "Jos",
+          "van Berkum"
+        ]
+      ],
+      "title": "How do audible smiles and frowns affect speech comprehension?",
+      "original": "10",
+      "order": 11,
+      "page_count": 2,
+      "abstract": [
+        "We often smile (and frown) while we talk. Listeners to such affective speech have to integrate the affective and the linguistic cues in the speech signal. Following up on earlier work, we investigated whether and how affective phonetics (i.e. vocal expressions such as smiling) and affective semantics (sentence-level meaning) interact during spoken language comprehension of sentences and how perspective modifies these interactions. We explored this by presenting phonetically and semantically manipulated spoken Dutch sentences to listeners while collecting behavioral and neural (ERP) measurements.\n"
+      ],
+      "p1": "20",
+      "pn": "21"
+    },
+    "orr12_lw": {
+      "authors": [
+        [
+          "Rosemary",
+          "Orr"
+        ]
+      ],
+      "title": "Sorry, I just don't get it ...",
+      "original": "11",
+      "order": 12,
+      "page_count": 2,
+      "abstract": [
+        "In my talk, I will outline some of the cultural approaches to laughter and humour and suggest some ways in which we try to circumvent the communications that might arise in intercultural relationships in the academic world. I shall endeavour not to make sweeping statements and generalisations, and to avoid anecdotal evidence. However, since that is the stuff upon which this issue is built, with which it is reinforced, and without which it cannot persist... I make no promises.\n"
+      ],
+      "p1": "22",
+      "pn": "23"
+    },
+    "bonin12_lw": {
+      "authors": [
+        [
+          "Francesca",
+          "Bonin"
+        ],
+        [
+          "Nick",
+          "Campbell"
+        ],
+        [
+          "Carl",
+          "Vogel"
+        ]
+      ],
+      "title": "Temporal distribution of laughter in conversation",
+      "original": "12",
+      "order": 14,
+      "page_count": 2,
+      "abstract": [
+        "Laughter, as component of social interaction, has attracted interest within conversational analysis. While laughter can be expressed in different contexts, voluntary or involuntary, and diverse in function and degree of functionality, it is not random. We study timing of laughter during conversation in relation to topic changes: whether recurrent patterns in laughter distribution with respect to topic changes exist; whether laughter is a reliable topic termination cue. We explore a corpus of multiparty spontaneous chat approaching the problem in two steps: at a coarse-grained level, we analyze the temporal distribution of laughter with respect to topic boundaries; then, at a finer level we will analyze the differences in distribution of shared and solo laughter. The two main points of our work can be summarized by these two questions: I) how laughter is distributed around topic boundaries? II) is there evidence of the \"shared laughter-topic termination\" relation and of \"solo laughter-topic continuation\" relation?\n"
+      ],
+      "p1": "25",
+      "pn": "26"
+    },
+    "truong12_lw": {
+      "authors": [
+        [
+          "Khiet",
+          "Truong"
+        ],
+        [
+          "J\u00fcrgen",
+          "Trouvain"
+        ]
+      ],
+      "title": "Laughter in conversational speech: laughing together vs. laughing alone",
+      "original": "13",
+      "order": 15,
+      "page_count": 1,
+      "abstract": [
+        "Besides spoken words conversational speech usually contains non-verbal vocalisations such as laughter and coughing. In a recent analysis of several publicly available conversational speech corpora (both multiparty and dyadic conversations) we could show that laughter and (other) breathing noises were the most frequent non-verbal vocalisations. What makes laughter even more special, in addition to the frequency in conversations, is the fact that interlocutors often apply laughter as a joint vocal action which is in contrast to most other vocalisations. Most remarkably, laughter that appears as an utterance of one single speaker ('solo laughter') often shows a different acoustic make-up to laughter where people laugh together. These temporally (partially) overlapping laughs are stronger prosodically marked than non-overlapping ones, in terms of higher values for duration, mean F0, mean and maximum intensity, and the amount of voicing. This effect is intensified by the number of people joining in the laughter event, which suggests that entrainment is at work. We also found that group size affects the amount of overlapping laughs which illustrates the contagious nature of laughter. Finally, people appear to join laughter simultaneously at a delay of approximately 500 ms: this means that spoken dialogue systems have some time to decide how to respond to a user's laugh.\n"
+      ],
+      "p1": "27",
+      "pn": "27"
+    },
+    "trouvain12_lw": {
+      "authors": [
+        [
+          "J\u00fcrgen",
+          "Trouvain"
+        ]
+      ],
+      "title": "On the acoustic vicinity of (adult) crying and (song-like) laughing",
+      "original": "14",
+      "order": 16,
+      "page_count": 2,
+      "abstract": [
+        "Belin et al. noticed in their database of emotional vocalisations an acoustic similarity between the samples portraying the categories \"sad\" (realised as crying) and \"happy\" (realised as laughing). This observation is in line with anecdotal evidence of many people who felt unsure whether somebody was crying or laughing when visual and other context information was missing. This is a situation which is highly irritating given the fact that crying is usually associated with negative feelings, and laughing often with positive emotions. This study has two aims: i) a comparison of selected acoustic parameters in the samples of crying and laughing in the above mentioned database, ii) the manipulation of cries in order to elicitate the impression of laughter.\n"
+      ],
+      "p1": "28",
+      "pn": "29"
+    },
+    "witchel12_lw": {
+      "authors": [
+        [
+          "Harry",
+          "Witchel"
+        ]
+      ],
+      "title": "Laughing and coughing: testing for vocalised indicators of entrainment and action inhibition",
+      "original": "15",
+      "order": 17,
+      "page_count": 1,
+      "abstract": [
+        "Identifying objective indicators of engagement and disengagement is an important goal within social signal processing and human-computer interactions. One theoretical indicator of engagement in a listener/addressee is action inhibition. One potential action that is inhibited as an intrusion may be coughing. Here we outline a series of \"in the wild\" experiments structured to test whether the suppression of coughing can be associated with the quality of a live or recorded lecture.\n"
+      ],
+      "p1": "30",
+      "pn": "30"
+    },
+    "pellegrini12_lw": {
+      "authors": [
+        [
+          "Raffaella",
+          "Pellegrini"
+        ],
+        [
+          "Maria Rita",
+          "Ciceri"
+        ]
+      ],
+      "title": "Listen to my breath: how does it sound like? Breathe with me: does it improve emotional attunement?",
+      "original": "16",
+      "order": 18,
+      "page_count": 2,
+      "abstract": [
+        "The present study aims to investigate whether it is possible to indetifiy distinctive acoustic breathing patterns related to different emotional conditions (anger, fear, sadness, disgust, joy and tenderness) and to investigate how \"breathing together\" influences the attunement process between participants, considering different dimensions: emotional decoding, similarity of the emotional experiences, perspective taking and interpersonal synchrony. In particular we hypothesize that the more synchronized the imitation of the partner\u2019s breathing, the more accurate the understanding of his emotional experience.\n"
+      ],
+      "p1": "31",
+      "pn": "32"
+    }
   },
-  "edlund12_lw": {
-   "authors": [
-    [
-     "Jens",
-     "Edlund"
-    ]
-   ],
-   "title": "Temporal and spatial patterns in face-to-face conversation",
-   "original": "invited02",
-   "order": 13,
-   "page_count": 1,
-   "abstract": [
-    "From a conversational point of view, laughter differs from speech in that whereas speech is predominantly one-speaker-at-a-time (although overlaps are certainly not uncommon), laughter is often produced simultaneously – it is indeed said to be contagious. With this as a starting point, I'll present an overview of how various phenomena in spoken face-to-face conversation are temporally and spatially related, and attempt to draw some parallels to laughter.\n"
-   ],
-   "p1": "24",
-   "pn": "24"
-  },
-  "dodane12_lw": {
-   "authors": [
-    [
-     "Christelle",
-     "Dodane"
-    ],
-    [
-     "Jérémi",
-     "Sauvage"
-    ],
-    [
-     "Fabrice",
-     "Hirsch"
-    ],
-    [
-     "Melissa",
-     "Barkat-Defradas"
-    ]
-   ],
-   "title": "Is children's laughter related to their language development?",
-   "original": "01",
-   "order": 2,
-   "page_count": 2,
-   "abstract": [
-    "This paper aims at studying the acoustic development of child’s laughter and its relation to language acquisition. Our question can be formulated as follows: in laughter what is the part of physiology and what comes from linguistic development? We hypothesized that some acoustic characteristics of laughter are linked, on the one hand, with some physiological characteristics and, on the other hand, with speech properties.\n"
-   ],
-   "p1": "2",
-   "pn": "3"
-  },
-  "storey12_lw": {
-   "authors": [
-    [
-     "Lesley",
-     "Storey"
-    ]
-   ],
-   "title": "Focus on laughter: a qualitative exploration of the social dimensions of laughter",
-   "original": "02",
-   "order": 3,
-   "page_count": 2,
-   "abstract": [
-    "This paper reports qualitative research carried out as part of the EU ILHILAIRE project looking at the way in which people talk about laughter and the social functions which it performs. The research provides a contribution to the ILHILAIRE project by looking at the social aspect of laughter from a qualitative perspective.\n"
-   ],
-   "p1": "4",
-   "pn": "5"
-  },
-  "lavelle12_lw": {
-   "authors": [
-    [
-     "Mary",
-     "Lavelle"
-    ],
-    [
-     "Rose",
-     "McCabe"
-    ]
-   ],
-   "title": "What's so funny? An analysis of conversational laughter in schizophrenia",
-   "original": "03",
-   "order": 4,
-   "page_count": 2,
-   "abstract": [
-    "Laughter can be as a marker of discomfort or awkwardness in social interaction. In multiparty interaction, shared laughter may also indicate coalition between the laughing parties. This study investigated laughter in patients' triadic interactions with unfamiliar others, specifically focusing on laughter between patients' interacting partners as makers of interactional discomfort and coalition formation.\n"
-   ],
-   "p1": "6",
-   "pn": "7"
-  },
-  "hofmann12_lw": {
-   "authors": [
-    [
-     "Jennifer",
-     "Hofmann"
-    ],
-    [
-     "Willibald",
-     "Ruch"
-    ],
-    [
-     "Tracey",
-     "Platt"
-    ]
-   ],
-   "title": "The en- and decoding of schadenfreude laughter. Sheer joy expressed by a Duchenne laugh or emotional blend with distinct morphological expression?",
-   "original": "04",
-   "order": 5,
-   "page_count": 2,
-   "abstract": [
-    "This study investigates the facial features of schadenfreude laughter in historic illustrations by applying the Facial Action Coding System and assesses the decoding by naïve subjects. Results show that while the encoding of schadenfreude laughter is heterogeneous, schadenfreude is decoded when the facial expression unites markers of joy (Duchenne Display, consisting of the orbicularis oculi pars orbitalis muscle and the zygomatic major muscle), as well as markers of negative emotions (e.g., brow lowering), or in one case, where the initially categorized schadenfreude illustration contained markers distorting the expression of joy (e.g., frowning and the lowering of lip corners). These findings support the hypothesis that schadenfreude may be expressed by a morphologically distinct blend of a positive and a negative emotion, or is expressed by joyful laughter (with the expression being modulated due to social desirability).\n"
-   ],
-   "p1": "8",
-   "pn": "9"
-  },
-  "niewiadomski12_lw": {
-   "authors": [
-    [
-     "Radosław",
-     "Niewiadomski"
-    ],
-    [
-     "Sathish",
-     "Pammi"
-    ],
-    [
-     "Abhishek",
-     "Sharma"
-    ],
-    [
-     "Jennifer",
-     "Hofmann"
-    ],
-    [
-     "Tracey",
-     "Platt"
-    ],
-    [
-     "Richard Thomas",
-     "Cruz"
-    ],
-    [
-     "Bingqing",
-     "Qu"
-    ]
-   ],
-   "title": "Visual laughter synthesis: Initial approaches",
-   "original": "05",
-   "order": 6,
-   "page_count": 2,
-   "abstract": [
-    "Visual laughter synthesis is a challenging task that was only rarely explored and empirical investigations are scarce. For the purpose of building a virtual agent able to laugh naturally we exploit different animation techniques such as a procedural animation or based on motion capture and we apply them to visual laughter synthesis. At the moment we focus on three approaches: procedural animation based on manual annotation of facial behavior; motion capture driven animation and animation generated from automatic facial movements detection.\n"
-   ],
-   "p1": "10",
-   "pn": "11"
-  },
-  "urbain12_lw": {
-   "authors": [
-    [
-     "Jérôme",
-     "Urbain"
-    ],
-    [
-     "Hüseyin",
-     "Cakmak"
-    ],
-    [
-     "Thierry",
-     "Dutoit"
-    ]
-   ],
-   "title": "Development of HMM-based acoustic laughter synthesis",
-   "original": "06",
-   "order": 7,
-   "page_count": 2,
-   "abstract": [
-    "Laughter is a key signal in human communication, conveying information about our emotional state but also providing social feedback to the conversational partners. With the development of more and more natural human-computer interactions (with the help of embodied conversational agents, etc.), the need emerged to enable computers to understand and express emotions. In particular, to enhance human-computer interactions, talking machines should be able to laugh. To improve laughter synthesis naturalness, we propose to use Hidden Markov Models (HMMs), which have proven efficient for speech synthesis.\n"
-   ],
-   "p1": "12",
-   "pn": "13"
-  },
-  "cu12_lw": {
-   "authors": [
-    [
-     "Jocelynn",
-     "Cu"
-    ],
-    [
-     "Merlin",
-     "Suarez"
-    ],
-    [
-     "Madelene",
-     "Sta. Maria"
-    ]
-   ],
-   "title": "Towards building a context-based laughter model",
-   "original": "07",
-   "order": 8,
-   "page_count": 2,
-   "abstract": [
-    "Laughter is a significant social cue that contributes to a meaningful interaction. It is a known regulatory mechanism in the expression of emotion. As such, we would like to answer the questions what are the different types of emotions expressed through laughter, and how can these laughter be distinguished from each other?\n"
-   ],
-   "p1": "14",
-   "pn": "15"
-  },
-  "pammi12_lw": {
-   "authors": [
-    [
-     "Sathish",
-     "Pammi"
-    ],
-    [
-     "Houssemeddine",
-     "Khemiri"
-    ],
-    [
-     "Gérard",
-     "Chollet"
-    ]
-   ],
-   "title": "Laughter detection using ALISP-based N-Gram models",
-   "original": "08",
-   "order": 9,
-   "page_count": 2,
-   "abstract": [
-    "Laughter is a very complex behavior that communicates a wide range of messages with different meanings. It is highly dependent on social and interpersonal attributes. Most of the previous works on automatic laughter detection from audio uses frame-level acoustic features as parameters to train their machine learning techniques, such as Gaussian Mixture Models (GMMs), Support Vector Machines (SVMs) etc. However, segmental approaches that capture higher-level events have not been adequately focussed due to the nonlinguistic nature of laughter. This paper is an attempt to detect laughter regions with the help of automatically acquired acoustic segments using Automatic Language Independent Speech Processing (ALISP) models.\n"
-   ],
-   "p1": "16",
-   "pn": "17"
-  },
-  "urbain12b_lw": {
-   "authors": [
-    [
-     "Jérôme",
-     "Urbain"
-    ],
-    [
-     "Thierry",
-     "Dutoit"
-    ]
-   ],
-   "title": "Measuring instantaneous laughter intensity from acoustic features",
-   "original": "09",
-   "order": 10,
-   "page_count": 2,
-   "abstract": [
-    "Being able to process and express emotional signals when interacting with humans is an important feature for machines acting in roles like companions or tutors. Laughter is a very important signal that regulates human conversations. It is however hard for machines, which usually have no real comprehension of the phenomenon that triggered laughter, to understand the meaning of human laughs and, in consequence, to react accordingly. In this paper, we explore one dimension to characterize laughs: their intensity. Without better understanding the conversation, a machine that can infer the intensity of users' laughs will be better equipped to select an appropriate answer (which can be laughing at an intensity related to the detected laugh).\n"
-   ],
-   "p1": "18",
-   "pn": "19"
-  },
-  "vanleeuwen12_lw": {
-   "authors": [
-    [
-     "Anne",
-     "van Leeuwen"
-    ],
-    [
-     "Hugo",
-     "Quené"
-    ],
-    [
-     "Jos",
-     "van Berkum"
-    ]
-   ],
-   "title": "How do audible smiles and frowns affect speech comprehension?",
-   "original": "10",
-   "order": 11,
-   "page_count": 2,
-   "abstract": [
-    "We often smile (and frown) while we talk. Listeners to such affective speech have to integrate the affective and the linguistic cues in the speech signal. Following up on earlier work, we investigated whether and how affective phonetics (i.e. vocal expressions such as smiling) and affective semantics (sentence-level meaning) interact during spoken language comprehension of sentences and how perspective modifies these interactions. We explored this by presenting phonetically and semantically manipulated spoken Dutch sentences to listeners while collecting behavioral and neural (ERP) measurements.\n"
-   ],
-   "p1": "20",
-   "pn": "21"
-  },
-  "orr12_lw": {
-   "authors": [
-    [
-     "Rosemary",
-     "Orr"
-    ]
-   ],
-   "title": "Sorry, I just don't get it ...",
-   "original": "11",
-   "order": 12,
-   "page_count": 2,
-   "abstract": [
-    "In my talk, I will outline some of the cultural approaches to laughter and humour and suggest some ways in which we try to circumvent the communications that might arise in intercultural relationships in the academic world. I shall endeavour not to make sweeping statements and generalisations, and to avoid anecdotal evidence. However, since that is the stuff upon which this issue is built, with which it is reinforced, and without which it cannot persist... I make no promises.\n"
-   ],
-   "p1": "22",
-   "pn": "23"
-  },
-  "bonin12_lw": {
-   "authors": [
-    [
-     "Francesca",
-     "Bonin"
-    ],
-    [
-     "Nick",
-     "Campbell"
-    ],
-    [
-     "Carl",
-     "Vogel"
-    ]
-   ],
-   "title": "Temporal distribution of laughter in conversation",
-   "original": "12",
-   "order": 14,
-   "page_count": 2,
-   "abstract": [
-    "Laughter, as component of social interaction, has attracted interest within conversational analysis. While laughter can be expressed in different contexts, voluntary or involuntary, and diverse in function and degree of functionality, it is not random. We study timing of laughter during conversation in relation to topic changes: whether recurrent patterns in laughter distribution with respect to topic changes exist; whether laughter is a reliable topic termination cue. We explore a corpus of multiparty spontaneous chat approaching the problem in two steps: at a coarse-grained level, we analyze the temporal distribution of laughter with respect to topic boundaries; then, at a finer level we will analyze the differences in distribution of shared and solo laughter. The two main points of our work can be summarized by these two questions: I) how laughter is distributed around topic boundaries? II) is there evidence of the \"shared laughter-topic termination\" relation and of \"solo laughter-topic continuation\" relation?\n"
-   ],
-   "p1": "25",
-   "pn": "26"
-  },
-  "truong12_lw": {
-   "authors": [
-    [
-     "Khiet",
-     "Truong"
-    ],
-    [
-     "Jürgen",
-     "Trouvain"
-    ]
-   ],
-   "title": "Laughter in conversational speech: laughing together vs. laughing alone",
-   "original": "13",
-   "order": 15,
-   "page_count": 1,
-   "abstract": [
-    "Besides spoken words conversational speech usually contains non-verbal vocalisations such as laughter and coughing. In a recent analysis of several publicly available conversational speech corpora (both multiparty and dyadic conversations) we could show that laughter and (other) breathing noises were the most frequent non-verbal vocalisations. What makes laughter even more special, in addition to the frequency in conversations, is the fact that interlocutors often apply laughter as a joint vocal action which is in contrast to most other vocalisations. Most remarkably, laughter that appears as an utterance of one single speaker ('solo laughter') often shows a different acoustic make-up to laughter where people laugh together. These temporally (partially) overlapping laughs are stronger prosodically marked than non-overlapping ones, in terms of higher values for duration, mean F0, mean and maximum intensity, and the amount of voicing. This effect is intensified by the number of people joining in the laughter event, which suggests that entrainment is at work. We also found that group size affects the amount of overlapping laughs which illustrates the contagious nature of laughter. Finally, people appear to join laughter simultaneously at a delay of approximately 500 ms: this means that spoken dialogue systems have some time to decide how to respond to a user's laugh.\n"
-   ],
-   "p1": "27",
-   "pn": "27"
-  },
-  "trouvain12_lw": {
-   "authors": [
-    [
-     "Jürgen",
-     "Trouvain"
-    ]
-   ],
-   "title": "On the acoustic vicinity of (adult) crying and (song-like) laughing",
-   "original": "14",
-   "order": 16,
-   "page_count": 2,
-   "abstract": [
-    "Belin et al. noticed in their database of emotional vocalisations an acoustic similarity between the samples portraying the categories \"sad\" (realised as crying) and \"happy\" (realised as laughing). This observation is in line with anecdotal evidence of many people who felt unsure whether somebody was crying or laughing when visual and other context information was missing. This is a situation which is highly irritating given the fact that crying is usually associated with negative feelings, and laughing often with positive emotions. This study has two aims: i) a comparison of selected acoustic parameters in the samples of crying and laughing in the above mentioned database, ii) the manipulation of cries in order to elicitate the impression of laughter.\n"
-   ],
-   "p1": "28",
-   "pn": "29"
-  },
-  "witchel12_lw": {
-   "authors": [
-    [
-     "Harry",
-     "Witchel"
-    ]
-   ],
-   "title": "Laughing and coughing: testing for vocalised indicators of entrainment and action inhibition",
-   "original": "15",
-   "order": 17,
-   "page_count": 1,
-   "abstract": [
-    "Identifying objective indicators of engagement and disengagement is an important goal within social signal processing and human-computer interactions. One theoretical indicator of engagement in a listener/addressee is action inhibition. One potential action that is inhibited as an intrusion may be coughing. Here we outline a series of \"in the wild\" experiments structured to test whether the suppression of coughing can be associated with the quality of a live or recorded lecture.\n"
-   ],
-   "p1": "30",
-   "pn": "30"
-  },
-  "pellegrini12_lw": {
-   "authors": [
-    [
-     "Raffaella",
-     "Pellegrini"
-    ],
-    [
-     "Maria Rita",
-     "Ciceri"
-    ]
-   ],
-   "title": "Listen to my breath: how does it sound like? Breathe with me: does it improve emotional attunement?",
-   "original": "16",
-   "order": 18,
-   "page_count": 2,
-   "abstract": [
-    "The present study aims to investigate whether it is possible to indetifiy distinctive acoustic breathing patterns related to different emotional conditions (anger, fear, sadness, disgust, joy and tenderness) and to investigate how \"breathing together\" influences the attunement process between participants, considering different dimensions: emotional decoding, similarity of the emotional experiences, perspective taking and interpersonal synchrony. In particular we hypothesize that the more synchronized the imitation of the partner’s breathing, the more accurate the understanding of his emotional experience.\n"
-   ],
-   "p1": "31",
-   "pn": "32"
-  }
- },
- "sessions": [
-  {
-   "title": "Keynote 1",
-   "papers": [
-    "mehu12_lw"
-   ]
-  },
-  {
-   "title": "Session 1",
-   "papers": [
-    "dodane12_lw"
-   ]
-  },
-  {
-   "title": "Session 2",
-   "papers": [
-    "storey12_lw",
-    "lavelle12_lw",
-    "hofmann12_lw"
-   ]
-  },
-  {
-   "title": "Session 3",
-   "papers": [
-    "niewiadomski12_lw",
-    "urbain12_lw",
-    "cu12_lw"
-   ]
-  },
-  {
-   "title": "Session 4",
-   "papers": [
-    "pammi12_lw",
-    "urbain12b_lw",
-    "vanleeuwen12_lw",
-    "orr12_lw"
-   ]
-  },
-  {
-   "title": "Keynote 2",
-   "papers": [
-    "edlund12_lw"
-   ]
-  },
-  {
-   "title": "Session 5",
-   "papers": [
-    "bonin12_lw",
-    "truong12_lw"
-   ]
-  },
-  {
-   "title": "Session 6",
-   "papers": [
-    "trouvain12_lw",
-    "witchel12_lw",
-    "pellegrini12_lw"
-   ]
-  }
- ]
+  "sessions": [
+    {
+      "title": "Keynote 1",
+      "papers": [
+        "mehu12_lw"
+      ]
+    },
+    {
+      "title": "Session 1",
+      "papers": [
+        "dodane12_lw"
+      ]
+    },
+    {
+      "title": "Session 2",
+      "papers": [
+        "storey12_lw",
+        "lavelle12_lw",
+        "hofmann12_lw"
+      ]
+    },
+    {
+      "title": "Session 3",
+      "papers": [
+        "niewiadomski12_lw",
+        "urbain12_lw",
+        "cu12_lw"
+      ]
+    },
+    {
+      "title": "Session 4",
+      "papers": [
+        "pammi12_lw",
+        "urbain12b_lw",
+        "vanleeuwen12_lw",
+        "orr12_lw"
+      ]
+    },
+    {
+      "title": "Keynote 2",
+      "papers": [
+        "edlund12_lw"
+      ]
+    },
+    {
+      "title": "Session 5",
+      "papers": [
+        "bonin12_lw",
+        "truong12_lw"
+      ]
+    },
+    {
+      "title": "Session 6",
+      "papers": [
+        "trouvain12_lw",
+        "witchel12_lw",
+        "pellegrini12_lw"
+      ]
+    }
+  ]
 }
