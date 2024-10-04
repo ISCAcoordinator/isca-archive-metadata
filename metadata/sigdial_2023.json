@@ -1,8 +1,8 @@
 {
-  "external": "https://aclanthology.org/volumes/2020.sigdial-1/",
+  "external": "https://aclanthology.org/volumes/2023.sigdial-1/",
   "conf": "SIGDial",
-  "year": "2020",
-  "name": "sigdial_2020",
+  "year": "2023",
+  "name": "sigdial_2023",
   "series": "SIGDial",
   "SIG": "SIGDial",
   "title": "Annual Meeting of the Special Interest Group on Discourse and Dialogue",
