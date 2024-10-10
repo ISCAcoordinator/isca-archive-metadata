@@ -1,0 +1,219 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>smm_2024</doi_batch_id>
+		<timestamp>1728549092282012</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>SMM24, Workshop on Speech, Music and Mind 2024</conference_name>
+				<conference_acronym>smm_2024</conference_acronym>
+				<conference_date>9 September 2024</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>SMM24, Workshop on Speech, Music and Mind 2024</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2024</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/SMM.2024</doi>
+					<timestamp>1728549092282012</timestamp>
+					<resource>https://www.isca-archive.org/smm_2024/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Sharon</given_name>
+<surname>Varghese</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vinoo</given_name>
+<surname>Alluri</surname>
+</person_name>
+					</contributors>
+					<titles><title>Pilot Study on Tailored Music Recommendations for Individuals with Autism Spectrum Disorder: A GOAL-Driven Approach</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>16</first_page>
+						<last_page>20</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-4</doi>
+						<resource>https://www.isca-archive.org/smm_2024/varghese24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Yarin</given_name>
+<surname>Vassover</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ido</given_name>
+<surname>Bekerman</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tehilla</given_name>
+<surname>Copperman</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yonatan</given_name>
+<surname>Schwartz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Moni</given_name>
+<surname>Shahar</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Vered</given_name>
+<surname>Silber-Varod</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sharon</given_name>
+<surname>Naparstek</surname>
+</person_name>
+					</contributors>
+					<titles><title>Spotting Traces of Depression in a Verbal Fluency Test</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>26</first_page>
+						<last_page>30</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-6</doi>
+						<resource>https://www.isca-archive.org/smm_2024/vassover24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Gauri</given_name>
+<surname>Deshpande</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Björn</given_name>
+<surname>Schuller</surname>
+</person_name>
+					</contributors>
+					<titles><title>Ingressiveness on Glottal Closure Instants : An Empirical Study</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>6</first_page>
+						<last_page>10</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-2</doi>
+						<resource>https://www.isca-archive.org/smm_2024/deshpande24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Vinod</given_name>
+<surname>Subramanian</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Namhee</given_name>
+<surname>Kwon</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Raymond</given_name>
+<surname>Brueckner</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nate</given_name>
+<surname>Blaylock</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Henry</given_name>
+<surname>O’Connell</surname>
+</person_name>
+					</contributors>
+					<titles><title>Detecting Mild Cognitive Impairment using Vocal Biomarkers from Spontaneous Speech</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>5</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-1</doi>
+						<resource>https://www.isca-archive.org/smm_2024/subramanian24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Dimitra</given_name>
+<surname>Emmanouilidou</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hannes</given_name>
+<surname>Gamper</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Midia</given_name>
+<surname>Yousefi</surname>
+</person_name>
+					</contributors>
+					<titles><title>Domain mismatch and data augmentation in speech emotion recognition</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>21</first_page>
+						<last_page>25</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-5</doi>
+						<resource>https://www.isca-archive.org/smm_2024/emmanouilidou24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Faiza</given_name>
+<surname>Iqbal</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zafi Sherhan</given_name>
+<surname>Syed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Muhammad Shehram Shah</given_name>
+<surname>Syed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Abbas Shah</given_name>
+<surname>Syed</surname>
+</person_name>
+					</contributors>
+					<titles><title>An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>9</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>11</first_page>
+						<last_page>15</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SMM.2024-3</doi>
+						<resource>https://www.isca-archive.org/smm_2024/iqbal24_smm.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

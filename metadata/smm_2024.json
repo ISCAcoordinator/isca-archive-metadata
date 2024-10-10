@@ -1,0 +1,291 @@
+{
+ "series": "SMM",
+ "title": "SMM24, Workshop on Speech, Music and Mind 2024",
+ "location": "Virtual",
+ "startDate": "09/09/2024",
+ "endDate": "09/09/2024",
+ "URL": "https://smm24.iiit.ac.in/",
+ "chair": "Chairs: Meghna A Pandharipande, Vinoo Alluri, Subhrojyoti Chaudhuri and Venkata S Viraraghavan",
+ "intro": "intro.pdf",
+ "conf": "SMM",
+ "name": "smm_2024",
+ "year": "2024",
+ "title1": "SMM24, Workshop on Speech, Music and Mind 2024",
+ "booklet": "intro.pdf",
+ "date": "9 September 2024",
+ "month": 9,
+ "day": 9,
+ "now": 1728548933812394,
+ "papers": {
+  "vidwans24_smm": {
+   "authors": [
+    [
+     "Vinod",
+     "Vidwans"
+    ]
+   ],
+   "title": "The Music of Minds and Machines",
+   "original": "keynote_Vidwan",
+   "order": 1,
+   "page_count": 0,
+   "abstract": [
+    "Driven by curiosity about the scientific foundations (shastra) of Indian music, Dr. Vidwan explored ancient texts like Bharatha's Natya Shastra and Sangeet Ratnakar. Through his research, he discovered a structured set of rules and logic behind traditional music, which he attempted to codify and simulate using computer algorithms. This led to encouraging results in generating raga and tala music based on traditional principles. His work initially focused on rule-based systems and generative grammar, but they also experimented with genetic algorithms, particularly for generating tabla rhythms, achieving significant results. The speaker suggests that Indian music requires a blend of traditional wisdom, along with musical decision-making. They developed \"Generative Theory of Indian Music\" (GTIM), where they computationally interpret key musical elements such as swara (musical notes), shruti (microtones), and jati (ancient categorizations). After testing and validating their current simulations., Dr. Vidwans aims to continue building on this research to better understand and simulate Indian classical music.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "paul24_smm": {
+   "authors": [
+    [
+     "Soumini",
+     "Paul"
+    ]
+   ],
+   "title": "Music Through Technology",
+   "original": "keynote_Soumini",
+   "order": 6,
+   "page_count": 0,
+   "abstract": [
+    "Mrs. Soumini Paul talked about the role technologies play in music from music production to its delivery. She spoke about how the industry evolved from cassettes to CDs to streaming. However, she said that finally everything depends on the creativity of an individual and the influence the artist can have in gathering fans. A large fan base is better than having a large team of media professionals, as the fans can spread the word in today's world much faster. So even with AI, human creativity is not going to go away. \n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "saarikallio24_smm": {
+   "authors": [
+    [
+     "Suvi",
+     "Saarikallio"
+    ]
+   ],
+   "title": "Music as Expression and Management of Emotion and Mental States",
+   "original": "keynote_Saarikallio",
+   "order": 9,
+   "page_count": 0,
+   "abstract": [
+    "Dr. Saarikallio explores music as a multifaceted human experience, examining how it reflects and influences emotionality. She discussed her research findings on music's impact on emotions and its significance in human behavior. Music is described not just as a sound or acoustic phenomenon but also as a deeply psychological, emotional, and cognitive experience. It involves creativity, interaction, and carries cultural meanings, engaging multiple aspects of human life. Further, from a neuroscience perspective, listening to music activates various brain regions, including those related to attention, memory, and pleasure. This reflects music's holistic impact on human behavior, affecting both the body and cognition. Dr. Saarikallio’s research at the University of Jyväskylä focuses on understanding music on all these levels and its role in cognition, interaction, and as a potential indicator of mental or developmental stages. She also explores whether engaging with music can affect these cognitive and emotional processes. \n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "varghese24_smm": {
+   "authors": [
+    [
+     "Sharon",
+     "Varghese"
+    ],
+    [
+     "Vinoo",
+     "Alluri"
+    ]
+   ],
+   "title": "Pilot Study on Tailored Music Recommendations for Individuals with Autism Spectrum Disorder: A GOAL-Driven Approach",
+   "original": "SMM24_paper_2",
+   "order": 5,
+   "page_count": 5,
+   "abstract": [
+    "Autism Spectrum Disorder (ASD) presents challenges in communication, social interaction, and sensory processing. This pilot study introduces a GOAL driven Recommendation Framework for personalized music interventions, leveraging music’s therapeutic functions to address emotional, cognitive, and social needs in individuals with ASD was tested on an Indian population. Through participants music playlist compilation and data collected from online sources, a diverse dataset is curated. The recommendation system employs similarity metric to recommend music aligned with specific therapeutic goals. Evaluation metrics and behavioural changes indicate significant improvements in mood management, sleep regularization, focus, and sensory regulation. However, enhancements in communication and social skills are less conclusive. This study underscores the feasibility and effectiveness of personalized music recommendations in addressing therapeutic goals for individuals with ASD, emphasizing the need for further research to explore longitudinal outcomes to assess its impact on the quality of life of individuals with ASD.\n"
+   ],
+   "p1": 16,
+   "pn": 20,
+   "doi": "10.21437/SMM.2024-4",
+   "url": "smm_2024/varghese24_smm.html"
+  },
+  "vassover24_smm": {
+   "authors": [
+    [
+     "Yarin",
+     "Vassover"
+    ],
+    [
+     "Ido",
+     "Bekerman"
+    ],
+    [
+     "Tehilla",
+     "Copperman"
+    ],
+    [
+     "Yonatan",
+     "Schwartz"
+    ],
+    [
+     "Moni",
+     "Shahar"
+    ],
+    [
+     "Vered",
+     "Silber-Varod"
+    ],
+    [
+     "Sharon",
+     "Naparstek"
+    ]
+   ],
+   "title": "Spotting Traces of Depression in a Verbal Fluency Test",
+   "original": "SMM24_paper_4",
+   "order": 8,
+   "page_count": 5,
+   "abstract": [
+    "Subclinical depression (SD) is defined as the clinically relevant level of depressive symptoms without meeting the diagnostic criteria for a major depressive disorder (MDD). Importantly, both MDD and SD are highly prevalent among college students. Much like diagnosis of MDD, diagnosing SD depends almost entirely on clinician or self-administered scales and measures, lacking accuracy and leading to both under and overdiagnosis. To overcome these problems, recent work focuses on the search for objective measures such as cognitive abilities and nonverbal communication features. The current study examines the association between subjective self-reported depressive symptoms, and objective cognitive abilities and acoustic and temporal properties of speech. Seventeen undergraduate students completed a widely used cognitive task, the Verbal Fluency Test, while recorded and cognitive and acoustic measures were extracted. Depression was measured using self-reports. Depression severity and cognitive abilities did not correlate. However, severity significantly correlated with several paralinguistic measures, including number and duration of silent pauses, and initiation time. These findings highlight the potential of measuring paralinguistic features when assessing depression.\n"
+   ],
+   "p1": 26,
+   "pn": 30,
+   "doi": "10.21437/SMM.2024-6",
+   "url": "smm_2024/vassover24_smm.html"
+  },
+  "deshpande24_smm": {
+   "authors": [
+    [
+     "Gauri",
+     "Deshpande"
+    ],
+    [
+     "Björn",
+     "Schuller"
+    ]
+   ],
+   "title": "Ingressiveness on Glottal Closure Instants : An Empirical Study",
+   "original": "SMM24_paper_5",
+   "order": 3,
+   "page_count": 5,
+   "abstract": [
+    "The alignment of speech and pause segments with the breathing cycle varies with the speaker’s speaking style. Those speaking during inhalation are ingressive (IgV) speakers, and those speaking during exhalation are egressive (EgV) speakers. In this paper, we highlight the impact of ingressive speaking on the glottal closure instant (GCI) related parameters extracted from vowel segments pronounced at high lung volume. With these parameters, the (fluent) IgV speakers and EgV speakers are separated using an unsupervised clustering method. To extract these parameters, two state-of-the-art GCI detection algorithms are explored: Speech Event Detection using the Residual Excitation And a Mean-based Signal (SEDREAMS) and Single Frequency Filtering. For the first time ever, the distinction between IgV-ness and EgV-ness is attempted on reading speech signals. We report an unweighted average recall of 80% across 100 speakers with an unsupervised clustering mechanism applied on GCI parameters.\n"
+   ],
+   "p1": 6,
+   "pn": 10,
+   "doi": "10.21437/SMM.2024-2",
+   "url": "smm_2024/deshpande24_smm.html"
+  },
+  "subramanian24_smm": {
+   "authors": [
+    [
+     "Vinod",
+     "Subramanian"
+    ],
+    [
+     "Namhee",
+     "Kwon"
+    ],
+    [
+     "Raymond",
+     "Brueckner"
+    ],
+    [
+     "Nate",
+     "Blaylock"
+    ],
+    [
+     "Henry",
+     "O’Connell"
+    ]
+   ],
+   "title": "Detecting Mild Cognitive Impairment using Vocal Biomarkers from Spontaneous Speech",
+   "original": "SMM24_paper_6",
+   "order": 2,
+   "page_count": 5,
+   "abstract": [
+    "Mild Cognitive Impairment (MCI) is a condition where an individual’s ability to perform regular activities starts deteriorating. It is often an early indicator of Dementia. By identifying individuals with MCI as soon as possible, affected individuals can receive care to help alleviate their symptoms as well as slow down the progression of MCI towards Dementia. In this paper, we explore the adoption of speech-based features as well as embeddings from pre-trained models to train machine learning models for detecting MCI. Our results show that using an XG-Boost tree algorithm in combination with TRILLsson features as the input can successfully predict MCI with an accuracy of 81%. We compare the answers of patients to two different questions to detect MCI, the first being a “How are you?” question and the second asking the patient to describe a particular picture. Our results show that approaches based on the answers to the picture description question typically perform better than those using the “How are you?” answers.\n"
+   ],
+   "p1": 1,
+   "pn": 5,
+   "doi": "10.21437/SMM.2024-1",
+   "url": "smm_2024/subramanian24_smm.html"
+  },
+  "emmanouilidou24_smm": {
+   "authors": [
+    [
+     "Dimitra",
+     "Emmanouilidou"
+    ],
+    [
+     "Hannes",
+     "Gamper"
+    ],
+    [
+     "Midia",
+     "Yousefi"
+    ]
+   ],
+   "title": "Domain mismatch and data augmentation in speech emotion recognition",
+   "original": "SMM24_paper_7",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "Large, pretrained model architectures have demonstrated potential in a wide range of audio recognition and classification tasks. These architectures are increasingly being used in Speech Emotion Recognition (SER) as well, an area that continues to grapple with the scarcity of data, and especially of labeled data for training. This study is motivated by the limited research available on the robustness and generalization capabilities of these models for SER and considers applicability beyond a restricted dataset. We invoke the widely adopted network architecture CNN14 and explore its ability to generalize across different datasets. Our analysis demonstrates a potential domain gap between datasets after analyzing the acoustic properties of each one. We bridge this gap with the introduction of acoustic and data variability, by invoking seven suitable augmentation methods. Our approach leads to up to 8% improvement for unseen datasets. However, bridging the acoustic mismatch seems to play a minor role only: an infelicitous finding involving partially scrambled (swapped) annotation labels hints to deeper domain mismatches during multi-dataset learning scenarios. Findings in this work are applicable to any large or pretrained network and contribute to the ongoing research on the robustness and generalization of SER models.\n"
+   ],
+   "p1": 21,
+   "pn": 25,
+   "doi": "10.21437/SMM.2024-5",
+   "url": "smm_2024/emmanouilidou24_smm.html"
+  },
+  "iqbal24_smm": {
+   "authors": [
+    [
+     "Faiza",
+     "Iqbal"
+    ],
+    [
+     "Zafi Sherhan",
+     "Syed"
+    ],
+    [
+     "Muhammad Shehram Shah",
+     "Syed"
+    ],
+    [
+     "Abbas Shah",
+     "Syed"
+    ]
+   ],
+   "title": "An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening",
+   "original": "SMM24_paper_11",
+   "order": 4,
+   "page_count": 5,
+   "abstract": [
+    "Early and accurate screening of Alzheimer’s dementia (AD) is critical for timely intervention and management. Speech analysis is one of the promising approaches for AD screening, however, most AI models developed for this task lack transparency, hindering clinical use. There is an urgent need for implementing and assessing Explainable Artificial Intelligence (XAI) techniques to demystify such models, making their predictions transparent and understandable for clinical decision-making. This study explores the efficacy of utilizing linguistic features derived from speech transcripts during the Cookie Theft Picture Task for the screening of AD, with explainability offered through Local Interpretable Model agnostic Explanations (LIME) and SHapley Additive exPlanations (SHAP). A comprehensive set of linguistic features were extracted from the transcripts and a predictive model was developed to identify individuals with AD. LIME and SHAP were used to identify the most influencial linguistic features that contribute to the model’s decision-making. Results demonstrate the XAI model not only achieves high classification accuracy (80.00%) but also identifies key discriminative features that are associated with AD.\n"
+   ],
+   "p1": 11,
+   "pn": 15,
+   "doi": "10.21437/SMM.2024-3",
+   "url": "smm_2024/iqbal24_smm.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynote speech 1",
+   "papers": [
+    "vidwans24_smm"
+   ]
+  },
+  {
+   "title": "Session 1: Speech and Music",
+   "papers": [
+    "subramanian24_smm",
+    "deshpande24_smm",
+    "iqbal24_smm",
+    "varghese24_smm"
+   ]
+  },
+  {
+   "title": "Industrial talk",
+   "papers": [
+    "paul24_smm"
+   ]
+  },
+  {
+   "title": "Session 2: Emotions",
+   "papers": [
+    "emmanouilidou24_smm",
+    "vassover24_smm"
+   ]
+  },
+  {
+   "title": "Keynote speech 2",
+   "papers": [
+    "saarikallio24_smm"
+   ]
+  }
+ ],
+ "doi": "10.21437/SMM.2024"
+}
