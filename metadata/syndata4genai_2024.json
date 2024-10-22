@@ -1,0 +1,1033 @@
+{
+ "series": "",
+ "title": "Synthetic Data’s Transformative Role in Foundational Speech Models",
+ "location": "KOS, Greece",
+ "startDate": "31/8/2024",
+ "endDate": "31/8/2024",
+ "URL": "https://syndata4genai.org/",
+ "chair": "Chairs: Pedro Moreno Mengibar, Bhuvana Ramabhadran, Shinji Watanabe, and Ahmed Ali",
+ "ISSN": "",
+ "conf": "SynData4GenAI",
+ "name": "syndata4genai_2024",
+ "year": "2024",
+ "title1": "Synthetic Data’s Transformative Role in Foundational Speech Models",
+ "booklet": "intro.pdf",
+ "date": "31 August 2024",
+ "month": 8,
+ "day": 31,
+ "now": 1729258900862102,
+ "papers": {
+  "nguyen24_syndata4genai": {
+   "authors": [
+    [
+     "Tuan-Nam",
+     "Nguyen"
+    ],
+    [
+     "Quan",
+     "Pham"
+    ],
+    [
+     "Alexander",
+     "Waibel"
+    ]
+   ],
+   "title": "Accent conversion using discrete units with parallel data synthesized from controllable accented TTS",
+   "original": "1",
+   "order": 15,
+   "page_count": 5,
+   "abstract": [
+    "The goal of accent conversion (AC) is to convert speech accents while preserving content and speaker identity. Previous methods either required reference utterances during inference, did not preserve speaker identity well, or used one-to-one systems that could only be trained for each non-native accent. This paper presents a promising AC model that can convert many accents into native to overcome these issues. Our approach utilizes discrete units, derived from clustering self-supervised representations of native speech, as an intermediary target for accent conversion. Leveraging multi-speaker text-to-speech synthesis, it transforms these discrete representations back into native speech while retaining the speaker identity. Additionally, we develop an efficient data augmentation method to train the system without demanding a lot of non-native resources. Our system is proved to improve non-native speaker fluency, sound like a native accent, and preserve original speaker identity well.\n"
+   ],
+   "p1": 51,
+   "pn": 55,
+   "doi": "10.21437/SynData4GenAI.2024-11",
+   "url": "syndata4genai_2024/nguyen24_syndata4genai.html"
+  },
+  "hilmes24_syndata4genai": {
+   "authors": [
+    [
+     "Benedikt",
+     "Hilmes"
+    ],
+    [
+     "Nick",
+     "Rossenbach"
+    ],
+    [
+     "Ralf",
+     "Schlüter"
+    ]
+   ],
+   "title": "On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures",
+   "original": "2",
+   "order": 13,
+   "page_count": 5,
+   "abstract": [
+    "In this work we evaluate the utility of synthetic data for training automatic speech recognition (ASR). We use the ASR training data to train a text-to-speech (TTS) system similar to FastSpeech-2. With this TTS we reproduce the original training data, training ASR systems solely on synthetic data. For ASR, we use three different architectures, attention-based encoder-decoder, hybrid deep neural network hidden Markov model and a Gaussian mixture hidden Markov model, showing the different sensitivity of the models to synthetic data generation. In order to extend previous work, we present a number of ablation studies on the effectiveness of synthetic vs. real training data for ASR. In particular we focus on how the gap between training on synthetic and real data changes by varying the speaker embedding or by scaling the model size. For the latter we show that the TTS models generalize well, even when training scores indicate overfitting.\n"
+   ],
+   "p1": 46,
+   "pn": 50,
+   "doi": "10.21437/SynData4GenAI.2024-10",
+   "url": "syndata4genai_2024/hilmes24_syndata4genai.html"
+  },
+  "kong24_syndata4genai": {
+   "authors": [
+    [
+     "Zhifeng",
+     "Kong"
+    ],
+    [
+     "Sang-gil",
+     "Lee"
+    ],
+    [
+     "Deepanway",
+     "Ghosal"
+    ],
+    [
+     "Navonil",
+     "Majumder"
+    ],
+    [
+     "Ambuj",
+     "Mehrish"
+    ],
+    [
+     "Rafael",
+     "Valle"
+    ],
+    [
+     "Soujanya",
+     "Poria"
+    ],
+    [
+     "Bryan",
+     "Catanzaro"
+    ]
+   ],
+   "title": "Improving Text-To-Audio Models with Synthetic Captions",
+   "original": "3",
+   "order": 4,
+   "page_count": 5,
+   "abstract": [
+    "It is an open challenge to obtain high quality training data, espe- cially captions, for text-to-audio models. Although prior meth- ods have leveraged text-only language models to augment and improve captions, such methods have limitations related to scale and coherence between audio and captions. In this work, we propose an audio captioning pipeline that uses an audio lan- guage model to synthesize accurate and diverse captions for audio at scale. We leverage this pipeline to produce a dataset of synthetic captions for AudioSet, named AF-AudioSet, and then evaluate the benefit of pre-training text-to-audio models on these synthetic captions. Through systematic evaluations on AudioCaps and MusicCaps, we find leveraging our pipeline and synthetic captions leads to significant improvements on audio generation quality, achieving a new state-of-the-art.\n"
+   ],
+   "p1": 1,
+   "pn": 5,
+   "doi": "10.21437/SynData4GenAI.2024-1",
+   "url": "syndata4genai_2024/kong24_syndata4genai.html"
+  },
+  "cornell24_syndata4genai": {
+   "authors": [
+    [
+     "Samuele",
+     "Cornell"
+    ],
+    [
+     "Jordan",
+     "Darefsky"
+    ],
+    [
+     "Zhiyao",
+     "Duan"
+    ],
+    [
+     "Shinji",
+     "Watanabe"
+    ]
+   ],
+   "title": "Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition",
+   "original": "4",
+   "order": 5,
+   "page_count": 5,
+   "abstract": [
+    "Currently, a common approach in many speech processing tasks is to leverage large scale pre-trained models by fine-tuning them on in-domain data for a particular application. Yet obtaining even a small amount of such data could be problematic especially for sensitive domains and conversational speech scenarios, due both to privacy issues and annotation costs. To address this, synthetic data generation using single speaker datasets has been employed. Yet, for multi-speaker cases, such approach often requires extensive manual effort and is prone to domain mismatches. In this work, we propose a synthetic data generation pipeline for multi-speaker conversational ASR, leveraging a large language model (LLM) for content creation and a conversational multi-speaker text-to-speech (TTS) model for speech synthesis. We conduct evaluation by fine-tuning the Whisper ASR model for telephone and distant conversational speech settings, using both in-domain data and generated synthetic data. Results show that the proposed method is able to significantly outperform classical multi-speaker generation approaches that use external non-conversational speech datasets.\n"
+   ],
+   "p1": 6,
+   "pn": 10,
+   "doi": "10.21437/SynData4GenAI.2024-2",
+   "url": "syndata4genai_2024/cornell24_syndata4genai.html"
+  },
+  "zhu24_syndata4genai": {
+   "authors": [
+    [
+     "Pai",
+     "Zhu"
+    ],
+    [
+     "Dhruuv",
+     "Agarwal"
+    ],
+    [
+     "Jacob W",
+     "Bartel"
+    ],
+    [
+     "Kurt",
+     "Partridge"
+    ],
+    [
+     "Hyun Jin",
+     "Park"
+    ],
+    [
+     "Quan",
+     "Wang"
+    ]
+   ],
+   "title": "Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments",
+   "original": "6",
+   "order": 6,
+   "page_count": 5,
+   "abstract": [
+    "One of the challenges in developing a high quality custom keyword spotting (KWS) model is the lengthy and expensive process of collecting training data covering a wide range of languages, phrases and speaking styles. We introduce Synth4Kws -- a framework to leverage Text to Speech (TTS) synthesized data for custom KWS in different resource settings. With no real data, we found increasing TTS phrase diversity and utterance sampling monotonically improves model performance, as evaluated by EER and AUC metrics over 11k utterances of the speech command dataset. In low resource settings, with 50k real utterances as a baseline, we found using optimal amounts of TTS data can improve EER by 30.1% and AUC by 46.7%. Furthermore, we mix TTS data with varying amounts of real data and interpolate the real data needed to achieve various quality targets. Our experiments are based on English and single word utterances but the findings generalize to i18n languages and other keyword types.\n"
+   ],
+   "p1": 11,
+   "pn": 15,
+   "doi": "10.21437/SynData4GenAI.2024-3",
+   "url": "syndata4genai_2024/zhu24_syndata4genai.html"
+  },
+  "park24_syndata4genai": {
+   "authors": [
+    [
+     "Hyun Jin",
+     "Park"
+    ],
+    [
+     "Dhruuv",
+     "Agarwal"
+    ],
+    [
+     "Neng",
+     "Chen"
+    ],
+    [
+     "Rentao",
+     "Sun"
+    ],
+    [
+     "Kurt",
+     "Partridge"
+    ],
+    [
+     "Justin",
+     "Chen"
+    ],
+    [
+     "Harry",
+     "Zhang"
+    ],
+    [
+     "Pai",
+     "Zhu"
+    ],
+    [
+     "Jacob W",
+     "Bartel"
+    ],
+    [
+     "Kyle",
+     "Kastner"
+    ],
+    [
+     "Yuan",
+     "Wang"
+    ],
+    [
+     "Andrew",
+     "Rosenberg"
+    ],
+    [
+     "Quan",
+     "Wang"
+    ]
+   ],
+   "title": "Utilizing TTS Synthesized Data for Efficient Development of Keyword Spotting Model",
+   "original": "7",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "This paper explores the use of TTS synthesized training data for KWS (keyword spotting) task while minimizing development cost and time. Keyword spotting models require a huge amount of training data to be accurate, and obtaining such training data can be costly. In the current state of the art, TTS models can generate large amounts of natural-sounding data, which can help reducing cost and time for KWS model development. Still, TTS generated data can be lacking diversity compared to real data. To pursue maximizing KWS model accuracy under the constraint of limited resources and current TTS capability, we explored various strategies to mix TTS data and real human speech data, with a focus on minimizing real data use and maximizing diversity of TTS output. Our experimental results indicate that relatively small amounts of real audio data with speaker diversity (100 speakers, 2k utterances) and large amounts of TTS synthesized data can achieve reasonably high accuracy (within 3x error rate of baseline), compared to the baseline (trained with 3.8M real positive utterances).\n"
+   ],
+   "p1": 16,
+   "pn": 20,
+   "doi": "10.21437/SynData4GenAI.2024-4",
+   "url": "syndata4genai_2024/park24_syndata4genai.html"
+  },
+  "rossenbach24_syndata4genai": {
+   "authors": [
+    [
+     "Nick",
+     "Rossenbach"
+    ],
+    [
+     "Sakriani",
+     "Sakti"
+    ],
+    [
+     "Ralf",
+     "Schlüter"
+    ]
+   ],
+   "title": "On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition",
+   "original": "8",
+   "order": 8,
+   "page_count": 5,
+   "abstract": [
+    "The rapid development of neural text-to-speech (TTS) systems enabled their usage in other areas of natural language processing such as automatic speech recognition (ASR) or spoken language translation (SLT). There is a large number of different TTS architectures and corresponding extensions available. Thus, selecting which TTS systems to choose for synthetic data creation is not an easy task. We use the comparison of five different TTS decoder architectures in the scope of synthetic data generation to show the impact on CTC-based speech recognition training. We compare the recognition results to computable metrics like NISQA MOS and intelligibility, finding that there are no clear relations to the ASR performance. We also observe that for data generation auto-regressive decoding performs better than non-autoregressive decoding, and propose an approach to compare generalization capabilities of different TTS systems.\n"
+   ],
+   "p1": 21,
+   "pn": 25,
+   "doi": "10.21437/SynData4GenAI.2024-5",
+   "url": "syndata4genai_2024/rossenbach24_syndata4genai.html"
+  },
+  "shim24_syndata4genai": {
+   "authors": [
+    [
+     "Hye-jin",
+     "Shim"
+    ],
+    [
+     "Md",
+     "Sahidullah"
+    ],
+    [
+     "Jee-weon",
+     "Jung"
+    ],
+    [
+     "Shinji",
+     "Watanabe"
+    ],
+    [
+     "Tomi",
+     "Kinnunen"
+    ]
+   ],
+   "title": "Beyond Silence: Bias Analysis through Loss and Asymmetric Approach in Audio Anti-Spoofing",
+   "original": "9",
+   "order": 16,
+   "page_count": 5,
+   "abstract": [
+    "Current trends in audio anti-spoofing detection research strive to improve models' ability to generalize across unseen attacks by learning to identify a variety of spoofing artifacts. This emphasis has primarily focused on the spoof class. Recently, several studies have noted that the distribution of silence differs between the two classes, which can serve as a shortcut. In this paper, we extend class-wise interpretations beyond silence. We employ loss analysis and asymmetric methodologies to move away from traditional attack-focused and result-oriented evaluations towards a deeper examination of model behaviors. Our investigations highlight the significant differences in training dynamics between the two classes, emphasizing the need for future research to focus on robust modeling of the bonafide class.\n"
+   ],
+   "p1": 56,
+   "pn": 60,
+   "doi": "10.21437/SynData4GenAI.2024-12",
+   "url": "syndata4genai_2024/shim24_syndata4genai.html"
+  },
+  "goel24_syndata4genai": {
+   "authors": [
+    [
+     "Arushi",
+     "Goel"
+    ],
+    [
+     "Zhifeng",
+     "Kong"
+    ],
+    [
+     "Rafael",
+     "Valle"
+    ],
+    [
+     "Bryan",
+     "Catanzaro"
+    ]
+   ],
+   "title": "Audio Dialogues: Dialogues dataset for audio and music understanding",
+   "original": "11",
+   "order": 17,
+   "page_count": 5,
+   "abstract": [
+    "Existing datasets for audio understanding primarily focus on single-turn interactions (i.e. audio captioning, audio question answering) for describing audio in natural language, thus limiting understanding audio via interactive dialogue. To address this gap, we introduce Audio Dialogues: a multi-turn dialogue dataset containing 163.8k samples for general audio sounds and music. In addition to dialogues, Audio Dialogues also has question-answer pairs to understand and compare multiple input audios together. Audio Dialogues leverages a prompting-based approach and caption annotations from existing datasets to generate multi-turn dialogues using a Large Language Model (LLM). We evaluate existing audio-augmented large language models on our proposed dataset to demonstrate the complexity and applicability of Audio Dialogues. Our code for generating the dataset will be made publicly available. Detailed prompts and generated dialogues can be found on the demo website: https://audiodialogues.github.io/.\n"
+   ],
+   "p1": 61,
+   "pn": 65,
+   "doi": "10.21437/SynData4GenAI.2024-13",
+   "url": "syndata4genai_2024/goel24_syndata4genai.html"
+  },
+  "alharbi24_syndata4genai": {
+   "authors": [
+    [
+     "Sadeen",
+     "Alharbi"
+    ],
+    [
+     "Reem",
+     "Binmuqbil"
+    ],
+    [
+     "Ahmed",
+     "Ali"
+    ],
+    [
+     "Raghad",
+     "Aloraini"
+    ],
+    [
+     "Saiful",
+     "Bari"
+    ],
+    [
+     "Areeb",
+     "Alowisheq"
+    ],
+    [
+     "Yaser",
+     "Alonaizan"
+    ]
+   ],
+   "title": "Leveraging LLM for Augmenting Textual Data in Code-Switching ASR: Arabic as an Example",
+   "original": "12",
+   "order": 9,
+   "page_count": 5,
+   "abstract": [
+    "Intra-utterance code-switching (CS) is common in spoken language, posing significant challenges for automatic speech recognition (ASR) systems that need to handle mixed languages effectively. A primary obstacle in developing a CS-ASR system is the scarcity of suitable data. The complexity of CS grammatical structures further complicates the task, especially with Arabic, which has numerous dialects differing significantly in vocabulary, pronunciation, and syntax. To address CS, ASR systems are typically trained with available transcribed CS speech. This paper leverages advancements in large language models (LLMs) to enhance CS-ASR systems by generating Arabic-English code-switched textual data. Additionally, we introduce the Saudilang Code-switch Corpus (SCC), an evaluation dataset of Saudi CS with English. Our results show a relative reduction in perplexity by over 8% and a 5.5% average relative decrease in WER on two ecologically valid CS evaluation datasets. We plan to release the generated CS data and the new Arabic CS evaluation set to the research community.\n"
+   ],
+   "p1": 26,
+   "pn": 30,
+   "doi": "10.21437/SynData4GenAI.2024-6",
+   "url": "syndata4genai_2024/alharbi24_syndata4genai.html"
+  },
+  "alharthi24_syndata4genai": {
+   "authors": [
+    [
+     "Dareen",
+     "Alharthi"
+    ],
+    [
+     "Roshan S",
+     "Sharma"
+    ],
+    [
+     "Hira",
+     "Dhamyal"
+    ],
+    [
+     "Soumi",
+     "Maiti"
+    ],
+    [
+     "Bhiksha",
+     "Raj"
+    ],
+    [
+     "Rita",
+     "Singh"
+    ]
+   ],
+   "title": "Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech",
+   "original": "13",
+   "order": 18,
+   "page_count": 5,
+   "abstract": [
+    "Modern speech synthesis systems have improved significantly, with synthetic speech being indistinguishable from real speech. However, efficient and holistic evaluation of synthetic speech still remains a significant challenge. Human evaluation using Mean Opinion Score (MOS) is ideal, but inefficient due to high costs. Therefore, researchers have developed auxiliary automatic metrics like Word Error Rate (WER) to measure intelligibility. Prior works focus on evaluating synthetic speech based on pre-trained speech recognition models, however, this can be limiting since this approach primarily measures speech intelligibility. In this paper, we propose an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech. Our main assumption is that by training the ASR model on the synthetic speech, the WER on real speech reflects the similarity between distributions, a broader assessment of synthetic speech quality beyond intelligibility. Our proposed metric demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when compared to SpeechLMScore and MOSNet on three recent Text-to-Speech (TTS) systems: MQTTS, StyleTTS, and YourTTS.\n"
+   ],
+   "p1": 66,
+   "pn": 70,
+   "doi": "10.21437/SynData4GenAI.2024-14",
+   "url": "syndata4genai_2024/alharthi24_syndata4genai.html"
+  },
+  "sharma24_syndata4genai": {
+   "authors": [
+    [
+     "Roshan S",
+     "Sharma"
+    ],
+    [
+     "Suyoun",
+     "Kim"
+    ],
+    [
+     "Trang",
+     "Le"
+    ],
+    [
+     "Daniel A",
+     "Lazar"
+    ],
+    [
+     "Akshat",
+     "Shrivastava"
+    ],
+    [
+     "Kwanghoon",
+     "An"
+    ],
+    [
+     "Piyush",
+     "Kansal"
+    ],
+    [
+     "Leda",
+     "Sari"
+    ],
+    [
+     "Ozlem",
+     "Kalinli"
+    ],
+    [
+     "Mike",
+     "Seltzer"
+    ]
+   ],
+   "title": "Improving Spoken Semantic Parsing using Synthetic Data from Large Generative Models",
+   "original": "14",
+   "order": 19,
+   "page_count": 5,
+   "abstract": [
+    "Spoken semantic parsing (SSP) involves generating machine-comprehensible parses from input speech. Training robust models for existing application domains represented in training data or extending to new domains requires corresponding triplets of speech-transcript-semantic parse data, which are expensive to obtain. In this paper, we address this challenge by examining methods that can use transcript-semantic parse data (unpaired text) without the corresponding speech. First, when unpaired text is drawn from existing textual corpora, Joint Audio Text (JAT) and Text-to-Speech (TTS) are compared as ways to generate speech representations for unpaired text. Experiments on the STOP dataset show that unpaired text from existing and new domains improves performance by 2% and 30% in absolute Exact Match (EM) respectively. Second, we consider the setting when unpaired text is not available in existing textual corpora. We propose prompting Large Language Models (LLMs) to generate unpaired text for existing and new domains. Experiments show that examples and words that cooccur with intents can be used to generate unpaired text with Llama 2.0. Using the generated text with JAT and TTS for spoken semantic parsing improves EM on STOP by 1.4% and 2.6% absolute for existing and new domains, respectively.\n"
+   ],
+   "p1": 71,
+   "pn": 75,
+   "doi": "10.21437/SynData4GenAI.2024-15",
+   "url": "syndata4genai_2024/sharma24_syndata4genai.html"
+  },
+  "ueda24_syndata4genai": {
+   "authors": [
+    [
+     "Lucas H",
+     "Ueda"
+    ],
+    [
+     "Leonardo",
+     "Marques"
+    ],
+    [
+     "Flávio",
+     "Simões"
+    ],
+    [
+     "Mário Uliani",
+     "Neto"
+    ],
+    [
+     "Fernando",
+     "Runstein"
+    ],
+    [
+     "Bianca Dal",
+     "Bó"
+    ],
+    [
+     "Paula D P",
+     "Costa"
+    ]
+   ],
+   "title": "Exploring synthetic data for cross-speaker style transfer in style representation based TTS",
+   "original": "15",
+   "order": 20,
+   "page_count": 5,
+   "abstract": [
+    "Incorporating cross-speaker style transfer in text-to-speech (TTS) models is challenging due to the need to disentangle speaker and style information in audio. In low-resource expressive data scenarios, voice conversion (VC) can generate expressive speech for target speakers, which can then be used to train the TTS model. However, the quality and style transfer ability of the VC model are crucial for the overall TTS model quality. In this work, we explore the use of synthetic data generated by a VC model to assist the TTS model in cross-speaker style transfer tasks. Additionally, we employ pre-training of the style encoder using timbre perturbation and prototypical angular loss to mitigate speaker leakage. Our results show that using VC synthetic data can improve the naturalness and speaker similarity of TTS in cross-speaker scenarios. Furthermore, we extend this approach to a cross-language scenario, enhancing accent transfer.\n"
+   ],
+   "p1": 76,
+   "pn": 80,
+   "doi": "10.21437/SynData4GenAI.2024-16",
+   "url": "syndata4genai_2024/ueda24_syndata4genai.html"
+  },
+  "masson24_syndata4genai": {
+   "authors": [
+    [
+     "Margot",
+     "Masson"
+    ],
+    [
+     "Julie",
+     "Carson-Berndsen"
+    ]
+   ],
+   "title": "Investigating the Use of Synthetic Speech Data for the Analysis of Spanish-Accented English Pronunciation Patterns in ASR",
+   "original": "16",
+   "order": 21,
+   "page_count": 5,
+   "abstract": [
+    "Understanding speech recognition errors, especially those related to accents, is challenging due to the complexity of the models and scarcity of data. This paper addresses this issue by exploring the use of synthetic data to investigate accent-related variations and their impact on Automatic Speech Recognition (ASR) performance. We synthesise Spanish-accented English and compare the speech features captured by synthetic speech with those found in natural speech. We generate speech with phoneme-level variation using Spanish voice synthesis and phoneme-to-speech synthesis and then assess ASR sensitivity to such variations. Our findings show that synthetic data captures phonemic patterns of Spanish well, suggesting its utility, coupled with ASR, in L1-L2 phonemic difference modelling. In contrast, phonotactic patterns are not captured to the same extent by synthetic data. We also show that the variants built from the synthetic data accurately challenge ASR systems, prompting a potential method for testing and enhancing ASR accent robustness and explainability for speech research.\n"
+   ],
+   "p1": 81,
+   "pn": 85,
+   "doi": "10.21437/SynData4GenAI.2024-17",
+   "url": "syndata4genai_2024/masson24_syndata4genai.html"
+  },
+  "park24b_syndata4genai": {
+   "authors": [
+    [
+     "Hyun Jin",
+     "Park"
+    ],
+    [
+     "Dhruuv",
+     "Agarwal"
+    ],
+    [
+     "Neng",
+     "Chen"
+    ],
+    [
+     "Rentao",
+     "Sun"
+    ],
+    [
+     "Kurt",
+     "Partridge"
+    ],
+    [
+     "Justin",
+     "Chen"
+    ],
+    [
+     "Harry",
+     "Zhang"
+    ],
+    [
+     "Pai",
+     "Zhu"
+    ],
+    [
+     "Jacob W",
+     "Bartel"
+    ],
+    [
+     "Kyle",
+     "Kastner"
+    ],
+    [
+     "Yuan",
+     "Wang"
+    ],
+    [
+     "Andrew",
+     "Rosenberg"
+    ],
+    [
+     "Quan",
+     "Wang"
+    ]
+   ],
+   "title": "Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting",
+   "original": "17",
+   "order": 22,
+   "page_count": 5,
+   "abstract": [
+    "The keyword spotting (KWS) problem requires large amounts of real speech training data to achieve high accuracy across diverse populations. Utilizing large amounts of text-to-speech (TTS) synthesized data can reduce the cost and time associated with KWS development. However, TTS data may contain artifacts not present in real speech, which the KWS model can exploit (overfit), leading to degraded accuracy on real speech. To address this issue, we propose applying an adversarial training method to prevent the KWS model from learning TTS-specific features when trained on large amounts of TTS data. Experimental results demonstrate that KWS model accuracy on real speech data can be improved by up to 12% when adversarial loss is used in addition to the original KWS loss. Surprisingly, we also observed that the adversarial setup improves accuracy by up to 8%, even when trained solely on TTS and real negative speech data, without any real positive examples.\n"
+   ],
+   "p1": 86,
+   "pn": 90,
+   "doi": "10.21437/SynData4GenAI.2024-18",
+   "url": "syndata4genai_2024/park24b_syndata4genai.html"
+  },
+  "lu24_syndata4genai": {
+   "authors": [
+    [
+     "Yichen",
+     "Lu"
+    ],
+    [
+     "Jiaqi",
+     "Song"
+    ],
+    [
+     "Xuankai",
+     "Chang"
+    ],
+    [
+     "Hengwei",
+     "Bian"
+    ],
+    [
+     "Soumi",
+     "Maiti"
+    ],
+    [
+     "Shinji",
+     "Watanabe"
+    ]
+   ],
+   "title": "SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data",
+   "original": "18",
+   "order": 10,
+   "page_count": 5,
+   "abstract": [
+    "In this work, we present SynesLM, an unified model which can perform three multimodal language understanding tasks: audio-visual automatic speech recognition(AV-ASR) and visual-aided speech/machine translation(VST/VMT). Unlike previous research that focused on lip motion as visual cues for speech signals, our work explores more general visual information within entire frames, such as objects and actions. Additionally, we use synthetic image data to enhance the correlation between image and speech data. We benchmark SynesLM against the How2 dataset, demonstrating performance on par with state-of-the-art (SOTA) models dedicated to AV-ASR while maintaining our multitasking framework. Remarkably, for zero-shot AV-ASR, SynesLM achieved SOTA performance by lowering the Word Error Rate (WER) from 43.4% to 39.4% on the VisSpeech Dataset. Furthermore, our results in VST and VMT outperform the previous results, improving the BLEU score to 43.5 from 37.2 for VST, and to 54.8 from 54.4 for VMT.\n"
+   ],
+   "p1": 31,
+   "pn": 35,
+   "doi": "10.21437/SynData4GenAI.2024-7",
+   "url": "syndata4genai_2024/lu24_syndata4genai.html"
+  },
+  "debnath24_syndata4genai": {
+   "authors": [
+    [
+     "Diptasree",
+     "Debnath"
+    ],
+    [
+     "Asad",
+     "Ullah"
+    ],
+    [
+     "Helard",
+     "Becerra"
+    ],
+    [
+     "Andrew",
+     "Hines"
+    ]
+   ],
+   "title": "Naturalness and the Utility of Synthetic Speech in Model Pre-training",
+   "original": "19",
+   "order": 25,
+   "page_count": 5,
+   "abstract": [
+    "Foundational models have advanced speech technology while introducing privacy concerns due to the sources and volume of pre-training data required. Synthetic speech could be an alternative as short utterances are indistinguishable from natural speech but limitations in prosody and tonal variation impact longer durations. We investigate if synthetic text-to-speech (TTS) systems have reached a point where it can substitute for natural speech in pre-training models for speech-based downstream tasks, e.g. phoneme recognition (PR). We also explore the degree to which these synthetic samples can be used when data augmentation is required. We pre-train three models using (i) natural speech; (ii) synthetic TTS cloned speech matched to the natural speakers; (iii) unmatched speech using standard voices provided by the state of the art VITS TTS system. They were fine-tuned for a PR task and results show TTS data does not currently contain the long term speech characteristics to replace natural speech in pre-training but has potential for low resource data augmentation.\n"
+   ],
+   "p1": 101,
+   "pn": 105,
+   "doi": "10.21437/SynData4GenAI.2024-21",
+   "url": "syndata4genai_2024/debnath24_syndata4genai.html"
+  },
+  "dhamyal24_syndata4genai": {
+   "authors": [
+    [
+     "Hira",
+     "Dhamyal"
+    ],
+    [
+     "Leda",
+     "Sari"
+    ],
+    [
+     "Vimal",
+     "Manohar"
+    ],
+    [
+     "Nayan",
+     "Singhal"
+    ],
+    [
+     "Chunyang",
+     "Wu"
+    ],
+    [
+     "Jay",
+     "Mahadeokar"
+    ],
+    [
+     "Matt",
+     "Le"
+    ],
+    [
+     "Apoorv",
+     "Vyas"
+    ],
+    [
+     "Bowen",
+     "Shi"
+    ],
+    [
+     "Wei-Ning",
+     "Hsu"
+    ],
+    [
+     "Suyoun",
+     "Kim"
+    ],
+    [
+     "Ozlem",
+     "Kalinli"
+    ]
+   ],
+   "title": "Using Voicebox-based Synthetic Speech for ASR Adaptation",
+   "original": "20",
+   "order": 11,
+   "page_count": 5,
+   "abstract": [
+    "Automatic Speech Recognition (ASR) model training requires large amounts of paired data, i.e. audio/text pairs. However, such paired data is expensive to collect and even harder to annotate as opposed to using unpaired text data. With increasingly better speech synthesis models, we can now generate natural-sounding speech and utilize large amounts of unpaired text. In this paper, we use the Voicebox model for speech synthesis. Firstly, we assess synthetic speech quality by comparing the amount of synthetic speech required to obtain the same ASR performance as real speech. We find that in noisy settings 10 times more synthetic data than real data is required to achieve equal performance whereas in clean settings, only 7 times more is needed. Secondly, we explore the improvements in the ASR performance brought by the acoustic variability and lexical variability from the unpaired text and synthesized speech. We find that having both acoustic and lexical variability is better than either one individually. Having lexical variability is better on average than acoustic variability when there are smaller amounts of unpaired text, however, acoustic variability becomes more important as the amount of unpaired text increases.\n"
+   ],
+   "p1": 36,
+   "pn": 40,
+   "doi": "10.21437/SynData4GenAI.2024-8",
+   "url": "syndata4genai_2024/dhamyal24_syndata4genai.html"
+  },
+  "dutta24_syndata4genai": {
+   "authors": [
+    [
+     "Satwik",
+     "Dutta"
+    ],
+    [
+     "John H",
+     "Hansen"
+    ]
+   ],
+   "title": "Navigating the United States Legislative Landscape on Voice Privacy: Existing Laws, Proposed Bills, Protection for Children, and Synthetic Data for AI",
+   "original": "21",
+   "order": 23,
+   "page_count": 5,
+   "abstract": [
+    "Privacy is a hot topic for policymakers across the globe, including the United States. Evolving advances in AI and emerging concerns about the misuse of personal data have pushed policymakers to draft legislation on trustworthy AI and privacy protection for its citizens. This paper presents the state of the privacy legislation at the U.S. Congress and outlines how voice data is considered as part of the legislation definition. This paper also reviews additional privacy protection for children. This paper presents a holistic review of enacted and proposed privacy laws, and consideration for voice data, including guidelines for processing children's data, in those laws across the fifty U.S. states. As a groundbreaking alternative to actual human data, ethically generated synthetic data allows much flexibility to keep AI innovation in progress. Given the consideration of synthetic data in AI legislation by policymakers to be relatively new, as compared to that of privacy laws, this paper reviews regulatory considerations for synthetic data.\n"
+   ],
+   "p1": 91,
+   "pn": 95,
+   "doi": "10.21437/SynData4GenAI.2024-19",
+   "url": "syndata4genai_2024/dutta24_syndata4genai.html"
+  },
+  "konan24_syndata4genai": {
+   "authors": [
+    [
+     "Joseph",
+     "Konan"
+    ],
+    [
+     "Shikhar",
+     "Agnihotri"
+    ],
+    [
+     "Ojas",
+     "Bhargave"
+    ],
+    [
+     "Shuo",
+     "Han"
+    ],
+    [
+     "Bhiksha",
+     "Raj"
+    ],
+    [
+     "Ankit Parag",
+     "Shah"
+    ],
+    [
+     "Yunyang",
+     "Zeng"
+    ]
+   ],
+   "title": "Psychoacoustic Challenges Of Speech Enhancement On VoIP Platforms",
+   "original": "23",
+   "order": 24,
+   "page_count": 5,
+   "abstract": [
+    "Within the ambit of VoIP (Voice over Internet Protocol) telecommunications, the complexities introduced by acoustic transformations merit rigorous analysis. This research, rooted in the exploration of proprietary sender-side denoising effects, meticulously evaluates platforms such as Google Meets and Zoom. The study draws upon the Deep Noise Suppression (DNS) 2020 dataset, ensuring a structured examination tailored to various denoising settings and receiver interfaces. A methodological novelty is introduced via Blinder-Oaxaca decomposition, traditionally an econometric tool, repurposed herein to analyze acoustic-phonetic perturbations within VoIP systems. To further ground the implications of these transformations, psychoacoustic metrics, specifically PESQ and STOI, were used to explain of perceptual quality and intelligibility. Cumulatively, the insights garnered underscore the intricate landscape of VoIP-influenced acoustic dynamics. In addition to the primary findings, a multitude of metrics are reported, extending the research purview. Moreover, out-of-domain benchmarking for both time and time-frequency domain speech enhancement models is included, thereby enhancing the depth and applicability of this inquiry.\n"
+   ],
+   "p1": 96,
+   "pn": 100,
+   "doi": "10.21437/SynData4GenAI.2024-20",
+   "url": "syndata4genai_2024/konan24_syndata4genai.html"
+  },
+  "huang24_syndata4genai": {
+   "authors": [
+    [
+     "Chien-yu",
+     "Huang"
+    ],
+    [
+     "Min-Han",
+     "Shih"
+    ],
+    [
+     "Ke-Han",
+     "Lu"
+    ],
+    [
+     "Chi-Yuan",
+     "Hsiao"
+    ],
+    [
+     "Hung-yi",
+     "Lee"
+    ]
+   ],
+   "title": "SpeechCaps: Advancing Instruction-Based Universal Speech Models with Multi-Talker Speaking Style Captioning",
+   "original": "24",
+   "order": 12,
+   "page_count": 5,
+   "abstract": [
+    "Instruction-based speech processing is becoming popular. Studies show that training with multiple tasks boosts performance, but collecting diverse, large-scale tasks and datasets is expensive. Thus, it is highly desirable to design a fundamental task that benefits other downstream tasks. This paper introduces a multi-talker speaking style captioning task to enhance the understanding of speaker and prosodic information. We used large language models to generate descriptions for multi-talker speech. Then, we trained our model with pre-training on this captioning task followed by instruction tuning. Evaluation on Dynamic-SUPERB shows our model outperforming the baseline pre-trained only on single-talker tasks, particularly in speaker and emotion recognition. Additionally, tests on a multi-talker QA task reveal that current models struggle with attributes such as gender, pitch, and speaking rate. The code and dataset are available at https://github.com/cyhuang-tw/speechcaps.\n"
+   ],
+   "p1": 41,
+   "pn": 45,
+   "doi": "10.21437/SynData4GenAI.2024-9",
+   "url": "syndata4genai_2024/huang24_syndata4genai.html"
+  },
+  "sakti24_syndata4genai": {
+   "authors": [
+    [
+     "Sakriani",
+     "Sakti"
+    ]
+   ],
+   "title": "Language Technology for All: Leveraging Foundational Speech Models to Empower Low-Resource Languages",
+   "original": "k1",
+   "order": 1,
+   "page_count": 0,
+   "abstract": [
+    "The development of advanced spoken language technologies, such as automatic speech recognition (ASR) and text-to-speech synthesis (TTS), has enabled computers to listen and speak. While many applications and services are now available, they only fully support fewer than 100 languages. Although recent research might listen to up to 1,000 languages, there are still more than 6,000 living languages spoken by 350 million people uncovered. This gap exists because most systems are constructed using supervised machine learning, which requires large amounts of paired speech and corresponding transcriptions.\n",
+    "In this talk, I will introduce several successful approaches that aim to achieve language technology for all by leveraging foundational speech models to support linguistic diversity with less-resourced data. These approaches include self-supervised learning, visually grounded models, and the machine speech chain. I will also share insights and feedback from the indigenous community, gathered from events, workshops, and panel discussions over the years. The challenges are not only how to construct language technologies for language diversity, but also how to ensure that these technologies are truly beneficial to under-resourced language communities.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "sainath24_syndata4genai": {
+   "authors": [
+    [
+     "Tara",
+     "Sainath"
+    ]
+   ],
+   "title": "End-to-End Speech Recognition: The Journey from Research to Production",
+   "original": "k2",
+   "order": 2,
+   "page_count": 0,
+   "abstract": [
+    "End-to-end (E2E) speech recognition has become a popular research paradigm in recent years, allowing the modular components of a conventional speech recognition system (acoustic model, pronunciation model, language model), to be replaced by one neural network. In this talk, we will discuss a multi-year research journey of E2E modeling for speech recognition at Google. This journey has resulted in E2E models that can surpass the performance of conventional models across many different quality and latency metrics, as well as the productionization of E2E models for Pixel 4, 5 and 6 phones. We will also touch upon future research efforts with E2E models, including multi-lingual speech recognition.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "rosenberg24_syndata4genai": {
+   "authors": [
+    [
+     "Andrew",
+     "Rosenberg"
+    ]
+   ],
+   "title": "From synthetic data to multimodal foundation models",
+   "original": "k3",
+   "order": 3,
+   "page_count": 0,
+   "abstract": [
+    "This talk will describe a thread of research that starts with the use of synthetic speech to train speech recognition models, and ends with the joint modeling of speech and text in multimodal foundation models. Along the way, I'll describe work using synthetic speech for training self-supervised pretraining models. This work serves as a transition into text-injection for speech recognition. Finally, I'll describe how this work results in a multimodal foundation model that can also perform speech synthesis (Virtuoso).\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "efter24_syndata4genai": {
+   "authors": [
+    [
+     "Gustav Enje",
+     "Efter"
+    ]
+   ],
+   "title": "Multimodal synthesis – an opportunity for synthetic data",
+   "original": "k4",
+   "order": 14,
+   "page_count": 0,
+   "abstract": [
+    "Just as we humans both perceive and produce information across multiple modalities, so should our generative AI models. However, the classic supervised approach to training multimodal systems requires parallel training data across all modalities simultaneously, which can be much more scarce than data from individual modalities. Foundation models and synthetic data offer a possible way to mitigate this problem. In this talk I review recent work in the multimodal synthesis of human communication – specifically speech audio and 3D motion (co-speech gestures) from text – and describe a straightforward method for creating synthetic data that improves the training of these models, as an example of possible uses of synthetic data for the benefit of multimodal GenAI.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "tjandra24_syndata4genai": {
+   "authors": [
+    [
+     "Andros",
+     "Tjandra"
+    ]
+   ],
+   "title": "Machine Speech Chain",
+   "original": "k5",
+   "order": 26,
+   "page_count": 0,
+   "abstract": [
+    "Although speech perception and production are closely related, research in automatic speech recognition (ASR) and text-to-speech synthesis (TTS) has largely advanced independently, with little mutual influence. However, human communication relies heavily on a closed-loop speech chain mechanism, where auditory feedback plays a pivotal role in human perception. This talk will explore a novel approach where we bridge this gap by developing a closed-loop machine speech chain model utilizing deep learning techniques.\n",
+    "Our model employs a sequence-to-sequence architecture that leverages both labeled and unlabeled data, enhancing the training process. This dual-direction functionality allows the ASR component to transcribe unlabeled speech features, and the TTS component reconstructs the original speech features from the ASR transcription. Certainly. Conversely, the TTS component synthesizes speech from the unlabeled text, and the ASR reconstructs the original text from the TTS generated speech.\n",
+    "This integration not only mimics human speech behaviors but also marks the first instance of its application into deep learning models. Our experimental results have demonstrated significant performance improvements over traditional systems trained solely on labeled data.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "yamagishi24_syndata4genai": {
+   "authors": [
+    [
+     "Junichi",
+     "Yamagishi"
+    ]
+   ],
+   "title": "Can we 'generate' large, privacy-aware, unbiased, and fair datasets with speech-generative models?",
+   "original": "k6",
+   "order": 27,
+   "page_count": 0,
+   "abstract": [
+    "The success of deep learning in speech and speaker recognition relies heavily on using large datasets. However, ethical, privacy and legal concerns arise when using large speech datasets collected from real human speech data. In particular, there are significant concerns when collecting many speaker's speech data from the web.\n",
+    "On the other hand, the quality of synthesized speech produced by recent generative models is very high. Can we 'generate' large, privacy-aware, unbiased, and fair datasets with speech-generative models? Such studies have started not only for speech datasets but also for facial image datasets.\n",
+    "In this talk, I will introduce our efforts to construct a synthetic VoxCeleb2 dataset called SynVox2 that is speaker-anonymised and privacy-aware. In addition to the procedures and methods used in the construction, the challenges and problems of using synthetic data will be discussed by showing the performance and fairness of a speaker verification system built using the SynVox2 database.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynote 1",
+   "papers": [
+    "sakti24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Keynote 2",
+   "papers": [
+    "sainath24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Keynote 3",
+   "papers": [
+    "rosenberg24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Morning Poster Session",
+   "papers": [
+    "kong24_syndata4genai",
+    "cornell24_syndata4genai",
+    "zhu24_syndata4genai",
+    "park24_syndata4genai",
+    "rossenbach24_syndata4genai",
+    "alharbi24_syndata4genai",
+    "lu24_syndata4genai",
+    "dhamyal24_syndata4genai",
+    "huang24_syndata4genai",
+    "hilmes24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Keynote 4",
+   "papers": [
+    "efter24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Afternoon Poster Session",
+   "papers": [
+    "nguyen24_syndata4genai",
+    "shim24_syndata4genai",
+    "goel24_syndata4genai",
+    "alharthi24_syndata4genai",
+    "sharma24_syndata4genai",
+    "ueda24_syndata4genai",
+    "masson24_syndata4genai",
+    "park24b_syndata4genai",
+    "dutta24_syndata4genai",
+    "konan24_syndata4genai",
+    "debnath24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Keynote 5",
+   "papers": [
+    "tjandra24_syndata4genai"
+   ]
+  },
+  {
+   "title": "Keynote 6",
+   "papers": [
+    "yamagishi24_syndata4genai"
+   ]
+  }
+ ],
+ "doi": "10.21437/SynData4GenAI.2024"
+}
