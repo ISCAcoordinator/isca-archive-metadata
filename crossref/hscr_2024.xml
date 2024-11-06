@@ -1,0 +1,554 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>hscr_2024</doi_batch_id>
+		<timestamp>1730890044087612</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>Sixth International Workshop on the History of Speech Communication Research (HSCR 2024)</conference_name>
+				<conference_acronym>hscr_2024</conference_acronym>
+				<conference_date>20-21 September 2024</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>Sixth International Workshop on the History of Speech Communication Research (HSCR 2024)</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2024</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/HSCR.2024</doi>
+					<timestamp>1730890044087612</timestamp>
+					<resource>https://www.isca-archive.org/hscr_2024/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jürgen</given_name>
+<surname>Trouvain</surname>
+</person_name>
+					</contributors>
+					<titles><title>100 years of diversity in the phonetic sciences - Louise Kaiser, Ilse Lehiste and Anne Cutler</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>9</first_page>
+						<last_page>14</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-1</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/trouvain24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Michael</given_name>
+<surname>Ashby</surname>
+</person_name>
+					</contributors>
+					<titles><title>Budapest, Britain, Bell: The career of Peter B. Denes (1920-1996)</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>15</first_page>
+						<last_page>24</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-2</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/ashby24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Annie</given_name>
+<surname>Rialland</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pavel</given_name>
+<surname>Šturm</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Cécile</given_name>
+<surname>Fougeron</surname>
+</person_name>
+					</contributors>
+					<titles><title>Rousselot's succession through Pernot and Millet's correspondence to Chlumský</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>25</first_page>
+						<last_page>34</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-4</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/rialland24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Pavel</given_name>
+<surname>Šturm</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Annie</given_name>
+<surname>Rialland</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Cécile</given_name>
+<surname>Fougeron</surname>
+</person_name>
+					</contributors>
+					<titles><title>Pernot, Scripture and Millet: Different ideas for running a journal of experimental phonetics in the early 20th century.</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>35</first_page>
+						<last_page>45</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-5</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/sturm24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Attila</given_name>
+<surname>Starčević</surname>
+</person_name>
+					</contributors>
+					<titles><title>Komáromi: A silent witness to the controversies of early modern English pronunciation</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>46</first_page>
+						<last_page>55</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-7</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/starcevic24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jingyi</given_name>
+<surname>Sun</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jiayin</given_name>
+<surname>Gao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Annie</given_name>
+<surname>Rialland</surname>
+</person_name>
+					</contributors>
+					<titles><title>Pioneering works in modern Chinese phonetics: Fu Liu's tonal studies and other Chinese scholars at the University of Paris (1920s-1940s)</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>56</first_page>
+						<last_page>65</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-16</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/sun24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Boróka</given_name>
+<surname>Balázs</surname>
+</person_name>
+					</contributors>
+					<titles><title>Early Hungarian child language research: Gabriella Viktor's contribution</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>66</first_page>
+						<last_page>75</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-20</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/balazs24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Didier</given_name>
+<surname>Demolin</surname>
+</person_name>
+					</contributors>
+					<titles><title>The evolution of speech and the experimental method by Rousselot</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>76</first_page>
+						<last_page>85</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-14</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/demolin24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Mária</given_name>
+<surname>Gósy</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zsuzsa</given_name>
+<surname>Vladár</surname>
+</person_name>
+					</contributors>
+					<titles><title>On the history of a word that is not a word</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>86</first_page>
+						<last_page>95</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-9</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/gosy24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>András</given_name>
+<surname>Cser</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Beatrix</given_name>
+<surname>Oszkó</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Zsuzsa</given_name>
+<surname>Várnai</surname>
+</person_name>
+					</contributors>
+					<titles><title>The description of vowel length in the early grammars of Hungarian</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>96</first_page>
+						<last_page>105</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-10</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/cser24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Alexandra</given_name>
+<surname>Markó</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tekla Etelka</given_name>
+<surname>Gráczi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kornélia</given_name>
+<surname>Juhász</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Andrea</given_name>
+<surname>Deme</surname>
+</person_name>
+					</contributors>
+					<titles><title>A brief historical survey of artculatory studies on the Hungarian language</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>106</first_page>
+						<last_page>115</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-15</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/marko24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jacek</given_name>
+<surname>Kudera</surname>
+</person_name>
+					</contributors>
+					<titles><title>Stress sensitivity and early studies of South Slavic accentuation</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>116</first_page>
+						<last_page>125</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-19</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/kudera24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Judit</given_name>
+<surname>Bóna</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sarolta</given_name>
+<surname>Murányi</surname>
+</person_name>
+					</contributors>
+					<titles><title>The history of child language research in ICPhS between 1932 and 2023</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>126</first_page>
+						<last_page>135</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-17</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/bona24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ákos</given_name>
+<surname>Gocsál</surname>
+</person_name>
+					</contributors>
+					<titles><title>Voices of the past: Research into old Hungarian newsreels</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>136</first_page>
+						<last_page>145</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-11</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/gocsal24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Angelika</given_name>
+<surname>Braun</surname>
+</person_name>
+					</contributors>
+					<titles><title>Early experimental phonetics in Germany</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>146</first_page>
+						<last_page>155</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-3</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/braun24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rüdiger</given_name>
+<surname>Hoffmann</surname>
+</person_name>
+					</contributors>
+					<titles><title>Photography and cinematography at the Hamburg Phonetics Laboratory - Part 2: Applications in education and research</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>156</first_page>
+						<last_page>166</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-6</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/hoffmann24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Angélique</given_name>
+<surname>Amelot</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Didier</given_name>
+<surname>Demolin</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amélie</given_name>
+<surname>Elmerich</surname>
+</person_name>
+					</contributors>
+					<titles><title>Instruments used in experimental phonetics at the beginning of the 20th century at the Institute of Phonetics in Paris</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>167</first_page>
+						<last_page>176</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-12</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/amelot24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Quintino</given_name>
+<surname>Lopes</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Helena</given_name>
+<surname>Quaresma</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Dayane</given_name>
+<surname>Farias</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>M. Teresa Girão da</given_name>
+<surname>Cruz</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Francisco de</given_name>
+<surname>Lacerda</surname>
+</person_name>
+					</contributors>
+					<titles><title>The PHONLAB project: Coimbra Phonetics Laboratory - heritage preservation and development</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>177</first_page>
+						<last_page>187</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-8</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/lopes24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Gábor</given_name>
+<surname>Olaszy</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mária</given_name>
+<surname>Gósy</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Péter</given_name>
+<surname>Nikléczy</surname>
+</person_name>
+					</contributors>
+					<titles><title>The GOH hearing screening method in practice for 40 years: Historical overview</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>188</first_page>
+						<last_page>197</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-18</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/olaszy24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Harald</given_name>
+<surname>Höge</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hermann</given_name>
+<surname>Ney</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Otto</given_name>
+<surname>Schmidtbauer</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ute</given_name>
+<surname>Ziegenhain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Gregor</given_name>
+<surname>Thurmair</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Harry</given_name>
+<surname>Bunt</surname>
+</person_name>
+					</contributors>
+					<titles><title>SPICOS - the first speech driven dialogue system</title></titles>
+					<publication_date media_type='online'>
+						<month>9</month>
+						<day>20</day>
+						<year>2024</year>
+					</publication_date>
+					<pages>
+						<first_page>198</first_page>
+						<last_page>207</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/HSCR.2024-13</doi>
+						<resource>https://www.isca-archive.org/hscr_2024/hoge24_hscr.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

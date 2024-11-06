@@ -1,0 +1,550 @@
+{
+ "series": "HSCR",
+ "title": "Sixth International Workshop on the History of Speech Communication Research (HSCR 2024)",
+ "location": "Budapest, Hungary",
+ "startDate": "20/9/2024",
+ "endDate": "21/9/2024",
+ "URL": "https://hscr2024.elte.hu/",
+ "chair": "Chairs: Judit Bóna and Mária Gósy",
+ "intro": "00_Preface_HSCR2024.pdf",
+ "ISSN": "0940-6832",
+ "conf": "HSCR",
+ "name": "hscr_2024",
+ "year": "2024",
+ "title1": "Sixth International Workshop on the History of Speech Communication Research",
+ "title2": "(HSCR 2024)",
+ "booklet": "00_Preface_HSCR2024.pdf",
+ "date": "20-21 September 2024",
+ "month": 9,
+ "day": 20,
+ "now": 1730818278775552,
+ "papers": {
+  "trouvain24_hscr": {
+   "authors": [
+    [
+     "Jürgen",
+     "Trouvain"
+    ]
+   ],
+   "title": "100 years of diversity in the phonetic sciences - Louise Kaiser, Ilse Lehiste and Anne Cutler",
+   "original": "trouvain",
+   "order": 1,
+   "page_count": 6,
+   "abstract": [
+    "The aim of this paper is to show the diversity of the phonetic sciences over a period of 100 years: from about 1920 to 2020, reflected by the history of the International Congress of the Phonetic Sciences (ICPhS). This historical timeline is represented by the activities of the three famous female scholars Louise Kaiser, Ilse Lehiste and Anne Cutler. All three can be regarded as representatives for the diversity in research topics and investigated languages and as role models for gender, supporters of young talents and serving the scientific community of phonetic sciences."
+   ],
+   "p1": "9",
+   "pn": "14",
+   "doi": "10.21437/HSCR.2024-1",
+   "url": "hscr_2024/trouvain24_hscr.html"
+  },
+  "ashby24_hscr": {
+   "authors": [
+    [
+     "Michael",
+     "Ashby"
+    ]
+   ],
+   "title": "Budapest, Britain, Bell: The career of Peter B. Denes (1920-1996)",
+   "original": "ashby",
+   "order": 2,
+   "page_count": 10,
+   "abstract": [
+    "This paper traces the career of Peter B. Denes (1920–1996). Born in Hungary, he migrated to Britain at the age of 18 and qualified as an electrical engineer. He became a naturalised British subject and was recruited as a lecturer to the Phonetics Department at University College London, playing a major part in the teaching and research of the department throughout the 1950s. With his colleague Dennis Fry he designed an automatic speech recogniser which was the first to operate with an unlimited vocabulary and to make use of a store of linguistic knowledge. In 1961 he moved to Bell Laboratories in the USA and soon became Head of the Speech and Communication Research Department there. At Bell Labs he was influential in championing the use of dedicated laboratory computers for speech research. Seen in retrospect, his long career casts light on numerous facets of speech research in the second half of the twentieth century."
+   ],
+   "p1": "15",
+   "pn": "24",
+   "doi": "10.21437/HSCR.2024-2",
+   "url": "hscr_2024/ashby24_hscr.html"
+  },
+  "rialland24_hscr": {
+   "authors": [
+    [
+     "Annie",
+     "Rialland"
+    ],
+    [
+     "Pavel",
+     "Šturm"
+    ],
+    [
+     "Cécile",
+     "Fougeron"
+    ]
+   ],
+   "title": "Rousselot's succession through Pernot and Millet's correspondence to Chlumský",
+   "original": "rialland",
+   "order": 4,
+   "page_count": 10,
+   "abstract": [
+    "This article contextualizes the early developments of phonetics in Paris. It analyses the intricate network of Parisian institutions engaged in experimental phonetics, highlighting the significant role of figures like Rousselot and their connections within these establishments. Subsequently, it introduces the collection of letters exchanged between Pernot, Millet, and Chlumský, outlining the key individuals involved in this correspondence. The content of the letters is then analysed, concentrating on two main aspects: (1) Rousselot’s material legacy, encompassing his instruments, library, manuscripts, and ownership of the rights to the Revue de phonétique, and (2) Rousselot’s institutional legacy, spanning his positions at the Collège de France, Institut Catholique, and Alliance française. Additionally, some letters shed light on the period leading up to Rousselot’s passing. Many letters reveal new details about the disputes over his succession and the disposition of his legacy."
+   ],
+   "p1": "25",
+   "pn": "34",
+   "doi": "10.21437/HSCR.2024-4",
+   "url": "hscr_2024/rialland24_hscr.html"
+  },
+  "sturm24_hscr": {
+   "authors": [
+    [
+     "Pavel",
+     "Šturm"
+    ],
+    [
+     "Annie",
+     "Rialland"
+    ],
+    [
+     "Cécile",
+     "Fougeron"
+    ]
+   ],
+   "title": "Pernot, Scripture and Millet: Different ideas for running a journal of experimental phonetics in the early 20th century.",
+   "original": "sturm",
+   "order": 5,
+   "page_count": 11,
+   "abstract": [
+    "This paper focuses on three projects that aimed to speak to the international community of experimental phoneticians in the interwar period in Europe. The 'Revue de phonétique' encountered a crossroads following the demise of one of its founders, Abbé Rousselot, in 1924. Hubert Pernot grappled to sustain the 'Revue' until 1929 amidst uncertainties. Concurrently, Edward Wheeler Scripture initiated another journal in 1930, offering an alternative but short-lived platform for experimental phonetic inquiry. The two phoneticians and their projects were observed and criticized by Rousselot’s former pupil, Abbé Millet, who harboured aspirations for a phonetics journal of his own. Based on archival materials, the paper analyses the available correspondence exchanged between these key actors and Josef Chlumský, a leading Czech phonetician of the era. The epistemological evidence reveals important and often overlooked details surrounding the trajectory of experimental phonetics journals and related initiatives, but also reflects on the challenges, ambitions, and scholarly exchanges that shaped the vibrant landscape of experimental phonetics in interwar Europe."
+   ],
+   "p1": "35",
+   "pn": "45",
+   "doi": "10.21437/HSCR.2024-5",
+   "url": "hscr_2024/sturm24_hscr.html"
+  },
+  "starcevic24_hscr": {
+   "authors": [
+    [
+     "Attila",
+     "Starčević"
+    ]
+   ],
+   "title": "Komáromi: A silent witness to the controversies of early modern English pronunciation",
+   "original": "starcevic",
+   "order": 7,
+   "page_count": 10,
+   "abstract": [
+    "Komáromi Csipkés, a Hungarian Calvinist theologian, wrote a grammar in 1664 for students at the University of Debrecen who wanted to read English protestant texts in the original. A sizeable part of his book is devoted to pronunciation of then contemporary southern English, which is today referred to as Early Modern. Komáromi comments can only be called linguistic with certain reservations. He brings English pronunciation close to home by giving Hungarian (sometimes Latin) correspondences such as season having the vowel of Hungarian kéz 'hand'. However, a careful reading (and interpretation) of his comments adds new insight to our understanding of a number of contentious issues, such as (i) the Early Modern pronunciation of Middle English iː and uː, which seem to have been ɛj (night having the vowel+glide of fejsze ‘axe’) and ɔw (out, “pronounced as it is written”, Komáromi’s words), not əj and əw, as often assumed, (ii) the disputed existence of yː (fruit), jyː (use), etc. In addition to this, in the spirit of a (pre)modern linguist, Komáromi sets out to decom-pose sounds unfamiliar to him from Hungarian into ‘elements’ (as he does, for example, for dʒ in 'John', which he explains as a combination of Hungarian gy ɟ plus s ʃ). We look at his comments and try to assess their validity from the point of historical reconstructive linguistics."
+   ],
+   "p1": "46",
+   "pn": "55",
+   "doi": "10.21437/HSCR.2024-7",
+   "url": "hscr_2024/starcevic24_hscr.html"
+  },
+  "sun24_hscr": {
+   "authors": [
+    [
+     "Jingyi",
+     "Sun"
+    ],
+    [
+     "Jiayin",
+     "Gao"
+    ],
+    [
+     "Annie",
+     "Rialland"
+    ]
+   ],
+   "title": "Pioneering works in modern Chinese phonetics: Fu Liu's tonal studies and other Chinese scholars at the University of Paris (1920s-1940s)",
+   "original": "sun",
+   "order": 16,
+   "page_count": 10,
+   "abstract": [
+    "This paper gives an overview of the academic achievements by Chinese linguists who obtained licentiate or doctoral degrees in phonetics at the University of Paris between the 1920s and 1940s, highlighting the role played by these works in marking the transition from traditional to modern approaches to Chinese tonal studies. Sections 1 and 2 provide the political and academic background under which Chinese scholars conducted linguistic research in Europe and contributed to the scientific exchange between the East and the West. Section 3 summarizes the major contributions of these scholars. Section 4 further spotlights a foundational study on Chinese tones by one of these scholars, Fu Liu, for his doctoral thesis. When talking about pioneering works in modern Chinese phonetics, many of us will think of the highly renowned Chinese-American scholar, Yuen Ren Chao, while Chinese scholars who have stayed in Europe during the interwar period remain relatively less well known. Our paper thus aims at enhancing the importance of their works for a wider recognition from Chinese and international academics."
+   ],
+   "p1": "56",
+   "pn": "65",
+   "doi": "10.21437/HSCR.2024-16",
+   "url": "hscr_2024/sun24_hscr.html"
+  },
+  "balazs24_hscr": {
+   "authors": [
+    [
+     "Boróka",
+     "Balázs"
+    ]
+   ],
+   "title": "Early Hungarian child language research: Gabriella Viktor's contribution",
+   "original": "balazs",
+   "order": 20,
+   "page_count": 10,
+   "abstract": [
+    "The earliest manifestations of the interest towards child language and language acquisition process in Hungary dates back to the first decade of the 19th century. The aim of this study is to present an early scientific work which belongs to this domain. As it relates to the topic, the presented work is interesting in itself, but it is worth to be known also for other reasons. This study undertakes to recall the scholarly context of the time, the life, personality and scientific achievement of the author, and also the contribution that this work brought to increase the factual knowledge about the process of the speech development of children."
+   ],
+   "p1": "66",
+   "pn": "75",
+   "doi": "10.21437/HSCR.2024-20",
+   "url": "hscr_2024/balazs24_hscr.html"
+  },
+  "demolin24_hscr": {
+   "authors": [
+    [
+     "Didier",
+     "Demolin"
+    ]
+   ],
+   "title": "The evolution of speech and the experimental method by Rousselot",
+   "original": "demolin",
+   "order": 14,
+   "page_count": 10,
+   "abstract": [
+    "Rousselot’s contributions are known for the development of new instruments to study the sounds of speech. However, Rousselot’s conception of the evolution of speech sounds and the validation of the experimental method in phonetics are two crucial contributions that are fundamental to understand the establishment of phonetics as the science of human language sounds. This paper discusses both points."
+   ],
+   "p1": "76",
+   "pn": "85",
+   "doi": "10.21437/HSCR.2024-14",
+   "url": "hscr_2024/demolin24_hscr.html"
+  },
+  "gosy24_hscr": {
+   "authors": [
+    [
+     "Mária",
+     "Gósy"
+    ],
+    [
+     "Zsuzsa",
+     "Vladár"
+    ]
+   ],
+   "title": "On the history of a word that is not a word",
+   "original": "gosy",
+   "order": 9,
+   "page_count": 10,
+   "abstract": [
+    "In Hungarian, there is an item of the language’s vocabulary, 'izé', that can be found probably in each Hungarian speaker’s mental lexicon. Although 'izé' has no stable semantic content, and it has practically no meaning, it can refer to any lexeme, it can substitute any part of speech and can take various suffixes. The function of this word is to help the speaker gain time in the case of a speech planning trouble. There is a new hypothesis on its etymology offered in this paper, elaborated by the authors. The paper discusses the history of this word from its first attested occurrence in 1604 up to 1950 (although 'izé' is still used in Hungarian). An analysis was carried out concerning the identification of this word, its function, and its use in various speech samples. Dictionaries, scientific papers, various texts, and databases provided the material to be analyzed, including speech samples of the 1940s and 1950s from the Hegedűs Archive."
+   ],
+   "p1": "86",
+   "pn": "95",
+   "doi": "10.21437/HSCR.2024-9",
+   "url": "hscr_2024/gosy24_hscr.html"
+  },
+  "cser24_hscr": {
+   "authors": [
+    [
+     "András",
+     "Cser"
+    ],
+    [
+     "Beatrix",
+     "Oszkó"
+    ],
+    [
+     "Zsuzsa",
+     "Várnai"
+    ]
+   ],
+   "title": "The description of vowel length in the early grammars of Hungarian",
+   "original": "cser",
+   "order": 10,
+   "page_count": 10,
+   "abstract": [
+    "A survey of the grammatical works that appeared in the Middle Hungarian period shows that length was intuitively recognized as a feature of the vowel system of the language but its incorporation into descriptions of the vocal domain of the language was tentative and gradual. The treatment of length fits into the slow recognition of the different types or classes of vowels generally in the European grammatical tradition – as opposed to the major classes of consonants, a system whose broad outlines were inherited from antiquity. The question of vowel length is furthermore intricately interwoven with issues of graphic marking in typography as well as of length alternations in the morphophonology."
+   ],
+   "p1": "96",
+   "pn": "105",
+   "doi": "10.21437/HSCR.2024-10",
+   "url": "hscr_2024/cser24_hscr.html"
+  },
+  "marko24_hscr": {
+   "authors": [
+    [
+     "Alexandra",
+     "Markó"
+    ],
+    [
+     "Tekla Etelka",
+     "Gráczi"
+    ],
+    [
+     "Kornélia",
+     "Juhász"
+    ],
+    [
+     "Andrea",
+     "Deme"
+    ]
+   ],
+   "title": "A brief historical survey of artculatory studies on the Hungarian language",
+   "original": "marko",
+   "order": 15,
+   "page_count": 10,
+   "abstract": [
+    "Articulatory studies with respect to Hungarian date back to the 1880s. In the 20th century, palato- and linguography, labiography, and X-ray were used in analyses of both typical and atypical speech. These methods were applied for the description of the segment inventory of Hungarian. From the 2000s, the focus shifted to connected speech phenomena due to new tools and methods, e.g. electromagnetic articulography, ultrasound tongue imaging, and electroglottography, which also became available in Hungary. The paper presents an overview of the main trends of articulatory studies on Hungarian in the past and the present."
+   ],
+   "p1": "106",
+   "pn": "115",
+   "doi": "10.21437/HSCR.2024-15",
+   "url": "hscr_2024/marko24_hscr.html"
+  },
+  "kudera24_hscr": {
+   "authors": [
+    [
+     "Jacek",
+     "Kudera"
+    ]
+   ],
+   "title": "Stress sensitivity and early studies of South Slavic accentuation",
+   "original": "kudera",
+   "order": 19,
+   "page_count": 10,
+   "abstract": [
+    "This paper aims to briefly present an overview of historical conventions for annotating South Slavic accentuation and test one experimentally. It comments on the studies of several descriptive linguists and musicologists who found their inspiration in musical terminology and used notes to describe the complexity of lexical stress in South-West Slavic languages. This contribution examines whether musical notation proves to be an effective means of representing the complexity of tonal features of South Slavic lects by reconstructing the nineteenth-century descriptions of Kajkavian, Čakavian and Štokavian stress patterns developed by Leonhard Gotthilf Masing. In the experimental part, native speakers of these three varieties were asked to identify the stress type after hearing the melody that was proposed as canonical representation of a stress type in the historical studies. The results show that the ability to identify accent type depends on listeners' dialectal affiliation. These findings are further interpreted in light of tri-tonal and quadri-tonal accent inventories that distinguish the tested groups of participants."
+   ],
+   "p1": "116",
+   "pn": "125",
+   "doi": "10.21437/HSCR.2024-19",
+   "url": "hscr_2024/kudera24_hscr.html"
+  },
+  "bona24_hscr": {
+   "authors": [
+    [
+     "Judit",
+     "Bóna"
+    ],
+    [
+     "Sarolta",
+     "Murányi"
+    ]
+   ],
+   "title": "The history of child language research in ICPhS between 1932 and 2023",
+   "original": "bona",
+   "order": 17,
+   "page_count": 10,
+   "abstract": [
+    "Examination of the age-specific features of speech, including child language and speech, is an important area of phonetic research. In the present study, we investigate research papers on child language that were published at ICPhS congresses between 1932 and 2023. Results show that, although child language research is be-coming increasingly frequent at ICPhS congresses, it still quite underrepresented. The age and number of children included in the studies varies widely. We found papers about 52 different languages as the mother tongue of the children, of which the studies focus mostly on English, followed by the other Indo-European languages. Among the non-Indo-European languages, there were 28 different languages from 14 language families. There was a wide variety of covered topics, dealing with acoustic features of both segmental and suprasegmental levels of child speech, and the development of speech perception. Predominantly monolingual children with typical development were examined, but we also found articles on bilingual, multilingual and children with atypical language development. Overall, there is still work to be carried out in order to better represent the phonetic features of language acquisition in ICPhS congresses. A similar overview is needed to understand the history of the methodology of child language research."
+   ],
+   "p1": "126",
+   "pn": "135",
+   "doi": "10.21437/HSCR.2024-17",
+   "url": "hscr_2024/bona24_hscr.html"
+  },
+  "gocsal24_hscr": {
+   "authors": [
+    [
+     "Ákos",
+     "Gocsál"
+    ]
+   ],
+   "title": "Voices of the past: Research into old Hungarian newsreels",
+   "original": "gocsal",
+   "order": 11,
+   "page_count": 10,
+   "abstract": [
+    "The objective of this study is to present a database of metadata, which allows effective research into newsreels. Old sound newsreels have great potential for research to learn more about how people spoke many decades ago. Historians and media researchers have highlighted the significance of voice-overs on newsreels from their professional point of view. However, only few studies are known which used methodology of linguistic research. Since the speaking material of the newsreels is highly diverse, and the identification of the utterances relevant to a specific research project is crucial, a database of metadata is of importance. Several suggestions of previous authors are presented. The second part of the study discusses a possible structure and the use of a relational database, which stores metadata for old Hungarian newsreels. This database is under development, but it is expected that when it is ready, it will help researchers efficiently find the recordings they need. Examples of possible uses are included, such as the identification of utterances belonging to a specific speaking style, analysis of within-speaker variability, or improvement of intelligibility of noisy or distorted recordings."
+   ],
+   "p1": "136",
+   "pn": "145",
+   "doi": "10.21437/HSCR.2024-11",
+   "url": "hscr_2024/gocsal24_hscr.html"
+  },
+  "braun24_hscr": {
+   "authors": [
+    [
+     "Angelika",
+     "Braun"
+    ]
+   ],
+   "title": "Early experimental phonetics in Germany",
+   "original": "braun",
+   "order": 3,
+   "page_count": 10,
+   "abstract": [
+    "In the early years of the 20th century, experimental phonetics was thriving in Germany. Several laboratories were established within a relatively short period of time. However, the development was disrupted by the two World Wars. This contribution focuses on the situation before WWII and attempts to reconstruct the factors which contributed to the rise of experimental phonetics in Germany. Its beginnings are rooted in the 19th century to developments in the scientific realm but also to political developments such as Germany becoming a colonial power.\nThis contribution does not only cover the well-known laboratories in Hamburg and Bonn, but also the lesser-known ones in Marburg and Berlin. It discusses equipment, publication channels, and conferences which can be regarded as precursors of the ICPhS format. Furthermore, the relationship between the various German laboratory heads is explored. Depending on the different areas of interest among those in charge of the laboratories, alliances and cooperations were established, but there was also rivalry and animosity extending well beyond professional disagreement. This rivalry was most explicit between Hamburg and Bonn. It is illustrated by sources from the 1920s and 1930s."
+   ],
+   "p1": "146",
+   "pn": "155",
+   "doi": "10.21437/HSCR.2024-3",
+   "url": "hscr_2024/braun24_hscr.html"
+  },
+  "hoffmann24_hscr": {
+   "authors": [
+    [
+     "Rüdiger",
+     "Hoffmann"
+    ]
+   ],
+   "title": "Photography and cinematography at the Hamburg Phonetics Laboratory - Part 2: Applications in education and research",
+   "original": "hoffmann",
+   "order": 6,
+   "page_count": 11,
+   "abstract": [
+    "The Hamburg Phonetics Laboratory, which was installed in 1910, developed to an excellent place for research and teaching in experimental phonetics, applying the best available research methods, among them also photography and cinematography. The historic acoustic-phonetic collection (HAPS) of the TU Dresden preserves much material documenting the achievements of the laboratory. After the historic devices are meanwhile described in a printed two-volume catalogue [13] [21], the availability of the archival material still needs to be improved. This concerns especially the phonographic and the photographic material. As a first step, the development of the photography of the larynx was described in Part 1 of this paper [14]. It is now continued with an overview of further activities, which aimed to incorporate photography and cinematography into education and research in phonetics."
+   ],
+   "p1": "156",
+   "pn": "166",
+   "doi": "10.21437/HSCR.2024-6",
+   "url": "hscr_2024/hoffmann24_hscr.html"
+  },
+  "amelot24_hscr": {
+   "authors": [
+    [
+     "Angélique",
+     "Amelot"
+    ],
+    [
+     "Didier",
+     "Demolin"
+    ],
+    [
+     "Amélie",
+     "Elmerich"
+    ]
+   ],
+   "title": "Instruments used in experimental phonetics at the beginning of the 20th century at the Institute of Phonetics in Paris",
+   "original": "amelot",
+   "order": 12,
+   "page_count": 10,
+   "abstract": [
+    "This article deals with the restoration project of instruments used in experimental phonetics by phoneticians at the Institut of Phonetics in Paris around 1930. It describes the patrimony and the various stages in restoration of the instruments found when the laboratory was moved, the discovery of their origin and usefulness, and their dissemination. A game inspired by Trivial Pursuit has been designed to enhance the value of this little-known instrumental heritage."
+   ],
+   "p1": "167",
+   "pn": "176",
+   "doi": "10.21437/HSCR.2024-12",
+   "url": "hscr_2024/amelot24_hscr.html"
+  },
+  "lopes24_hscr": {
+   "authors": [
+    [
+     "Quintino",
+     "Lopes"
+    ],
+    [
+     "Helena",
+     "Quaresma"
+    ],
+    [
+     "Dayane",
+     "Farias"
+    ],
+    [
+     "M. Teresa Girão da",
+     "Cruz"
+    ],
+    [
+     "Francisco de",
+     "Lacerda"
+    ]
+   ],
+   "title": "The PHONLAB project: Coimbra Phonetics Laboratory - heritage preservation and development",
+   "original": "lopes",
+   "order": 8,
+   "page_count": 11,
+   "abstract": [
+    "PHONLAB is an R&D project on the history of experimental phonetics, funded by the Portuguese body, the Fundação para a Ciência e a Tecnologia – Foundation for Science and Technology. It brings together researchers from the Universities of Évora (Portugal), Coimbra (Portugal) and Stockholm (Sweden), and aims to recover for historiography and the collective memory the importance of the Experimental Phonetics Laboratory of the University of Coimbra (1936-1979) and its founder and director, Armando de Lacerda (1902-1984). In the funding year, 2022, the International Phonetic Association and the International Speech Communication Association Special Interest Group on “The History of Speech Communication Sciences” provided support for the holding of the 5th International Workshop on the History of Speech Communication Research, entitled ‘Lacerda 120’ in Portugal – the first of these scientific workshops to be dedicated to the memory of an individual phonetician. In addition, in 2023, the Royal Swedish Academy of Sciences dedicated a one-day symposium to Armando de Lacerda. PHONLAB focuses mainly on the material culture of objects from the past and has enabled the instruments of the Phonetics Laboratory, library resources and archives to be discovered as part of the heritage of the University of Coimbra Faculty of Arts and Science Museum by members of the project team and to be identified, preserved and assigned new value. The ultimate objective of this initiative, described in the paper, is to create a permanent exhibition at the University of Coimbra dedicated to Armando de Lacerda and the Coimbra Phonetics Laboratory."
+   ],
+   "p1": "177",
+   "pn": "187",
+   "doi": "10.21437/HSCR.2024-8",
+   "url": "hscr_2024/lopes24_hscr.html"
+  },
+  "olaszy24_hscr": {
+   "authors": [
+    [
+     "Gábor",
+     "Olaszy"
+    ],
+    [
+     "Mária",
+     "Gósy"
+    ],
+    [
+     "Péter",
+     "Nikléczy"
+    ]
+   ],
+   "title": "The GOH hearing screening method in practice for 40 years: Historical overview",
+   "original": "olaszy",
+   "order": 18,
+   "page_count": 10,
+   "abstract": [
+    "This paper describes the development of a hearing screening method based on low redundant synthesized words. Developed in the early 1980s, the GOH method enables reliable screening of young children’s hearing. A digitally controlled but an-alog OVE IIIc formant synthesizer was used to build monosyllables, each with a controlled spectral shape, using the Speech Synthesis Development System developed in Hungary. The child’s task is to listen to the synthesized word and repeat it immediately. The repetitions and knowledge of the words’ frequency patterns provide an excellent estimation of the child’s hearing capacity. The method was tested under both laboratory and clinical conditions, followed by practical applications. Over the decades, practical implementation has evolved due to technological advancements. The paper provides an overview of this invention, its realization, development and results over the past 40 years."
+   ],
+   "p1": "188",
+   "pn": "197",
+   "doi": "10.21437/HSCR.2024-18",
+   "url": "hscr_2024/olaszy24_hscr.html"
+  },
+  "hoge24_hscr": {
+   "authors": [
+    [
+     "Harald",
+     "Höge"
+    ],
+    [
+     "Hermann",
+     "Ney"
+    ],
+    [
+     "Otto",
+     "Schmidtbauer"
+    ],
+    [
+     "Ute",
+     "Ziegenhain"
+    ],
+    [
+     "Gregor",
+     "Thurmair"
+    ],
+    [
+     "Harry",
+     "Bunt"
+    ]
+   ],
+   "title": "SPICOS - the first speech driven dialogue system",
+   "original": "hoege",
+   "order": 13,
+   "page_count": 10,
+   "abstract": [
+    "In 1984, the companies Siemens, Philips and the IPO Institute of the Technical University of Eindhoven started the SPICOS project to develop a continuous speech dialogue system with a lifetime of 1984-1990. The dialogue system - hereafter called SPICOS system - was developed for the German language and worked with a vocabulary of 1000 words. The SPICOS system consisted of 3 modules - an automatic speech recognition (ASR) module, a dialogue module and a text-to-speech (TTS) module. In 1984, the recognition of continuous speech was still in its infancy. The recognition rate of existing ASR systems for continuous speech was not sufficient to serve as input to a dialogue module. The main focus of the SPICOS project was to develop an ASR module that would produce sentences with a low word error rate, and a dialogue module that would be robust enough to handle sentences with erroneous words. For the TTS module, the TTS system developed at IPO for the Dutch language was adapted to the German language. The paper describes the state of the art in the 1980s relevant to the SPICOS system and the concepts developed for the modules. These concepts are documented by various papers listed in the references. At the end of the SPICOS lifetime, a working continuous speech-driven dialogue system was demonstrated. Finally, we conclude: SPICOS has made a significant contribution to paving the way for KI systems based on the concept of data-driven learning and the availability of large speech resources."
+   ],
+   "p1": "198",
+   "pn": "207",
+   "doi": "10.21437/HSCR.2024-13",
+   "url": "hscr_2024/hoge24_hscr.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynote 1",
+   "papers": [
+    "trouvain24_hscr"
+   ]
+  },
+  {
+   "title": "Regular papers 1",
+   "papers": [
+    "ashby24_hscr",
+    "braun24_hscr",
+    "rialland24_hscr",
+    "sturm24_hscr",
+    "hoffmann24_hscr",
+    "starcevic24_hscr",
+    "lopes24_hscr",
+    "gosy24_hscr",
+    "cser24_hscr"
+   ]
+  },
+  {
+   "title": "Keynote 2",
+   "papers": [
+    "gocsal24_hscr"
+   ]
+  },
+  {
+   "title": "Regular papers 2",
+   "papers": [
+    "amelot24_hscr",
+    "hoge24_hscr",
+    "demolin24_hscr",
+    "marko24_hscr",
+    "sun24_hscr",
+    "bona24_hscr",
+    "olaszy24_hscr",
+    "kudera24_hscr",
+    "balazs24_hscr"
+   ]
+  }
+ ],
+ "doi": "10.21437/HSCR.2024"
+}
