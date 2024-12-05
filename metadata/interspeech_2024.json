@@ -16890,7 +16890,7 @@
    ],
    "title": "Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis",
    "original": "1187",
-   "resource": "https://doi.org/10.5281/zenodo.12786789",
+   "resource": "https://doi.org/10.5281/zenodo.14160345",
    "order": 373,
    "page_count": 5,
    "abstract": [
@@ -36247,7 +36247,7 @@
    "order": 750,
    "page_count": 2,
    "abstract": [
-    "Advances in speech technology have led to the development of a large variety of powerful speech models. With the increased number of models released comes the need to quickly and effectively compare new (versions of) models with existing ones on selected metrics. Acknowledging this need, we introduce ATTEST, a powerful, user-friendly, no-code Streamlit framework that provides a large range of objective metrics for\ncomprehensive speech evaluation, covering the dimensions of Speech Intelligibility, Speech Prosody, Speaker Similarity, Signal Quality, and MOS Prediction. This paper details the framework’s architecture, user interface, and application scenarios. To encourage easy integration of newly-developed metrics, thesource code for this framework is released alongside this paper."
+    "Advances in speech technology have led to the development of a large variety of powerful speech models. With the increased number of models released comes the need to quickly and effectively compare new (versions of) models with existing ones on selected metrics. Acknowledging this need, we introduce ATTEST, a powerful, user-friendly, no-code Streamlit framework that provides a large range of objective metrics for\ncomprehensive speech evaluation, covering the /dimensions of Speech Intelligibility, Speech Prosody, Speaker Similarity, Signal Quality, and MOS Prediction. This paper details the framework’s architecture, user interface, and application scenarios. To encourage easy integration of newly-developed metrics, thesource code for this framework is released alongside this paper."
    ],
    "p1": 3646,
    "pn": 3647
