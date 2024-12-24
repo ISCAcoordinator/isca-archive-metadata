@@ -3,20 +3,20 @@
 		<doi_batch_id>interspeech_2023</doi_batch_id>
 		<timestamp>1705398680284827</timestamp>
 		<depositor>
-			<depositor_name>Martin Cooke</depositor_name> 
+			<depositor_name>Martin Cooke</depositor_name>
 			<email_address>m.cooke@ikerbasque.org</email_address>
 		</depositor>
-		<registrant>International Speech Communication Association</registrant> 
+		<registrant>International Speech Communication Association</registrant>
 	</head>
 	<body>
 		<conference>
 			<event_metadata>
-				<conference_name>INTERSPEECH 2023</conference_name>
+				<conference_name>Interspeech 2023</conference_name>
 				<conference_acronym>interspeech_2023</conference_acronym>
 				<conference_date>20-24 August 2023</conference_date>
 			</event_metadata>
 			<proceedings_metadata language="en">
-				<proceedings_title>INTERSPEECH 2023</proceedings_title>
+				<proceedings_title>Interspeech 2023</proceedings_title>
 				<publisher>
 					<publisher_name>ISCA</publisher_name>
 					<publisher_place>ISCA</publisher_place>
