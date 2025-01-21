@@ -10577,7 +10577,8 @@
    "p1": 3834,
    "pn": 3838,
    "doi": "10.21437/Interspeech.2024-709",
-   "url": "interspeech_2024/li24p_interspeech.html"
+   "url": "interspeech_2024/li24p_interspeech.html",
+   "erratum": "<p>Please correct the Acknowledgements section from \"... in part by Beijing Natural Science Foundation (No. L223032 and No. L223033)\" to \"... in part by Beijing Natural Science Foundation (No. L233032 and No. L223033).\"\n</p>"
   },
   "xu24b_interspeech": {
    "authors": [
