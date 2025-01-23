@@ -103,7 +103,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-1",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "can13_interspeech": {
       "authors": [
@@ -127,7 +127,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-2",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "katsurada13_interspeech": {
       "authors": [
@@ -163,7 +163,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-3",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "mandal13_interspeech": {
       "authors": [
@@ -223,7 +223,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-4",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "abad13_interspeech": {
       "authors": [
@@ -259,7 +259,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-5",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "narumi13_interspeech": {
       "authors": [
@@ -307,7 +307,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-6",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "kane13_interspeech": {
       "authors": [
@@ -343,7 +343,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-7",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "kawahara13_interspeech": {
       "authors": [
@@ -379,7 +379,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-8",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "lee13_interspeech": {
       "authors": [
@@ -407,7 +407,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-9",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "ramesh13_interspeech": {
       "authors": [
@@ -435,7 +435,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-10",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "gowda13_interspeech": {
       "authors": [
@@ -467,7 +467,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-11",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "hezard13_interspeech": {
       "authors": [
@@ -495,7 +495,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-12",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "godoy13_interspeech": {
       "authors": [
@@ -523,7 +523,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-13",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "jensen13_interspeech": {
       "authors": [
@@ -547,7 +547,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-14",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "jokinen13_interspeech": {
       "authors": [
@@ -575,7 +575,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-15",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "li13_interspeech": {
       "authors": [
@@ -607,7 +607,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-16",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "hines13_interspeech": {
       "authors": [
@@ -639,7 +639,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-17",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "yuan13_interspeech": {
       "authors": [
@@ -659,7 +659,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-18",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "slaney13_interspeech": {
       "authors": [
@@ -687,7 +687,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-19",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "gangamohan13_interspeech": {
       "authors": [
@@ -742,7 +742,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-21",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "taylor13_interspeech": {
       "authors": [
@@ -766,7 +766,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-22",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "pohjalainen13_interspeech": {
       "authors": [
@@ -790,7 +790,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-23",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "asgari13_interspeech": {
       "authors": [
@@ -814,7 +814,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-24",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "kane13b_interspeech": {
       "authors": [
@@ -846,7 +846,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-25",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "kasess13_interspeech": {
       "authors": [
@@ -870,7 +870,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-26",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "geiger13_interspeech": {
       "authors": [
@@ -902,7 +902,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-27",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "sasou13_interspeech": {
       "authors": [
@@ -922,7 +922,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-28",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "adiga13_interspeech": {
       "authors": [
@@ -946,7 +946,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-29",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "arya13_interspeech": {
       "authors": [
@@ -974,7 +974,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-30",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "patil13_interspeech": {
       "authors": [
@@ -998,7 +998,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-31",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "satt13_interspeech": {
       "authors": [
@@ -1042,7 +1042,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-32",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "azarov13_interspeech": {
       "authors": [
@@ -1070,7 +1070,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-33",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "babacan13_interspeech": {
       "authors": [
@@ -1106,7 +1106,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-34",
-      "topic": "5.12"
+      "author_isca_topic": "5.12"
     },
     "gomezgarcia13_interspeech": {
       "authors": [
@@ -1134,7 +1134,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-35",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "cai13_interspeech": {
       "authors": [
@@ -1162,7 +1162,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-36",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "mirzaei13_interspeech": {
       "authors": [
@@ -1190,7 +1190,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-37",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "liu13_interspeech": {
       "authors": [
@@ -1222,7 +1222,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-38",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "diez13_interspeech": {
       "authors": [
@@ -1258,7 +1258,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-39",
-      "topic": "9.4"
+      "author_isca_topic": "9.4"
     },
     "ma13_interspeech": {
       "authors": [
@@ -1298,7 +1298,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-40",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "soufifar13_interspeech": {
       "authors": [
@@ -1334,7 +1334,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-41",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "behravan13_interspeech": {
       "authors": [
@@ -1362,7 +1362,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-42",
-      "topic": "9.2"
+      "author_isca_topic": "9.2"
     },
     "mclaren13_interspeech": {
       "authors": [
@@ -1394,7 +1394,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-43",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "paulik13_interspeech": {
       "authors": [
@@ -1414,7 +1414,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-44",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "gehring13_interspeech": {
       "authors": [
@@ -1454,7 +1454,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-45",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "chang13_interspeech": {
       "authors": [
@@ -1478,7 +1478,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-46",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "yan13_interspeech": {
       "authors": [
@@ -1506,7 +1506,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-47",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "rath13_interspeech": {
       "authors": [
@@ -1538,7 +1538,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-48",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "vinyals13_interspeech": {
       "authors": [
@@ -1562,7 +1562,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-49",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "braun13_interspeech": {
       "authors": [
@@ -1609,7 +1609,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-51",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "lienard13_interspeech": {
       "authors": [
@@ -1633,7 +1633,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-52",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "godoy13b_interspeech": {
       "authors": [
@@ -1661,7 +1661,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-53",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "motoki13_interspeech": {
       "authors": [
@@ -1681,7 +1681,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-54",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "airaksinen13_interspeech": {
       "authors": [
@@ -1784,7 +1784,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-56",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "janicki13_interspeech": {
       "authors": [
@@ -1804,7 +1804,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-57",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "oh13_interspeech": {
       "authors": [
@@ -1832,7 +1832,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-58",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "krikke13_interspeech": {
       "authors": [
@@ -1856,7 +1856,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-59",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "wagner13_interspeech": {
       "authors": [
@@ -1884,7 +1884,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-60",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "gupta13_interspeech": {
       "authors": [
@@ -1943,7 +1943,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-62",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "bone13_interspeech": {
       "authors": [
@@ -1995,7 +1995,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-63",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "kirchhoff13_interspeech": {
       "authors": [
@@ -2023,7 +2023,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-64",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "asgari13b_interspeech": {
       "authors": [
@@ -2051,7 +2051,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-65",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "martinez13_interspeech": {
       "authors": [
@@ -2087,7 +2087,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-66",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "grezes13_interspeech": {
       "authors": [
@@ -2115,7 +2115,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-67",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "sethu13_interspeech": {
       "authors": [
@@ -2147,7 +2147,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-68",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "rasanen13_interspeech": {
       "authors": [
@@ -2171,7 +2171,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-69",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "lee13b_interspeech": {
       "authors": [
@@ -2215,7 +2215,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-70",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "gosztolya13_interspeech": {
       "authors": [
@@ -2243,7 +2243,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-71",
-      "topic": "12.12"
+      "author_isca_topic": "12.12"
     },
     "niebuhr13_interspeech": {
       "authors": [
@@ -2263,7 +2263,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-72",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "mixdorff13_interspeech": {
       "authors": [
@@ -2287,7 +2287,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-73",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "smith13_interspeech": {
       "authors": [
@@ -2311,7 +2311,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-74",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "tsurutani13_interspeech": {
       "authors": [
@@ -2335,7 +2335,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-75",
-      "topic": "7.13"
+      "author_isca_topic": "7.13"
     },
     "aalto13_interspeech": {
       "authors": [
@@ -2363,7 +2363,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-76",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "zellers13_interspeech": {
       "authors": [
@@ -2383,7 +2383,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-77",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "bissiri13_interspeech": {
       "authors": [
@@ -2407,7 +2407,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-78",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "walsh13_interspeech": {
       "authors": [
@@ -2435,7 +2435,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-79",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "braun13b_interspeech": {
       "authors": [
@@ -2459,7 +2459,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-80",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "correia13_interspeech": {
       "authors": [
@@ -2491,7 +2491,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-81",
-      "topic": "2.10"
+      "author_isca_topic": "2.10"
     },
     "arnold13_interspeech": {
       "authors": [
@@ -2569,7 +2569,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-84",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "lyu13_interspeech": {
       "authors": [
@@ -2593,7 +2593,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-85",
-      "topic": "3.9"
+      "author_isca_topic": "3.9"
     },
     "tabain13_interspeech": {
       "authors": [
@@ -2621,7 +2621,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-86",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "mahanta13_interspeech": {
       "authors": [
@@ -2645,7 +2645,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-87",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "cruz13_interspeech": {
       "authors": [
@@ -2669,7 +2669,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-88",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "nemoto13_interspeech": {
       "authors": [
@@ -2693,7 +2693,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-89",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "ashby13_interspeech": {
       "authors": [
@@ -2729,7 +2729,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-90",
-      "topic": "12.7"
+      "author_isca_topic": "12.7"
     },
     "sahkai13_interspeech": {
       "authors": [
@@ -2757,7 +2757,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-91",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "kisler13_interspeech": {
       "authors": [
@@ -2781,7 +2781,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-92",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "cunha13_interspeech": {
       "authors": [
@@ -2809,7 +2809,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-93",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "meister13_interspeech": {
       "authors": [
@@ -2833,7 +2833,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-94",
-      "topic": "3.11"
+      "author_isca_topic": "3.11"
     },
     "meynadier13_interspeech": {
       "authors": [
@@ -2857,7 +2857,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-95",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "reichel13_interspeech": {
       "authors": [
@@ -2877,7 +2877,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-96",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "andreeva13_interspeech": {
       "authors": [
@@ -2905,7 +2905,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-97",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "promon13_interspeech": {
       "authors": [
@@ -2933,7 +2933,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-98",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "kiss13_interspeech": {
       "authors": [
@@ -2957,7 +2957,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-99",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "sung13_interspeech": {
       "authors": [
@@ -2989,7 +2989,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-100",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "takamichi13_interspeech": {
       "authors": [
@@ -3029,7 +3029,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-101",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "nakashika13_interspeech": {
       "authors": [
@@ -3061,7 +3061,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-102",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "silen13_interspeech": {
       "authors": [
@@ -3093,7 +3093,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-103",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "nose13_interspeech": {
       "authors": [
@@ -3125,7 +3125,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-104",
-      "topic": "6.7"
+      "author_isca_topic": "6.7"
     },
     "hinterleitner13_interspeech": {
       "authors": [
@@ -3157,7 +3157,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-105",
-      "topic": "6.13"
+      "author_isca_topic": "6.13"
     },
     "nurminen13_interspeech": {
       "authors": [
@@ -3185,7 +3185,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-106",
-      "topic": "6.3"
+      "author_isca_topic": "6.3"
     },
     "huckvale13_interspeech": {
       "authors": [
@@ -3213,7 +3213,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-107",
-      "topic": "6.11"
+      "author_isca_topic": "6.11"
     },
     "muthukumar13_interspeech": {
       "authors": [
@@ -3241,7 +3241,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-108",
-      "topic": "6.4"
+      "author_isca_topic": "6.4"
     },
     "hovy13_interspeech": {
       "authors": [
@@ -3285,7 +3285,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-109",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "ishihara13_interspeech": {
       "authors": [
@@ -3348,7 +3348,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-111",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "niekerk13_interspeech": {
       "authors": [
@@ -3403,7 +3403,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-113",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "krityakien13_interspeech": {
       "authors": [
@@ -3431,7 +3431,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-114",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "chen13_interspeech": {
       "authors": [
@@ -3455,7 +3455,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-115",
-      "topic": "6.7"
+      "author_isca_topic": "6.7"
     },
     "nakajima13_interspeech": {
       "authors": [
@@ -3487,7 +3487,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-116",
-      "topic": "6.2"
+      "author_isca_topic": "6.2"
     },
     "ni13_interspeech": {
       "authors": [
@@ -3519,7 +3519,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-117",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "kobayashi13_interspeech": {
       "authors": [
@@ -3567,7 +3567,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-118",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "bollepalli13_interspeech": {
       "authors": [
@@ -3595,7 +3595,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-119",
-      "topic": "6.12"
+      "author_isca_topic": "6.12"
     },
     "doi13_interspeech": {
       "authors": [
@@ -3631,7 +3631,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-120",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "koriyama13_interspeech": {
       "authors": [
@@ -3659,7 +3659,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-121",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "mohammadi13_interspeech": {
       "authors": [
@@ -3683,7 +3683,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-122",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "cabral13_interspeech": {
       "authors": [
@@ -3703,7 +3703,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-123",
-      "topic": "6.4"
+      "author_isca_topic": "6.4"
     },
     "tran13_interspeech": {
       "authors": [
@@ -3735,7 +3735,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-124",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "candea13_interspeech": {
       "authors": [
@@ -3790,7 +3790,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-126",
-      "topic": "3.11"
+      "author_isca_topic": "3.11"
     },
     "plummer13_interspeech": {
       "authors": [
@@ -3822,7 +3822,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-127",
-      "topic": "3.7"
+      "author_isca_topic": "3.7"
     },
     "babel13_interspeech": {
       "authors": [
@@ -3846,7 +3846,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-128",
-      "topic": "12.8"
+      "author_isca_topic": "12.8"
     },
     "wang13_interspeech": {
       "authors": [
@@ -3870,7 +3870,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-129",
-      "topic": "3.11"
+      "author_isca_topic": "3.11"
     },
     "lu13_interspeech": {
       "authors": [
@@ -3902,7 +3902,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-130",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "saruwatari13_interspeech": {
       "authors": [
@@ -3938,7 +3938,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-131",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "lyubimov13_interspeech": {
       "authors": [
@@ -3962,7 +3962,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-132",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "tseng13_interspeech": {
       "authors": [
@@ -4006,7 +4006,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-133",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "mirbagheri13_interspeech": {
       "authors": [
@@ -4038,7 +4038,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-134",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "mccallum13_interspeech": {
       "authors": [
@@ -4062,7 +4062,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-135",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "knuuttila13_interspeech": {
       "authors": [
@@ -4090,7 +4090,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-136",
-      "topic": "10.4"
+      "author_isca_topic": "10.4"
     },
     "daubigney13_interspeech": {
       "authors": [
@@ -4118,7 +4118,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-137",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "lison13_interspeech": {
       "authors": [
@@ -4138,7 +4138,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-138",
-      "topic": "10.2"
+      "author_isca_topic": "10.2"
     },
     "ghigi13_interspeech": {
       "authors": [
@@ -4170,7 +4170,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-139",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "chen13b_interspeech": {
       "authors": [
@@ -4194,7 +4194,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-140",
-      "topic": "10.14"
+      "author_isca_topic": "10.14"
     },
     "su13_interspeech": {
       "authors": [
@@ -4230,7 +4230,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-141",
-      "topic": "10.5"
+      "author_isca_topic": "10.5"
     },
     "hahn13_interspeech": {
       "authors": [
@@ -4266,7 +4266,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-142",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "do13_interspeech": {
       "authors": [
@@ -4298,7 +4298,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-143",
-      "topic": "7.13"
+      "author_isca_topic": "7.13"
     },
     "rasipuram13_interspeech": {
       "authors": [
@@ -4322,7 +4322,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-144",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "motlicek13_interspeech": {
       "authors": [
@@ -4350,7 +4350,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-145",
-      "topic": "7.13"
+      "author_isca_topic": "7.13"
     },
     "vu13_interspeech": {
       "authors": [
@@ -4374,7 +4374,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-146",
-      "topic": "7.13"
+      "author_isca_topic": "7.13"
     },
     "rosenberg13_interspeech": {
       "authors": [
@@ -4394,7 +4394,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-147",
-      "topic": "12.9"
+      "author_isca_topic": "12.9"
     },
     "schweitzer13_interspeech": {
       "authors": [
@@ -4418,7 +4418,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-148",
-      "topic": "2.7"
+      "author_isca_topic": "2.7"
     },
     "pardo13_interspeech": {
       "authors": [
@@ -4438,7 +4438,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-149",
-      "topic": "2.7"
+      "author_isca_topic": "2.7"
     },
     "wodarczak13_interspeech": {
       "authors": [
@@ -4466,7 +4466,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-150",
-      "topic": "2.7"
+      "author_isca_topic": "2.7"
     },
     "bonin13_interspeech": {
       "authors": [
@@ -4518,7 +4518,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-151",
-      "topic": "2.12"
+      "author_isca_topic": "2.12"
     },
     "kim13_interspeech": {
       "authors": [
@@ -4546,7 +4546,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-152",
-      "topic": "2.7"
+      "author_isca_topic": "2.7"
     },
     "podlipsky13_interspeech": {
       "authors": [
@@ -4574,7 +4574,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-153",
-      "topic": "2.7"
+      "author_isca_topic": "2.7"
     },
     "hsieh13_interspeech": {
       "authors": [
@@ -4594,7 +4594,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-154",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "hoffmann13_interspeech": {
       "authors": [
@@ -4622,7 +4622,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-155",
-      "topic": "12.4"
+      "author_isca_topic": "12.4"
     },
     "kohtz13_interspeech": {
       "authors": [
@@ -4646,7 +4646,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-156",
-      "topic": "1.3"
+      "author_isca_topic": "1.3"
     },
     "wang13b_interspeech": {
       "authors": [
@@ -4686,7 +4686,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-157",
-      "topic": "1.14"
+      "author_isca_topic": "1.14"
     },
     "hirst13_interspeech": {
       "authors": [
@@ -4706,7 +4706,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-158",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "proctor13_interspeech": {
       "authors": [
@@ -4746,7 +4746,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-159",
-      "topic": "1.4"
+      "author_isca_topic": "1.4"
     },
     "huckvale13b_interspeech": {
       "authors": [
@@ -4770,7 +4770,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-160",
-      "topic": "1.11"
+      "author_isca_topic": "1.11"
     },
     "lucero13_interspeech": {
       "authors": [
@@ -4798,7 +4798,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-161",
-      "topic": "12.3"
+      "author_isca_topic": "12.3"
     },
     "dapolito13_interspeech": {
       "authors": [
@@ -4822,7 +4822,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-162",
-      "topic": "1.7"
+      "author_isca_topic": "1.7"
     },
     "samlowski13_interspeech": {
       "authors": [
@@ -4850,7 +4850,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-163",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "lancia13_interspeech": {
       "authors": [
@@ -4878,7 +4878,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-164",
-      "topic": "1.6"
+      "author_isca_topic": "1.6"
     },
     "rusaw13_interspeech": {
       "authors": [
@@ -4898,7 +4898,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-165",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "wong13_interspeech": {
       "authors": [
@@ -4934,7 +4934,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-166",
-      "topic": "1.1"
+      "author_isca_topic": "1.1"
     },
     "fujimoto13_interspeech": {
       "authors": [
@@ -4966,7 +4966,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-167",
-      "topic": "1.1"
+      "author_isca_topic": "1.1"
     },
     "lammert13_interspeech": {
       "authors": [
@@ -4998,7 +4998,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-168",
-      "topic": "1.3"
+      "author_isca_topic": "1.3"
     },
     "arrabothu13_interspeech": {
       "authors": [
@@ -5026,7 +5026,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-169",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "hsieh13b_interspeech": {
       "authors": [
@@ -5058,7 +5058,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-170",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "yang13_interspeech": {
       "authors": [
@@ -5090,7 +5090,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-171",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "yamakawa13_interspeech": {
       "authors": [
@@ -5114,7 +5114,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-172",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "drozdova13_interspeech": {
       "authors": [
@@ -5142,7 +5142,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-173",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "signorello13_interspeech": {
       "authors": [
@@ -5166,7 +5166,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-174",
-      "topic": "12.8"
+      "author_isca_topic": "12.8"
     },
     "rose13_interspeech": {
       "authors": [
@@ -5186,7 +5186,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-175",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "preu13_interspeech": {
       "authors": [
@@ -5214,7 +5214,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-176",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "siddins13_interspeech": {
       "authors": [
@@ -5269,7 +5269,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-178",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "richmond13_interspeech": {
       "authors": [
@@ -5301,7 +5301,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-179",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "gupta13b_interspeech": {
       "authors": [
@@ -5325,7 +5325,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-180",
-      "topic": "8.7"
+      "author_isca_topic": "8.7"
     },
     "stein13_interspeech": {
       "authors": [
@@ -5384,7 +5384,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-182",
-      "topic": "8.8"
+      "author_isca_topic": "8.8"
     },
     "shi13_interspeech": {
       "authors": [
@@ -5416,7 +5416,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-183",
-      "topic": "8.8"
+      "author_isca_topic": "8.8"
     },
     "torbati13_interspeech": {
       "authors": [
@@ -5444,7 +5444,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-184",
-      "topic": "8.8"
+      "author_isca_topic": "8.8"
     },
     "georges13_interspeech": {
       "authors": [
@@ -5472,7 +5472,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-185",
-      "topic": "8.7"
+      "author_isca_topic": "8.7"
     },
     "kubo13_interspeech": {
       "authors": [
@@ -5500,7 +5500,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-186",
-      "topic": "8.8"
+      "author_isca_topic": "8.8"
     },
     "jouvet13_interspeech": {
       "authors": [
@@ -5524,7 +5524,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-187",
-      "topic": "8.7"
+      "author_isca_topic": "8.7"
     },
     "siohan13_interspeech": {
       "authors": [
@@ -5548,7 +5548,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-188",
-      "topic": "8.8"
+      "author_isca_topic": "8.8"
     },
     "lei13_interspeech": {
       "authors": [
@@ -5580,7 +5580,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-189",
-      "topic": "8.9"
+      "author_isca_topic": "8.9"
     },
     "allauzen13_interspeech": {
       "authors": [
@@ -5604,7 +5604,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-190",
-      "topic": "8.7"
+      "author_isca_topic": "8.7"
     },
     "kurniawati13_interspeech": {
       "authors": [
@@ -5628,7 +5628,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-191",
-      "topic": "8.9"
+      "author_isca_topic": "8.9"
     },
     "sak13_interspeech": {
       "authors": [
@@ -5660,7 +5660,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-192",
-      "topic": "8.7"
+      "author_isca_topic": "8.7"
     },
     "versteegh13_interspeech": {
       "authors": [
@@ -5684,7 +5684,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-193",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "burlick13_interspeech": {
       "authors": [
@@ -5712,7 +5712,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-194",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "geiger13b_interspeech": {
       "authors": [
@@ -5748,7 +5748,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-195",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "ye13_interspeech": {
       "authors": [
@@ -5780,7 +5780,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-196",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "chung13_interspeech": {
       "authors": [
@@ -5808,7 +5808,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-197",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "segbroeck13_interspeech": {
       "authors": [
@@ -5836,7 +5836,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-198",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "graciarena13_interspeech": {
       "authors": [
@@ -5916,7 +5916,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-199",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "coz13_interspeech": {
       "authors": [
@@ -5944,7 +5944,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-200",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "tsiartas13_interspeech": {
       "authors": [
@@ -5992,7 +5992,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-201",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "lezzoum13_interspeech": {
       "authors": [
@@ -6020,7 +6020,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-202",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "ryant13_interspeech": {
       "authors": [
@@ -6048,7 +6048,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-203",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "germain13_interspeech": {
       "authors": [
@@ -6076,7 +6076,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-204",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "tsai13_interspeech": {
       "authors": [
@@ -6100,7 +6100,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-205",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "kanai13_interspeech": {
       "authors": [
@@ -6128,7 +6128,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-206",
-      "topic": "5.4"
+      "author_isca_topic": "5.4"
     },
     "almoubayed13_interspeech": {
       "authors": [
@@ -7063,7 +7063,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-226",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "michelas13_interspeech": {
       "authors": [
@@ -7091,7 +7091,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-227",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "ishimoto13_interspeech": {
       "authors": [
@@ -7119,7 +7119,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-228",
-      "topic": "3.13"
+      "author_isca_topic": "3.13"
     },
     "simard13_interspeech": {
       "authors": [
@@ -7139,7 +7139,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-229",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "vullinghs13_interspeech": {
       "authors": [
@@ -7167,7 +7167,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-230",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "kousidis13_interspeech": {
       "authors": [
@@ -7195,7 +7195,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-231",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "grais13_interspeech": {
       "authors": [
@@ -7219,7 +7219,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-232",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "kim13b_interspeech": {
       "authors": [
@@ -7251,7 +7251,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-233",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "tran13b_interspeech": {
       "authors": [
@@ -7279,7 +7279,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-234",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "kinoshita13_interspeech": {
       "authors": [
@@ -7307,7 +7307,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-235",
-      "topic": "5.7"
+      "author_isca_topic": "5.7"
     },
     "barker13_interspeech": {
       "authors": [
@@ -7331,7 +7331,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-236",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "watanabe13_interspeech": {
       "authors": [
@@ -7355,7 +7355,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-237",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "yao13_interspeech": {
       "authors": [
@@ -7391,7 +7391,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-238",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "rakov13_interspeech": {
       "authors": [
@@ -7415,7 +7415,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-239",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "scherer13_interspeech": {
       "authors": [
@@ -7447,7 +7447,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-240",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "pellegrini13_interspeech": {
       "authors": [
@@ -7530,7 +7530,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-242",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "perezrosas13_interspeech": {
       "authors": [
@@ -7554,7 +7554,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-243",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "shepstone13_interspeech": {
       "authors": [
@@ -7582,7 +7582,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-244",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "malandrakis13_interspeech": {
       "authors": [
@@ -7610,7 +7610,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-245",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "jeon13_interspeech": {
       "authors": [
@@ -7642,7 +7642,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-246",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "han13_interspeech": {
       "authors": [
@@ -7682,7 +7682,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-247",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "kelly13_interspeech": {
       "authors": [
@@ -7706,7 +7706,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-248",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "alam13_interspeech": {
       "authors": [
@@ -7730,7 +7730,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-249",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "zhang13_interspeech": {
       "authors": [
@@ -7762,7 +7762,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-250",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "xiao13_interspeech": {
       "authors": [
@@ -7798,7 +7798,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-251",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "miyazaki13_interspeech": {
       "authors": [
@@ -7830,7 +7830,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-252",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "arias13_interspeech": {
       "authors": [
@@ -7858,7 +7858,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-253",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "mishra13_interspeech": {
       "authors": [
@@ -7882,7 +7882,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-254",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "hanilci13_interspeech": {
       "authors": [
@@ -7922,7 +7922,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-255",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "xia13_interspeech": {
       "authors": [
@@ -7946,7 +7946,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-256",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "abdelaziz13_interspeech": {
       "authors": [
@@ -7974,7 +7974,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-257",
-      "topic": "7.12"
+      "author_isca_topic": "7.12"
     },
     "gibson13_interspeech": {
       "authors": [
@@ -8010,7 +8010,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-258",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "xiao13b_interspeech": {
       "authors": [
@@ -8038,7 +8038,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-259",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "joshi13_interspeech": {
       "authors": [
@@ -8066,7 +8066,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-260",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "mitra13_interspeech": {
       "authors": [
@@ -8094,7 +8094,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-261",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "alam13b_interspeech": {
       "authors": [
@@ -8122,7 +8122,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-262",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "lu13b_interspeech": {
       "authors": [
@@ -8150,7 +8150,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-263",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "saon13_interspeech": {
       "authors": [
@@ -8186,7 +8186,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-264",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "sehr13_interspeech": {
       "authors": [
@@ -8230,7 +8230,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-265",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "wolf13_interspeech": {
       "authors": [
@@ -8254,7 +8254,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-266",
-      "topic": "7.4"
+      "author_isca_topic": "7.4"
     },
     "ishii13_interspeech": {
       "authors": [
@@ -8290,7 +8290,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-267",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "maymon13_interspeech": {
       "authors": [
@@ -8322,7 +8322,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-268",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "kao13_interspeech": {
       "authors": [
@@ -8346,7 +8346,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-269",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "liu13b_interspeech": {
       "authors": [
@@ -8370,7 +8370,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-270",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "li13b_interspeech": {
       "authors": [
@@ -8398,7 +8398,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-271",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "brakel13_interspeech": {
       "authors": [
@@ -8426,7 +8426,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-272",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "variani13_interspeech": {
       "authors": [
@@ -8454,7 +8454,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-273",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "fujimoto13b_interspeech": {
       "authors": [
@@ -8478,7 +8478,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-274",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "nathwani13_interspeech": {
       "authors": [
@@ -8502,7 +8502,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-275",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "delcroix13_interspeech": {
       "authors": [
@@ -8534,7 +8534,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-276",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "hsieh13c_interspeech": {
       "authors": [
@@ -8562,7 +8562,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-277",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "li13c_interspeech": {
       "authors": [
@@ -8590,7 +8590,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-278",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "remes13_interspeech": {
       "authors": [
@@ -8610,7 +8610,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-279",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "cui13_interspeech": {
       "authors": [
@@ -8638,7 +8638,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-280",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "liu13c_interspeech": {
       "authors": [
@@ -8666,7 +8666,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-281",
-      "topic": "7.3"
+      "author_isca_topic": "7.3"
     },
     "poblete13_interspeech": {
       "authors": [
@@ -8694,7 +8694,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-282",
-      "topic": "2.1"
+      "author_isca_topic": "2.1"
     },
     "sadakata13_interspeech": {
       "authors": [
@@ -8726,7 +8726,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-283",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "bedoin13_interspeech": {
       "authors": [
@@ -8754,7 +8754,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-284",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "bellier13_interspeech": {
       "authors": [
@@ -8790,7 +8790,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-285",
-      "topic": "2.2"
+      "author_isca_topic": "2.2"
     },
     "manca13_interspeech": {
       "authors": [
@@ -8814,7 +8814,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-286",
-      "topic": "2.1"
+      "author_isca_topic": "2.1"
     },
     "grohe13_interspeech": {
       "authors": [
@@ -8838,7 +8838,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-287",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "evans13_interspeech": {
       "authors": [
@@ -8866,7 +8866,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-288",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "hautamaki13_interspeech": {
       "authors": [
@@ -8902,7 +8902,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-289",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "gomezbarrero13_interspeech": {
       "authors": [
@@ -8934,7 +8934,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-290",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "alegre13_interspeech": {
       "authors": [
@@ -8966,7 +8966,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-291",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "kons13_interspeech": {
       "authors": [
@@ -8990,7 +8990,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-292",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "wu13_interspeech": {
       "authors": [
@@ -9030,7 +9030,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-293",
-      "topic": "12.5"
+      "author_isca_topic": "12.5"
     },
     "sperber13_interspeech": {
       "authors": [
@@ -9066,7 +9066,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-294",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "kim13c_interspeech": {
       "authors": [
@@ -9094,7 +9094,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-295",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "higashinaka13_interspeech": {
       "authors": [
@@ -9122,7 +9122,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-296",
-      "topic": "11.5"
+      "author_isca_topic": "11.5"
     },
     "arimoto13_interspeech": {
       "authors": [
@@ -9146,7 +9146,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-297",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "wechsung13_interspeech": {
       "authors": [
@@ -9182,7 +9182,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-298",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "riccardi13_interspeech": {
       "authors": [
@@ -9214,7 +9214,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-299",
-      "topic": "11.5"
+      "author_isca_topic": "11.5"
     },
     "fox13b_interspeech": {
       "authors": [
@@ -9277,7 +9277,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-301",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "moubayed13_interspeech": {
       "authors": [
@@ -9305,7 +9305,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-302",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "galibert13_interspeech": {
       "authors": [
@@ -9325,7 +9325,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-303",
-      "topic": "11.11"
+      "author_isca_topic": "11.11"
     },
     "sangwan13_interspeech": {
       "authors": [
@@ -9384,7 +9384,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-305",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "ahmed13_interspeech": {
       "authors": [
@@ -9408,7 +9408,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-306",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "hoffmann13b_interspeech": {
       "authors": [
@@ -9432,7 +9432,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-307",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "stan13_interspeech": {
       "authors": [
@@ -9464,7 +9464,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-308",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "sapru13_interspeech": {
       "authors": [
@@ -9488,7 +9488,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-309",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "draxler13_interspeech": {
       "authors": [
@@ -9512,7 +9512,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-310",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "hofe13_interspeech": {
       "authors": [
@@ -9556,7 +9556,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-311",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "andrademiranda13_interspeech": {
       "authors": [
@@ -9580,7 +9580,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-312",
-      "topic": "4.4"
+      "author_isca_topic": "4.4"
     },
     "bocklet13_interspeech": {
       "authors": [
@@ -9612,7 +9612,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-313",
-      "topic": "4.1"
+      "author_isca_topic": "4.1"
     },
     "orosanu13_interspeech": {
       "authors": [
@@ -9636,7 +9636,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-314",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "christensen13_interspeech": {
       "authors": [
@@ -9664,7 +9664,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-315",
-      "topic": "4.1"
+      "author_isca_topic": "4.1"
     },
     "lopezludena13_interspeech": {
       "authors": [
@@ -9700,7 +9700,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-316",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "vaerenberg13_interspeech": {
       "authors": [
@@ -9740,7 +9740,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-317",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "hammer13_interspeech": {
       "authors": [
@@ -9780,7 +9780,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-318",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "lopezludena13b_interspeech": {
       "authors": [
@@ -9816,7 +9816,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-319",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "kim13d_interspeech": {
       "authors": [
@@ -9844,7 +9844,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-320",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "muhammad13_interspeech": {
       "authors": [
@@ -9868,7 +9868,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-321",
-      "topic": "4.7"
+      "author_isca_topic": "4.7"
     },
     "kacha13_interspeech": {
       "authors": [
@@ -9896,7 +9896,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-322",
-      "topic": "4.7"
+      "author_isca_topic": "4.7"
     },
     "aihara13_interspeech": {
       "authors": [
@@ -9928,7 +9928,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-323",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "christensen13b_interspeech": {
       "authors": [
@@ -9999,7 +9999,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-325",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "schwenk13_interspeech": {
       "authors": [
@@ -10019,7 +10019,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-326",
-      "topic": "8.5"
+      "author_isca_topic": "8.5"
     },
     "shi13b_interspeech": {
       "authors": [
@@ -10082,7 +10082,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-328",
-      "topic": "8.5"
+      "author_isca_topic": "8.5"
     },
     "kobayashi13b_interspeech": {
       "authors": [
@@ -10114,7 +10114,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-329",
-      "topic": "8.5"
+      "author_isca_topic": "8.5"
     },
     "dikici13_interspeech": {
       "authors": [
@@ -10146,7 +10146,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-330",
-      "topic": "8.5"
+      "author_isca_topic": "8.5"
     },
     "oba13_interspeech": {
       "authors": [
@@ -10182,7 +10182,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-331",
-      "topic": "8.5"
+      "author_isca_topic": "8.5"
     },
     "rath13b_interspeech": {
       "authors": [
@@ -10218,7 +10218,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-332",
-      "topic": "7.9"
+      "author_isca_topic": "7.9"
     },
     "wang13c_interspeech": {
       "authors": [
@@ -10242,7 +10242,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-333",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "saz13_interspeech": {
       "authors": [
@@ -10266,7 +10266,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-334",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "yu13_interspeech": {
       "authors": [
@@ -10290,7 +10290,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-335",
-      "topic": "7.9"
+      "author_isca_topic": "7.9"
     },
     "abdelhamid13_interspeech": {
       "authors": [
@@ -10314,7 +10314,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-336",
-      "topic": "7.9"
+      "author_isca_topic": "7.9"
     },
     "kintzley13_interspeech": {
       "authors": [
@@ -10342,7 +10342,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-337",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "gregory13_interspeech": {
       "authors": [
@@ -10370,7 +10370,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-338",
-      "topic": "1.11"
+      "author_isca_topic": "1.11"
     },
     "yang13b_interspeech": {
       "authors": [
@@ -10394,7 +10394,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-339",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "moulinfrier13_interspeech": {
       "authors": [
@@ -10418,7 +10418,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-340",
-      "topic": "1.11"
+      "author_isca_topic": "1.11"
     },
     "hazan13_interspeech": {
       "authors": [
@@ -10442,7 +10442,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-341",
-      "topic": "1.12"
+      "author_isca_topic": "1.12"
     },
     "barbier13_interspeech": {
       "authors": [
@@ -10482,7 +10482,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-342",
-      "topic": "1.12"
+      "author_isca_topic": "1.12"
     },
     "kinsman13_interspeech": {
       "authors": [
@@ -10506,7 +10506,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-343",
-      "topic": "1.12"
+      "author_isca_topic": "1.12"
     },
     "berry13_interspeech": {
       "authors": [
@@ -10530,7 +10530,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-344",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "zhu13_interspeech": {
       "authors": [
@@ -10562,7 +10562,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-345",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "canevari13_interspeech": {
       "authors": [
@@ -10594,7 +10594,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-346",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "tomaschek13_interspeech": {
       "authors": [
@@ -10626,7 +10626,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-347",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "silva13_interspeech": {
       "authors": [
@@ -10658,7 +10658,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-348",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "vaz13_interspeech": {
       "authors": [
@@ -10686,7 +10686,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-349",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "stella13_interspeech": {
       "authors": [
@@ -10726,7 +10726,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-350",
-      "topic": "1.3"
+      "author_isca_topic": "1.3"
     },
     "badin13_interspeech": {
       "authors": [
@@ -10820,7 +10820,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-353",
-      "topic": "12.6"
+      "author_isca_topic": "12.6"
     },
     "lin13_interspeech": {
       "authors": [
@@ -10848,7 +10848,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-354",
-      "topic": "2.11"
+      "author_isca_topic": "2.11"
     },
     "altrov13_interspeech": {
       "authors": [
@@ -10876,7 +10876,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-355",
-      "topic": "2.11"
+      "author_isca_topic": "2.11"
     },
     "brunelliere13_interspeech": {
       "authors": [
@@ -10900,7 +10900,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-356",
-      "topic": "2.6"
+      "author_isca_topic": "2.6"
     },
     "ogane13_interspeech": {
       "authors": [
@@ -10924,7 +10924,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-357",
-      "topic": "2.6"
+      "author_isca_topic": "2.6"
     },
     "nwe13_interspeech": {
       "authors": [
@@ -10952,7 +10952,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-358",
-      "topic": "2.11"
+      "author_isca_topic": "2.11"
     },
     "prego13_interspeech": {
       "authors": [
@@ -10980,7 +10980,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-359",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "gussenhoven13_interspeech": {
       "authors": [
@@ -11007,7 +11007,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-360",
-      "topic": "2.6"
+      "author_isca_topic": "2.6"
     },
     "guiraud13_interspeech": {
       "authors": [
@@ -11039,7 +11039,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-361",
-      "topic": "2.2"
+      "author_isca_topic": "2.2"
     },
     "windmann13_interspeech": {
       "authors": [
@@ -11071,7 +11071,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-362",
-      "topic": "2.6"
+      "author_isca_topic": "2.6"
     },
     "emond13_interspeech": {
       "authors": [
@@ -11099,7 +11099,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-363",
-      "topic": "2.11"
+      "author_isca_topic": "2.11"
     },
     "raake13_interspeech": {
       "authors": [
@@ -11131,7 +11131,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-364",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "kouklia13_interspeech": {
       "authors": [
@@ -11155,7 +11155,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-365",
-      "topic": "2.11"
+      "author_isca_topic": "2.11"
     },
     "morchid13_interspeech": {
       "authors": [
@@ -11187,7 +11187,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-366",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "rao13_interspeech": {
       "authors": [
@@ -11219,7 +11219,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-367",
-      "topic": "3.13"
+      "author_isca_topic": "3.13"
     },
     "truong13_interspeech": {
       "authors": [
@@ -11239,7 +11239,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-368",
-      "topic": "9.7"
+      "author_isca_topic": "9.7"
     },
     "kim13e_interspeech": {
       "authors": [
@@ -11267,7 +11267,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-369",
-      "topic": "3.13"
+      "author_isca_topic": "3.13"
     },
     "schiel13_interspeech": {
       "authors": [
@@ -11299,7 +11299,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-370",
-      "topic": "3.5"
+      "author_isca_topic": "3.5"
     },
     "baumeister13_interspeech": {
       "authors": [
@@ -11323,7 +11323,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-371",
-      "topic": "3.13"
+      "author_isca_topic": "3.13"
     },
     "hou13_interspeech": {
       "authors": [
@@ -11351,7 +11351,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-372",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "harrat13_interspeech": {
       "authors": [
@@ -11383,7 +11383,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-373",
-      "topic": "3.1"
+      "author_isca_topic": "3.1"
     },
     "wodarczak13b_interspeech": {
       "authors": [
@@ -11407,7 +11407,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-374",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "kachkovskaia13_interspeech": {
       "authors": [
@@ -11435,7 +11435,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-375",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "reichel13b_interspeech": {
       "authors": [
@@ -11455,7 +11455,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-376",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "caelenhaumont13_interspeech": {
       "authors": [
@@ -11479,7 +11479,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-377",
-      "topic": "3.2"
+      "author_isca_topic": "3.2"
     },
     "leonarduzzi13_interspeech": {
       "authors": [
@@ -11503,7 +11503,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-378",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "nouri13_interspeech": {
       "authors": [
@@ -11582,7 +11582,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-380",
-      "topic": "9.9"
+      "author_isca_topic": "9.9"
     },
     "bredin13_interspeech": {
       "authors": [
@@ -11606,7 +11606,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-381",
-      "topic": "9.8"
+      "author_isca_topic": "9.8"
     },
     "demarco13_interspeech": {
       "authors": [
@@ -11630,7 +11630,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-382",
-      "topic": "9.2"
+      "author_isca_topic": "9.2"
     },
     "rouvier13_interspeech": {
       "authors": [
@@ -11693,7 +11693,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-384",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "liang13_interspeech": {
       "authors": [
@@ -11721,7 +11721,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-385",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "hirayama13_interspeech": {
       "authors": [
@@ -11757,7 +11757,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-386",
-      "topic": "9.2"
+      "author_isca_topic": "9.2"
     },
     "rodriguezfuentes13_interspeech": {
       "authors": [
@@ -11797,7 +11797,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-387",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "han13b_interspeech": {
       "authors": [
@@ -11833,7 +11833,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-388",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "lawson13_interspeech": {
       "authors": [
@@ -11877,7 +11877,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-389",
-      "topic": "9.1"
+      "author_isca_topic": "9.1"
     },
     "kang13_interspeech": {
       "authors": [
@@ -11909,7 +11909,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-390",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "raitio13_interspeech": {
       "authors": [
@@ -11949,7 +11949,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-391",
-      "topic": "6.7"
+      "author_isca_topic": "6.7"
     },
     "nagata13_interspeech": {
       "authors": [
@@ -11977,7 +11977,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-392",
-      "topic": "6.7"
+      "author_isca_topic": "6.7"
     },
     "brognaux13_interspeech": {
       "authors": [
@@ -12005,7 +12005,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-393",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "mehrabani13_interspeech": {
       "authors": [
@@ -12033,7 +12033,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-394",
-      "topic": "6.6"
+      "author_isca_topic": "6.6"
     },
     "charfuelan13_interspeech": {
       "authors": [
@@ -12057,7 +12057,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-395",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "ward13_interspeech": {
       "authors": [
@@ -12081,7 +12081,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-396",
-      "topic": "10.11"
+      "author_isca_topic": "10.11"
     },
     "chen13d_interspeech": {
       "authors": [
@@ -12105,7 +12105,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-397",
-      "topic": "10.11"
+      "author_isca_topic": "10.11"
     },
     "wintrode13_interspeech": {
       "authors": [
@@ -12125,7 +12125,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-398",
-      "topic": "10.12"
+      "author_isca_topic": "10.12"
     },
     "senay13_interspeech": {
       "authors": [
@@ -12161,7 +12161,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-399",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "szaszak13_interspeech": {
       "authors": [
@@ -12185,7 +12185,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-400",
-      "topic": "10.11"
+      "author_isca_topic": "10.11"
     },
     "heck13_interspeech": {
       "authors": [
@@ -12213,7 +12213,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-401",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "cumani13_interspeech": {
       "authors": [
@@ -12237,7 +12237,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-402",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "simonchik13_interspeech": {
       "authors": [
@@ -12265,7 +12265,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-403",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "hautamaki13b_interspeech": {
       "authors": [
@@ -12329,7 +12329,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-404",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "li13d_interspeech": {
       "authors": [
@@ -12365,7 +12365,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-405",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "leeuwen13_interspeech": {
       "authors": [
@@ -12389,7 +12389,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-406",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "kelly13b_interspeech": {
       "authors": [
@@ -12417,7 +12417,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-407",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "sarkar13_interspeech": {
       "authors": [
@@ -12441,7 +12441,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-408",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "perera13_interspeech": {
       "authors": [
@@ -12469,7 +12469,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-409",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "wang13d_interspeech": {
       "authors": [
@@ -12505,7 +12505,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-410",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "kanagasundaram13_interspeech": {
       "authors": [
@@ -12545,7 +12545,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-411",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "aronowitz13_interspeech": {
       "authors": [
@@ -12569,7 +12569,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-412",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "zhang13b_interspeech": {
       "authors": [
@@ -12601,7 +12601,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-413",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "garciaromero13_interspeech": {
       "authors": [
@@ -12625,7 +12625,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-414",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "do13b_interspeech": {
       "authors": [
@@ -12657,7 +12657,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-415",
-      "topic": "9.4"
+      "author_isca_topic": "9.4"
     },
     "rajan13_interspeech": {
       "authors": [
@@ -12693,7 +12693,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-416",
-      "topic": "9.4"
+      "author_isca_topic": "9.4"
     },
     "portelo13_interspeech": {
       "authors": [
@@ -12725,7 +12725,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-417",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "taghia13_interspeech": {
       "authors": [
@@ -12753,7 +12753,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-418",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "diez13b_interspeech": {
       "authors": [
@@ -12789,7 +12789,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-419",
-      "topic": "9.10"
+      "author_isca_topic": "9.10"
     },
     "villalba13_interspeech": {
       "authors": [
@@ -12821,7 +12821,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-420",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "fang13_interspeech": {
       "authors": [
@@ -12849,7 +12849,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-421",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "hautamaki13c_interspeech": {
       "authors": [
@@ -12881,7 +12881,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-422",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "erjavec13_interspeech": {
       "authors": [
@@ -12905,7 +12905,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-423",
-      "topic": "2.3"
+      "author_isca_topic": "2.3"
     },
     "tiippana13_interspeech": {
       "authors": [
@@ -12937,7 +12937,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-424",
-      "topic": "2.3"
+      "author_isca_topic": "2.3"
     },
     "davis13_interspeech": {
       "authors": [
@@ -12961,7 +12961,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-425",
-      "topic": "2.3"
+      "author_isca_topic": "2.3"
     },
     "chandrashekara13_interspeech": {
       "authors": [
@@ -12993,7 +12993,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-426",
-      "topic": "2.3"
+      "author_isca_topic": "2.3"
     },
     "rilliard13_interspeech": {
       "authors": [
@@ -13025,7 +13025,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-427",
-      "topic": "2.5"
+      "author_isca_topic": "2.5"
     },
     "bailly13_interspeech": {
       "authors": [
@@ -13072,7 +13072,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-429",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "hirsch13_interspeech": {
       "authors": [
@@ -13092,7 +13092,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-430",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "rodriguez13_interspeech": {
       "authors": [
@@ -13112,7 +13112,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-431",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "jaitly13_interspeech": {
       "authors": [
@@ -13163,7 +13163,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-433",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "qi13_interspeech": {
       "authors": [
@@ -13191,7 +13191,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-434",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "qi13b_interspeech": {
       "authors": [
@@ -13223,7 +13223,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-435",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "golik13_interspeech": {
       "authors": [
@@ -13251,7 +13251,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-436",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "patil13b_interspeech": {
       "authors": [
@@ -13275,7 +13275,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-437",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "palaz13_interspeech": {
       "authors": [
@@ -13303,7 +13303,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-438",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "olaso13_interspeech": {
       "authors": [
@@ -13327,7 +13327,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-439",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "tomar13_interspeech": {
       "authors": [
@@ -13351,7 +13351,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-440",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "schatz13_interspeech": {
       "authors": [
@@ -13391,7 +13391,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-441",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "chiang13_interspeech": {
       "authors": [
@@ -13423,7 +13423,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-442",
-      "topic": "7.2"
+      "author_isca_topic": "7.2"
     },
     "heckmann13_interspeech": {
       "authors": [
@@ -13443,7 +13443,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-443",
-      "topic": "12.9"
+      "author_isca_topic": "12.9"
     },
     "liu13d_interspeech": {
       "authors": [
@@ -13467,7 +13467,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-444",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "alumae13_interspeech": {
       "authors": [
@@ -13491,7 +13491,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-445",
-      "topic": "7.2"
+      "author_isca_topic": "7.2"
     },
     "ahmadi13_interspeech": {
       "authors": [
@@ -13519,7 +13519,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-446",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "li13e_interspeech": {
       "authors": [
@@ -13551,7 +13551,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-447",
-      "topic": "7.2"
+      "author_isca_topic": "7.2"
     },
     "qian13_interspeech": {
       "authors": [
@@ -13575,7 +13575,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-448",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "novak13b_interspeech": {
       "authors": [
@@ -13604,7 +13604,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-449",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "kameoka13_interspeech": {
       "authors": [
@@ -13671,7 +13671,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-451",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "jin13_interspeech": {
       "authors": [
@@ -13695,7 +13695,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-452",
-      "topic": "7.2"
+      "author_isca_topic": "7.2"
     },
     "liu13e_interspeech": {
       "authors": [
@@ -13719,7 +13719,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-453",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "shen13_interspeech": {
       "authors": [
@@ -13747,7 +13747,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-454",
-      "topic": "7.12"
+      "author_isca_topic": "7.12"
     },
     "abdelhamid13b_interspeech": {
       "authors": [
@@ -13818,7 +13818,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-456",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "kawahara13b_interspeech": {
       "authors": [
@@ -13846,7 +13846,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-457",
-      "topic": "10.4"
+      "author_isca_topic": "10.4"
     },
     "hu13_interspeech": {
       "authors": [
@@ -13874,7 +13874,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-458",
-      "topic": "10.5"
+      "author_isca_topic": "10.5"
     },
     "planells13_interspeech": {
       "authors": [
@@ -13906,7 +13906,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-459",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "todo13_interspeech": {
       "authors": [
@@ -13965,7 +13965,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-461",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "xi13_interspeech": {
       "authors": [
@@ -13997,7 +13997,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-462",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "song13_interspeech": {
       "authors": [
@@ -14029,7 +14029,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-463",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "kubo13b_interspeech": {
       "authors": [
@@ -14065,7 +14065,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-464",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "naghibi13_interspeech": {
       "authors": [
@@ -14093,7 +14093,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-465",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "basson13_interspeech": {
       "authors": [
@@ -14117,7 +14117,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-466",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "jyothi13_interspeech": {
       "authors": [
@@ -14145,7 +14145,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-467",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "karanasou13_interspeech": {
       "authors": [
@@ -14177,7 +14177,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-468",
-      "topic": "7.10"
+      "author_isca_topic": "7.10"
     },
     "greenberg13_interspeech": {
       "authors": [
@@ -14221,7 +14221,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-469",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "brummer13_interspeech": {
       "authors": [
@@ -14245,7 +14245,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-470",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "ferrer13_interspeech": {
       "authors": [
@@ -14285,7 +14285,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-471",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "li13f_interspeech": {
       "authors": [
@@ -14325,7 +14325,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-472",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "sun13_interspeech": {
       "authors": [
@@ -14349,7 +14349,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-473",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "colibro13_interspeech": {
       "authors": [
@@ -14393,7 +14393,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-474",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "chen13e_interspeech": {
       "authors": [
@@ -14429,7 +14429,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-475",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "smith13b_interspeech": {
       "authors": [
@@ -14465,7 +14465,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-476",
-      "topic": "1.7"
+      "author_isca_topic": "1.7"
     },
     "ramanarayanan13_interspeech": {
       "authors": [
@@ -14497,7 +14497,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-477",
-      "topic": "1.4"
+      "author_isca_topic": "1.4"
     },
     "rochetcapellan13_interspeech": {
       "authors": [
@@ -14521,7 +14521,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-478",
-      "topic": "1.1"
+      "author_isca_topic": "1.1"
     },
     "arai13_interspeech": {
       "authors": [
@@ -14541,7 +14541,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-479",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "laprie13_interspeech": {
       "authors": [
@@ -14577,7 +14577,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-480",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "bellegarda13_interspeech": {
       "authors": [
@@ -14597,7 +14597,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-481",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "weiss13_interspeech": {
       "authors": [
@@ -14625,7 +14625,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-482",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "gemmeke13_interspeech": {
       "authors": [
@@ -14693,7 +14693,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-483",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "eyben13_interspeech": {
       "authors": [
@@ -14721,7 +14721,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-484",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "principi13_interspeech": {
       "authors": [
@@ -14757,7 +14757,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-485",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "zinovieva13_interspeech": {
       "authors": [
@@ -14793,7 +14793,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-486",
-      "topic": "12.1"
+      "author_isca_topic": "12.1"
     },
     "burkhardt13b_interspeech": {
       "authors": [
@@ -15019,7 +15019,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-493",
-      "topic": "2.13"
+      "author_isca_topic": "2.13"
     },
     "jacewicz13_interspeech": {
       "authors": [
@@ -15043,7 +15043,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-494",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "tokuma13_interspeech": {
       "authors": [
@@ -15067,7 +15067,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-495",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "sisinni13_interspeech": {
       "authors": [
@@ -15098,7 +15098,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-496",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "rauber13_interspeech": {
       "authors": [
@@ -15130,7 +15130,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-497",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "chen13f_interspeech": {
       "authors": [
@@ -15162,7 +15162,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-498",
-      "topic": "2.13"
+      "author_isca_topic": "2.13"
     },
     "moon13_interspeech": {
       "authors": [
@@ -15186,7 +15186,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-499",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "ying13_interspeech": {
       "authors": [
@@ -15214,7 +15214,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-500",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "wong13b_interspeech": {
       "authors": [
@@ -15234,7 +15234,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-501",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "kartushina13_interspeech": {
       "authors": [
@@ -15258,7 +15258,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-502",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "halle13_interspeech": {
       "authors": [
@@ -15290,7 +15290,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-503",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "best13_interspeech": {
       "authors": [
@@ -15318,7 +15318,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-504",
-      "topic": "2.14"
+      "author_isca_topic": "2.14"
     },
     "martinez13b_interspeech": {
       "authors": [
@@ -15346,7 +15346,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-505",
-      "topic": "4.1"
+      "author_isca_topic": "4.1"
     },
     "ghio13_interspeech": {
       "authors": [
@@ -15378,7 +15378,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-506",
-      "topic": "4.7"
+      "author_isca_topic": "4.7"
     },
     "balciuniene13_interspeech": {
       "authors": [
@@ -15398,7 +15398,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-507",
-      "topic": "3.4"
+      "author_isca_topic": "3.4"
     },
     "munson13b_interspeech": {
       "authors": [
@@ -15418,7 +15418,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-508",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "antolik13_interspeech": {
       "authors": [
@@ -15442,7 +15442,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-509",
-      "topic": "4.1"
+      "author_isca_topic": "4.1"
     },
     "verdurand13_interspeech": {
       "authors": [
@@ -15478,7 +15478,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-510",
-      "topic": "4.5"
+      "author_isca_topic": "4.5"
     },
     "clapham13_interspeech": {
       "authors": [
@@ -15514,7 +15514,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-511",
-      "topic": "4.7"
+      "author_isca_topic": "4.7"
     },
     "mauclair13_interspeech": {
       "authors": [
@@ -15546,7 +15546,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-512",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "helfer13_interspeech": {
       "authors": [
@@ -15586,7 +15586,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-513",
-      "topic": "4.1"
+      "author_isca_topic": "4.1"
     },
     "fraser13_interspeech": {
       "authors": [
@@ -15614,7 +15614,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-514",
-      "topic": "4.2"
+      "author_isca_topic": "4.2"
     },
     "alumae13b_interspeech": {
       "authors": [
@@ -15634,7 +15634,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-515",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "long13_interspeech": {
       "authors": [
@@ -15674,7 +15674,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-516",
-      "topic": "8.3"
+      "author_isca_topic": "8.3"
     },
     "cerisara13_interspeech": {
       "authors": [
@@ -15702,7 +15702,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-517",
-      "topic": "8.12"
+      "author_isca_topic": "8.12"
     },
     "nussbaumthom13_interspeech": {
       "authors": [
@@ -15738,7 +15738,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-518",
-      "topic": "8.10"
+      "author_isca_topic": "8.10"
     },
     "premkumar13_interspeech": {
       "authors": [
@@ -15766,7 +15766,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-519",
-      "topic": "8.3"
+      "author_isca_topic": "8.3"
     },
     "thangthai13_interspeech": {
       "authors": [
@@ -15794,7 +15794,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-520",
-      "topic": "8.1"
+      "author_isca_topic": "8.1"
     },
     "chien13_interspeech": {
       "authors": [
@@ -15818,7 +15818,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-521",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "asami13_interspeech": {
       "authors": [
@@ -15854,7 +15854,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-522",
-      "topic": "8.10"
+      "author_isca_topic": "8.10"
     },
     "tuske13_interspeech": {
       "authors": [
@@ -15882,7 +15882,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-523",
-      "topic": "8.11"
+      "author_isca_topic": "8.11"
     },
     "chang13c_interspeech": {
       "authors": [
@@ -15902,7 +15902,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-524",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "fohr13_interspeech": {
       "authors": [
@@ -15926,7 +15926,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-525",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "miao13_interspeech": {
       "authors": [
@@ -15950,7 +15950,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-526",
-      "topic": "8.11"
+      "author_isca_topic": "8.11"
     },
     "qin13_interspeech": {
       "authors": [
@@ -15974,7 +15974,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-527",
-      "topic": "8.2"
+      "author_isca_topic": "8.2"
     },
     "chiu13_interspeech": {
       "authors": [
@@ -15998,7 +15998,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-528",
-      "topic": "8.11"
+      "author_isca_topic": "8.11"
     },
     "acher13_interspeech": {
       "authors": [
@@ -16058,7 +16058,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-529",
-      "topic": "4.9"
+      "author_isca_topic": "4.9"
     },
     "mertens13_interspeech": {
       "authors": [
@@ -16090,7 +16090,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-530",
-      "topic": "4.3"
+      "author_isca_topic": "4.3"
     },
     "tantibundhit13_interspeech": {
       "authors": [
@@ -16138,7 +16138,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-531",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "kagomiya13_interspeech": {
       "authors": [
@@ -16162,7 +16162,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-532",
-      "topic": "4.10"
+      "author_isca_topic": "4.10"
     },
     "garrapa13_interspeech": {
       "authors": [
@@ -16206,7 +16206,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-533",
-      "topic": "4.9"
+      "author_isca_topic": "4.9"
     },
     "cosentino13_interspeech": {
       "authors": [
@@ -16234,7 +16234,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-534",
-      "topic": "4.6"
+      "author_isca_topic": "4.6"
     },
     "huang13_interspeech": {
       "authors": [
@@ -16270,7 +16270,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-535",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "vuuren13_interspeech": {
       "authors": [
@@ -16298,7 +16298,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-536",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "prasad13_interspeech": {
       "authors": [
@@ -16322,7 +16322,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-537",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "wang13e_interspeech": {
       "authors": [
@@ -16358,7 +16358,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-538",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "kalinli13_interspeech": {
       "authors": [
@@ -16382,7 +16382,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-539",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "yuan13b_interspeech": {
       "authors": [
@@ -16422,7 +16422,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-540",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "nguyen13_interspeech": {
       "authors": [
@@ -16454,7 +16454,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-541",
-      "topic": "6.13"
+      "author_isca_topic": "6.13"
     },
     "raitio13b_interspeech": {
       "authors": [
@@ -16486,7 +16486,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-542",
-      "topic": "6.4"
+      "author_isca_topic": "6.4"
     },
     "wang13f_interspeech": {
       "authors": [
@@ -16510,7 +16510,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-543",
-      "topic": "6.1"
+      "author_isca_topic": "6.1"
     },
     "lehnen13_interspeech": {
       "authors": [
@@ -16550,7 +16550,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-544",
-      "topic": "6.1"
+      "author_isca_topic": "6.1"
     },
     "stan13b_interspeech": {
       "authors": [
@@ -16594,7 +16594,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-545",
-      "topic": "6.12"
+      "author_isca_topic": "6.12"
     },
     "maia13_interspeech": {
       "authors": [
@@ -16626,7 +16626,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-546",
-      "topic": "6.4"
+      "author_isca_topic": "6.4"
     },
     "hifny13_interspeech": {
       "authors": [
@@ -16646,7 +16646,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-547",
-      "topic": "7.1"
+      "author_isca_topic": "7.1"
     },
     "vesely13_interspeech": {
       "authors": [
@@ -16678,7 +16678,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-548",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "zhang13c_interspeech": {
       "authors": [
@@ -16725,7 +16725,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-550",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "huang13b_interspeech": {
       "authors": [
@@ -16757,7 +16757,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-551",
-      "topic": "7.14"
+      "author_isca_topic": "7.14"
     },
     "xue13_interspeech": {
       "authors": [
@@ -16785,7 +16785,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-552",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "chen13g_interspeech": {
       "authors": [
@@ -16821,7 +16821,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-553",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "delvaux13_interspeech": {
       "authors": [
@@ -16853,7 +16853,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-554",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "netelenbos13_interspeech": {
       "authors": [
@@ -16877,7 +16877,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-555",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "burgos13_interspeech": {
       "authors": [
@@ -16909,7 +16909,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-556",
-      "topic": "1.14"
+      "author_isca_topic": "1.14"
     },
     "graham13_interspeech": {
       "authors": [
@@ -16933,7 +16933,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-557",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "benoistlucy13_interspeech": {
       "authors": [
@@ -16957,7 +16957,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-558",
-      "topic": "1.6"
+      "author_isca_topic": "1.6"
     },
     "bone13b_interspeech": {
       "authors": [
@@ -17005,7 +17005,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-559",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "boril13_interspeech": {
       "authors": [
@@ -17049,7 +17049,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-560",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "claus13_interspeech": {
       "authors": [
@@ -17085,7 +17085,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-561",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "kouloumenta13_interspeech": {
       "authors": [
@@ -17113,7 +17113,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-562",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "alam13c_interspeech": {
       "authors": [
@@ -17149,7 +17149,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-563",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "bone13c_interspeech": {
       "authors": [
@@ -17189,7 +17189,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-564",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "chaspari13_interspeech": {
       "authors": [
@@ -17217,7 +17217,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-565",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "evanini13_interspeech": {
       "authors": [
@@ -17241,7 +17241,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-566",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "safavi13_interspeech": {
       "authors": [
@@ -17273,7 +17273,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-567",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "arai13b_interspeech": {
       "authors": [
@@ -17293,7 +17293,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-568",
-      "topic": "12.11"
+      "author_isca_topic": "12.11"
     },
     "yao13b_interspeech": {
       "authors": [
@@ -17329,7 +17329,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-569",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "riedhammer13_interspeech": {
       "authors": [
@@ -17357,7 +17357,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-570",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "alghowinem13_interspeech": {
       "authors": [
@@ -17397,7 +17397,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-571",
-      "topic": "10.6"
+      "author_isca_topic": "10.6"
     },
     "bigot13_interspeech": {
       "authors": [
@@ -17433,7 +17433,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-572",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "chen13h_interspeech": {
       "authors": [
@@ -17457,7 +17457,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-573",
-      "topic": "10.11"
+      "author_isca_topic": "10.11"
     },
     "womack13_interspeech": {
       "authors": [
@@ -17497,7 +17497,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-574",
-      "topic": "10.6"
+      "author_isca_topic": "10.6"
     },
     "nakamura13_interspeech": {
       "authors": [
@@ -17549,7 +17549,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-575",
-      "topic": "10.5"
+      "author_isca_topic": "10.5"
     },
     "shriberg13_interspeech": {
       "authors": [
@@ -17577,7 +17577,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-576",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "hatano13_interspeech": {
       "authors": [
@@ -17605,7 +17605,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-577",
-      "topic": "10.3"
+      "author_isca_topic": "10.3"
     },
     "celikyilmaz13_interspeech": {
       "authors": [
@@ -17633,7 +17633,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-578",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "cheng13_interspeech": {
       "authors": [
@@ -17661,7 +17661,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-579",
-      "topic": "10.5"
+      "author_isca_topic": "10.5"
     },
     "tur13_interspeech": {
       "authors": [
@@ -17689,7 +17689,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-580",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "strombergsson13_interspeech": {
       "authors": [
@@ -17756,7 +17756,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-582",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "norouzian13_interspeech": {
       "authors": [
@@ -17784,7 +17784,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-583",
-      "topic": "10.11"
+      "author_isca_topic": "10.11"
     },
     "li13g_interspeech": {
       "authors": [
@@ -17808,7 +17808,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-584",
-      "topic": "1.14"
+      "author_isca_topic": "1.14"
     },
     "strombergsson13b_interspeech": {
       "authors": [
@@ -17832,7 +17832,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-585",
-      "topic": "10.5"
+      "author_isca_topic": "10.5"
     },
     "womack13b_interspeech": {
       "authors": [
@@ -17872,7 +17872,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-586",
-      "topic": "10.6"
+      "author_isca_topic": "10.6"
     },
     "cutugno13_interspeech": {
       "authors": [
@@ -17908,7 +17908,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-587",
-      "topic": "10.4"
+      "author_isca_topic": "10.4"
     },
     "hatmi13_interspeech": {
       "authors": [
@@ -17940,7 +17940,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-588",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "ohno13_interspeech": {
       "authors": [
@@ -17964,7 +17964,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-589",
-      "topic": "10.10"
+      "author_isca_topic": "10.10"
     },
     "jung13_interspeech": {
       "authors": [
@@ -17988,7 +17988,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-590",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "nakatani13_interspeech": {
       "authors": [
@@ -18016,7 +18016,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-591",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "negi13_interspeech": {
       "authors": [
@@ -18044,7 +18044,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-592",
-      "topic": "10.12"
+      "author_isca_topic": "10.12"
     },
     "bost13_interspeech": {
       "authors": [
@@ -18072,7 +18072,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-593",
-      "topic": "10.12"
+      "author_isca_topic": "10.12"
     },
     "chen13i_interspeech": {
       "authors": [
@@ -18104,7 +18104,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-594",
-      "topic": "10.13"
+      "author_isca_topic": "10.13"
     },
     "kun13_interspeech": {
       "authors": [
@@ -18136,7 +18136,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-595",
-      "topic": "10.7"
+      "author_isca_topic": "10.7"
     },
     "mesnil13_interspeech": {
       "authors": [
@@ -18168,7 +18168,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-596",
-      "topic": "10.9"
+      "author_isca_topic": "10.9"
     },
     "liu13g_interspeech": {
       "authors": [
@@ -18204,7 +18204,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-597",
-      "topic": "10.9"
+      "author_isca_topic": "10.9"
     },
     "hakkanitur13_interspeech": {
       "authors": [
@@ -18259,7 +18259,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-599",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "skowronek13_interspeech": {
       "authors": [
@@ -18287,7 +18287,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-600",
-      "topic": "11.11"
+      "author_isca_topic": "11.11"
     },
     "imoto13_interspeech": {
       "authors": [
@@ -18319,7 +18319,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-601",
-      "topic": "11.3"
+      "author_isca_topic": "11.3"
     },
     "kano13_interspeech": {
       "authors": [
@@ -18359,7 +18359,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-602",
-      "topic": "11.8"
+      "author_isca_topic": "11.8"
     },
     "ohgushi13_interspeech": {
       "authors": [
@@ -18395,7 +18395,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-603",
-      "topic": "11.8"
+      "author_isca_topic": "11.8"
     },
     "ostendorf13_interspeech": {
       "authors": [
@@ -18419,7 +18419,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-604",
-      "topic": "11.4"
+      "author_isca_topic": "11.4"
     },
     "medeiros13_interspeech": {
       "authors": [
@@ -18455,7 +18455,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-605",
-      "topic": "11.4"
+      "author_isca_topic": "11.4"
     },
     "meyer13_interspeech": {
       "authors": [
@@ -18475,7 +18475,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-606",
-      "topic": "11.11"
+      "author_isca_topic": "11.11"
     },
     "gubian13_interspeech": {
       "authors": [
@@ -18503,7 +18503,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-607",
-      "topic": "11.6"
+      "author_isca_topic": "11.6"
     },
     "castan13_interspeech": {
       "authors": [
@@ -18527,7 +18527,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-608",
-      "topic": "11.3"
+      "author_isca_topic": "11.3"
     },
     "kousidis13b_interspeech": {
       "authors": [
@@ -18555,7 +18555,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-609",
-      "topic": "11.1"
+      "author_isca_topic": "11.1"
     },
     "favre13_interspeech": {
       "authors": [
@@ -18619,7 +18619,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-610",
-      "topic": "11.11"
+      "author_isca_topic": "11.11"
     },
     "sridhar13_interspeech": {
       "authors": [
@@ -18647,7 +18647,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-611",
-      "topic": "12.10"
+      "author_isca_topic": "12.10"
     },
     "cho13_interspeech": {
       "authors": [
@@ -18707,7 +18707,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-612",
-      "topic": "12.10"
+      "author_isca_topic": "12.10"
     },
     "wu13b_interspeech": {
       "authors": [
@@ -18735,7 +18735,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-613",
-      "topic": "11.8"
+      "author_isca_topic": "11.8"
     },
     "tsiartas13b_interspeech": {
       "authors": [
@@ -18763,7 +18763,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-614",
-      "topic": "11.8"
+      "author_isca_topic": "11.8"
     },
     "fujita13_interspeech": {
       "authors": [
@@ -18799,7 +18799,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-615",
-      "topic": "12.10"
+      "author_isca_topic": "12.10"
     },
     "haidar13_interspeech": {
       "authors": [
@@ -18823,7 +18823,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-616",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "chen13j_interspeech": {
       "authors": [
@@ -18855,7 +18855,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-617",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "bayer13_interspeech": {
       "authors": [
@@ -18879,7 +18879,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-618",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "mansikkaniemi13_interspeech": {
       "authors": [
@@ -18903,7 +18903,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-619",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "schlippe13_interspeech": {
       "authors": [
@@ -18935,7 +18935,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-620",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "wen13_interspeech": {
       "authors": [
@@ -18971,7 +18971,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-621",
-      "topic": "8.6"
+      "author_isca_topic": "8.6"
     },
     "ayadi13_interspeech": {
       "authors": [
@@ -18995,7 +18995,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-622",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "deoras13_interspeech": {
       "authors": [
@@ -19022,7 +19022,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-623",
-      "topic": "10.15"
+      "author_isca_topic": "10.15"
     },
     "jabaian13_interspeech": {
       "authors": [
@@ -19046,7 +19046,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-624",
-      "topic": "10.9"
+      "author_isca_topic": "10.9"
     },
     "lai13_interspeech": {
       "authors": [
@@ -19074,7 +19074,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-625",
-      "topic": "10.14"
+      "author_isca_topic": "10.14"
     },
     "shiang13_interspeech": {
       "authors": [
@@ -19102,7 +19102,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-626",
-      "topic": "10.14"
+      "author_isca_topic": "10.14"
     },
     "klasinas13_interspeech": {
       "authors": [
@@ -19138,7 +19138,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-627",
-      "topic": "10.1"
+      "author_isca_topic": "10.1"
     },
     "toutios13_interspeech": {
       "authors": [
@@ -19162,7 +19162,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-628",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "zhang13d_interspeech": {
       "authors": [
@@ -19198,7 +19198,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-629",
-      "topic": "6.11"
+      "author_isca_topic": "6.11"
     },
     "wang13g_interspeech": {
       "authors": [
@@ -19238,7 +19238,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-630",
-      "topic": "6.11"
+      "author_isca_topic": "6.11"
     },
     "hueber13b_interspeech": {
       "authors": [
@@ -19270,7 +19270,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-631",
-      "topic": "6.11"
+      "author_isca_topic": "6.11"
     },
     "benyoussef13_interspeech": {
       "authors": [
@@ -19298,7 +19298,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-632",
-      "topic": "6.4"
+      "author_isca_topic": "6.4"
     },
     "braude13_interspeech": {
       "authors": [
@@ -19326,7 +19326,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-633",
-      "topic": "6.11"
+      "author_isca_topic": "6.11"
     },
     "larcher13_interspeech": {
       "authors": [
@@ -19374,7 +19374,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-634",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "senoussaoui13_interspeech": {
       "authors": [
@@ -19409,7 +19409,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-635",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "charlet13_interspeech": {
       "authors": [
@@ -19441,7 +19441,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-636",
-      "topic": "9.9"
+      "author_isca_topic": "9.9"
     },
     "knox13_interspeech": {
       "authors": [
@@ -19469,7 +19469,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-637",
-      "topic": "9.8"
+      "author_isca_topic": "9.8"
     },
     "price13_interspeech": {
       "authors": [
@@ -19497,7 +19497,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-638",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "schindler13_interspeech": {
       "authors": [
@@ -19521,7 +19521,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-639",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "laurent13_interspeech": {
       "authors": [
@@ -19553,7 +19553,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-640",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "theodore13_interspeech": {
       "authors": [
@@ -19573,7 +19573,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-641",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "lecumberri13_interspeech": {
       "authors": [
@@ -19605,7 +19605,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-642",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "cutler13_interspeech": {
       "authors": [
@@ -19629,7 +19629,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-643",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "bagou13_interspeech": {
       "authors": [
@@ -19653,7 +19653,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-644",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "bosch13_interspeech": {
       "authors": [
@@ -19681,7 +19681,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-645",
-      "topic": "2.4"
+      "author_isca_topic": "2.4"
     },
     "athanasopoulos13_interspeech": {
       "authors": [
@@ -19705,7 +19705,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-646",
-      "topic": "5.9"
+      "author_isca_topic": "5.9"
     },
     "xue13b_interspeech": {
       "authors": [
@@ -19733,7 +19733,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-647",
-      "topic": "5.9"
+      "author_isca_topic": "5.9"
     },
     "harte13_interspeech": {
       "authors": [
@@ -19765,7 +19765,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-648",
-      "topic": "5.11"
+      "author_isca_topic": "5.11"
     },
     "nishigaki13_interspeech": {
       "authors": [
@@ -19805,7 +19805,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-649",
-      "topic": "5.12"
+      "author_isca_topic": "5.12"
     },
     "mehrabani13b_interspeech": {
       "authors": [
@@ -19829,7 +19829,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-650",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "molla13_interspeech": {
       "authors": [
@@ -19853,7 +19853,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-651",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "lin13b_interspeech": {
       "authors": [
@@ -19889,7 +19889,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-652",
-      "topic": "5.12"
+      "author_isca_topic": "5.12"
     },
     "ludenachoez13_interspeech": {
       "authors": [
@@ -19913,7 +19913,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-653",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "rawat13_interspeech": {
       "authors": [
@@ -19953,7 +19953,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-654",
-      "topic": "5.2"
+      "author_isca_topic": "5.2"
     },
     "altaf13_interspeech": {
       "authors": [
@@ -19981,7 +19981,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-655",
-      "topic": "5.2"
+      "author_isca_topic": "5.2"
     },
     "mynarski13_interspeech": {
       "authors": [
@@ -20001,7 +20001,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-656",
-      "topic": "5.9"
+      "author_isca_topic": "5.9"
     },
     "oualil13_interspeech": {
       "authors": [
@@ -20029,7 +20029,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-657",
-      "topic": "5.9"
+      "author_isca_topic": "5.9"
     },
     "chakraborty13_interspeech": {
       "authors": [
@@ -20053,7 +20053,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-658",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "zhuang13_interspeech": {
       "authors": [
@@ -20089,7 +20089,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-659",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "maddieson13b_interspeech": {
       "authors": [
@@ -20125,7 +20125,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-660",
-      "topic": "3.1"
+      "author_isca_topic": "3.1"
     },
     "barbosa13b_interspeech": {
       "authors": [
@@ -20145,7 +20145,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-661",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "oh13c_interspeech": {
       "authors": [
@@ -20177,7 +20177,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-662",
-      "topic": "3.1"
+      "author_isca_topic": "3.1"
     },
     "maekawa13_interspeech": {
       "authors": [
@@ -20197,7 +20197,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-663",
-      "topic": "3.10"
+      "author_isca_topic": "3.10"
     },
     "carignan13_interspeech": {
       "authors": [
@@ -20233,7 +20233,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-664",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "renwick13_interspeech": {
       "authors": [
@@ -20265,7 +20265,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-665",
-      "topic": "3.3"
+      "author_isca_topic": "3.3"
     },
     "chen13k_interspeech": {
       "authors": [
@@ -20297,7 +20297,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-666",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "wu13c_interspeech": {
       "authors": [
@@ -20333,7 +20333,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-667",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "hwang13_interspeech": {
       "authors": [
@@ -20369,7 +20369,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-668",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "tanaka13_interspeech": {
       "authors": [
@@ -20405,7 +20405,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-669",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "moriguchi13_interspeech": {
       "authors": [
@@ -20449,7 +20449,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-670",
-      "topic": "6.5"
+      "author_isca_topic": "6.5"
     },
     "aryal13_interspeech": {
       "authors": [
@@ -20477,7 +20477,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-671",
-      "topic": "6.8"
+      "author_isca_topic": "6.8"
     },
     "audhkhasi13_interspeech": {
       "authors": [
@@ -20509,7 +20509,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-672",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "bell13_interspeech": {
       "authors": [
@@ -20553,7 +20553,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-673",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "soltau13_interspeech": {
       "authors": [
@@ -20589,7 +20589,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-674",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "ueffing13_interspeech": {
       "authors": [
@@ -20617,7 +20617,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-675",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "roy13_interspeech": {
       "authors": [
@@ -20653,7 +20653,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-676",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "golik13b_interspeech": {
       "authors": [
@@ -20685,7 +20685,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-677",
-      "topic": "10.8"
+      "author_isca_topic": "10.8"
     },
     "kanda13_interspeech": {
       "authors": [
@@ -20713,7 +20713,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-678",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "vandyke13_interspeech": {
       "authors": [
@@ -20741,7 +20741,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-679",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "kinnunen13_interspeech": {
       "authors": [
@@ -20781,7 +20781,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-680",
-      "topic": "9.4"
+      "author_isca_topic": "9.4"
     },
     "hasan13_interspeech": {
       "authors": [
@@ -20805,7 +20805,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-681",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "villalba13b_interspeech": {
       "authors": [
@@ -20837,7 +20837,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-682",
-      "topic": "9.6"
+      "author_isca_topic": "9.6"
     },
     "zhu13b_interspeech": {
       "authors": [
@@ -20865,7 +20865,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-683",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "lee13c_interspeech": {
       "authors": [
@@ -20901,7 +20901,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-684",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "godin13_interspeech": {
       "authors": [
@@ -20929,7 +20929,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-685",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "yamada13_interspeech": {
       "authors": [
@@ -20957,7 +20957,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-686",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "brutti13_interspeech": {
       "authors": [
@@ -20981,7 +20981,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-687",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "mcclanahan13_interspeech": {
       "authors": [
@@ -21005,7 +21005,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-688",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "kanagasundaram13b_interspeech": {
       "authors": [
@@ -21045,7 +21045,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-689",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "villalba13c_interspeech": {
       "authors": [
@@ -21077,7 +21077,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-690",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "stafylakis13_interspeech": {
       "authors": [
@@ -21117,7 +21117,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-691",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "mallidi13_interspeech": {
       "authors": [
@@ -21145,7 +21145,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-692",
-      "topic": "9.5"
+      "author_isca_topic": "9.5"
     },
     "rajan13b_interspeech": {
       "authors": [
@@ -21173,7 +21173,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-693",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "mclaren13b_interspeech": {
       "authors": [
@@ -21209,7 +21209,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-694",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "mitra13b_interspeech": {
       "authors": [
@@ -21245,7 +21245,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-695",
-      "topic": "9.5"
+      "author_isca_topic": "9.5"
     },
     "hautamaki13d_interspeech": {
       "authors": [
@@ -21277,7 +21277,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-696",
-      "topic": "9.3"
+      "author_isca_topic": "9.3"
     },
     "fowler13_interspeech": {
       "authors": [
@@ -21360,7 +21360,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-698",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "scharenborg13_interspeech": {
       "authors": [
@@ -21384,7 +21384,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-699",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "yasu13_interspeech": {
       "authors": [
@@ -21416,7 +21416,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-700",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "gao13_interspeech": {
       "authors": [
@@ -21440,7 +21440,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-701",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "dekerle13_interspeech": {
       "authors": [
@@ -21480,7 +21480,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-702",
-      "topic": "2.9"
+      "author_isca_topic": "2.9"
     },
     "varnet13_interspeech": {
       "authors": [
@@ -21535,7 +21535,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-704",
-      "topic": "12.4"
+      "author_isca_topic": "12.4"
     },
     "ghosh13_interspeech": {
       "authors": [
@@ -21559,7 +21559,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-705",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "fejlova13_interspeech": {
       "authors": [
@@ -21587,7 +21587,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-706",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "liu13h_interspeech": {
       "authors": [
@@ -21627,7 +21627,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-707",
-      "topic": "1.3"
+      "author_isca_topic": "1.3"
     },
     "skarnitzl13_interspeech": {
       "authors": [
@@ -21655,7 +21655,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-708",
-      "topic": "12.3"
+      "author_isca_topic": "12.3"
     },
     "maeda13_interspeech": {
       "authors": [
@@ -21679,7 +21679,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-709",
-      "topic": "1.1"
+      "author_isca_topic": "1.1"
     },
     "grootswagers13_interspeech": {
       "authors": [
@@ -21715,7 +21715,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-710",
-      "topic": "1.10"
+      "author_isca_topic": "1.10"
     },
     "gowda13b_interspeech": {
       "authors": [
@@ -21739,7 +21739,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-711",
-      "topic": "1.6"
+      "author_isca_topic": "1.6"
     },
     "tajima13_interspeech": {
       "authors": [
@@ -21771,7 +21771,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-712",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "chen13l_interspeech": {
       "authors": [
@@ -21803,7 +21803,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-713",
-      "topic": "12.3"
+      "author_isca_topic": "12.3"
     },
     "kim13f_interspeech": {
       "authors": [
@@ -21831,7 +21831,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-714",
-      "topic": "1.5"
+      "author_isca_topic": "1.5"
     },
     "yasuda13_interspeech": {
       "authors": [
@@ -21855,7 +21855,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-715",
-      "topic": "1.13"
+      "author_isca_topic": "1.13"
     },
     "smith13c_interspeech": {
       "authors": [
@@ -21879,7 +21879,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-716",
-      "topic": "1.4"
+      "author_isca_topic": "1.4"
     },
     "deng13_interspeech": {
       "authors": [
@@ -21907,7 +21907,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-717",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "zheng13_interspeech": {
       "authors": [
@@ -21931,7 +21931,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-718",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "turan13_interspeech": {
       "authors": [
@@ -21955,7 +21955,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-719",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "roman13_interspeech": {
       "authors": [
@@ -21979,7 +21979,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-720",
-      "topic": "5.7"
+      "author_isca_topic": "5.7"
     },
     "kim13g_interspeech": {
       "authors": [
@@ -22003,7 +22003,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-721",
-      "topic": "5.7"
+      "author_isca_topic": "5.7"
     },
     "lu13c_interspeech": {
       "authors": [
@@ -22031,7 +22031,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-722",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "khan13_interspeech": {
       "authors": [
@@ -22055,7 +22055,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-723",
-      "topic": "5.10"
+      "author_isca_topic": "5.10"
     },
     "chuang13_interspeech": {
       "authors": [
@@ -22087,7 +22087,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-724",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "abrol13_interspeech": {
       "authors": [
@@ -22115,7 +22115,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-725",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "grais13b_interspeech": {
       "authors": [
@@ -22139,7 +22139,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-726",
-      "topic": "5.8"
+      "author_isca_topic": "5.8"
     },
     "kaewtip13_interspeech": {
       "authors": [
@@ -22167,7 +22167,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-727",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "mccallum13b_interspeech": {
       "authors": [
@@ -22191,7 +22191,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-728",
-      "topic": "5.3"
+      "author_isca_topic": "5.3"
     },
     "maymon13b_interspeech": {
       "authors": [
@@ -22219,7 +22219,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-729",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "uezu13_interspeech": {
       "authors": [
@@ -22251,7 +22251,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-730",
-      "topic": "5.7"
+      "author_isca_topic": "5.7"
     },
     "yang13c_interspeech": {
       "authors": [
@@ -22279,7 +22279,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-731",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "giuliani13_interspeech": {
       "authors": [
@@ -22303,7 +22303,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-732",
-      "topic": "7.9"
+      "author_isca_topic": "7.9"
     },
     "telaar13_interspeech": {
       "authors": [
@@ -22327,7 +22327,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-733",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "wiesler13_interspeech": {
       "authors": [
@@ -22355,7 +22355,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-734",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "saiko13_interspeech": {
       "authors": [
@@ -22391,7 +22391,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-735",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "fujimura13_interspeech": {
       "authors": [
@@ -22419,7 +22419,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-736",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "ogawa13_interspeech": {
       "authors": [
@@ -22447,7 +22447,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-737",
-      "topic": "7.11"
+      "author_isca_topic": "7.11"
     },
     "yoma13_interspeech": {
       "authors": [
@@ -22483,7 +22483,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-738",
-      "topic": "7.5"
+      "author_isca_topic": "7.5"
     },
     "triefenbach13_interspeech": {
       "authors": [
@@ -22515,7 +22515,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-739",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "fragasilva13_interspeech": {
       "authors": [
@@ -22543,7 +22543,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-740",
-      "topic": "7.8"
+      "author_isca_topic": "7.8"
     },
     "tahir13_interspeech": {
       "authors": [
@@ -22587,7 +22587,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-741",
-      "topic": "7.7"
+      "author_isca_topic": "7.7"
     },
     "parinam13_interspeech": {
       "authors": [
@@ -22615,7 +22615,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-742",
-      "topic": "5.1"
+      "author_isca_topic": "5.1"
     },
     "sanand13_interspeech": {
       "authors": [
@@ -22639,7 +22639,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-743",
-      "topic": "7.5"
+      "author_isca_topic": "7.5"
     },
     "abdelhamid13c_interspeech": {
       "authors": [
@@ -22667,7 +22667,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-744",
-      "topic": "7.6"
+      "author_isca_topic": "7.6"
     },
     "mariani13_interspeech": {
       "authors": [
@@ -22766,7 +22766,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-746",
-      "topic": "8.13"
+      "author_isca_topic": "8.13"
     },
     "mousa13_interspeech": {
       "authors": [
@@ -22798,7 +22798,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-747",
-      "topic": "8.13"
+      "author_isca_topic": "8.13"
     },
     "lambert13_interspeech": {
       "authors": [
@@ -22888,7 +22888,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-750",
-      "topic": "8.13"
+      "author_isca_topic": "8.13"
     },
     "masumura13_interspeech": {
       "authors": [
@@ -22924,7 +22924,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-751",
-      "topic": "8.13"
+      "author_isca_topic": "8.13"
     },
     "backstrom13_interspeech": {
       "authors": [
@@ -22944,7 +22944,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-752",
-      "topic": "5.5"
+      "author_isca_topic": "5.5"
     },
     "moller13_interspeech": {
       "authors": [
@@ -22996,7 +22996,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-753",
-      "topic": "5.5"
+      "author_isca_topic": "5.5"
     },
     "xia13b_interspeech": {
       "authors": [
@@ -23020,7 +23020,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-754",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "cernak13_interspeech": {
       "authors": [
@@ -23048,7 +23048,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-755",
-      "topic": "5.5"
+      "author_isca_topic": "5.5"
     },
     "duy13_interspeech": {
       "authors": [
@@ -23080,7 +23080,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-756",
-      "topic": "5.6"
+      "author_isca_topic": "5.6"
     },
     "lee13d_interspeech": {
       "authors": [
@@ -23112,7 +23112,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-757",
-      "topic": "5.5"
+      "author_isca_topic": "5.5"
     },
     "nguyen13b_interspeech": {
       "authors": [
@@ -23175,7 +23175,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-759",
-      "topic": "1.6"
+      "author_isca_topic": "1.6"
     },
     "lee13e_interspeech": {
       "authors": [
@@ -23203,7 +23203,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-760",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "lvenbruck13_interspeech": {
       "authors": [
@@ -23239,7 +23239,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-761",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "menard13_interspeech": {
       "authors": [
@@ -23283,7 +23283,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-762",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "georgeton13_interspeech": {
       "authors": [
@@ -23307,7 +23307,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-763",
-      "topic": "1.9"
+      "author_isca_topic": "1.9"
     },
     "cooke13_interspeech": {
       "authors": [
@@ -23335,7 +23335,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-764",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "erro13_interspeech": {
       "authors": [
@@ -23371,7 +23371,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-765",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "suni13_interspeech": {
       "authors": [
@@ -23411,7 +23411,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-766",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "valentinibotinhao13_interspeech": {
       "authors": [
@@ -23443,7 +23443,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-767",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "godoy13c_interspeech": {
       "authors": [
@@ -23467,7 +23467,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-768",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "schepker13_interspeech": {
       "authors": [
@@ -23495,7 +23495,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-769",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "taal13_interspeech": {
       "authors": [
@@ -23519,7 +23519,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-770",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "zhang13e_interspeech": {
       "authors": [
@@ -23547,7 +23547,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-771",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "aubanel13_interspeech": {
       "authors": [
@@ -23571,7 +23571,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-772",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "petkov13_interspeech": {
       "authors": [
@@ -23595,7 +23595,7 @@
         ""
       ],
       "doi": "10.21437/Interspeech.2013-773",
-      "topic": "12.2"
+      "author_isca_topic": "12.2"
     },
     "brouckxon13_interspeech": {
       "authors": [
