@@ -12,7 +12,7 @@
  "year": "2024",
  "SIG": "SProSIG",
  "title1": "Speech Prosody 2024",
- "booklet": "intro.pdf",
+ "booklet": "speechprosody_2024.pdf",
  "date": "2-5 July 2024",
  "month": 7,
  "day": 2,
@@ -2250,7 +2250,8 @@
    "p1": 250,
    "pn": 254,
    "doi": "10.21437/SpeechProsody.2024-51",
-   "url": "speechprosody_2024/wu24_speechprosody.html"
+   "url": "speechprosody_2024/wu24_speechprosody.html",
+   "erratum": "<p>This research was supported by Suzhou Technological Innovation in Key Industries Project Grant Number SYG202030 and Chinese international Testing Research Project Grand Number CTI2021B09.\n</p>"
   },
   "nakamura24_speechprosody": {
    "authors": [
@@ -3497,7 +3498,8 @@
    "p1": 437,
    "pn": 441,
    "doi": "10.21437/SpeechProsody.2024-89",
-   "url": "speechprosody_2024/yuan24_speechprosody.html"
+   "url": "speechprosody_2024/yuan24_speechprosody.html",
+   "erratum": "<p>Correction of results for Fig 3 & 4: \"The HNR of /i/ is lower, and the ZCR of it is higher, both indicating a greater amount of noise of lower register /i/\"\n</p>"
   },
   "yuen24_speechprosody": {
    "authors": [
