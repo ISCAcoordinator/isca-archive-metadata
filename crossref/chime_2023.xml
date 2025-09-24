@@ -3,10 +3,10 @@
 		<doi_batch_id>chime_2023</doi_batch_id>
 		<timestamp>1705397848815166</timestamp>
 		<depositor>
-			<depositor_name>Martin Cooke</depositor_name> 
+			<depositor_name>Martin Cooke</depositor_name>
 			<email_address>m.cooke@ikerbasque.org</email_address>
 		</depositor>
-		<registrant>International Speech Communication Association</registrant> 
+		<registrant>International Speech Communication Association</registrant>
 	</head>
 	<body>
 		<conference>
@@ -279,10 +279,10 @@
 				<conference_paper publication_type="full_text">
 					<contributors>
 						<person_name sequence="first" contributor_role="author">
-<given_name>Thilo von</given_name>
-<surname>Neumann</surname>
+<given_name>Thilo</given_name>
+<surname>von Neumann</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
-<given_name>Christoph B.</given_name>
+<given_name>Christoph</given_name>
 <surname>Boeddeker</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
 <given_name>Marc</given_name>
@@ -430,14 +430,14 @@
 				<conference_paper publication_type="full_text">
 					<contributors>
 						<person_name sequence="first" contributor_role="author">
-<given_name>Christoph B.</given_name>
+<given_name>Christoph</given_name>
 <surname>Boeddeker</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
 <given_name>Tobias</given_name>
 <surname>Cord-Landwehr</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
-<given_name>Thilo von</given_name>
-<surname>Neumann</surname>
+<given_name>Thilo</given_name>
+<surname>von Neumann</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
 <given_name>Reinhold</given_name>
 <surname>Haeb-Umbach</surname>

@@ -3,10 +3,10 @@
 		<doi_batch_id>interspeech_2021</doi_batch_id>
 		<timestamp>1705398665591175</timestamp>
 		<depositor>
-			<depositor_name>Martin Cooke</depositor_name> 
+			<depositor_name>Martin Cooke</depositor_name>
 			<email_address>m.cooke@ikerbasque.org</email_address>
 		</depositor>
-		<registrant>International Speech Communication Association</registrant> 
+		<registrant>International Speech Communication Association</registrant>
 	</head>
 	<body>
 		<conference>
@@ -22677,8 +22677,8 @@
 				<conference_paper publication_type="full_text">
 					<contributors>
 						<person_name sequence="first" contributor_role="author">
-<given_name>Thilo von</given_name>
-<surname>Neumann</surname>
+<given_name>Thilo</given_name>
+<surname>von Neumann</surname>
 </person_name><person_name sequence="additional" contributor_role="author">
 <given_name>Keisuke</given_name>
 <surname>Kinoshita</surname>
