@@ -1,0 +1,445 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>spsc_2025</doi_batch_id>
+		<timestamp>1758553268507427</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>5th Symposium on Security and Privacy in Speech Communication</conference_name>
+				<conference_acronym>spsc_2025</conference_acronym>
+				<conference_date>16 August 2025</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>5th Symposium on Security and Privacy in Speech Communication</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2025</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/SPSC.2025</doi>
+					<timestamp>1758553268507427</timestamp>
+					<resource>https://www.isca-archive.org/spsc_2025/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Victor</given_name>
+<surname>Moreno</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>João</given_name>
+<surname>Lima</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Flávio</given_name>
+<surname>Simões</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ricardo</given_name>
+<surname>Violato</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mário Uliani</given_name>
+<surname>Neto</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Fernando</given_name>
+<surname>Runstein</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Paula</given_name>
+<surname>Costa</surname>
+</person_name>
+					</contributors>
+					<titles><title>Revealing Cross-Lingual Bias in Synthetic Speech Detection under Controlled Conditions</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>7</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-1</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/moreno25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Michele</given_name>
+<surname>Panariello</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sarina</given_name>
+<surname>Meyer</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pierre</given_name>
+<surname>Champion</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xiaoxiao</given_name>
+<surname>Miao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Massimiliano</given_name>
+<surname>Todisco</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ngoc Thang</given_name>
+<surname>Vu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nicholas</given_name>
+<surname>Evans</surname>
+</person_name>
+					</contributors>
+					<titles><title>The Risks and Detection of Overestimated Privacy Protection in Voice Anonymisation</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>8</first_page>
+						<last_page>12</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-2</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/panariello25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Tom</given_name>
+<surname>Bäckström</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Fedor</given_name>
+<surname>Vitiugin</surname>
+</person_name>
+					</contributors>
+					<titles><title>Beyond User-centric: Modelling Privacy and Fairness Effects of Speech Interfaces on Community- and Society-Levels</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>13</first_page>
+						<last_page>17</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-3</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/backstrom25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Carlos</given_name>
+<surname>Franzreb</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Arnab</given_name>
+<surname>Das</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tim</given_name>
+<surname>Polzehl</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sebastian</given_name>
+<surname>Möller</surname>
+</person_name>
+					</contributors>
+					<titles><title>Optimizing the Dataset for the Privacy Evaluation of Speaker Anonymizers</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>18</first_page>
+						<last_page>26</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-4</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/franzreb25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Xi</given_name>
+<surname>Xuan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yang</given_name>
+<surname>Xiao</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Rohan Kumar</given_name>
+<surname>Das</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tomi</given_name>
+<surname>Kinnunen</surname>
+</person_name>
+					</contributors>
+					<titles><title>Multilingual Source Tracing of Speech Deepfakes: A First Benchmark</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>27</first_page>
+						<last_page>34</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-5</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/xuan25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rayane</given_name>
+<surname>Bakari</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Olivier Le</given_name>
+<surname>Blouch</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nicholas</given_name>
+<surname>Evans</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nicolas</given_name>
+<surname>Gengembre</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Michele</given_name>
+<surname>Panariello</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Massimiliano</given_name>
+<surname>Todisco</surname>
+</person_name>
+					</contributors>
+					<titles><title>The influence of non-timbral cues in voice anonymisation and evaluation</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>35</first_page>
+						<last_page>42</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-6</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/bakari25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jarno Van</given_name>
+<surname>Arkel</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Martha</given_name>
+<surname>Larson</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Emmanuel</given_name>
+<surname>Vincent</surname>
+</person_name>
+					</contributors>
+					<titles><title>Video games and speech privacy: A case study of Fortnite</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>43</first_page>
+						<last_page>47</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-7</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/arkel25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Bartomiej</given_name>
+<surname>Marek</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Piotr</given_name>
+<surname>Kawa</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Piotr</given_name>
+<surname>Syga</surname>
+</person_name>
+					</contributors>
+					<titles><title>Are audio DeepFake detection models polyglots?</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>48</first_page>
+						<last_page>55</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-8</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/marek25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Seoyoung</given_name>
+<surname>Park</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Thien-Phuc</given_name>
+<surname>Doan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Souhwan</given_name>
+<surname>Jung</surname>
+</person_name>
+					</contributors>
+					<titles><title>An Imperceptible Adversarial Watermarking to Prevent Voice Cloning</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>56</first_page>
+						<last_page>60</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-9</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/park25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Thomas</given_name>
+<surname>Thebaud</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nicholas</given_name>
+<surname>Mehlman</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yaohan</given_name>
+<surname>Guan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Laureano</given_name>
+<surname>Moro-Velazquez</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jesus Villalba</given_name>
+<surname>Lopez</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shrikanth</given_name>
+<surname>Narayanan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Najim</given_name>
+<surname>Dehak</surname>
+</person_name>
+					</contributors>
+					<titles><title>PPX-Anon: Prosody, Pitch and X-Vectors for De-Anonymization; our submission to the Voice Attacker Challenge 2024</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>61</first_page>
+						<last_page>67</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-10</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/thebaud25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ivanina</given_name>
+<surname>Ivanova</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Abhay Dayal</given_name>
+<surname>Mathur</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nicoline</given_name>
+<surname>Nymand-Andersen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nils</given_name>
+<surname>Holzenberger</surname>
+</person_name>
+					</contributors>
+					<titles><title>Defence Against the Deepfake Arts : Improving Audio Deepfake Detection With Context Awareness</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>68</first_page>
+						<last_page>72</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-11</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/ivanova25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Sarina</given_name>
+<surname>Meyer</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ngoc Thang</given_name>
+<surname>Vu</surname>
+</person_name>
+					</contributors>
+					<titles><title>Use Cases for Voice Anonymization</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>73</first_page>
+						<last_page>84</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-12</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/meyer25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Jule</given_name>
+<surname>Pohlhausen</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Joerg</given_name>
+<surname>Bitzer</surname>
+</person_name>
+					</contributors>
+					<titles><title>Revisiting the Privacy of Low-Frequency Speech Signals: Exploring Resampling Methods, Evaluation Scenarios, and Speaker Characteristics</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>85</first_page>
+						<last_page>89</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/SPSC.2025-13</doi>
+						<resource>https://www.isca-archive.org/spsc_2025/pohlhausen25_spsc.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

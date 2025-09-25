@@ -1,0 +1,460 @@
+{
+ "series": "SPSC",
+ "title": "5th Symposium on Security and Privacy in Speech Communication",
+ "location": "Delft, The Netherlands",
+ "startDate": "16/08/2025",
+ "endDate": "16/08/2025",
+ "URL": "https://spsc-symposium.de/",
+ "chair": "Ingo Siegert and Jennifer Williams and Sneha Das and M.A. (Martha) Larson and Mehtab Ur Rahman",
+ "intro": "intro.pdf",
+ "ISSN": "",
+ "conf": "SPSC",
+ "name": "spsc_2025",
+ "year": "2025",
+ "SIG": "",
+ "title1": "5th Symposium on Security and Privacy in Speech Communication",
+ "booklet": "intro.pdf",
+ "date": "16 August 2025",
+ "month": 8,
+ "day": 16,
+ "now": 1758553268507427,
+ "papers": {
+  "moreno25_spsc": {
+   "authors": [
+    [
+     "Victor",
+     "Moreno"
+    ],
+    [
+     "João",
+     "Lima"
+    ],
+    [
+     "Flávio",
+     "Simões"
+    ],
+    [
+     "Ricardo",
+     "Violato"
+    ],
+    [
+     "Mário Uliani",
+     "Neto"
+    ],
+    [
+     "Fernando",
+     "Runstein"
+    ],
+    [
+     "Paula",
+     "Costa"
+    ]
+   ],
+   "title": "Revealing Cross-Lingual Bias in Synthetic Speech Detection under Controlled Conditions",
+   "original": "SPSC_Paper01",
+   "order": 1,
+   "page_count": 7,
+   "abstract": [
+    "Speech-based biometric systems have been increasingly deployed in high-stakes domains such as banking, forensics, and authentication. However, these systems remain vulnerable to synthetic speech attacks, such as spoofing and deepfakes. Recent research has focused on developing countermeasures (CMs) capable of detecting manipulated audio. In this work, we investigate whether language identity influences the detectability of synthetic speech in a state-of-the-art CM pipeline. We train a detector on English-only data and evaluate it under controlled conditions using spoofed samples in ten languages synthesized by a standardized text-to-speech system. Despite uniform synthesis settings, we observe significant language-dependent disparities in detection performance. These results suggest that language identity acts as a latent bias factor, challenging the cross-lingual generalization of current CM systems and underscoring the need for fairness-aware multilingual evaluation protocols.\n"
+   ],
+   "p1": 1,
+   "pn": 7,
+   "doi": "10.21437/SPSC.2025-1",
+   "url": "spsc_2025/moreno25_spsc.html"
+  },
+  "panariello25_spsc": {
+   "authors": [
+    [
+     "Michele",
+     "Panariello"
+    ],
+    [
+     "Sarina",
+     "Meyer"
+    ],
+    [
+     "Pierre",
+     "Champion"
+    ],
+    [
+     "Xiaoxiao",
+     "Miao"
+    ],
+    [
+     "Massimiliano",
+     "Todisco"
+    ],
+    [
+     "Ngoc Thang",
+     "Vu"
+    ],
+    [
+     "Nicholas",
+     "Evans"
+    ]
+   ],
+   "title": "The Risks and Detection of Overestimated Privacy Protection in Voice Anonymisation",
+   "original": "SPSC_Paper02",
+   "order": 2,
+   "page_count": 5,
+   "abstract": [
+    "Voice anonymisation aims to conceal the voice identity of speakers in speech recordings. Privacy protection is usually estimated from the difficulty of using a speaker verification system to re-identify the speaker post-anonymisation. Performance assessments are therefore dependent on the verification model as well as the anonymisation system. There is hence potential for privacy protection to be overestimated when the verification system is poorly trained, perhaps with mismatched data. In this paper, we demonstrate the insidious risk of overestimating anonymisation performance and show examples of exaggerated performance reported in the literature. For the worst case we identified, performance is overestimated by 74% relative. We then introduce a means to detect when performance assessment might be untrustworthy and show that it can identify all overestimation scenarios presented in the paper. Our solution is openly available as a fork of the 2024 VoicePrivacy Challenge evaluation toolkit.\n"
+   ],
+   "p1": 8,
+   "pn": 12,
+   "doi": "10.21437/SPSC.2025-2",
+   "url": "spsc_2025/panariello25_spsc.html"
+  },
+  "backstrom25_spsc": {
+   "authors": [
+    [
+     "Tom",
+     "Bäckström"
+    ],
+    [
+     "Fedor",
+     "Vitiugin"
+    ]
+   ],
+   "title": "Beyond User-centric: Modelling Privacy and Fairness Effects of Speech Interfaces on Community- and Society-Levels",
+   "original": "SPSC_Paper03",
+   "order": 3,
+   "page_count": 5,
+   "abstract": [
+    "Research on privacy protections for speech technology has focused on user-centric approaches. While this is a well-motivated starting point, broader AI research includes community- and society-level effects, known as human-centric AI (HCAI). This work addresses human-values-centric speech technology (HVST) through two use cases: 1) speech-operated devices controlled by one but used by several users, and 2) telecommunication services for speech without interoperability with other services. Our experiments model user preferences and choices regarding privacy and utility. The community-level analysis evaluates how users balance their preferences with those of their peers. The society-level analysis assesses the proportion of users oppressed and discriminated against by their peers. The main results indicate that oppression and discrimination due to speech technology can be reduced by allowing fine-grained tuning of privacy preferences and mandating interoperability between communication platforms.\n"
+   ],
+   "p1": 13,
+   "pn": 17,
+   "doi": "10.21437/SPSC.2025-3",
+   "url": "spsc_2025/backstrom25_spsc.html"
+  },
+  "franzreb25_spsc": {
+   "authors": [
+    [
+     "Carlos",
+     "Franzreb"
+    ],
+    [
+     "Arnab",
+     "Das"
+    ],
+    [
+     "Tim",
+     "Polzehl"
+    ],
+    [
+     "Sebastian",
+     "Möller"
+    ]
+   ],
+   "title": "Optimizing the Dataset for the Privacy Evaluation of Speaker Anonymizers",
+   "original": "SPSC_Paper04",
+   "order": 4,
+   "page_count": 9,
+   "abstract": [
+    "Evaluating speaker anonymizers requires simulating an attack to identify anonymized speakers, as there is no ground truth to evaluate against. Its reliability depends on the data used to train and evaluate the attack. Simultaneously, the design of anonymizers would benefit from faster evaluations, whose run-time is mostly dependent on the size of the training data. Hence the question: how much data is required by the attacker to reliably and efficiently estimate an anonymizer’s privacy? Considering four diverse anonymizers, we first experiment with different sizes and configurations for the evaluation dataset. Our results highlight the attacker’s robustness: its performance does not degrade when more speakers are evaluated. Once we have defined a reliable evaluation, the second part of our study aims to improve its runtime by reducing the size of the training data. We show that 20% of the training data can be discarded with a minimal degradation of the attack’s efficacy.\n"
+   ],
+   "p1": 18,
+   "pn": 26,
+   "doi": "10.21437/SPSC.2025-4",
+   "url": "spsc_2025/franzreb25_spsc.html"
+  },
+  "xuan25_spsc": {
+   "authors": [
+    [
+     "Xi",
+     "Xuan"
+    ],
+    [
+     "Yang",
+     "Xiao"
+    ],
+    [
+     "Rohan Kumar",
+     "Das"
+    ],
+    [
+     "Tomi",
+     "Kinnunen"
+    ]
+   ],
+   "title": "Multilingual Source Tracing of Speech Deepfakes: A First Benchmark",
+   "original": "SPSC_Paper05",
+   "order": 5,
+   "page_count": 8,
+   "abstract": [
+    "Recent progress in generative AI has made it increasingly easy to create natural-sounding deepfake speech from just a few seconds of audio. While these tools support helpful applications, they also raise serious concerns by making it possible to generate convincing fake speech in many languages. Current research has largely focused on detecting fake speech, but little attention has been given to tracing the source models used to generate it. This paper introduces the first benchmark for multilingual speech deepfake source tracing, covering both mono- and cross-lingual scenarios. We comparatively investigate DSP- and SSL-based modeling; examine how SSL representations fine-tuned on different languages impact cross-lingual generalization performance; and evaluate generalization to unseen languages and speakers. Our findings offer the first comprehensive insights into the challenges of identifying speech generation models when training and inference languages differ. The dataset, protocol and code are available at https://github.com/ xuanxixi/Multilingual-Source-Tracing.\n"
+   ],
+   "p1": 27,
+   "pn": 34,
+   "doi": "10.21437/SPSC.2025-5",
+   "url": "spsc_2025/xuan25_spsc.html"
+  },
+  "bakari25_spsc": {
+   "authors": [
+    [
+     "Rayane",
+     "Bakari"
+    ],
+    [
+     "Olivier Le",
+     "Blouch"
+    ],
+    [
+     "Nicholas",
+     "Evans"
+    ],
+    [
+     "Nicolas",
+     "Gengembre"
+    ],
+    [
+     "Michele",
+     "Panariello"
+    ],
+    [
+     "Massimiliano",
+     "Todisco"
+    ]
+   ],
+   "title": "The influence of non-timbral cues in voice anonymisation and evaluation",
+   "original": "SPSC_Paper06",
+   "order": 6,
+   "page_count": 8,
+   "abstract": [
+    "Most approaches to voice anonymisation focus predominantly upon the obfuscation of timbral attributes. Approaches to evaluation which use traditional automatic speaker verification (ASV) systems such as ECAPA-TDNN can result in the over-estimation of anonymisation performance since they too focus on timbral cues. In this paper, we show that the use of residual non-timbral attributes, e.g. related to prosody, rhythm, style and accent which also carry information related to the voice identity, can still be used to re-identify the speaker. When timbral cues are compromised, non-timbral cues can provide more reliable estimates of anonymisation performance. We also show that, when trained to focus on non-timbral attributes, a WavLM-based model outperforms the baseline ECAPA-TDNN model when operating upon anonymised speech. Using the latter, the equal error rate for the best 2024 VoicePrivacy Challenge baseline is overestimated by 32% relative. Ultimately, we hope to provide a fresh perspective, laying the foundation for more robust and comprehensive evaluations of voice anonymisation and highlighting the importance to future anonymisation systems of obfuscating non-timbral information.\n"
+   ],
+   "p1": 35,
+   "pn": 42,
+   "doi": "10.21437/SPSC.2025-6",
+   "url": "spsc_2025/bakari25_spsc.html"
+  },
+  "arkel25_spsc": {
+   "authors": [
+    [
+     "Jarno Van",
+     "Arkel"
+    ],
+    [
+     "Martha",
+     "Larson"
+    ],
+    [
+     "Emmanuel",
+     "Vincent"
+    ]
+   ],
+   "title": "Video games and speech privacy: A case study of Fortnite",
+   "original": "SPSC_Paper07",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "Digital environments such as video games increasingly include voice communications. However, papers pertaining to video game privacy concerns leave speech data unexplored. In order to illustrate threats that arise when user speech is recorded, we carried out a case study describing the video game Fortnite. Specifically, this case study describes the ability to link user speech to a persistent pseudonym, producing an identifying record. An identifying record contains all personal data that can be attributed to a person. These records can be augmented to include more personal data through data linkage based on speech content, attribute inference and speaker identification. By drawing attention to the exposure of speech data in Fortnite, this paper aims to launch a discussion on online speech privacy in video game environments.\n"
+   ],
+   "p1": 43,
+   "pn": 47,
+   "doi": "10.21437/SPSC.2025-7",
+   "url": "spsc_2025/arkel25_spsc.html"
+  },
+  "marek25_spsc": {
+   "authors": [
+    [
+     "Bartomiej",
+     "Marek"
+    ],
+    [
+     "Piotr",
+     "Kawa"
+    ],
+    [
+     "Piotr",
+     "Syga"
+    ]
+   ],
+   "title": "Are audio DeepFake detection models polyglots?",
+   "original": "SPSC_Paper08",
+   "order": 8,
+   "page_count": 8,
+   "abstract": [
+    "Since the majority of audio DeepFake (DF) detection methods are trained on English-centric datasets, their applicability to non-English languages remains largely unexplored. In this work, we introduce a benchmark for the multilingual audio DF detection challenge by evaluating various adaptation strategies. Our experiments focus on analyzing models trained on English benchmark datasets, as well as intra-linguistic (same-language) and cross-linguistic adaptation approaches. Our results indicate considerable variations in detection efficacy, highlighting the difficulties of multilingual settings. We show that limiting the training dataset to English negatively impacts the efficacy, while using even a small amount of data in the target language proves more beneficial for detection than adding larger volumes of data from multiple non-target languages combined.\n"
+   ],
+   "p1": 48,
+   "pn": 55,
+   "doi": "10.21437/SPSC.2025-8",
+   "url": "spsc_2025/marek25_spsc.html"
+  },
+  "park25_spsc": {
+   "authors": [
+    [
+     "Seoyoung",
+     "Park"
+    ],
+    [
+     "Thien-Phuc",
+     "Doan"
+    ],
+    [
+     "Souhwan",
+     "Jung"
+    ]
+   ],
+   "title": "An Imperceptible Adversarial Watermarking to Prevent Voice Cloning",
+   "original": "SPSC_Paper09",
+   "order": 9,
+   "page_count": 5,
+   "abstract": [
+    "Recent advances in speech synthesis have enabled voice cloning from just a few seconds of audio, posing a serious threat to speaker verification systems. Although many deepfake detection methods have been proposed, they are inherently reactive and cannot prevent cloning itself. In contrast to such methods, adversarial defenses take a proactive approach by interfering with the voice representation process within speaker encoders. In this work, we build on the AntiFake framework and introduce key improvements: we incorporate perceptual constraints to preserve audio quality, propose an efficient target selection strategy, and design a loss function that balances proximity to the target embedding with separation from the original speaker identity. To validate the generality of our approach, we further extend our evaluation to recent zero-shot TTS models. Experiments demonstrate that our method provides effective protection against cloning with minimal perceptual degradation.\n"
+   ],
+   "p1": 56,
+   "pn": 60,
+   "doi": "10.21437/SPSC.2025-9",
+   "url": "spsc_2025/park25_spsc.html"
+  },
+  "thebaud25_spsc": {
+   "authors": [
+    [
+     "Thomas",
+     "Thebaud"
+    ],
+    [
+     "Nicholas",
+     "Mehlman"
+    ],
+    [
+     "Yaohan",
+     "Guan"
+    ],
+    [
+     "Laureano",
+     "Moro-Velazquez"
+    ],
+    [
+     "Jesus Villalba",
+     "Lopez"
+    ],
+    [
+     "Shrikanth",
+     "Narayanan"
+    ],
+    [
+     "Najim",
+     "Dehak"
+    ]
+   ],
+   "title": "PPX-Anon: Prosody, Pitch and X-Vectors for De-Anonymization; our submission to the Voice Attacker Challenge 2024",
+   "original": "SPSC_Paper10",
+   "order": 10,
+   "page_count": 7,
+   "abstract": [
+    "We present a novel approach to de-anonymize speech that has been transformed by a voice privacy system. Inspired by the complex and multi-factorial nature of speaker identification, we extract three different identity-related features, namely X-Vectors, pitch-based representations, and prosody embeddings. These features are then fused together and used to perform speaker verification on the anonymized data. By integrating multiple parallel streams of identity information, we increase the robustness of the system to different voice conversion methods and also allow for easy fine-tuning to exploit the unique weaknesses of a specific anonymization method.\n"
+   ],
+   "p1": 61,
+   "pn": 67,
+   "doi": "10.21437/SPSC.2025-10",
+   "url": "spsc_2025/thebaud25_spsc.html"
+  },
+  "ivanova25_spsc": {
+   "authors": [
+    [
+     "Ivanina",
+     "Ivanova"
+    ],
+    [
+     "Abhay Dayal",
+     "Mathur"
+    ],
+    [
+     "Nicoline",
+     "Nymand-Andersen"
+    ],
+    [
+     "Nils",
+     "Holzenberger"
+    ]
+   ],
+   "title": "Defence Against the Deepfake Arts : Improving Audio Deepfake Detection With Context Awareness",
+   "original": "SPSC_Paper11",
+   "order": 11,
+   "page_count": 5,
+   "abstract": [
+    "The increasing use of generative AI models to create realistic deepfakes poses significant challenges to information security, particularly in the realm of audio manipulation. Current audio deepfake detection methods focus on the acoustic signal and learn to spot artifacts produced by specific deepfake generators. This makes them inherently brittle when deployed to real-world datasets. We start from the intuitive observation that, in audio deepfakes, the person heard on the recording did not author the content of the utterance. This leads us to leverage speaker and author representations for speech and text. We introduce a novel multimodal approach, Defence Against the Deepfake Arts (DADA), involving two independent models for speech and text trained using contrastive learning, which then feed into a classifier fine-tuned for deepfake detection. We show empirically how our method robustly transfers to multiple methods of deepfake generation, setting a new state-of-the-art on the EER metric on multiple benchmarks.\n"
+   ],
+   "p1": 68,
+   "pn": 72,
+   "doi": "10.21437/SPSC.2025-11",
+   "url": "spsc_2025/ivanova25_spsc.html"
+  },
+  "meyer25_spsc": {
+   "authors": [
+    [
+     "Sarina",
+     "Meyer"
+    ],
+    [
+     "Ngoc Thang",
+     "Vu"
+    ]
+   ],
+   "title": "Use Cases for Voice Anonymization",
+   "original": "SPSC_Paper12",
+   "order": 12,
+   "page_count": 12,
+   "abstract": [
+    "The performance of a voice anonymization system is typically measured according to its ability to hide the speaker’s identity and keep the data’s utility for downstream tasks. This means that the requirements the anonymization should fulfill depend on the context in which it is used and may differ greatly between use cases. However, these use cases are rarely specified in research papers. In this paper, we study the implications of use case-specific requirements on the design of voice anonymization methods. We perform an extensive literature analysis and user study to collect possible use cases and to understand the expectations of the general public towards such tools. Based on these studies, we propose the first taxonomy of use cases for voice anonymization, and derive a set of requirements and design criteria for method development and evaluation. Using this scheme, we propose to focus more on use case-oriented research and development of voice anonymization systems.\n"
+   ],
+   "p1": 73,
+   "pn": 84,
+   "doi": "10.21437/SPSC.2025-12",
+   "url": "spsc_2025/meyer25_spsc.html"
+  },
+  "pohlhausen25_spsc": {
+   "authors": [
+    [
+     "Jule",
+     "Pohlhausen"
+    ],
+    [
+     "Joerg",
+     "Bitzer"
+    ]
+   ],
+   "title": "Revisiting the Privacy of Low-Frequency Speech Signals: Exploring Resampling Methods, Evaluation Scenarios, and Speaker Characteristics",
+   "original": "SPSC_Paper13",
+   "order": 13,
+   "page_count": 5,
+   "abstract": [
+    "While audio recordings in real life provide insights into social dynamics and conversational behavior, they also raise concerns about the privacy of personal, sensitive data. This article explores the effectiveness of restricting recordings to low-frequency audio to protect spoken content. For resampling the audio signals to different sampling rates, we compare the effect of employing anti-aliasing filtering. Privacy enhancement is measured by an increased word error rate of automatic speech recognition models. The impact on utility performance is measured with voice activity detection models. Our experimental results show that for clean recordings, models trained with a sampling rate of up to 800 Hz transcribe the majority of words correctly. For both models, we analyzed the impact of the speaker’s sex and pitch, and we demonstrated that missing anti-aliasing filters more strongly compromise speech privacy.\n"
+   ],
+   "p1": 85,
+   "pn": 89,
+   "doi": "10.21437/SPSC.2025-13",
+   "url": "spsc_2025/pohlhausen25_spsc.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Oral Sessions",
+   "papers": [
+    "moreno25_spsc",
+    "panariello25_spsc",
+    "backstrom25_spsc",
+    "franzreb25_spsc",
+    "xuan25_spsc",
+    "bakari25_spsc",
+    "arkel25_spsc",
+    "marek25_spsc"
+   ]
+  },
+  {
+   "title": "Poster Session",
+   "papers": [
+    "park25_spsc",
+    "thebaud25_spsc",
+    "ivanova25_spsc",
+    "meyer25_spsc",
+    "pohlhausen25_spsc"
+   ]
+  }
+ ],
+ "doi": "10.21437/SPSC.2025"
+}
