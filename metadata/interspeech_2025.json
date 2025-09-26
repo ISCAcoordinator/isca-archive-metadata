@@ -22939,7 +22939,8 @@
    "p1": 256,
    "pn": 260,
    "doi": "10.21437/Interspeech.2025-1526",
-   "url": "interspeech_2025/deheerkloots25_interspeech.html"
+   "url": "interspeech_2025/deheerkloots25_interspeech.html",
+   "erratum": "<p>\nCorrection to Section 2 (Models): This archival publication contains misreported numbers on the CommonVoice data included in pre-training the Wav2Vec2-NL model. The correct number of hours sampled from CommonVoice is <b>83</b>, making the total number of hours in Wav2Vec2-NL pre-training <b>831</b>. Across the full training set, audio samples ranged between <b>2</b> and <b>20</b> seconds in length. \n</p>\n"
   },
   "ozer25_interspeech": {
    "authors": [
