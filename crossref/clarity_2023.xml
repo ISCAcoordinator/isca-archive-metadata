@@ -1,0 +1,182 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>clarity_2023</doi_batch_id>
+		<timestamp>1761721899577760</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>The 4th Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2023)</conference_name>
+				<conference_acronym>clarity_2023</conference_acronym>
+				<conference_date>19 August 2023</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>The 4th Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2023)</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2023</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/Clarity.2023</doi>
+					<timestamp>1761721899577760</timestamp>
+					<resource>https://www.isca-archive.org/clarity_2023/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Santiago</given_name>
+<surname>Cuervo</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ricard</given_name>
+<surname>Marxer</surname>
+</person_name>
+					</contributors>
+					<titles><title>Temporal-hierarchical features from noise-robust speech foundation models for non-intrusive intelligibility prediction</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>19</day>
+						<year>2023</year>
+					</publication_date>
+					<pages>
+						<first_page>17</first_page>
+						<last_page>19</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Clarity.2023-5</doi>
+						<resource>https://www.isca-archive.org/clarity_2023/cuervo23_clarity.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Mark</given_name>
+<surname>Huckvale</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Gaston</given_name>
+<surname>Hilkhuysen</surname>
+</person_name>
+					</contributors>
+					<titles><title>Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>19</day>
+						<year>2023</year>
+					</publication_date>
+					<pages>
+						<first_page>9</first_page>
+						<last_page>11</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Clarity.2023-3</doi>
+						<resource>https://www.isca-archive.org/clarity_2023/huckvale23_clarity.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Candy Olivia</given_name>
+<surname>Mawalim</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xiajie</given_name>
+<surname>Zhou</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shogo</given_name>
+<surname>Okada</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Masashi</given_name>
+<surname>Unoki</surname>
+</person_name>
+					</contributors>
+					<titles><title>A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and Time-Series Model with One-Hot Listener Embedding</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>19</day>
+						<year>2023</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>3</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Clarity.2023-1</doi>
+						<resource>https://www.isca-archive.org/clarity_2023/mawalim23_clarity.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rhiannon</given_name>
+<surname>Mogridge</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>George</given_name>
+<surname>Close</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Robert</given_name>
+<surname>Sutherland</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Stefan</given_name>
+<surname>Goetze</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Anton</given_name>
+<surname>Ragni</surname>
+</person_name>
+					</contributors>
+					<titles><title>Pre-Trained Intermediate ASR Features and Human Memory Simulation for Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction Challenge 2</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>19</day>
+						<year>2023</year>
+					</publication_date>
+					<pages>
+						<first_page>14</first_page>
+						<last_page>16</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Clarity.2023-4</doi>
+						<resource>https://www.isca-archive.org/clarity_2023/mogridge23_clarity.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Ryandhimas E</given_name>
+<surname>Zezario</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Chiou-Shann</given_name>
+<surname>Fuh</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Hsin-Min</given_name>
+<surname>Wang</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Tsao</surname>
+</person_name>
+					</contributors>
+					<titles><title>Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids </title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>19</day>
+						<year>2023</year>
+					</publication_date>
+					<pages>
+						<first_page>4</first_page>
+						<last_page>6</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/Clarity.2023-2</doi>
+						<resource>https://www.isca-archive.org/clarity_2023/zezario23_clarity.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

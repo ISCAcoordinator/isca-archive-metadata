@@ -1,0 +1,268 @@
+{
+ "title": "The 4th Clarity Workshop on Machine Learning Challenges for Hearing Aids (Clarity-2023)",
+ "location": "Dublin, Ireland",
+ "startDate": "19/8/2023",
+ "endDate": "19/8/2023",
+ "URL": "https://claritychallenge.org/clarity2023-workshop/",
+ "chair": "Chairs: Michael Akeroyd, Will Bailey, Jon Barker, Fei Chen, Trevor Cox, John Culling, Simone Graetzer, Andrew Hines, Graham Naylor",
+ "series": "Clarity",
+ "conf": "Clarity",
+ "name": "clarity_2023",
+ "year": "2023",
+ "SIG": "",
+ "title1": "The 4th Clarity Workshop on Machine Learning Challenges for Hearing Aids",
+ "title2": "(Clarity-2023)",
+ "booklet": "intro.pdf",
+ "date": "19 August 2023",
+ "month": 8,
+ "day": 19,
+ "now": 1761721899577760,
+ "papers": {
+  "chen23_clarity": {
+   "authors": [
+    [
+     "Fei",
+     "Chen"
+    ]
+   ],
+   "title": "Objective speech intelligibility prediction: Insights from human speech perception",
+   "original": "Clarity_2023_chen",
+   "order": 1,
+   "page_count": 0,
+   "abstract": [
+    "Speech intelligibility assessment plays an important role in speech and hearing studies. Designing a computational speech intelligibility model can significantly facilitate our studies, e.g., speech enhancement and speech coding. While many objective speech intelligibility prediction models are available, there are still challenges towards improving the prediction performance of intelligibility indices. Human speech perception studies provide us not only knowledge on various (e.g., acoustic, linguistic) impacts on speech understanding in different listening environments, but also insights on design a reliable objective intelligibility prediction index. In this talk, I will first introduce studies on important acoustic cues on human speech perception. Then, I will review the design of some existing intelligibility prediction models and efforts to improve their prediction power. Finally, I will briefly introduce new developments towards objective speech intelligibility prediction, e.g., machine learning and neurophysiological measurement methods."
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "cuervo23_clarity": {
+   "authors": [
+    [
+     "Santiago",
+     "Cuervo"
+    ],
+    [
+     "Ricard",
+     "Marxer"
+    ]
+   ],
+   "title": "Temporal-hierarchical features from noise-robust speech foundation models for non-intrusive intelligibility prediction",
+   "original": "Clarity_2023_cuervo",
+   "order": 8,
+   "page_count": 3,
+   "abstract": [
+    "We present a method for non-intrusive speech intelligibility prediction leveraging temporal and hierarchical features from noise-robust speech foundation models. First, a temporal trans- former is applied along the time axis to sequences of representations obtained at each layer of the foundation model. The resultant features are then averaged along the time axis, yielding one embedding per layer. Next, a layer-wise transformer is applied to the set of layers’ representations to derive multi-level features. The resulting sequence is averaged along the layer axis. This pipeline is applied to each channel of the binaural signal, obtaining one embedding per channel. To account for non-linear binaural interactions, each transformer block has a cross-attention layer between the two channels. Finally, the embeddings from both channels are averaged, yielding the final representation used to predict the percentage of correctly recognized words in the utterance through a linear projection. Predictions are conditioned on the listener’s audiogram, treated as an additional layer before the layer-wise transformer. We performed experiments using the CPC2 dataset with Whisper and WavLM as backbones. Our results show significant improvements over the baseline model."
+   ],
+   "p1": 17,
+   "pn": 19,
+   "doi": "10.21437/Clarity.2023-5",
+   "url": "clarity_2023/cuervo23_clarity.html"
+  },
+  "huckvale23_clarity": {
+   "authors": [
+    [
+     "Mark",
+     "Huckvale"
+    ],
+    [
+     "Gaston",
+     "Hilkhuysen"
+    ]
+   ],
+   "title": "Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners",
+   "original": "Clarity_2023_huckvale",
+   "order": 5,
+   "page_count": 3,
+   "abstract": [
+    "This paper describes a system developed at UCL for the second Clarity Prediction Challenge. The system combines information about: signal acoustics from the STOI metric, phonetics from phone lattice comparison, linguistics from a language model, and audiometric data from pure-tone thresholds. A non-linear regression model based on these features showed an RMS prediction error of 22.4% on the training set compared to a baseline of 26.4% using the STOI metric alone. On the challenge evaluation set, the model had an error of 25.36%."
+   ],
+   "p1": 9,
+   "pn": 11,
+   "doi": "10.21437/Clarity.2023-3",
+   "url": "clarity_2023/huckvale23_clarity.html"
+  },
+  "mamun23_clarity": {
+   "authors": [
+    [
+     "Nursadul",
+     "Mamun"
+    ],
+    [
+     "Sabbir",
+     "Ahmed"
+    ],
+    [
+     "John H.L.",
+     "Hansen"
+    ]
+   ],
+   "title": "Prediction of Behavioral Speech Intelligibility using a Computational Model of the Auditory System ",
+   "original": "Clarity_2023_mamun",
+   "order": 4,
+   "page_count": 2,
+   "abstract": [
+    "This paper introduces a speech intelligibility prediction metric, the neurogram orthogonal polynomial measure (NOPM),to address the growing concern of Sensorineural Hearing Loss(SNHL). The proposed NOPM metric utilizes orthogonal moments applied to the auditory neurogram to predict speech intelligibility for both listeners with normal hearing and those experiencing hearing loss. To achieve this, the model simulates the responses of auditory-nerve fibers to speech signals, considering both quiet and noisy conditions. Neurograms are generated using a physiologically based computational model of the auditory periphery. Applying the wellknown orthogonal polynomial measure, Krawtchouk moments facilitates the extraction of relevant features from the auditory neurogram. To validate themetric’s accuracy, the predicted intelligibility scores were compared with subjective results. Encouragingly, NOPM demonstrated a strong correlation with the subjective scores for both normal listeners and individuals with hearing loss."
+   ],
+   "p1": 7,
+   "pn": 8
+  },
+  "mawalim23_clarity": {
+   "authors": [
+    [
+     "Candy Olivia",
+     "Mawalim"
+    ],
+    [
+     "Xiajie",
+     "Zhou"
+    ],
+    [
+     "Shogo",
+     "Okada"
+    ],
+    [
+     "Masashi",
+     "Unoki"
+    ]
+   ],
+   "title": "A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and Time-Series Model with One-Hot Listener Embedding",
+   "original": "Clarity_2023_mawalim",
+   "order": 2,
+   "page_count": 3,
+   "abstract": [
+    "This paper describes our proposed speech intelligibility prediction system submitted to the second Clarity Prediction Challenge (CPC2). This challenge aims to facilitate the advancement of improved hearing aids through the automatic prediction of speech intelligibility. Our system was developed by integrating the equalization-cancellation model to mimic the central processing of binaural cues. Further, we trained a time-series model with a one-hot listener characteristic embedding layer to predict speech intelligibility. The preliminary evaluation of the development set showed that our proposed method could effectively predict speech intelligibility."
+   ],
+   "p1": 1,
+   "pn": 3,
+   "doi": "10.21437/Clarity.2023-1",
+   "url": "clarity_2023/mawalim23_clarity.html"
+  },
+  "mogridge23_clarity": {
+   "authors": [
+    [
+     "Rhiannon",
+     "Mogridge"
+    ],
+    [
+     "George",
+     "Close"
+    ],
+    [
+     "Robert",
+     "Sutherland"
+    ],
+    [
+     "Stefan",
+     "Goetze"
+    ],
+    [
+     "Anton",
+     "Ragni"
+    ]
+   ],
+   "title": "Pre-Trained Intermediate ASR Features and Human Memory Simulation for Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction Challenge 2",
+   "original": "Clarity_2023_mogridge",
+   "order": 7,
+   "page_count": 3,
+   "abstract": [
+    "This report describes an entry to the Clarity Prediction Challenge 2. Non-intrusive speech intelligibility neural networks are trained using the challenge data which make use of novel input feature representations sourced from the intermediate layers of a pre-trained automatic speech recognition (ASR) system. These are combined with an exemplar-based model of human memory to predict human intelligibility ratings. Performance improvement over the baseline system on disjoint validation sets is found, and a challenge entry using the proposed system is described."
+   ],
+   "p1": 14,
+   "pn": 16,
+   "doi": "10.21437/Clarity.2023-4",
+   "url": "clarity_2023/mogridge23_clarity.html"
+  },
+  "wang23_clarity": {
+   "authors": [
+    [
+     "DeLiang",
+     "Wang"
+    ]
+   ],
+   "title": "Neural Spectrospatial Filtering",
+   "original": "Clarity_2023_wang",
+   "order": 9,
+   "page_count": 0,
+   "abstract": [
+    "As the most widely-used spatial filtering approach for multi-channel signal separation, beamforming extracts the target signal arriving from a specific direction. We present an emerging approach based on multi-channel complex spectral mapping, which trains a deep neural network (DNN) to directly estimate the real and imaginary spectrograms of the target signal from those of the multi-channel noisy mixture. In this all-neural approach, the trained DNN itself becomes a nonlinear, time-varying spectrospatial filter. How does this conceptually simple approach perform relative to commonly-used beamforming techniques on different array configurations and in different acoustic environments? We examine this issue systematically on speech dereverberation, speech enhancement, and speaker separation tasks. Comprehensive evaluations show that multi-channel complex spectral mapping achieves very competitive speech separation results compared to beamforming for different array geometries, and reduces to monaural complex spectral mapping in single-channel conditions, demonstrating the versatility of this new approach for multi-channel and single-channel speech separation. In addition, such an approach is computationally more efficient than popular mask-based beamforming. We conclude that this neural spectrospatial filter provides a broader approach than traditional and DNN-based beamforming."
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "yamamoto23_clarity": {
+   "authors": [
+    [
+     "Katsuhiko",
+     "Yamamoto"
+    ]
+   ],
+   "title": "A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 ",
+   "original": "Clarity_2023_yamamoto",
+   "order": 6,
+   "page_count": 2,
+   "abstract": [
+    "A non-intrusive speech intelligibility (SI) prediction method is proposed for the second Clarity Prediction Challenge (CPC2). The model employs self-attention mechanisms and two types of multi-task learning to estimate speech segments and predict the SI of a target speech without the corresponding reference signal. The shared layer consists of latent representations of a deep neural network extracted from outputs of non-linear auditory filter-banks with individual hearing-impaired listeners’ audiograms. Evaluation results with the development dataset for CPC2 show the proposed method outperforms the baseline, which needs the corresponding reference signal."
+   ],
+   "p1": 12,
+   "pn": 13
+  },
+  "zezario23_clarity": {
+   "authors": [
+    [
+     "Ryandhimas E",
+     "Zezario"
+    ],
+    [
+     "Chiou-Shann",
+     "Fuh"
+    ],
+    [
+     "Hsin-Min",
+     "Wang"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ]
+   ],
+   "title": "Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids ",
+   "original": "Clarity_2023_zezario",
+   "order": 3,
+   "page_count": 3,
+   "abstract": [
+    "Improving the effectiveness of hearing aid (HA) devices in assisting users to understand speech in noisy surroundings is of utmost importance. To achieve this, it is critical to create a metric that can accurately forecast speech intelligibility for HA users. In our previous research, we introduced a non-intrusive multi-branched speech intelligibility prediction model known as MBI-Net. Building upon the promising outcomes of MBI-Net, our goal is to further enhance its performance by incorporating a pre-trained weakly supervised model called Whisper to enrich the acoustic features. We propose two versions of MBI-Net with these enhancements, namely MBI-Net+ and MBI-Net++. MBI-Net+ maintains the same model architecture as MBI-Net, featuring two branches, each consisting of a hearing loss model, a cross-domain feature extraction module, a task-specific layer, and a linear layer that produces the final output. Unlike the original MBI-Net, which relies on a self-supervised learning (SSL) model for deploying cross-domain features, MBI-Net+ adopts Whisper to deploy the acoustic features. Similarly, MBI-Net++ also employs Whisper for deploying the cross-domain features but with a more elaborate design, consisting of two branches, where each branch aims to predict the frame-level scores of intelligibility and HASPI (Hearing Aid Speech Perception Index), respectively. The predicted frame-level scores from each corresponding score are concatenated and fused using two different linear layers to produce the final prediction scores for intelligibility and HASPI."
+   ],
+   "p1": 4,
+   "pn": 6,
+   "doi": "10.21437/Clarity.2023-2",
+   "url": "clarity_2023/zezario23_clarity.html"
+  }
+ },
+ "sessions": [
+  {
+   "title": "Keynote 1 - Fei Chen",
+   "papers": [
+    "chen23_clarity"
+   ]
+  },
+  {
+   "title": "Oral Session",
+   "papers": [
+    "mawalim23_clarity",
+    "zezario23_clarity",
+    "mamun23_clarity",
+    "huckvale23_clarity",
+    "yamamoto23_clarity",
+    "mogridge23_clarity",
+    "cuervo23_clarity"
+   ]
+  },
+  {
+   "title": "Keynote 2 - DeLiang Wang",
+   "papers": [
+    "wang23_clarity"
+   ]
+  }
+ ],
+ "doi": "10.21437/Clarity.2023"
+}
