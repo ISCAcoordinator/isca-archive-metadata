@@ -15761,41 +15761,6 @@
    "doi": "10.21437/Interspeech.2025-1075",
    "url": "interspeech_2025/kim25m_interspeech.html"
   },
-  "liu25i_interspeech": {
-   "authors": [
-    [
-     "Hongbin",
-     "Liu"
-    ],
-    [
-     "Lun",
-     "Wang"
-    ],
-    [
-     "Om",
-     "Thakkar"
-    ],
-    [
-     "Abhradeep",
-     "Thakurta"
-    ],
-    [
-     "Arun",
-     "Narayanan"
-    ]
-   ],
-   "title": "Differentially Private Parameter-Efficient Fine-tuning for Large ASR Models",
-   "original": "1076",
-   "order": 311,
-   "page_count": 5,
-   "abstract": [
-    "Large ASR models can inadvertently leak sensitive information, which can be mitigated by formal privacy measures like differential privacy (DP). However, traditional DP training is computationally expensive, and can hurt model performance. Our study explores DP parameter-efficient fine-tuning as a way to mitigate privacy risks with smaller computation and performance costs for ASR models. Through extensive experimentation and progressive optimization, we achieve 4.6%/8.1% word error rate on LibriSpeech clean/other test-sets, setting a new performance benchmark while maintaining (10, 3.52e-6)-DP in fine-tuning a large ASR model with over 600M parameters."
-   ],
-   "p1": 1523,
-   "pn": 1527,
-   "doi": "10.21437/Interspeech.2025-1076",
-   "url": "interspeech_2025/liu25i_interspeech.html"
-  },
   "mena25_interspeech": {
    "authors": [
     [
@@ -30964,41 +30929,6 @@
    "doi": "10.21437/Interspeech.2025-2071",
    "url": "interspeech_2025/hegde25_interspeech.html"
   },
-  "cheng25c_interspeech": {
-   "authors": [
-    [
-     "Xize",
-     "Cheng"
-    ],
-    [
-     "Zehan",
-     "Wang"
-    ],
-    [
-     "Rongjie",
-     "Huang"
-    ],
-    [
-     "Huadai",
-     "Liu"
-    ],
-    [
-     "Tao",
-     "Jin"
-    ]
-   ],
-   "title": "Robust Speech-Driven Body Language Generation",
-   "original": "2073",
-   "order": 1027,
-   "page_count": 5,
-   "abstract": [
-    "With the continuous advancement of video generation technologies, researchers have developed speech-driven body language synthesis, including co-speech gestures and 3D facial animation, and more. However, due to the lack of paired data between visual speech (i.e., lip movements) and body language, existing methods typically rely solely on audio speech. This dependency makes it challenging to accurately synthesize the desired outcomes in noisy environments. To address this limitation, we introduce AV2Body, a robust speech-driven body language synthesis method designed to achieve reliable synthesis even under noisy conditions. Experimental results demonstrate that our method excels in synthesizing a variety of body language modalities in noisy environments, exhibiting strong noise robustness."
-   ],
-   "p1": 5033,
-   "pn": 5037,
-   "doi": "10.21437/Interspeech.2025-2073",
-   "url": "interspeech_2025/cheng25c_interspeech.html"
-  },
   "li25ba_interspeech": {
    "authors": [
     [
@@ -40720,83 +40650,6 @@
    "p1": 308,
    "pn": 309
   },
-  "blouir25_interspeech": {
-   "authors": [
-    [
-     "Sam",
-     "Blouir"
-    ],
-    [
-     "Celeste",
-     "Watkins"
-    ],
-    [
-     "Milind",
-     "Agarwal"
-    ],
-    [
-     "Poorvi",
-     "Acharya"
-    ],
-    [
-     "Belu",
-     "Ticona"
-    ],
-    [
-     "Defne",
-     "Circi"
-    ],
-    [
-     "Flavia",
-     "Negrete"
-    ],
-    [
-     "Staci",
-     "Chan"
-    ],
-    [
-     "Jonathan",
-     "Mbuya Kbala"
-    ],
-    [
-     "Syeda Sabrina",
-     "Akter"
-    ],
-    [
-     "Joshua",
-     "Otten"
-    ],
-    [
-     "Ruoyu",
-     "Xie"
-    ],
-    [
-     "Kourosh",
-     "Baghaei"
-    ],
-    [
-     "Christina B",
-     "Downing"
-    ],
-    [
-     "Antonis",
-     "Anastasopoulos"
-    ],
-    [
-     "Amarda",
-     "Shehu"
-    ]
-   ],
-   "title": "SLP Sidekick: An Open-Source, Multilingual Speech Therapy Platform",
-   "original": "2839",
-   "order": 1014,
-   "page_count": 2,
-   "abstract": [
-    "Speech-language impairments affect millions globally, yet access to treatment is limited by clinician shortages, high costs, and linguistic barriers. We present SLP Sidekick, an open-source AI system that enhances speech-language therapy accessibility through multilingual, culturally adapted exercises powered by automatic speech recognition (ASR) and large language models (LLMs). The system offers adaptive feedback, automated session documentation, and voice-to-voice interactions suitable for diverse linguistic and cultural contexts. We detail the system’s architecture, workflow, theoretical foundations, and potential impact, complemented by illustrative images and a demonstration video."
-   ],
-   "p1": 4971,
-   "pn": 4972
-  },
   "moore25_interspeech": {
    "authors": [
     [
@@ -41399,8 +41252,7 @@
     "fathan25_interspeech",
     "hu25j_interspeech",
     "karimov25_interspeech",
-    "meng25_interspeech",
-    "liu25i_interspeech"
+    "meng25_interspeech"
    ]
   },
   {
@@ -42577,8 +42429,7 @@
     "merzougui25_interspeech",
     "peirolilja25_interspeech",
     "mcallister25b_interspeech",
-    "raju25_interspeech",
-    "blouir25_interspeech"
+    "raju25_interspeech"
    ]
   },
   {
@@ -42606,7 +42457,6 @@
   {
    "title": "Multimodality",
    "papers": [
-    "cheng25c_interspeech",
     "maran25_interspeech",
     "oneata25_interspeech",
     "park25e_interspeech",
