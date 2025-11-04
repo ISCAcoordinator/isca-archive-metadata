@@ -1,0 +1,610 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd" version="4.3.7">
+	<head>
+		<doi_batch_id>avsec_2025</doi_batch_id>
+		<timestamp>1762176189886439</timestamp>
+		<depositor>
+			<depositor_name>Martin Cooke</depositor_name>
+			<email_address>m.cooke@ikerbasque.org</email_address>
+		</depositor>
+		<registrant>International Speech Communication Association</registrant>
+	</head>
+	<body>
+		<conference>
+			<event_metadata>
+				<conference_name>4th Cogmhear Audio-Visual Speech Enhancement Challenge (AVSE)</conference_name>
+				<conference_acronym>avsec_2025</conference_acronym>
+				<conference_date>16 August 2025</conference_date>
+			</event_metadata>
+			<proceedings_metadata language="en">
+				<proceedings_title>4th Cogmhear Audio-Visual Speech Enhancement Challenge (AVSE)</proceedings_title>
+				<publisher>
+					<publisher_name>ISCA</publisher_name>
+					<publisher_place>ISCA</publisher_place>
+				</publisher>
+				<publication_date>
+					<year>2025</year>
+				</publication_date>
+				<noisbn reason='simple_series'/>
+				<doi_data>
+					<doi>10.21437/AVSEC.2025</doi>
+					<timestamp>1762176189886439</timestamp>
+					<resource>https://www.isca-archive.org/avsec_2025/</resource>
+				</doi_data>
+			</proceedings_metadata>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Akam</given_name>
+<surname>Rahimi</surname>
+</person_name>
+					</contributors>
+					<titles><title>Restoring Degraded Multi-Speaker Speech Through Separation and Enhancement</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>1</first_page>
+						<last_page>5</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-1</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/rahimi25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>João Renato</given_name>
+<surname>Manesco</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Leandro</given_name>
+<surname>Passos</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Rahma</given_name>
+<surname>Fourati</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>João Paulo</given_name>
+<surname>Papa</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Tackling Reverberation and Binaural Data on Audio-Visual Speech Enhancement through RecognAVSE</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>6</first_page>
+						<last_page>9</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-2</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/manesco25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Rahma</given_name>
+<surname>Fourati</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jihene</given_name>
+<surname>Tmamna</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>João R.</given_name>
+<surname>Manesco</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Leandro A.</given_name>
+<surname>Passos</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>João P.</given_name>
+<surname>Papa</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Efficient and Sustainable Audio-Visual Speech Enhancement through Latency-Aware Pruned Model</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>10</first_page>
+						<last_page>13</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-3</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/fourati25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Arif Reza</given_name>
+<surname>Anwary</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Adeel</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Khubaib</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Temporal-Aware Graph Neural Network with Conformer Model for Audiovisual Speech Enhancement</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>14</first_page>
+						<last_page>18</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-4</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/saleem25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Arif Reza</given_name>
+<surname>Anwary</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Adeel</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Khubaib</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Aysha</given_name>
+<surname>Munawwara</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>MSF-AVSE: Multi-Stream Fusion Network for Binaural Audiovisual Speech Enhancement</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>19</first_page>
+						<last_page>23</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-5</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/saleem25b_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Aysha</given_name>
+<surname>Munawwara</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Arif Reza</given_name>
+<surname>Anwary</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Visual Speech Enhancement With Calibrated Features and Dual-Path Transformer</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>24</first_page>
+						<last_page>28</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-6</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/saleem25c_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Michaela</given_name>
+<surname>Reay</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Qammar</given_name>
+<surname>Abbasi</surname>
+</person_name>
+					</contributors>
+					<titles><title>Multimodal Speech Sensing for Next Generation Hearing Aids</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>29</first_page>
+						<last_page>38</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-7</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/reay25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Dongkun</given_name>
+<surname>Xu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xianpo</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Usman</given_name>
+<surname>Anwar</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tughrul</given_name>
+<surname>Arslan</surname>
+</person_name>
+					</contributors>
+					<titles><title>ConformerAVSE: A Transformer-based Audio-Visual Speech Enhancement Model for Hearing Aids</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>39</first_page>
+						<last_page>41</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-8</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/xu25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Shafique</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Jen-Cheng</given_name>
+<surname>Hou</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Tsao</surname>
+</person_name>
+					</contributors>
+					<titles><title>AV-LocoFiLM: Audio-Visual Speech Enhancement Using FiLM-Based Fusion and Hybrid Local–Global Transformers</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>42</first_page>
+						<last_page>44</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-9</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/ahmed25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Xianpo</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Usman</given_name>
+<surname>Anwar</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Dongkun</given_name>
+<surname>Xu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tughrul</given_name>
+<surname>Arslan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>FPGA-Based LSTM Acceleration for Real-Time Speech Enhancement in Next Generation Hearing Aids</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>45</first_page>
+						<last_page>47</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-10</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/ni25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Aquib</given_name>
+<surname>Raza</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Pusuluri Sri Sai</given_name>
+<surname>Aditya</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Shafique</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yu</given_name>
+<surname>Tsao</surname>
+</person_name>
+					</contributors>
+					<titles><title>AV-TFLocoformer: A Locally Convolutional Transformer for Robust Audio-Visual Speech Enhancement</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>48</first_page>
+						<last_page>50</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-11</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/raza25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Arif Reza</given_name>
+<surname>Anwary</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Adaptive Gaze and Spatial Speaker Tracking: Enhancing Hearing Aid Performance in Dynamic Environments</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>51</first_page>
+						<last_page>55</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-12</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/anwary25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>M.</given_name>
+<surname>Sajid</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Deepanshu</given_name>
+<surname>Gupta</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Yash</given_name>
+<surname>Modi</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Sanskriti</given_name>
+<surname>Jain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Harshith Jai Surya</given_name>
+<surname>Ganji</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>A.</given_name>
+<surname>Rahaman</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Harshvardhan</given_name>
+<surname>Choudhary</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>M</given_name>
+<surname>Tanveer</surname>
+</person_name>
+					</contributors>
+					<titles><title>AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>56</first_page>
+						<last_page>61</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-13</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/sajid25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Khubaib</given_name>
+<surname>Ahmed</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ahsan</given_name>
+<surname>Adeel</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Nasir</given_name>
+<surname>Saleem</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Ahsan</given_name>
+<surname>Ulhaq</surname>
+</person_name>
+					</contributors>
+					<titles><title>Efficient Audio-Visual Speech Enhancement via Neural Architecture Search</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>62</first_page>
+						<last_page>66</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-14</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/ahmed25b_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Alireza</given_name>
+<surname>Nezamdoust</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Danilo</given_name>
+<surname>Comminiello</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name>
+					</contributors>
+					<titles><title>How LSTM is Integrated in the Functional Link Adaptive Filter</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>67</first_page>
+						<last_page>71</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-15</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/nezamdoust25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+				<conference_paper publication_type="full_text">
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+<given_name>Usman</given_name>
+<surname>Anwar</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Xianpo</given_name>
+<surname>Ni</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Dongkun</given_name>
+<surname>Xu</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Tughrul</given_name>
+<surname>Arslan</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Kia</given_name>
+<surname>Dashtipour</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Mandar</given_name>
+<surname>Gogate</surname>
+</person_name><person_name sequence="additional" contributor_role="author">
+<given_name>Amir</given_name>
+<surname>Hussain</surname>
+</person_name>
+					</contributors>
+					<titles><title>Edge-Optimized Cognition and Context-Aware Speech Enhancement for Multimodal Hearing Aids</title></titles>
+					<publication_date media_type='online'>
+						<month>8</month>
+						<day>16</day>
+						<year>2025</year>
+					</publication_date>
+					<pages>
+						<first_page>72</first_page>
+						<last_page>74</last_page>
+					</pages>
+					<doi_data>
+						<doi>10.21437/AVSEC.2025-16</doi>
+						<resource>https://www.isca-archive.org/avsec_2025/anwar25_avsec.html</resource>
+					</doi_data>
+				</conference_paper>
+		</conference>
+	</body>
+</doi_batch>

@@ -1,0 +1,819 @@
+{
+ "title": "4th Cogmhear Audio-Visual Speech Enhancement Challenge (AVSE)",
+ "location": "Rotterdam, Netherlands",
+ "startDate": "16/8/2025",
+ "endDate": "16/8/2025",
+ "URL": "https://challenge.cogmhear.org/#/",
+ "chair": "Chairs: Amir Hussain",
+ "series": "AVSEC",
+ "conf": "AVSEC",
+ "name": "avsec_2025",
+ "year": "2025",
+ "title1": "4th Cogmhear Audio-Visual Speech Enhancement Challenge",
+ "title2": "(AVSE)",
+ "booklet": "intro.pdf",
+ "date": "16 August 2025",
+ "month": 8,
+ "day": 16,
+ "now": 1762176189886439,
+ "papers": {
+  "derleth25_avsec": {
+   "authors": [
+    [
+     "Peter",
+     "Derleth"
+    ]
+   ],
+   "title": "The Role of AI in Modern Hearing Aids",
+   "original": "k1",
+   "order": 1,
+   "page_count": 0,
+   "abstract": [
+    "Artificial intelligence (AI) has become a key technology in the hearing aid industry, used in applications ranging from manufacturing to personalizing device settings. The most significant recent development has been the integration of AI directly into hearing aids to provide real-time speech enhancement, particularly in challenging, noisy environments. This presentation will offer a high-level overview of a selected modern AI/deep neural network application and discuss the general learnings and user benefits observed since these advanced devices have become available to the public.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "papa25_avsec": {
+   "authors": [
+    [
+     "João Paulo",
+     "Papa"
+    ]
+   ],
+   "title": "A Framework to Design Tailored Models based on the Optimum-Path Forest: Opportunities for Audio-Visual Speech Processing",
+   "original": "k2",
+   "order": 2,
+   "page_count": 0,
+   "abstract": [
+    "This talk addresses a graph-based framework for machine learning that comprises supervised, unsupervised, and semi-supervised scenarios known as Optimum-Path Forest (OPF). Notably, we will address a variant that finds prototypes (key samples) based on the minimum spanning tree computation in a training set, where the vertices encode feature embeddings and the adjacency relation considers a complete graph. A reward-competition process takes place to partition the graph and cluster the most strongly connected samples. We will conclude by outlining how this framework could be used to design and tailor classifiers to the challenges of Audio-Visual Speech Enhancement (AVSE), highlighting it as a promising opportunity for future research.\n"
+   ],
+   "p1": "",
+   "pn": ""
+  },
+  "rahimi25_avsec": {
+   "authors": [
+    [
+     "Akam",
+     "Rahimi"
+    ]
+   ],
+   "title": "Restoring Degraded Multi-Speaker Speech Through Separation and Enhancement",
+   "original": "1",
+   "order": 3,
+   "page_count": 5,
+   "abstract": [
+    "Restoring degraded speech from multi-speaker noisy audio is a\nchallenging task with valuable applications in preserving historical\narchives. This task involves isolating a target speaker’s\nvoice from overlapping speakers and noise, and transforming\ndistorted audio into intelligible, high-fidelity speech while preserving\nits unique attributes. We propose a two-stage architecture\nto tackle these challenges: (A) a speaker-aware separation\nnetwork that leverages embeddings from reference recordings\nto extract the target voice, producing an initially separated\nsignal; and (B) a generative network conditioned on the degraded\naudio, transcriptions, and speaker embeddings to synthesise\nclear and natural speech that preserves the original prosody,\npitch, and timing. Compared to prior approaches, our approach\ndemonstrates significantly higher performance, especially in the\ncase of severe degradations."
+   ],
+   "p1": 1,
+   "pn": 5,
+   "doi": "10.21437/AVSEC.2025-1",
+   "url": "avsec_2025/rahimi25_avsec.html"
+  },
+  "manesco25_avsec": {
+   "authors": [
+    [
+     "João Renato",
+     "Manesco"
+    ],
+    [
+     "Leandro",
+     "Passos"
+    ],
+    [
+     "Rahma",
+     "Fourati"
+    ],
+    [
+     "João Paulo",
+     "Papa"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Tackling Reverberation and Binaural Data on Audio-Visual Speech Enhancement through RecognAVSE",
+   "original": "2",
+   "order": 4,
+   "page_count": 4,
+   "abstract": [
+    "This paper introduces RecognAVSE, an audio-visual\nspeech enhancement (AVSE) method from the AVSEC-3 challenge,\nand RecognAVSE-V2, an improved version implementing\na Time-Synced Cross-Attention Mechanism. We evaluate\nthese models in the context of the 4th COGMHEAR\nAVSE Challenge, which introduces difficult conditions such as\nbinaural data, multiple interferers, and reverberation. While\nRecognAVSE-V2 achieves a 95% reduction in parameters and\na 10% decrease in GFlops compared to its predecessor, experiments\non the AVSEC-4 dataset reveal that both models struggle\nwith the new complexities. Our analysis indicates that while\nthe simplified architecture offers substantial efficiency gains, its\nrobustness is severely tested in a zero-shot setting against the reverberant\nand multi-speaker conditions of the challenging new\ndataset."
+   ],
+   "p1": 6,
+   "pn": 9,
+   "doi": "10.21437/AVSEC.2025-2",
+   "url": "avsec_2025/manesco25_avsec.html"
+  },
+  "fourati25_avsec": {
+   "authors": [
+    [
+     "Rahma",
+     "Fourati"
+    ],
+    [
+     "Jihene",
+     "Tmamna"
+    ],
+    [
+     "João R.",
+     "Manesco"
+    ],
+    [
+     "Leandro A.",
+     "Passos"
+    ],
+    [
+     "João P.",
+     "Papa"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Efficient and Sustainable Audio-Visual Speech Enhancement through Latency-Aware Pruned Model",
+   "original": "3",
+   "order": 5,
+   "page_count": 4,
+   "abstract": [
+    "This paper explores the sustainability and generalizability of\ncompressed audio-visual speech enhancement models in realworld\nlow-latency settings. Specifically, we evaluate a previously\npruned version of the AVSEC3 baseline model optimized\nvia multi-objective filter pruning for reduced latency and\ncomputational load on the AVSEC-4 evaluation dataset. Without\nany additional retraining or fine-tuning, the compressed\nmodel demonstrates generalization capabilities across reverberant\nmonaural speech mixtures containing up to three interferers\nand varying SNR levels. The results confirm that lightweight,\nlatency-efficient models can retain high speech enhancement\nperformance across diverse conditions, while significantly lowering\ncomputational costs. This work advocates for the reuse of\noptimized models as a sustainable alternative to training large\nmodels from scratch, reducing both energy consumption and\nthe need for extensive computational resources."
+   ],
+   "p1": 10,
+   "pn": 13,
+   "doi": "10.21437/AVSEC.2025-3",
+   "url": "avsec_2025/fourati25_avsec.html"
+  },
+  "saleem25_avsec": {
+   "authors": [
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Arif Reza",
+     "Anwary"
+    ],
+    [
+     "Adeel",
+     "Hussain"
+    ],
+    [
+     "Khubaib",
+     "Ahmed"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Temporal-Aware Graph Neural Network with Conformer Model for Audiovisual Speech Enhancement",
+   "original": "4",
+   "order": 6,
+   "page_count": 5,
+   "abstract": [
+    "Audiovisual speech enhancement (AVSE) utilises complementary\ncues from both auditory and visual modalities to enhance\nspeech quality and intelligibility in extremely noisy environments.\nThis paper proposes a hybrid architecture that integrates\nShuffleNet-based spatial encoding, a temporal graph neural network\n(GNN), and simple recurrent unit (SRU) modules for effective\nspeech enhancement. The model extracts compact spatial\nfeatures from synchronised audio spectrograms and video\nframes using a lightweight ShuffleNet encoder. The temporal\ndependencies across modalities are then modelled using a temporal\ngraph structure, where each time step forms a node connected\nto its temporal neighbours. The spatiotemporal GNN\ncaptures dynamic contextual information over time. The fused\naudiovisual representations are further refined by lightweight\nSRU layers, which improve long-range dependencies while\nmaintaining low latency. Experiments on benchmark audiovisual\nchallenge datasets demonstrate that our model achieves\nsuperior performance in speech quality and noise suppression\nwhile maintaining computational efficiency suitable for realtime\nand edge deployment."
+   ],
+   "p1": 14,
+   "pn": 18,
+   "doi": "10.21437/AVSEC.2025-4",
+   "url": "avsec_2025/saleem25_avsec.html"
+  },
+  "saleem25b_avsec": {
+   "authors": [
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Arif Reza",
+     "Anwary"
+    ],
+    [
+     "Adeel",
+     "Hussain"
+    ],
+    [
+     "Khubaib",
+     "Ahmed"
+    ],
+    [
+     "Aysha",
+     "Munawwara"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "MSF-AVSE: Multi-Stream Fusion Network for Binaural Audiovisual Speech Enhancement",
+   "original": "7",
+   "order": 7,
+   "page_count": 5,
+   "abstract": [
+    "The proposed MSF-AVSE (Multi-Stream Fusion Audio-Visual\nSpeech Enhancement) model is a novel architecture designed to\nleverage both spatial audio cues from a two-microphone setup\nand visual information from lip movements to enhance speech\nin noisy environments. The model is composed of four core\nmodules: a spatial audio encoder, a visual encoder, a crossmodal\nfusion block, and a mask estimator and decoder. The\nSpatial Audio Encoder extracts magnitude- and phase-related\nspatial features, including Interchannel Phase Difference (IPD),\nfrom the stereo audio input and processes them through convolutional\nlayers to form a compact audio representation. The\nvisual encoder captures dynamic lip movement patterns using\na 3D convolutional neural network followed by a temporal aggregation\nvia Bi-directional LSTM, aligning visual information\ntemporally with audio. These two modalities are then integrated\nin the Cross-Modal Fusion Block using a self-attention-based\nfusion mechanism that enables adaptive weighting of features\nfrom both domains. Finally, the fused representation is passed\nto a mask estimator that predicts a complex ratio mask, which\nis applied to the noisy spectrogram to reconstruct the enhanced\nspeech using an inverse short-time Fourier transform (iSTFT)."
+   ],
+   "p1": 19,
+   "pn": 23,
+   "doi": "10.21437/AVSEC.2025-5",
+   "url": "avsec_2025/saleem25b_avsec.html"
+  },
+  "saleem25c_avsec": {
+   "authors": [
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Aysha",
+     "Munawwara"
+    ],
+    [
+     "Arif Reza",
+     "Anwary"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Visual Speech Enhancement With Calibrated Features and Dual-Path Transformer",
+   "original": "8",
+   "order": 8,
+   "page_count": 5,
+   "abstract": [
+    "This paper introduces an audio-visual speech enhancement\n(AVSE) framework utilizing a dual-path transformer architecture\nwith feature calibration. By integrating auditory and visual\ncues, the system improves speech quality and intelligibility\nunder noisy conditions. The approach fuses audio and visual\nrepresentations and processes them through a dual-path transformer\nthat models temporal and frequency dependencies for\naudio and spatio-temporal structures for video. A dedicated\nspeech activity detection module aids in isolating speech from\nnoise. Evaluations on the GRID dataset demonstrate superior\nperformance compared to existing AVSE methods, achieving\nPESQ=2.31 and STOI=75.5%."
+   ],
+   "p1": 24,
+   "pn": 28,
+   "doi": "10.21437/AVSEC.2025-6",
+   "url": "avsec_2025/saleem25c_avsec.html"
+  },
+  "reay25_avsec": {
+   "authors": [
+    [
+     "Michaela",
+     "Reay"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ],
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ],
+    [
+     "Qammar",
+     "Abbasi"
+    ]
+   ],
+   "title": "Multimodal Speech Sensing for Next Generation Hearing Aids",
+   "original": "9",
+   "order": 9,
+   "page_count": 10,
+   "abstract": [
+    "Profound hearing loss affects around 430 million\npeople globally, projected to rise to 700 million by 2050. Defined\nas a loss of 35dB or more, the condition can impact quality of\nlife and social inclusion for sufferers. Treatments include hearing\naids and cochlear implants. Hearing aids amplify sound but often\ngive low audio quality listening experience leading many users to\ndiscontinue usage, while cochlear implants offer better but are\nexpensive and invasive. This paper explores multimodal sensing\ninput technology for next generation hearing aids as a proof of\nconcept using microphone, video camera, and RF sensors. Speech\nsamples of a 20 bespoke sentence corpus from three speakers\nwere collected in a laboratory and processed for classification\nusing a Deep Neural Network ResNet18-LSTM model trained\non the samples which then achieved a test classification accuracy\nof 88.05%. This work shows the potential of multimodal speech\nsensing integration to improve performance over current generation\nmicrophone only hearing aids to give user satisfaction that\nencourages adoption and continued use."
+   ],
+   "p1": 29,
+   "pn": 38,
+   "doi": "10.21437/AVSEC.2025-7",
+   "url": "avsec_2025/reay25_avsec.html"
+  },
+  "xu25_avsec": {
+   "authors": [
+    [
+     "Dongkun",
+     "Xu"
+    ],
+    [
+     "Xianpo",
+     "Ni"
+    ],
+    [
+     "Usman",
+     "Anwar"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ],
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ],
+    [
+     "Tughrul",
+     "Arslan"
+    ]
+   ],
+   "title": "ConformerAVSE: A Transformer-based Audio-Visual Speech Enhancement Model for Hearing Aids",
+   "original": "10",
+   "order": 10,
+   "page_count": 3,
+   "abstract": [
+    "This study proposes ConformerAVSE, a novel audiovisual\nspeech enhancement (AVSE) model designed to improve\nspeech intelligibility for hearing aid users in acoustically challenging\nenvironments. The model leverages a Conformer-based\narchitecture with cross-attention to effectively fuse visual cues\nfrom lip movements and facial landmarks with the audio stream.\nEvaluated on a challenging dataset derived from LRS3, our\nmethod achieves a competitive Short-Time Objective Intelligibility\n(STOI) score of 0.77 and the Perceptual Evaluation of\nSpeech Quality (PESQ) score of 1.65, validating its potential for\nnext-generation hearing assistance technologies."
+   ],
+   "p1": 39,
+   "pn": 41,
+   "doi": "10.21437/AVSEC.2025-8",
+   "url": "avsec_2025/xu25_avsec.html"
+  },
+  "ahmed25_avsec": {
+   "authors": [
+    [
+     "Shafique",
+     "Ahmed"
+    ],
+    [
+     "Jen-Cheng",
+     "Hou"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ]
+   ],
+   "title": "AV-LocoFiLM: Audio-Visual Speech Enhancement Using FiLM-Based Fusion and Hybrid Local–Global Transformers",
+   "original": "11",
+   "order": 11,
+   "page_count": 3,
+   "abstract": [
+    "enhance the performance of speech enhancement in noisy environments,\neffectively improving the intelligibility of the enhanced\nspeech. In this paper, we introduce AV-LocoFiLM,\na novel audio-visual speech enhancement (AVSE) framework\nthat employs early Feature-wise Linear Modulation (FiLM) to\ncondition audio spectrogram features on visual lip movements\nprior to attention-based processing. The fused representations\nare processed by a series of macaron-style intra–inter transformer\nblocks that alternate between local convolutional operations\nand global self-attention mechanisms along the frequency\nand time axes. This design is optimized for stable training in\nhalf-precision (FP16) via RMS-based normalization. The network\nproduces separate complex, magnitude, and phase masks\nto reconstruct enhanced speech. Experimental evaluation on the\n4th COG-MHEAR AVSE Challenge dataset demonstrates that\nAV-LocoFiLM achieves notable improvements, reaching 10.9\ndB SI-SDR, 2.20 PESQ, and 0.84 STOI, confirming the effectiveness\nof early FiLM conditioning and hybrid transformer\nmodeling for robust AVSE."
+   ],
+   "p1": 42,
+   "pn": 44,
+   "doi": "10.21437/AVSEC.2025-9",
+   "url": "avsec_2025/ahmed25_avsec.html"
+  },
+  "ni25_avsec": {
+   "authors": [
+    [
+     "Xianpo",
+     "Ni"
+    ],
+    [
+     "Usman",
+     "Anwar"
+    ],
+    [
+     "Dongkun",
+     "Xu"
+    ],
+    [
+     "Tughrul",
+     "Arslan"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "FPGA-Based LSTM Acceleration for Real-Time Speech Enhancement in Next Generation Hearing Aids",
+   "original": "12",
+   "order": 12,
+   "page_count": 3,
+   "abstract": [
+    "This research explores the integration of Field Programmable\nGate Array (FPGA)-based speech enhancement algorithms\nto improve speech comprehension capabilities for users\nwith hearing loss in noisy environments. Performance evaluation\nthrough experiments on the AMD RFSOC42 FPGA assesses\nthe algorithm effectiveness in terms of speech output quality,\nlatency, and power consumption. Quantitative analysis examines\nthe relationship between hardware implementation and speech\nenhancement performance. In complex acoustic environments,\nenvironmental interference reduces speech clarity, increasing\ncomprehension difficulties for users with hearing impairments\nand thus affecting communication quality. The proposed encoderdecoder\narchitecture with skip connections effectively suppresses\nenvironmental noise and models optimal speech processing\nparameters. By utilizing the RFSOC42 FPGA as a hearing\naid emulator and edge accelerator, the system dynamically\noptimizes power consumption and latency to enhance speech\nclarity and fidelity, providing a promising solution for improving\ncommunication and quality of life for individuals with hearing\nimpairments. The proposed implementation demonstrates a Real-\nTime Factor (RTF) of 1.875, representing a 46.4% improvement\nover SOC CPU and 37.5% better than Raspberry Pi."
+   ],
+   "p1": 45,
+   "pn": 47,
+   "doi": "10.21437/AVSEC.2025-10",
+   "url": "avsec_2025/ni25_avsec.html"
+  },
+  "raza25_avsec": {
+   "authors": [
+    [
+     "Aquib",
+     "Raza"
+    ],
+    [
+     "Pusuluri Sri Sai",
+     "Aditya"
+    ],
+    [
+     "Shafique",
+     "Ahmed"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ]
+   ],
+   "title": "AV-TFLocoformer: A Locally Convolutional Transformer for Robust Audio-Visual Speech Enhancement",
+   "original": "13",
+   "order": 13,
+   "page_count": 3,
+   "abstract": [
+    "This research introduces AV-TFLocoformer, a locally convolutional\nTransformer model that combines audio and visual information\nfor speech enhancement applications. Our approach\nprocesses audio and visual streams, transforming them into a\nshared format that enables the system to effectively merge both\nmodalities. The core architectural framework integrates TFLocoformer\nblocks, which combine depth-wise dilated convolutions\nand multi-head self-attention mechanisms with rotary position\nembeddings. This integrated approach allows the model\nto capture both temporal and spectral patterns in speech signals.\nThe architecture then applies a masking mechanism and\nreconstruction pipeline to produce enhanced speech results. AVTFLocoformer,\ncharacterized by its compact design with approximately\n1.5 million parameters, demonstrates remarkable\ncomputational efficiency."
+   ],
+   "p1": 48,
+   "pn": 50,
+   "doi": "10.21437/AVSEC.2025-11",
+   "url": "avsec_2025/raza25_avsec.html"
+  },
+  "anwary25_avsec": {
+   "authors": [
+    [
+     "Arif Reza",
+     "Anwary"
+    ],
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Adaptive Gaze and Spatial Speaker Tracking: Enhancing Hearing Aid Performance in Dynamic Environments",
+   "original": "14",
+   "order": 14,
+   "page_count": 5,
+   "abstract": [
+    "Hearing aid users often struggle with distinguishing speech from background noise, particularly in dynamic multi-speaker environments. To address this challenge, we propose the Dynamic Gaze and Speaker Tracking (DGST) algorithm, designed to enhance speaker detection and tracking using adaptive gaze-based and spatial tracking techniques. The primary objective is to improve hearing aid performance by accurately estimating the listener&#x27;s focus on a target speaker through the integration of eye gaze and head pose data. The DGST algorithm calculates the iris angle relative to the nose and combines it with head orientation to determine the focus direction. Data was collected during controlled group discussions involving static and dynamic scenarios, with up to five participants. Experimental validation of the DGST algorithm showed high accuracy in focus angle estimation, with results ranging from 99.55% to 99.88% across varying speaker positions. Real-time testing demonstrated significant improvements in speaker tracking and reduced cognitive load for users by minimizing interference from non-target speakers. These findings suggest that the DGST algorithm has the potential to advance hearing aid technology by offering a more natural and adaptive listening experience. Future research will explore its application in more complex and unpredictable acoustic environments."
+   ],
+   "p1": 51,
+   "pn": 55,
+   "doi": "10.21437/AVSEC.2025-12",
+   "url": "avsec_2025/anwary25_avsec.html"
+  },
+  "sajid25_avsec": {
+   "authors": [
+    [
+     "M.",
+     "Sajid"
+    ],
+    [
+     "Deepanshu",
+     "Gupta"
+    ],
+    [
+     "Yash",
+     "Modi"
+    ],
+    [
+     "Sanskriti",
+     "Jain"
+    ],
+    [
+     "Harshith Jai Surya",
+     "Ganji"
+    ],
+    [
+     "A.",
+     "Rahaman"
+    ],
+    [
+     "Harshvardhan",
+     "Choudhary"
+    ],
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ],
+    [
+     "M",
+     "Tanveer"
+    ]
+   ],
+   "title": "AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement",
+   "original": "15",
+   "order": 15,
+   "page_count": 6,
+   "abstract": [
+    "In this paper, we propose AUREXA-SE (Audio-Visual Unified\nRepresentation Exchange Architecture with Cross-Attention\nand Squeezeformer for Speech Enhancement), a progressive\nbimodal framework tailored for audio-visual speech enhancement\n(AVSE). AUREXA-SE jointly leverages raw audio waveforms\nand visual cues by employing a U-Net–based 1D convolutional\nencoder for audio and a Swin Transformer V2 for\nefficient and expressive visual feature extraction. Central to\nthe architecture is a novel bidirectional cross-attention mechanism,\nwhich facilitates deep contextual fusion between modalities,\nenabling rich and complementary representation learning.\nTo capture temporal dependencies within the fused embeddings,\na stack of lightweight Squeezeformer blocks combining\nconvolutional and attention modules is introduced. The\nenhanced embeddings are then decoded via a U-Net–style decoder\nfor direct waveform reconstruction, ensuring perceptually\nconsistent and intelligible speech output. Experimental evaluations\ndemonstrate the effectiveness of AUREXA-SE, achieving\nsignificant performance improvements over noisy baselines,\nwith STOI of 0.516, PESQ of 1.323, and SI-SDR of\n-4.322 dB. The source code of AUREXA-SE is available at\nhttps://github.com/mtanveer1/AVSEC-4-Challenge-2025."
+   ],
+   "p1": 56,
+   "pn": 61,
+   "doi": "10.21437/AVSEC.2025-13",
+   "url": "avsec_2025/sajid25_avsec.html"
+  },
+  "ahmed25b_avsec": {
+   "authors": [
+    [
+     "Khubaib",
+     "Ahmed"
+    ],
+    [
+     "Ahsan",
+     "Adeel"
+    ],
+    [
+     "Nasir",
+     "Saleem"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ],
+    [
+     "Ahsan",
+     "Ulhaq"
+    ]
+   ],
+   "title": "Efficient Audio-Visual Speech Enhancement via Neural Architecture Search",
+   "original": "17",
+   "order": 16,
+   "page_count": 5,
+   "abstract": [
+    "Audio-visual speech enhancement (AVSE) has become a cornerstone\ntechnology for reliable human-computer interaction in\ncrowded caf´es, moving vehicles, and other acoustically hostile\nsettings, yet leading AVSE models still exceed 22 million\nparameters, far too heavy for real-time use on phones,\nwearables, and other edge hardware. To bridge this gap, we\nintroduce a reinforcement-learning-driven neural architecture\nsearch (NAS) framework that automatically discovers compact,\nhigh-quality AVSE networks. The search is conducted\ninside a carefully constrained design space that respects temporal\nalignment between audio and visual streams while curbing\nparameter growth; a novel reward function jointly maximises\nspeech-quality gains (measured by SI-SNR improvement)\nand penalises excess model size. Leveraging proximalpolicy\noptimisation with action masking, the agent evaluates\nonly 35 candidate architectures before converging on a\n2.9 million-parameter model that boosts SI-SNR by 14.5 dB,\njust 0.7 dB shy of the 22 M-parameter baseline but with a ninefold\ncompression ratio. On a commercial mobile CPU, the resulting\nnetwork slashes the real-time factor by 4.3×, validating\nits suitability for on-device deployment. Compared with\nuninformed random search, the proposed NAS achieves 92%\nhigher search efficiency and reveals architectural trends, such\nas shallower, wider temporal-convolutional blocks and aggressive\nvisual-pathway pruning, that can guide future multi-modal\nspeech-enhancement research. These results demonstrate that\nhardware-aware NAS, steered by reinforcement learning, can\ndeliver lightweight AVSE models without compromising perceptual\nspeech quality, paving the way for ubiquitous, noiserobust\nvoice interfaces."
+   ],
+   "p1": 62,
+   "pn": 66,
+   "doi": "10.21437/AVSEC.2025-14",
+   "url": "avsec_2025/ahmed25b_avsec.html"
+  },
+  "nezamdoust25_avsec": {
+   "authors": [
+    [
+     "Alireza",
+     "Nezamdoust"
+    ],
+    [
+     "Danilo",
+     "Comminiello"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ]
+   ],
+   "title": "How LSTM is Integrated in the Functional Link Adaptive Filter",
+   "original": "18",
+   "order": 17,
+   "page_count": 5,
+   "abstract": [
+    "The SFLAF with LSTM model is a hybrid nonlinear acoustic\necho cancellation (NAEC) system designed to remove echo\nfrom a microphone signal d [n] using the far-end signal x [n].\nIt combines the Split Functional Link Adaptive Filter (SFLAF),\nwhich handles both linear and nonlinear echo components, with\na Long Short-Term Memory (LSTM) network, which refines\nthe residual error as a cascaded post-processing stage. Below, I\nwill describe the architecture, its cascaded nature, and the mathematical\nformulation."
+   ],
+   "p1": 67,
+   "pn": 71,
+   "doi": "10.21437/AVSEC.2025-15",
+   "url": "avsec_2025/nezamdoust25_avsec.html"
+  },
+  "anwar25_avsec": {
+   "authors": [
+    [
+     "Usman",
+     "Anwar"
+    ],
+    [
+     "Xianpo",
+     "Ni"
+    ],
+    [
+     "Dongkun",
+     "Xu"
+    ],
+    [
+     "Tughrul",
+     "Arslan"
+    ],
+    [
+     "Kia",
+     "Dashtipour"
+    ],
+    [
+     "Mandar",
+     "Gogate"
+    ],
+    [
+     "Amir",
+     "Hussain"
+    ]
+   ],
+   "title": "Edge-Optimized Cognition and Context-Aware Speech Enhancement for Multimodal Hearing Aids",
+   "original": "19",
+   "order": 18,
+   "page_count": 3,
+   "abstract": [
+    "Traditional hearing aids amplify sound but often\nneglect critical factors for effective speech comprehension,\nsuch as listening effort and dynamic environmental context.\nThis research presents an innovative, edge-optimized,\ncontext and cognition-aware speech enhancement\nframework for next-generation multimodal hearing aids.\nThe proposed framework employs adaptive model selection\nthrough a neuro-fuzzy inference engine and dynamically\nresponds to variations in visual quality and listening effort.\nTo ensure low latency and energy-efficient performance on\nedge devices, the framework integrates lightweight,\nmodular audio and audio-visual speech enhancement\n(AVSE) models. Comprehensive evaluation using objective\n(STOI, PESQ, HASPI) metrics, along with latency and\npower consumption analysis, demonstrates the effectiveness\nof the proposed approach. The proposed framework\ndemonstrates substantial improvements in speech\nintelligibility, perceived quality, and device efficiency\ncompared to conventional hearing aids."
+   ],
+   "p1": 72,
+   "pn": 74,
+   "doi": "10.21437/AVSEC.2025-16",
+   "url": "avsec_2025/anwar25_avsec.html"
+  },
+  "chen25_avsec": {
+   "authors": [
+    [
+     "Chih Ning",
+     "Chen"
+    ],
+    [
+     "Jen-Cheng",
+     "Hou"
+    ],
+    [
+     "Jun-Cheng",
+     "Chen"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ],
+    [
+     "Shao-Yi",
+     "Chien"
+    ]
+   ],
+   "title": "A Mamba-Based Audio-Visual Speech Enhancement Model for the 4th COG-MHEARAVSEChallenge",
+   "original": "20",
+   "order": 19,
+   "page_count": 2,
+   "abstract": [
+    "Mamba has shown strong performance in both speech enhancement\nand speech separation. In this work, we propose AVSPMamba\nfor the 4th COG-MHEAR AVSE Challenge. AVSPMamba\nis an extended version of SPMamba that incorporates\nadditional visual features extracted from ResNet and MobileNetV2.\nThese visual features are processed through a series\nof operations, including Temporal Attention and Positional\nEncoding, then concatenated with audio features and fed into\nthe SPMamba model. Experimental results show that AVSPMamba\nachieves a 27.9% improvement in MBSTOI compared\nwith the challenge baseline, demonstrating the effectiveness\nof the proposed multimodal speech enhancement design."
+   ],
+   "p1": 75,
+   "pn": 76
+  },
+  "chao25_avsec": {
+   "authors": [
+    [
+     "Rong",
+     "Chao"
+    ],
+    [
+     "Wenze",
+     "Ren"
+    ],
+    [
+     "You-Jin",
+     "Li"
+    ],
+    [
+     "Kuo-Hsuan",
+     "Hung"
+    ],
+    [
+     "Sung-Feng",
+     "Huang"
+    ],
+    [
+     "Sze-Wei",
+     "Fu"
+    ],
+    [
+     "Wen-Huang",
+     "Cheng"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ]
+   ],
+   "title": "Leveraging Mamba with Full-Face Vision for Audio-Visual Speech Enhancement",
+   "original": "21",
+   "order": 20,
+   "page_count": 2,
+   "abstract": [
+    "Recent Mamba-based models have shown promise in speech enhancement\nby efficiently modeling long-range temporal dependencies.\nHowever, models like Speech Enhancement Mamba\n(SEMamba) remain limited to single-speaker scenarios and\nstruggle in complex multi-speaker environments such as the\ncocktail party problem. To overcome this, we introduce AVSEMamba,\nan audio-visual speech enhancement model that integrates\nfull-face visual cues with a Mamba-based temporal backbone.\nBy leveraging spatiotemporal visual information, AVSEMamba\nenables more accurate extraction of target speech in\nchallenging conditions. Evaluated on the AVSEC-4 Challenge\ndevelopment and blind test sets, AVSEMamba outperforms\nother monaural baselines in speech intelligibility (STOI), perceptual\nquality (PESQ), and non-intrusive quality (UTMOS),\nand achieves 1st place on the monaural leaderboard"
+   ],
+   "p1": 77,
+   "pn": 78
+  },
+  "ren25_avsec": {
+   "authors": [
+    [
+     "Wenze",
+     "Ren"
+    ],
+    [
+     "Kai",
+     "Li"
+    ],
+    [
+     "Rong",
+     "Chao"
+    ],
+    [
+     "Junjie",
+     "Li"
+    ],
+    [
+     "Zilong",
+     "Huang"
+    ],
+    [
+     "Shafique",
+     "Ahmed"
+    ],
+    [
+     "You-Jin",
+     "Li"
+    ],
+    [
+     "Kuo-Hsuan",
+     "Hung"
+    ],
+    [
+     "Syu-Siang",
+     "Wang"
+    ],
+    [
+     "Hsin-Min",
+     "Wang"
+    ],
+    [
+     "Yu",
+     "Tsao"
+    ]
+   ],
+   "title": "BAV-MossFormer2: Enhanced MossFormer2 for Binaural Audio-Visual Speech Enhancement",
+   "original": "22",
+   "order": 21,
+   "page_count": 2,
+   "abstract": [
+    "This paper presents a novel audio-visual speech enhancement\narchitecture for binaural audio channels, the BAVMossFormer2.\nThe framework is based on an enhanced audio\nencoder with cross-attention mechanisms, enabling complex\nleft-right channel interaction and fusion. It also adopts\nadaptive dynamic modules to utilise multi-scale modal features\nand learnable attention weights, thereby optimising the fusion\nof audio-visual representations. Finally, the advanced Moss-\nFormer2 architecture is employed to achieve effective speech\nenhancement. On the COG-MHEAR Audio-Visual Speech Enhancement\nChallenge 4, our proposed BAV-MossFormer2 architecture\nnot only outperforms baseline methods but also significantly\nimproves speech quality and intelligibility metrics\nunder various noise conditions. These results underscore the\nsignificance of our proposed binaural interaction strategy and\nadaptive fusion method in achieving robust binaural audiovisual\nspeech enhancement."
+   ],
+   "p1": 79,
+   "pn": 80
+  }
+ },
+ "sessions": [
+  {
+   "title": "4th COG-MHEAR International Audio-Visual Speech Enhancement Challenge (AVSEC-4)",
+   "papers": [
+    "derleth25_avsec",
+    "papa25_avsec",
+    "rahimi25_avsec",
+    "manesco25_avsec",
+    "fourati25_avsec",
+    "saleem25_avsec",
+    "saleem25b_avsec",
+    "saleem25c_avsec",
+    "reay25_avsec",
+    "xu25_avsec",
+    "ahmed25_avsec",
+    "ni25_avsec",
+    "raza25_avsec",
+    "anwary25_avsec",
+    "sajid25_avsec",
+    "ahmed25b_avsec",
+    "nezamdoust25_avsec",
+    "anwar25_avsec",
+    "chen25_avsec",
+    "chao25_avsec",
+    "ren25_avsec"
+   ]
+  }
+ ],
+ "doi": "10.21437/AVSEC.2025"
+}
